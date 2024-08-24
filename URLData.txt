@@ -1,1463 +1,327 @@
-
-Skip to main content
-
-: #main-content
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-: /
-
-Log In
-
-: https://www.reddit.com/login/
-
-
-
-
-
-
-
-
-Log In / Sign Up
-
-
-
-
-
-
-: https://www.reddit.com/login/
-
-
-
-
-
-
-
-
-Advertise on Reddit
-
-
-
-
-
-
-: https://accounts.reddit.com/adsregister?utm_source=web3x_consumer&utm_name=user_menu_cta
-
-
-
-
-
-
-
-
-Shop Collectible Avatars
-
-
-
-
-
-
-: /avatar/shop
-
-
-: https://play.google.com/store/apps/details?id=com.reddit.frontpage
-
-
-: https://apps.apple.com/US/app/id1064216828
-
-
-
-
-r/BehindTheTables
-
-: /r/BehindTheTables
-
-Wiki
-
-: /r/BehindTheTables/wiki/index/
-
-
-
-View page history
-
-
-
-
-
-
-: https://www.reddit.com/r/BehindTheTables/wiki/revisions/index/
-
-
-
-View page source
-
-
-
-
-
-
-: https://www.reddit.com/r/BehindTheTables/wiki/index/?show_source
-Table of Tables: #wiki_table_of_tables
-link: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-/u/OrkishBlade: /u/OrkishBlade
-/r/DMAcademy: /r/DMAcademy
-/r/DnDBehindTheScreen: /r/DnDBehindTheScreen
-Basic dungeon: https://redd.it/4iq4of
-Dungeon dressing: https://redd.it/46ai2g
-Dungeon encounters: https://redd.it/43uzib
-Text-based dungeon generator: https://www.reddit.com/r/BehindTheTables/comments/66l9mp/textbased_dungeon_generator/
-Castle: https://redd.it/43ek9v
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Caverns: https://redd.it/3unfbm
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Dragon lairs: https://www.reddit.com/r/BehindTheTables/comments/aj2ong/dragon_lairs/
-Dungeon, castle: https://redd.it/43t6g9
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Elemental air dungeon: https://redd.it/5xnofs
-Elemental earth dungeon: https://redd.it/5y0ucp
-Elemental fire dungeon: https://redd.it/5xcmqe
-Elemental water dungeon: https://redd.it/5wzioq
-Feydark caverns: https://www.reddit.com/r/BehindTheTables/comments/61ls8l/feydark_caverns/
-Feywild dungeon: https://www.reddit.com/r/BehindTheTables/comments/614gba/feywild_dungeons/
-Icy dungeon: https://www.reddit.com/r/BehindTheTables/comments/adi1ik/icy_dungeons/
-Infernal dungeon: https://www.reddit.com/r/BehindTheTables/comments/5zz7gt/infernal_dungeons/
-Mage's Tower: https://redd.it/4y5pl2
-Mine: https://redd.it/43ufyr
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Monastery: https://redd.it/40pjmd
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Prison: https://redd.it/43k8fr
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Sewers: https://www.reddit.com/r/BehindTheTables/comments/6zsm8t/sewers/
-Shadowfell dungeons: https://www.reddit.com/r/BehindTheTables/comments/6jqzvs/shadowfell_dungeon/
-Temple: https://redd.it/3xpb4r
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Tomb: https://redd.it/427hd8
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Volcanic dungeons: https://www.reddit.com/r/BehindTheTables/comments/afvwv3/volcanic_dungeons/
-Acting troupes: https://www.reddit.com/r/BehindTheTables/comments/61adtf/acting_troupes/
-Assassins' guilds: https://redd.it/3t0zag
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Crafting guilds: https://redd.it/43xb2a
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Cults: https://redd.it/3xyiqs
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Druid circles: https://www.reddit.com/r/BehindTheTables/comments/60ylc6/druid_circles/
-Goblin gangs: https://redd.it/3snvqq
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Mercenary troops: https://redd.it/3tkdty
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Merchant guilds: https://redd.it/43xb06
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Military companies: https://redd.it/3tjg9d
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Noble houses: https://redd.it/3sj8mc
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Orkish clans: https://redd.it/3vspx8
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Outlaws bands: https://redd.it/3t2qzc
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Pirate crews: https://redd.it/3t5sik
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Savage hordes: https://redd.it/3tjdae
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Secret societies: https://redd.it/3xyilr
-Urban gangs: https://redd.it/3t5q2e
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Watchmen: https://redd.it/3tkge0
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-City café: https://redd.it/4dpl3q
-Traveler's inn: https://redd.it/4dplpx
-Among desert nomads: https://redd.it/4eaph4
-Among easterlings: https://redd.it/4eaqj0
-Among islanders: https://redd.it/4earls
-Among jungle dwellers: https://redd.it/4elfsw
-Among swampfolk: https://redd.it/4elhkc
-Around the campfire: https://redd.it/4dpnzh
-Country inn: https://redd.it/4dv7i9
-Dockside tavern: https://redd.it/4dv87r
-Dwarvish alehouse: https://redd.it/4dmepa
-Elvish dwelling: https://redd.it/4dmfoj
-Goblin hideout: https://redd.it/4ev8l1
-Hunters' lodge: https://redd.it/4dx2z9
-Mages' academy dining hall: https://redd.it/4e71lc
-Mining town pub: https://redd.it/4dx43x
-Orkish camp: https://redd.it/4elirv
-Seaside café: https://redd.it/4e70eq
-Undead feasthall: https://redd.it/4ev9sw
-Witch's hovel: https://redd.it/4evdqx
-Exotic fruits and vegetables: https://redd.it/4uuw89
-Fish, daily catch: https://redd.it/3su3be
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Street food: https://redd.it/4dglp9
-Trail rations: https://www.reddit.com/r/BehindTheTables/comments/ahba3r/trail_rations/
-Wines: https://redd.it/4cx75p
-Alchemical mishaps: https://redd.it/43xeol
-Altars, holy: https://redd.it/4tl384
-Altars, unholy: https://redd.it/4tl3c6
-Bag of holding and Heward's handy haversack: https://redd.it/567owq
-Dark magic items: https://reddit.com/r/BehindTheTables/comments/vocow3/dark_magic_items/
-Diseases: https://redd.it/4nldep
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Divination: https://redd.it/43c3c6
-Herb lore: https://redd.it/45x72u
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Legendary weapons: https://redd.it/41vhpr
-Magic wands: https://redd.it/41vjmj
-Necromantic effects: https://www.reddit.com/r/BehindTheTables/comments/74qphu/necromantic_effects/
-Pantheons: https://redd.it/3shczv
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Poisoncraft: https://redd.it/4780bg
-Potions: https://redd.it/4c5iu4
-Quick alchemy, herbalism, and poisons: https://www.reddit.com/r/BehindTheTables/comments/aglous/quick_alchemy_herbalism_and_poisons/
-Religious relics: https://reddit.com/r/BehindTheTables/comments/a6tof8/religious_relics_by_name/
-Rings: https://www.reddit.com/r/BehindTheTables/comments/6ujpnr/rings/
-Scroll scribing mishaps: https://redd.it/43xeol
-Spell effects: https://www.reddit.com/r/BehindTheTables/comments/6oe2ej/spell_effects/
-Warlock contracts: https://www.reddit.com/r/BehindTheTables/comments/6gx1c8/warlock_contract_generator_choose_your_patron/
-Beasts: https://www.reddit.com/r/BehindTheTables/comments/6bf535/reskinning_monster_generator_beasts/
-Humanoids: https://www.reddit.com/r/BehindTheTables/comments/6525ht/reskinning_monster_generator_humanoids/
-Monstrosities: https://www.reddit.com/r/BehindTheTables/comments/6eklxm/reskinning_monster_generator_monstrosities/
-Bats: https://redd.it/4spk6l
-Bears: https://www.reddit.com/r/BehindTheTables/comments/70b9d7/bears/
-Cats: https://redd.it/4t1k01
-Horses: https://redd.it/4tguyo
-Monkeys: https://redd.it/4j1ayz
-Rats: https://redd.it/4splu3
-Snakes: https://www.reddit.com/r/BehindTheTables/comments/aew1qo/snakes/
-Spiders: https://redd.it/487awj
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Wolves: https://redd.it/4aepj5
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Aberrant beasts: https://redd.it/4mnmre
-Celestial beasts: https://redd.it/4mnnq4
-Demonic beasts: https://redd.it/4mu1t3
-Fey beasts: https://redd.it/4n02oc
-Fire beasts: https://redd.it/4nbz5o
-Infernal beasts: https://redd.it/4n03im
-Legendary beasts: https://redd.it/4nbz9h
-Sea beasts: https://redd.it/4nbzeq
-Shadow beasts: https://redd.it/4nayky
-Storm beasts: https://redd.it/4nbzhp
-Undead beasts: https://redd.it/4nbzmi
-Winter beasts: https://redd.it/4nbzt3
-Cultists: https://redd.it/40wc26
-snake cultists: https://redd.it/3uzwi0
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Dragons: https://www.reddit.com/r/BehindTheTables/comments/62p9tw/dragons/?utm_source=reddit&utm_medium=usertext&utm_name=BehindTheTables&utm_content=t3_aj2ong
-variant: https://redd.it/4b9wlm
-Faeriefolk: https://redd.it/3vlzrw
-Fiends: https://redd.it/4boiw9
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Giants, fire: https://www.reddit.com/r/BehindTheTables/comments/5z21hm/fire_giants/
-Giants, frost: https://www.reddit.com/r/BehindTheTables/comments/5yobkq/frost_giants/
-Giants, stone: https://www.reddit.com/r/BehindTheTables/comments/629osp/stone_giants/
-Giants, storm: https://www.reddit.com/r/BehindTheTables/comments/605h4l/storm_giants/
-Goblins: https://redd.it/4fhp6q
-Goblin gangs: https://redd.it/3snvqq
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Golems: https://redd.it/4iq2vr
-Hobgoblins: https://www.reddit.com/r/BehindTheTables/comments/61vldy/hobgoblins/
-Kobolds: https://redd.it/4g487v
-Lizardfolk: https://redd.it/3uzuni
-Lycanthropes: https://redd.it/3snzw5
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Merfolk: https://redd.it/5x6ij0
-Mutant creatures: https://redd.it/4z7ofg
-Ogres: https://redd.it/5xtmto
-In the ogre's pockets: https://www.reddit.com/r/BehindTheTables/comments/6zwex2/what_does_the_ogre_have_in_his_pockets/
-Oozes: https://redd.it/50t6ir
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Orcs: https://redd.it/4brthj
-Orkish clans: https://redd.it/3vspx8
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Orc warlords: https://redd.it/4c5hu9
-Serial killers: https://redd.it/3sqres
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Treefolk: https://redd.it/3vjsea
-Trolls: https://www.reddit.com/r/BehindTheTables/comments/5zn9ra/trolls/
-Undead, restless: https://redd.it/3sorre
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Vampires: https://redd.it/3sq5dx
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Powers and weaknesses: https://docs.google.com/document/d/1HoPY_w9sJ8lE-R4-gFf8Te666paD7r1-tSvVNduFHI8/edit
-Witches: https://redd.it/3si4ms
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-NPC appearance and personality: https://redd.it/3zr0h4
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-NPC motivations: https://redd.it/4q6c0h
-NPC voices: https://homebrewery.naturalcrit.com/share/BJxuMnFMV
-Player character - race, class, background: https://redd.it/4hbe7j
-Heroic barbarian: https://www.reddit.com/r/BehindTheTables/comments/6iu521/heroic_barbarian/
-Heroic bard: https://www.reddit.com/r/BehindTheTables/comments/6iu58l/heroic_bard/
-Heroic cleric: https://www.reddit.com/r/BehindTheTables/comments/6iu5eo/heroic_cleric/
-Heroic druid: https://www.reddit.com/r/BehindTheTables/comments/6iu5xg/heroic_druid/
-Heroic fighter: https://www.reddit.com/r/BehindTheTables/comments/6iu628/heroic_fighter/
-Heroic monk: https://www.reddit.com/r/BehindTheTables/comments/6iu6cv/heroic_monk/
-Heroic paladin: https://www.reddit.com/r/BehindTheTables/comments/6iu6kh/heroic_paladin/
-Heroic ranger: https://www.reddit.com/r/BehindTheTables/comments/6iu6uu/heroic_ranger/
-Heroic rogue: https://www.reddit.com/r/BehindTheTables/comments/6iu6yz/heroic_rogue/
-Heroic sorcerer: https://www.reddit.com/r/BehindTheTables/comments/6iu7l0/heroic_sorcerer/
-Heroic warlock: https://www.reddit.com/r/BehindTheTables/comments/6iu7yk/heroic_warlock/
-Heroic wizard: https://www.reddit.com/r/BehindTheTables/comments/6iu86b/heroic_wizard/
-Actors: https://www.reddit.com/r/BehindTheTables/comments/61fsup/actors/
-Alchemists: https://redd.it/3sl4sr
-Apprentice crafters: https://redd.it/43xb2a
-Artisans: https://redd.it/43xb2a
-Assassins: https://redd.it/44wqci
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Barbarians: https://redd.it/3xydsw
-Bards: https://redd.it/46ma8g
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Bounty hunters: https://www.reddit.com/r/BehindTheTables/comments/a3tfmf/bounty_hunters/
-Castle inhabitant NPCs: https://redd.it/43emxb
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Cobblers: https://www.reddit.com/r/BehindTheTables/comments/5y84hx/cobblers/
-Cultists: https://redd.it/40wc26
-Cultists, snake: https://redd.it/3uzwi0
-Druids: https://redd.it/45x5jp
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Dwarves: https://redd.it/43vpxa
-Elves, dark: https://redd.it/3uzyyj
-Elves, high: https://redd.it/3vh7jd
-Elves, wood: https://redd.it/3va3dw
-Farmfolk: https://redd.it/3xys3d
-Fishermen: https://redd.it/3su3be
-Gladiators: https://redd.it/3xyeke
-Gnomes: https://redd.it/4fsrky
-Graverobbers: https://redd.it/3w3gbj
-Guards, city or town: https://redd.it/3tkge0
-Half-breeds: https://www.reddit.com/r/BehindTheTables/comments/5zugye/halfbreeds/
-Halflings: https://redd.it/4gd8s4
-Harlots: https://redd.it/43wnpg
-Healers: https://redd.it/4nlcyd
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Investigators: https://redd.it/3tkge0
-Knights: https://redd.it/3tkfho
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Merchant caravan NPCs: https://redd.it/3sl2r2
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Merchants, guild: https://redd.it/43xb06
-Mercenaries: https://redd.it/4b97s8
-Military camp NPCs: https://redd.it/3zmoy8
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Miners: https://redd.it/43vqqs
-Monks: https://redd.it/3xq9nd
-Monster hunters: https://redd.it/4358in
-Necromancers: https://redd.it/3w1g84
-Nobles: https://redd.it/3xyhdl
-Orc warlords: https://redd.it/4c5hu9
-Outlaws: https://redd.it/3t2qzc
-Pirates: https://redd.it/3t5sik
-Priests: https://redd.it/3whlp0
-Princesses: https://redd.it/4xvcgo
-Prison NPCs: https://redd.it/43k8fr
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Sailors: https://redd.it/497u5a
-Seers: https://redd.it/44r23c
-Sellswords: https://drive.google.com/file/d/0B_vatXlRE-gvYzRQSUp1eGhrSGc/view?usp=sharing&resourcekey=0-6KfcoQbFEH-hylSdbu53Sg
-Serial killers: https://redd.it/3sqres
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Shopkeepers: https://redd.it/43xb06
-Soldiers: https://redd.it/3tjg9d
-Strange people: https://redd.it/40r6nd
-Thieves: https://redd.it/4034w3
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Torturers: https://redd.it/43t6g9
-Town NPCs: https://redd.it/3sj9ub
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Treasure hunters: https://redd.it/3uzziq
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Vendor: https://redd.it/4daxw7
-Villains: https://redd.it/4pxgzh
-Recurring villains: https://www.reddit.com/r/BehindTheTables/comments/63s2yp/recurring_villain_generator/
-Witches: https://redd.it/3si4ms
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Woodsmen: https://redd.it/3va510
-Books: https://redd.it/43wsio
-Coins: https://redd.it/435djx
-Daggers: https://www.reddit.com/r/BehindTheTables/comments/5yszmn/daggers/
-Dark magic items: https://reddit.com/r/BehindTheTables/comments/vocow3/dark_magic_items/
-Diseases: https://redd.it/4nldep
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Dwarvish phrases: https://www.reddit.com/r/BehindTheTables/comments/60ipv7/dwarvish_phrases/
-Fishing: https://redd.it/3su3be
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Games: https://redd.it/4v0jbu
-Heirlooms: https://redd.it/5loo6y
-Helms: https://www.reddit.com/r/BehindTheTables/comments/60r60n/helms/
-Herbalism: https://redd.it/45x72u
-Holy trials: https://www.reddit.com/r/BehindTheTables/comments/aclfd4/holy_trials/
-Legendary weapons: https://redd.it/41vhpr
-Magic wands: https://redd.it/41vjmj
-Magical device mishaps: https://redd.it/43xeol
-Mostly mundane market stalls: https://www.reddit.com/r/BehindTheTables/comments/710on6/mostly_mundane_market_stalls/
-String instruments: https://www.reddit.com/r/BehindTheTables/comments/620bsp/string_instruments/
-Percussion instruments: https://www.reddit.com/r/BehindTheTables/comments/62hoaq/percussion_instruments/
-Pickpocket loot: https://redd.it/3xys5x
-Poisons: https://redd.it/4780bg
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-More poisons: https://www.reddit.com/r/BehindTheTables/comments/637bvs/the_great_big_random_d100_list_of_poisons_dd5e/
-Potions: https://redd.it/4c5iu4
-Quick alchemy, herbalism, and poisons: https://www.reddit.com/r/BehindTheTables/comments/aglous/quick_alchemy_herbalism_and_poisons/
-Random encounters on the Outer Planes: https://www.reddit.com/r/BehindTheTables/comments/6zxd1p/random_encounters_by_outer_planes/
-Religious relics: https://reddit.com/r/BehindTheTables/comments/a6tof8/religious_relics_by_name/
-Rings: https://www.reddit.com/r/BehindTheTables/comments/6ujpnr/rings/
-Shields: https://www.reddit.com/r/BehindTheTables/comments/5zfn7w/shields/
-Silly insults: https://redd.it/484u5s
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Tavern drinks: https://www.reddit.com/r/BehindTheTables/comments/62bb07/the_great_big_random_d100_list_of_tavern_drinks/
-Trail rations: https://www.reddit.com/r/BehindTheTables/comments/ahba3r/trail_rations/
-Traps: https://redd.it/43bznq
-Treasure chests: https://redd.it/438vlw
-Useless junk: https://redd.it/4eium7
-Who will be attacked first?: https://www.reddit.com/r/BehindTheTables/comments/73u1id/who_will_the_enemy_attack_first_and_why_d50_could/
-Cliche adventure plots: https://www.reddit.com/r/BehindTheTables/comments/67tak5/cliche_adventure_plot_generator/
-Cows-in-the-village plots: https://www.reddit.com/r/BehindTheTables/comments/67kznp/cowrelated_village_plothook_generator/
-Damsel in distress: https://redd.it/45iihj
-Gossip and hearsay: https://redd.it/48spuq
-variant: https://redd.it/51senc
-Heirlooms: https://redd.it/5loo6y
-Holy trials: https://www.reddit.com/r/BehindTheTables/comments/aclfd4/holy_trials/
-Nightmares: https://redd.it/43bxpl
-variant: https://redd.it/439amj
-Political plots: https://redd.it/56e9hq
-Reputation and rumors: https://redd.it/435qlc
-Reputations of adventurers: https://redd.it/4b8u29
-Riddles: https://www.reddit.com/r/DnD/comments/6b9qz6/the_d100_list_i_never_knew_i_needed_sphynxpuzzle/
-Rogue missions: https://redd.it/57gee7
-Rumor mill: https://redd.it/4q6c0h
-variant: https://redd.it/51senc
-Songs: https://redd.it/46m9xc
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Strange places: https://redd.it/40r638
-Treasure maps: https://redd.it/41vnh6
-Unusual crimes: https://redd.it/40r76r
-Vignettes and more I: https://redd.it/43uzib
-Vignettes and more II: https://redd.it/45uoqf
-Villains: https://redd.it/4pxgzh
-Visions: https://redd.it/43c3c6
-Arena games: https://redd.it/3xyexk
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Brothels: https://redd.it/43w8zc
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Castles: https://redd.it/43ek9v
-Castle inhabitants: https://redd.it/43emxb
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-City landmarks and districts: https://redd.it/43xgqj
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Idyllic village encounters: https://redd.it/43uzib
-Magic shops: https://redd.it/48cev4
-Merchant caravans: https://redd.it/3sl2r2
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Military camps: https://redd.it/3zmoy8
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Monasteries: https://redd.it/40pjmd
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Market stalls: https://www.reddit.com/r/BehindTheTables/comments/710on6/mostly_mundane_market_stalls/
-Prisons: https://redd.it/43k8fr
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Quick city-building: https://redd.it/4jn2j9
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Racial enclaves: https://redd.it/45uoqf
-Rotting city encounters: https://redd.it/43uzib
-Shops: https://redd.it/4psde0
-Simple settlements: https://redd.it/4djg97
-Street names: https://redd.it/3xw3lq
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Subterranean city markets: https://www.reddit.com/r/BehindTheTables/comments/ae7p6s/subterranean_city_markets/
-Tavern goings-on: https://redd.it/435mxf
-Tavern and pub names: https://redd.it/51kzka
-More tavern names: http://basalt-dnd.tumblr.com/post/159715458767/basalt-dnd-artwork-by-minomi9-have-fun
-Temples: https://redd.it/3xpb4r
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Town NPCs: https://redd.it/3sj9ub
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Urban marketplace: https://redd.it/4daxw7
-Fishing boats: https://redd.it/3su3be
-Merchant caravans: https://redd.it/3sl2r2
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Pirate ships: https://redd.it/3t5sik
-Sailing ship encounters: https://redd.it/43uzib
-Ships: https://redd.it/4d6a7d
-World: https://redd.it/4u4m6h
-Variant (world-and-campaign generator): https://www.reddit.com/r/BehindTheTables/comments/6aynut/a_worldcampaign_generator_ive_used_with_some/
-Continent: https://redd.it/4xln3t
-Nation: https://redd.it/4xlnp7
-Desert: https://redd.it/3tich6
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Desert, flame-scorched: https://redd.it/3tjb63
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Desert, shadowy: https://redd.it/3tielc
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Forest: https://redd.it/3sgzxb
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Forest, enchanted: https://redd.it/3sh0hz
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Forest, haunted: https://redd.it/3sh0bv
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Frozen lands: https://www.reddit.com/r/BehindTheTables/comments/5yfzbw/quick_frozen_lands/
-Grasslands, temperate: https://www.reddit.com/r/BehindTheTables/comments/5z7ahq/quick_temperate_grasslands/
-Grasslands, tropical: https://www.reddit.com/r/BehindTheTables/comments/60aia7/quick_tropical_grassland/
-Jungle: https://redd.it/3u4a05
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-jungle encounters: https://www.reddit.com/r/BehindTheTables/comments/759k1v/d100_jungle_encounters/
-Mountains: https://redd.it/42rm5s
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Plains: https://redd.it/47x04h
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Swamp: https://redd.it/43c2q8
-variant: https://redd.it/5xhhlw
-Underdark: https://redd.it/3unfbm
-PDF: https://drive.google.com/file/d/1epTggIiQUm3UjNphLvZYDzcMKDskEdg9/view?usp=sharing
-Auto Roll Tables: http://autorolltables.github.io/
-/u/dangeratio: /u/dangeratio
-DM Screen: https://play.google.com/store/apps/details?id=com.awedsoftware.dungeonsanddragonsrandomtables
-/u/DarthCluck: /u/DarthCluck
-roll_one_for_me: https://www.reddit.com/r/BehindTheTables/comments/3sgqjp/features_and_usage_for_uroll_one_for_me_your/
-/u/PurelyApplied: /u/PurelyApplied
-how to roll using private messages: https://redd.it/4jsjuh
-Fantastic Beasts: http://oort.nz/dnd/fantasticbeasts/index.html
-/u/gomathesnail: /u/gomathesnail
-OrkishBlade: /user/OrkishBlade/
-
-              Rank by size 
-
-: https://www.reddit.com/best/communities/30/#t5_3aocg/
-
-Table of Tables
-
-: https://www.reddit.com/r/BehindTheTables/wiki/index
-DnDBehindTheScreen: /r/DnDBehindTheScreen
-DMAcademy: /r/DMAcademy
-UnearthedArcana: /r/UnearthedArcana
-DnDMaps: /r/dndmaps
-FantasyMaps: /r/fantasymaps
-d100: /r/d100
-ImaginaryNetwork: /r/ImaginaryNetwork/
-
-
-      Dungeons
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Dungeons%22
-
-
-      Factions
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Factions%22
-
-
-      NPCs
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22NPCs%22
-
-
-      Monsters
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Monsters%22
-
-
-      Magic
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Magic%22
-
-
-      Items
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Items%22
-
-
-      Treasure
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Treasure%22
-
-
-      Regions
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Regions%22
-
-
-      Settlements
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Settlements%22
-
-
-      Plot
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Plot%22
-
-
-      Encounters
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Encounters%22
-
-
-      Misc
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Misc%22
-
-
-      Meta
-        
-    
-: /r/BehindTheTables/?f=flair_name%3A%22Meta%22
-
-
-
-Amazing
-
-
-
-
-
-
-: https://reddit.com/t/amazing/
-
-
-
-Animals & Pets
-
-
-
-
-
-
-: https://reddit.com/t/animals_and_pets/
-
-
-
-Cringe & Facepalm
-
-
-
-
-
-
-: https://reddit.com/t/cringe_and_facepalm/
-
-
-
-Funny
-
-
-
-
-
-
-: https://reddit.com/t/funny/
-
-
-
-Interesting
-
-
-
-
-
-
-: https://reddit.com/t/interesting/
-
-
-
-Memes
-
-
-
-
-
-
-: https://reddit.com/t/memes/
-
-
-
-Oddly Satisfying
-
-
-
-
-
-
-: https://reddit.com/t/oddly_satisfying/
-
-
-
-Reddit Meta
-
-
-
-
-
-
-: https://reddit.com/t/reddit_meta/
-
-
-
-Wholesome & Heartwarming
-
-
-
-
-
-
-: https://reddit.com/t/wholesome_and_heartwarming/
-
-
-
-Action Games
-
-
-
-
-
-
-: https://reddit.com/t/action_games/
-
-
-
-Adventure Games
-
-
-
-
-
-
-: https://reddit.com/t/adventure_games/
-
-
-
-Esports
-
-
-
-
-
-
-: https://reddit.com/t/esports/
-
-
-
-Gaming Consoles & Gear
-
-
-
-
-
-
-: https://reddit.com/t/gaming_consoles_and_gear/
-
-
-
-Gaming News & Discussion
-
-
-
-
-
-
-: https://reddit.com/t/gaming_news_and_discussion/
-
-
-
-Mobile Games
-
-
-
-
-
-
-: https://reddit.com/t/mobile_games/
-
-
-
-Other Games
-
-
-
-
-
-
-: https://reddit.com/t/other_games/
-
-
-
-Role-Playing Games
-
-
-
-
-
-
-: https://reddit.com/t/role_playing_games/
-
-
-
-Simulation Games
-
-
-
-
-
-
-: https://reddit.com/t/simulation_games/
-
-
-
-Sports & Racing Games
-
-
-
-
-
-
-: https://reddit.com/t/sports_and_racing_games/
-
-
-
-Strategy Games
-
-
-
-
-
-
-: https://reddit.com/t/strategy_games/
-
-
-
-Tabletop Games
-
-
-
-
-
-
-: https://reddit.com/t/tabletop_games/
-
-
-
-Q&As
-
-
-
-
-
-
-: https://reddit.com/t/q_and_as/
-
-
-
-Stories & Confessions
-
-
-
-
-
-
-: https://reddit.com/t/stories_and_confessions/
-
-
-
-3D Printing
-
-
-
-
-
-
-: https://reddit.com/t/3d_printing/
-
-
-
-Artificial Intelligence & Machine Learning
-
-
-
-
-
-
-: https://reddit.com/t/artificial_intelligence_and_machine_learning/
-
-
-
-Computers & Hardware
-
-
-
-
-
-
-: https://reddit.com/t/computers_and_hardware/
-
-
-
-Consumer Electronics
-
-
-
-
-
-
-: https://reddit.com/t/consumer_electronics/
-
-
-
-DIY Electronics
-
-
-
-
-
-
-: https://reddit.com/t/diy_electronics/
-
-
-
-Programming
-
-
-
-
-
-
-: https://reddit.com/t/programming/
-
-
-
-Software & Apps
-
-
-
-
-
-
-: https://reddit.com/t/software_and_apps/
-
-
-
-Streaming Services
-
-
-
-
-
-
-: https://reddit.com/t/streaming_services/
-
-
-
-Tech News & Discussion
-
-
-
-
-
-
-: https://reddit.com/t/tech_news_and_discussion/
-
-
-
-Virtual & Augmented Reality
-
-
-
-
-
-
-: https://reddit.com/t/virtual_and_augmented_reality/
-
-
-
-Celebrities
-
-
-
-
-
-
-: https://reddit.com/t/celebrities/
-
-
-
-Creators & Influencers
-
-
-
-
-
-
-: https://reddit.com/t/creators_and_influencers/
-
-
-
-Generations & Nostalgia
-
-
-
-
-
-
-: https://reddit.com/t/generations_and_nostalgia/
-
-
-
-Podcasts
-
-
-
-
-
-
-: https://reddit.com/t/podcasts/
-
-
-
-Streamers
-
-
-
-
-
-
-: https://reddit.com/t/streamers/
-
-
-
-Tarot & Astrology
-
-
-
-
-
-
-: https://reddit.com/t/tarot_and_astrology/
-
-
-
-Action Movies & Series
-
-
-
-
-
-
-: https://reddit.com/t/action_movies_and_series/
-
-
-
-Animated Movies & Series
-
-
-
-
-
-
-: https://reddit.com/t/animated_movies_and_series/
-
-
-
-Comedy Movies & Series
-
-
-
-
-
-
-: https://reddit.com/t/comedy_movies_and_series/
-
-
-
-Crime, Mystery, & Thriller Movies & Series
-
-
-
-
-
-
-: https://reddit.com/t/crime_mystery_and_thriller_movies_and_series/
-
-
-
-Documentary Movies & Series
-
-
-
-
-
-
-: https://reddit.com/t/documentary_movies_and_series/
-
-
-
-Drama Movies & Series
-
-
-
-
-
-
-: https://reddit.com/t/drama_movies_and_series/
-
-
-
-Fantasy Movies & Series
-
-
-
-
-
-
-: https://reddit.com/t/fantasy_movies_and_series/
-
-
-
-Horror Movies & Series
-
-
-
-
-
-
-: https://reddit.com/t/horror_movies_and_series/
-
-
-
-Movie News & Discussion
-
-
-
-
-
-
-: https://reddit.com/t/movie_news_and_discussion/
-
-
-
-Reality TV
-
-
-
-
-
-
-: https://reddit.com/t/reality_tv/
-
-
-
-Romance Movies & Series
-
-
-
-
-
-
-: https://reddit.com/t/romance_movies_and_series/
-
-
-
-Sci-Fi Movies & Series
-
-
-
-
-
-
-: https://reddit.com/t/scifi_movies_and_series/
-
-
-
-Superhero Movies & Series
-
-
-
-
-
-
-: https://reddit.com/t/superhero_movies_and_series/
-
-
-
-TV News & Discussion
-
-
-
-
-
-
-: https://reddit.com/t/tv_news_and_discussion/
-
-
-
-
-
-
-
-
-About Reddit
-
-
-
-
-
-
-: https://www.redditinc.com
-
-
-
-
-
-
-
-
-Advertise
-
-
-
-
-
-
-: https://accounts.reddit.com/adsregister?utm_source=web3x_consumer&utm_name=left_nav_cta
-
-
-
-
-
-
-
-
-Help
-
-
-
-
-
-
-: https://www.reddithelp.com
-
-
-
-
-
-
-
-
-Blog
-
-
-
-
-
-
-: https://redditblog.com/
-
-
-
-
-
-
-
-
-Careers
-
-
-
-
-
-
-: https://www.redditinc.com/careers
-
-
-
-
-
-
-
-
-Press
-
-
-
-
-
-
-: https://www.redditinc.com/press
-
-
-
-
-
-
-
-
-Communities
-
-
-
-
-
-
-: https://www.reddit.com/best/communities/1/
-
-
-
-
-
-
-
-
-Best of Reddit
-
-
-
-
-
-
-: https://www.reddit.com/posts/2024/global/
-
-
-
-
-
-
-
-
-Topics
-
-
-
-
-
-
-: https://www.reddit.com/topics/a-1/
-
-
-
-
-
-
-
-
-Content Policy
-
-
-
-
-
-
-: https://www.redditinc.com/policies/content-policy
-
-
-
-
-
-
-
-
-Privacy Policy
-
-
-
-
-
-
-: https://www.reddit.com/policies/privacy-policy
-
-
-
-
-
-
-
-
-User Agreement
-
-
-
-
-
-
-: https://www.redditinc.com/policies/user-agreement
-Reddit, Inc. © 2024. All rights reserved.: https://redditinc.com
-: https://www.redditinc.com/policies/user-agreement
-: https://www.redditinc.com/policies/privacy-policy
-: #
-: #
-: https://www.redditinc.com/policies/user-agreement
-: https://www.redditinc.com/policies/privacy-policy
-: https://www.redditinc.com/policies/user-agreement
-: https://www.redditinc.com/policies/privacy-policy
-: https://reddithelp.com/hc/sections/360008917491-Account-Security
+Basic dungeon:https://redd.it/4iq4of
+Dungeon dressing:https://redd.it/46ai2g
+Dungeon encounters:https://redd.it/43uzib
+Text-based dungeon generator:https://www.reddit.com/r/BehindTheTables/comments/66l9mp/textbased_dungeon_generator/
+Castle:https://redd.it/43ek9v
+Caverns:https://redd.it/3unfbm
+Dragon lairs:https://www.reddit.com/r/BehindTheTables/comments/aj2ong/dragon_lairs/
+Dungeon, castle:https://redd.it/43t6g9
+Elemental air dungeon:https://redd.it/5xnofs
+Elemental earth dungeon:https://redd.it/5y0ucp
+Elemental fire dungeon:https://redd.it/5xcmqe
+Elemental water dungeon:https://redd.it/5wzioq
+Feydark caverns:https://www.reddit.com/r/BehindTheTables/comments/61ls8l/feydark_caverns/
+Feywild dungeon:https://www.reddit.com/r/BehindTheTables/comments/614gba/feywild_dungeons/
+Icy dungeon:https://www.reddit.com/r/BehindTheTables/comments/adi1ik/icy_dungeons/
+Infernal dungeon:https://www.reddit.com/r/BehindTheTables/comments/5zz7gt/infernal_dungeons/
+Mage's Tower:https://redd.it/4y5pl2
+Mine:https://redd.it/43ufyr
+Monastery:https://redd.it/40pjmd
+Prison:https://redd.it/43k8fr
+Sewers:https://www.reddit.com/r/BehindTheTables/comments/6zsm8t/sewers/
+Shadowfell dungeons:https://www.reddit.com/r/BehindTheTables/comments/6jqzvs/shadowfell_dungeon/
+Temple:https://redd.it/3xpb4r
+Tomb:https://redd.it/427hd8
+Volcanic dungeons:https://www.reddit.com/r/BehindTheTables/comments/afvwv3/volcanic_dungeons/
+Acting troupes:https://www.reddit.com/r/BehindTheTables/comments/61adtf/acting_troupes/
+Assassins' guilds:https://redd.it/3t0zag
+Crafting guilds:https://redd.it/43xb2a
+Cults:https://redd.it/3xyiqs
+Druid circles:https://www.reddit.com/r/BehindTheTables/comments/60ylc6/druid_circles/
+Goblin gangs:https://redd.it/3snvqq
+Mercenary troops:https://redd.it/3tkdty
+Merchant guilds:https://redd.it/43xb06
+Military companies:https://redd.it/3tjg9d
+Noble houses:https://redd.it/3sj8mc
+Orkish clans:https://redd.it/3vspx8
+Outlaws bands:https://redd.it/3t2qzc
+Pirate crews:https://redd.it/3t5sik
+Savage hordes:https://redd.it/3tjdae
+Secret societies:https://redd.it/3xyilr
+Urban gangs:https://redd.it/3t5q2e
+Watchmen:https://redd.it/3tkge0
+City café:https://redd.it/4dpl3q
+Traveler's inn:https://redd.it/4dplpx
+Among desert nomads:https://redd.it/4eaph4
+Among easterlings:https://redd.it/4eaqj0
+Among islanders:https://redd.it/4earls
+Among jungle dwellers:https://redd.it/4elfsw
+Among swampfolk:https://redd.it/4elhkc
+Around the campfire:https://redd.it/4dpnzh
+Country inn:https://redd.it/4dv7i9
+Dockside tavern:https://redd.it/4dv87r
+Dwarvish alehouse:https://redd.it/4dmepa
+Elvish dwelling:https://redd.it/4dmfoj
+Goblin hideout:https://redd.it/4ev8l1
+Hunters' lodge:https://redd.it/4dx2z9
+Mages' academy dining hall:https://redd.it/4e71lc
+Mining town pub:https://redd.it/4dx43x
+Orkish camp:https://redd.it/4elirv
+Seaside café:https://redd.it/4e70eq
+Undead feasthall:https://redd.it/4ev9sw
+Witch's hovel:https://redd.it/4evdqx
+Exotic fruits and vegetables:https://redd.it/4uuw89
+Fish, daily catch:https://redd.it/3su3be
+Street food:https://redd.it/4dglp9
+Trail rations:https://www.reddit.com/r/BehindTheTables/comments/ahba3r/trail_rations/
+Wines:https://redd.it/4cx75p
+Alchemical mishaps:https://redd.it/43xeol
+Altars, holy:https://redd.it/4tl384
+Altars, unholy:https://redd.it/4tl3c6
+Bag of holding and Heward's handy haversack:https://redd.it/567owq
+Dark magic items:https://reddit.com/r/BehindTheTables/comments/vocow3/dark_magic_items/
+Diseases:https://redd.it/4nldep
+Divination:https://redd.it/43c3c6
+Herb lore:https://redd.it/45x72u
+Legendary weapons:https://redd.it/41vhpr
+Magic wands:https://redd.it/41vjmj
+Necromantic effects:https://www.reddit.com/r/BehindTheTables/comments/74qphu/necromantic_effects/
+Pantheons:https://redd.it/3shczv
+Poisoncraft:https://redd.it/4780bg
+Potions:https://redd.it/4c5iu4
+Quick alchemy, herbalism, and poisons:https://www.reddit.com/r/BehindTheTables/comments/aglous/quick_alchemy_herbalism_and_poisons/
+Religious relics:https://reddit.com/r/BehindTheTables/comments/a6tof8/religious_relics_by_name/
+Rings:https://www.reddit.com/r/BehindTheTables/comments/6ujpnr/rings/
+Scroll scribing mishaps:https://redd.it/43xeol
+Spell effects:https://www.reddit.com/r/BehindTheTables/comments/6oe2ej/spell_effects/
+Warlock contracts:https://www.reddit.com/r/BehindTheTables/comments/6gx1c8/warlock_contract_generator_choose_your_patron/
+Beasts:https://www.reddit.com/r/BehindTheTables/comments/6bf535/reskinning_monster_generator_beasts/
+Humanoids:https://www.reddit.com/r/BehindTheTables/comments/6525ht/reskinning_monster_generator_humanoids/
+Monstrosities:https://www.reddit.com/r/BehindTheTables/comments/6eklxm/reskinning_monster_generator_monstrosities/
+Bats:https://redd.it/4spk6l
+Bears:https://www.reddit.com/r/BehindTheTables/comments/70b9d7/bears/
+Cats:https://redd.it/4t1k01
+Horses:https://redd.it/4tguyo
+Monkeys:https://redd.it/4j1ayz
+Rats:https://redd.it/4splu3
+Snakes:https://www.reddit.com/r/BehindTheTables/comments/aew1qo/snakes/
+Spiders:https://redd.it/487awj
+Wolves:https://redd.it/4aepj5
+Aberrant beasts:https://redd.it/4mnmre
+Celestial beasts:https://redd.it/4mnnq4
+Demonic beasts:https://redd.it/4mu1t3
+Fey beasts:https://redd.it/4n02oc
+Fire beasts:https://redd.it/4nbz5o
+Infernal beasts:https://redd.it/4n03im
+Legendary beasts:https://redd.it/4nbz9h
+Sea beasts:https://redd.it/4nbzeq
+Shadow beasts:https://redd.it/4nayky
+Storm beasts:https://redd.it/4nbzhp
+Undead beasts:https://redd.it/4nbzmi
+Winter beasts:https://redd.it/4nbzt3
+Cultists:https://redd.it/40wc26
+snake cultists:https://redd.it/3uzwi0
+Dragons:https://www.reddit.com/r/BehindTheTables/comments/62p9tw/dragons/?utm_source=reddit&utm_medium=usertext&utm_name=BehindTheTables&utm_content=t3_aj2ong
+variant:https://redd.it/4b9wlm
+Faeriefolk:https://redd.it/3vlzrw
+Fiends:https://redd.it/4boiw9
+Giants, fire:https://www.reddit.com/r/BehindTheTables/comments/5z21hm/fire_giants/
+Giants, frost:https://www.reddit.com/r/BehindTheTables/comments/5yobkq/frost_giants/
+Giants, stone:https://www.reddit.com/r/BehindTheTables/comments/629osp/stone_giants/
+Giants, storm:https://www.reddit.com/r/BehindTheTables/comments/605h4l/storm_giants/
+Goblins:https://redd.it/4fhp6q
+Goblin gangs:https://redd.it/3snvqq
+Golems:https://redd.it/4iq2vr
+Hobgoblins:https://www.reddit.com/r/BehindTheTables/comments/61vldy/hobgoblins/
+Kobolds:https://redd.it/4g487v
+Lizardfolk:https://redd.it/3uzuni
+Lycanthropes:https://redd.it/3snzw5
+Merfolk:https://redd.it/5x6ij0
+Mutant creatures:https://redd.it/4z7ofg
+Ogres:https://redd.it/5xtmto
+In the ogre's pockets:https://www.reddit.com/r/BehindTheTables/comments/6zwex2/what_does_the_ogre_have_in_his_pockets/
+Oozes:https://redd.it/50t6ir
+Orcs:https://redd.it/4brthj
+Orkish clans:https://redd.it/3vspx8
+Orc warlords:https://redd.it/4c5hu9
+Serial killers:https://redd.it/3sqres
+Treefolk:https://redd.it/3vjsea
+Trolls:https://www.reddit.com/r/BehindTheTables/comments/5zn9ra/trolls/
+Undead, restless:https://redd.it/3sorre
+Vampires:https://redd.it/3sq5dx
+Powers and weaknesses:https://docs.google.com/document/d/1HoPY_w9sJ8lE-R4-gFf8Te666paD7r1-tSvVNduFHI8/edit
+Witches:https://redd.it/3si4ms
+NPC appearance and personality:https://redd.it/3zr0h4
+NPC motivations:https://redd.it/4q6c0h
+NPC voices:https://homebrewery.naturalcrit.com/share/BJxuMnFMV
+Player character - race, class, background:https://redd.it/4hbe7j
+Heroic barbarian:https://www.reddit.com/r/BehindTheTables/comments/6iu521/heroic_barbarian/
+Heroic bard:https://www.reddit.com/r/BehindTheTables/comments/6iu58l/heroic_bard/
+Heroic cleric:https://www.reddit.com/r/BehindTheTables/comments/6iu5eo/heroic_cleric/
+Heroic druid:https://www.reddit.com/r/BehindTheTables/comments/6iu5xg/heroic_druid/
+Heroic fighter:https://www.reddit.com/r/BehindTheTables/comments/6iu628/heroic_fighter/
+Heroic monk:https://www.reddit.com/r/BehindTheTables/comments/6iu6cv/heroic_monk/
+Heroic paladin:https://www.reddit.com/r/BehindTheTables/comments/6iu6kh/heroic_paladin/
+Heroic ranger:https://www.reddit.com/r/BehindTheTables/comments/6iu6uu/heroic_ranger/
+Heroic rogue:https://www.reddit.com/r/BehindTheTables/comments/6iu6yz/heroic_rogue/
+Heroic sorcerer:https://www.reddit.com/r/BehindTheTables/comments/6iu7l0/heroic_sorcerer/
+Heroic warlock:https://www.reddit.com/r/BehindTheTables/comments/6iu7yk/heroic_warlock/
+Heroic wizard:https://www.reddit.com/r/BehindTheTables/comments/6iu86b/heroic_wizard/
+Actors:https://www.reddit.com/r/BehindTheTables/comments/61fsup/actors/
+Alchemists:https://redd.it/3sl4sr
+Apprentice crafters:https://redd.it/43xb2a
+Artisans:https://redd.it/43xb2a
+Assassins:https://redd.it/44wqci
+Barbarians:https://redd.it/3xydsw
+Bards:https://redd.it/46ma8g
+Bounty hunters:https://www.reddit.com/r/BehindTheTables/comments/a3tfmf/bounty_hunters/
+Castle inhabitant NPCs:https://redd.it/43emxb
+Cobblers:https://www.reddit.com/r/BehindTheTables/comments/5y84hx/cobblers/
+Cultists:https://redd.it/40wc26
+Cultists, snake:https://redd.it/3uzwi0
+Druids:https://redd.it/45x5jp
+Dwarves:https://redd.it/43vpxa
+Elves, dark:https://redd.it/3uzyyj
+Elves, high:https://redd.it/3vh7jd
+Elves, wood:https://redd.it/3va3dw
+Farmfolk:https://redd.it/3xys3d
+Fishermen:https://redd.it/3su3be
+Gladiators:https://redd.it/3xyeke
+Gnomes:https://redd.it/4fsrky
+Graverobbers:https://redd.it/3w3gbj
+Guards, city or town:https://redd.it/3tkge0
+Half-breeds:https://www.reddit.com/r/BehindTheTables/comments/5zugye/halfbreeds/
+Halflings:https://redd.it/4gd8s4
+Harlots:https://redd.it/43wnpg
+Healers:https://redd.it/4nlcyd
+Investigators:https://redd.it/3tkge0
+Knights:https://redd.it/3tkfho
+Merchant caravan NPCs:https://redd.it/3sl2r2
+Merchants, guild:https://redd.it/43xb06
+Mercenaries:https://redd.it/4b97s8
+Military camp NPCs:https://redd.it/3zmoy8
+Miners:https://redd.it/43vqqs
+Monks:https://redd.it/3xq9nd
+Monster hunters:https://redd.it/4358in
+Necromancers:https://redd.it/3w1g84
+Nobles:https://redd.it/3xyhdl
+Orc warlords:https://redd.it/4c5hu9
+Outlaws:https://redd.it/3t2qzc
+Pirates:https://redd.it/3t5sik
+Priests:https://redd.it/3whlp0
+Princesses:https://redd.it/4xvcgo
+Prison NPCs:https://redd.it/43k8fr
+Sailors:https://redd.it/497u5a
+Seers:https://redd.it/44r23c
+Sellswords:https://drive.google.com/file/d/0B_vatXlRE-gvYzRQSUp1eGhrSGc/view?usp=sharing&resourcekey=0-6KfcoQbFEH-hylSdbu53Sg
+Serial killers:https://redd.it/3sqres
+Shopkeepers:https://redd.it/43xb06
+Soldiers:https://redd.it/3tjg9d
+Strange people:https://redd.it/40r6nd
+Thieves:https://redd.it/4034w3
+Torturers:https://redd.it/43t6g9
+Town NPCs:https://redd.it/3sj9ub
+Treasure hunters:https://redd.it/3uzziq
+Vendor:https://redd.it/4daxw7
+Villains:https://redd.it/4pxgzh
+Recurring villains:https://www.reddit.com/r/BehindTheTables/comments/63s2yp/recurring_villain_generator/
+Witches:https://redd.it/3si4ms
+Woodsmen:https://redd.it/3va510
+Books:https://redd.it/43wsio
+Coins:https://redd.it/435djx
+Daggers:https://www.reddit.com/r/BehindTheTables/comments/5yszmn/daggers/
+Dark magic items:https://reddit.com/r/BehindTheTables/comments/vocow3/dark_magic_items/
+Diseases:https://redd.it/4nldep
+Dwarvish phrases:https://www.reddit.com/r/BehindTheTables/comments/60ipv7/dwarvish_phrases/
+Fishing:https://redd.it/3su3be
+Games:https://redd.it/4v0jbu
+Heirlooms:https://redd.it/5loo6y
+Helms:https://www.reddit.com/r/BehindTheTables/comments/60r60n/helms/
+Herbalism:https://redd.it/45x72u
+Holy trials:https://www.reddit.com/r/BehindTheTables/comments/aclfd4/holy_trials/
+Legendary weapons:https://redd.it/41vhpr
+Magic wands:https://redd.it/41vjmj
+Magical device mishaps:https://redd.it/43xeol
+Mostly mundane market stalls:https://www.reddit.com/r/BehindTheTables/comments/710on6/mostly_mundane_market_stalls/
+String instruments:https://www.reddit.com/r/BehindTheTables/comments/620bsp/string_instruments/
+Percussion instruments:https://www.reddit.com/r/BehindTheTables/comments/62hoaq/percussion_instruments/
+Pickpocket loot:https://redd.it/3xys5x
+Poisons:https://redd.it/4780bg
+More poisons:https://www.reddit.com/r/BehindTheTables/comments/637bvs/the_great_big_random_d100_list_of_poisons_dd5e/
+Potions:https://redd.it/4c5iu4
+Quick alchemy, herbalism, and poisons:https://www.reddit.com/r/BehindTheTables/comments/aglous/quick_alchemy_herbalism_and_poisons/
+Random encounters on the Outer Planes:https://www.reddit.com/r/BehindTheTables/comments/6zxd1p/random_encounters_by_outer_planes/
+Religious relics:https://reddit.com/r/BehindTheTables/comments/a6tof8/religious_relics_by_name/
+Rings:https://www.reddit.com/r/BehindTheTables/comments/6ujpnr/rings/
+Shields:https://www.reddit.com/r/BehindTheTables/comments/5zfn7w/shields/
+Silly insults:https://redd.it/484u5s
+Tavern drinks:https://www.reddit.com/r/BehindTheTables/comments/62bb07/the_great_big_random_d100_list_of_tavern_drinks/
+Trail rations:https://www.reddit.com/r/BehindTheTables/comments/ahba3r/trail_rations/
+Traps:https://redd.it/43bznq
+Treasure chests:https://redd.it/438vlw
+Useless junk:https://redd.it/4eium7
+Who will be attacked first?:https://www.reddit.com/r/BehindTheTables/comments/73u1id/who_will_the_enemy_attack_first_and_why_d50_could/
+Cliche adventure plots:https://www.reddit.com/r/BehindTheTables/comments/67tak5/cliche_adventure_plot_generator/
+Cows-in-the-village plots:https://www.reddit.com/r/BehindTheTables/comments/67kznp/cowrelated_village_plothook_generator/
+Damsel in distress:https://redd.it/45iihj
+Gossip and hearsay:https://redd.it/48spuq
+variant:https://redd.it/51senc
+Heirlooms:https://redd.it/5loo6y
+Holy trials:https://www.reddit.com/r/BehindTheTables/comments/aclfd4/holy_trials/
+Nightmares:https://redd.it/43bxpl
+variant:https://redd.it/439amj
+Political plots:https://redd.it/56e9hq
+Reputation and rumors:https://redd.it/435qlc
+Reputations of adventurers:https://redd.it/4b8u29
+Riddles:https://www.reddit.com/r/DnD/comments/6b9qz6/the_d100_list_i_never_knew_i_needed_sphynxpuzzle/
+Rogue missions:https://redd.it/57gee7
+Rumor mill:https://redd.it/4q6c0h
+variant:https://redd.it/51senc
+Songs:https://redd.it/46m9xc
+Strange places:https://redd.it/40r638
+Treasure maps:https://redd.it/41vnh6
+Unusual crimes:https://redd.it/40r76r
+Vignettes and more I:https://redd.it/43uzib
+Vignettes and more II:https://redd.it/45uoqf
+Villains:https://redd.it/4pxgzh
+Visions:https://redd.it/43c3c6
+Arena games:https://redd.it/3xyexk
+Brothels:https://redd.it/43w8zc
+Castles:https://redd.it/43ek9v
+Castle inhabitants:https://redd.it/43emxb
+City landmarks and districts:https://redd.it/43xgqj
+Idyllic village encounters:https://redd.it/43uzib
+Magic shops:https://redd.it/48cev4
+Merchant caravans:https://redd.it/3sl2r2
+Military camps:https://redd.it/3zmoy8
+Monasteries:https://redd.it/40pjmd
+Market stalls:https://www.reddit.com/r/BehindTheTables/comments/710on6/mostly_mundane_market_stalls/
+Prisons:https://redd.it/43k8fr
+Quick city-building:https://redd.it/4jn2j9
+Racial enclaves:https://redd.it/45uoqf
+Rotting city encounters:https://redd.it/43uzib
+Shops:https://redd.it/4psde0
+Simple settlements:https://redd.it/4djg97
+Street names:https://redd.it/3xw3lq
+Subterranean city markets:https://www.reddit.com/r/BehindTheTables/comments/ae7p6s/subterranean_city_markets/
+Tavern goings-on:https://redd.it/435mxf
+Tavern and pub names:https://redd.it/51kzka
+More tavern names:http://basalt-dnd.tumblr.com/post/159715458767/basalt-dnd-artwork-by-minomi9-have-fun
+Temples:https://redd.it/3xpb4r
+Town NPCs:https://redd.it/3sj9ub
+Urban marketplace:https://redd.it/4daxw7
+Fishing boats:https://redd.it/3su3be
+Merchant caravans:https://redd.it/3sl2r2
+Pirate ships:https://redd.it/3t5sik
+Sailing ship encounters:https://redd.it/43uzib
+Ships:https://redd.it/4d6a7d
+World:https://redd.it/4u4m6h
+Variant (world-and-campaign generator):https://www.reddit.com/r/BehindTheTables/comments/6aynut/a_worldcampaign_generator_ive_used_with_some/
+Continent:https://redd.it/4xln3t
+Nation:https://redd.it/4xlnp7
+Desert:https://redd.it/3tich6
+Desert, flame-scorched:https://redd.it/3tjb63
+Desert, shadowy:https://redd.it/3tielc
+Forest:https://redd.it/3sgzxb
+Forest, enchanted:https://redd.it/3sh0hz
+Forest, haunted:https://redd.it/3sh0bv
+Frozen lands:https://www.reddit.com/r/BehindTheTables/comments/5yfzbw/quick_frozen_lands/
+Grasslands, temperate:https://www.reddit.com/r/BehindTheTables/comments/5z7ahq/quick_temperate_grasslands/
+Grasslands, tropical:https://www.reddit.com/r/BehindTheTables/comments/60aia7/quick_tropical_grassland/
+Jungle:https://redd.it/3u4a05
+jungle encounters:https://www.reddit.com/r/BehindTheTables/comments/759k1v/d100_jungle_encounters/
+Mountains:https://redd.it/42rm5s
+Plains:https://redd.it/47x04h
+Swamp:https://redd.it/43c2q8
+variant:https://redd.it/5xhhlw
+Underdark:https://redd.it/3unfbm

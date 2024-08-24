@@ -27,9 +27,23 @@ for link in soup.find_all("a"):
     url = link.get('href')  # Get the URL from the href attribute
     text = link.get_text()   # Get the text of the hyperlink
 
-    data.append(f"{text}: {url}")
+    if text != "PDF":
+        data.append(f"{text}:{url}") #{text}: 
 
+for i in range(17):
+    data.pop(0)
+
+data = data[:327]
+
+'''
+for i in range(len(data)):
+    if data[i] == "https://redd.it/4iq4of":
+        print(i)
+'''
+
+#'''
 # Write the results to a file
 with open("URLData.txt", "w") as f:
     for item in data:
         f.write(item + "\n")
+#'''
