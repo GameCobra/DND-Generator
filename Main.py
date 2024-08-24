@@ -11,20 +11,25 @@ from requests_html import HTMLSession
 
 
 
-URL = "https://redd.it/4iq4of"
+URL = "https://www.reddit.com/r/BehindTheTables/wiki/index/"
 
 page = requests.get(URL, allow_redirects=True)
-page = requests.get(page.url[:-10], allow_redirects=True)
+
 print(page.url)
 
 soup = BeautifulSoup(page.content, "html.parser")
 
-
+# Create a list to store the data
 data = []
-for link in soup.find_all("a"):
-    data.append(link.get('href'))
 
-f = open("demofile3.txt", "w")
-for item in data:
-    f.write(item + "\n")
-f.close()
+# Loop through all <a> tags (which are links)
+for link in soup.find_all("a"):
+    url = link.get('href')  # Get the URL from the href attribute
+    text = link.get_text()   # Get the text of the hyperlink
+
+    data.append(f"{text}: {url}")
+
+# Write the results to a file
+with open("URLData.txt", "w") as f:
+    for item in data:
+        f.write(item + "\n")
