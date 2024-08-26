@@ -20,20 +20,25 @@ print(page.url)
 soup = BeautifulSoup(page.content, "html.parser")
 
 # Create a list to store the data
-data = []
+mainData = []
 
 # Loop through all <a> tags (which are links)
 for link in soup.find_all("a"):
     url = link.get('href')  # Get the URL from the href attribute
     text = link.get_text()   # Get the text of the hyperlink
-
+    print(text)
     if text != "PDF":
-        data.append(f"{text}:{url}") #{text}: 
+        mainData.append([text,url]) #{text}: 
 
 for i in range(17):
-    data.pop(0)
+    mainData.pop(0)
 
-data = data[:327]
+mainData = mainData[:327]
+
+for i in range(len(mainData)):
+    mainData[i] = [mainData[i][0], requests.get(mainData[i][1], allow_redirects=True).url[:-10]]
+    print(i)
+    #followedURL = requests.get(url, allow_redirects=True)
 
 '''
 for i in range(len(data)):
@@ -44,6 +49,6 @@ for i in range(len(data)):
 #'''
 # Write the results to a file
 with open("URLData.txt", "w") as f:
-    for item in data:
-        f.write(item + "\n")
+    for item in mainData:
+        f.write(item[0] + ":" + item[1] + "\n")
 #'''
