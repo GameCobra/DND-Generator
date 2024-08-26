@@ -14,6 +14,7 @@ from requests_html import HTMLSession
 URL = "https://www.reddit.com/r/BehindTheTables/wiki/index/"
 
 page = requests.get(URL, allow_redirects=True)
+print(page.status_code)
 
 print(page.url)
 
@@ -26,19 +27,26 @@ mainData = []
 for link in soup.find_all("a"):
     url = link.get('href')  # Get the URL from the href attribute
     text = link.get_text()   # Get the text of the hyperlink
-    print(text)
     if text != "PDF":
         mainData.append([text,url]) #{text}: 
 
+print(len(mainData))
 for i in range(17):
     mainData.pop(0)
 
 mainData = mainData[:327]
 
 for i in range(len(mainData)):
-    mainData[i] = [mainData[i][0], requests.get(mainData[i][1], allow_redirects=True).url[:-10]]
+    urlText = requests.get(mainData[i][1], allow_redirects=True).url[:-10]
+    startURLText = "https://www.reddit.com/comments/"
+    if urlText.startswith(startURLText):
+        urlText = "https://www.reddit.com/r/BehindTheTables/comments/" + urlText[len(startURLText):]
+    print(urlText)
+
+    mainData[i] = [mainData[i][0], urlText]
     print(i)
     #followedURL = requests.get(url, allow_redirects=True)
+
 
 '''
 for i in range(len(data)):
@@ -46,9 +54,9 @@ for i in range(len(data)):
         print(i)
 '''
 
-#'''
+'''
 # Write the results to a file
 with open("URLData.txt", "w") as f:
     for item in mainData:
         f.write(item[0] + ":" + item[1] + "\n")
-#'''
+'''
