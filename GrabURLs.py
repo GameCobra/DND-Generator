@@ -14,12 +14,16 @@ from requests_html import HTMLSession
 URL = "https://www.reddit.com/r/BehindTheTables/wiki/index/"
 
 page = requests.get(URL, allow_redirects=True)
-print(page.status_code)
+#print(page.status_code)
 
-print(page.url)
+#print(page.url)
 
 soup = BeautifulSoup(page.content, "html.parser")
-
+'''
+print(soup.text)
+with open("basic.txt", "w") as f:
+    f.write(page.text)
+'''
 # Create a list to store the data
 mainData = []
 
@@ -41,6 +45,9 @@ for i in range(len(mainData)):
     startURLText = "https://www.reddit.com/comments/"
     if urlText.startswith(startURLText):
         urlText = "https://www.reddit.com/r/BehindTheTables/comments/" + urlText[len(startURLText):]
+        advancedPage = requests.get(urlText, allow_redirects=True)
+        print(advancedPage.text.find("<shreddit-redirect href="))
+
     print(urlText)
 
     mainData[i] = [mainData[i][0], urlText]
@@ -48,15 +55,8 @@ for i in range(len(mainData)):
     #followedURL = requests.get(url, allow_redirects=True)
 
 
-'''
-for i in range(len(data)):
-    if data[i] == "https://redd.it/4iq4of":
-        print(i)
-'''
 
-'''
 # Write the results to a file
 with open("URLData.txt", "w") as f:
     for item in mainData:
         f.write(item[0] + ":" + item[1] + "\n")
-'''
