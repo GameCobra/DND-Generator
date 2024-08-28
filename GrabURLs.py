@@ -10,7 +10,6 @@ from requests_html import HTMLSession
 # use that as the redit page to look at
 
 
-
 URL = "https://www.reddit.com/r/BehindTheTables/wiki/index/"
 
 page = requests.get(URL, allow_redirects=True)
@@ -34,6 +33,7 @@ for link in soup.find_all("a"):
     if text != "PDF":
         mainData.append([text,url]) #{text}: 
 
+
 print(len(mainData))
 for i in range(17):
     mainData.pop(0)
@@ -41,22 +41,29 @@ for i in range(17):
 mainData = mainData[:327]
 
 for i in range(len(mainData)):
-    urlText = requests.get(mainData[i][1], allow_redirects=True).url[:-10]
-    startURLText = "https://www.reddit.com/comments/"
-    if urlText.startswith(startURLText):
+    startURLText = "https://redd.it/"
+    if mainData[i][1].startswith(startURLText):
+        urlText = requests.get(mainData[i][1], allow_redirects=True).url[:-10]
         urlText = "https://www.reddit.com/r/BehindTheTables/comments/" + urlText[len(startURLText):]
         advancedPage = requests.get(urlText, allow_redirects=True)
-        print(advancedPage.text.find("<shreddit-redirect href="))
+        pageText = advancedPage.text
+        startFindText = "<shreddit-canonical-url-updater value="
+        startTextIndex = pageText.find(startFindText)
+        if startTextIndex == -1:
+            continue
+        pageText = pageText[startTextIndex + 1 + len(startFindText):]
+        pageText = pageText[:pageText.find("></shreddit-canonical-url-updater>") - 1]
+        urlText = pageText
+        mainData[i] = [mainData[i][0], urlText]
+    #print(urlText)
 
-    print(urlText)
-
-    mainData[i] = [mainData[i][0], urlText]
+    #mainData[i] = [mainData[i][0], urlText]
     print(i)
     #followedURL = requests.get(url, allow_redirects=True)
 
 
 
 # Write the results to a file
-with open("URLData.txt", "w") as f:
+with open("URLData.txt", "w", encoding="utf-8") as f:
     for item in mainData:
         f.write(item[0] + ":" + item[1] + "\n")
