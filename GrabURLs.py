@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests 
 from requests_html import HTMLSession
-
+import time
 
 # Everything broken
 # Get the redirect of the url found on the redit page
@@ -10,10 +10,15 @@ from requests_html import HTMLSession
 # use that as the redit page to look at
 
 
+
 URL = "https://www.reddit.com/r/BehindTheTables/wiki/index/"
 
-page = requests.get(URL, allow_redirects=True)
-#print(page.status_code)
+while True:
+    page = requests.get(URL, allow_redirects=True)
+    print(page.status_code)
+    time.sleep(3)
+    if page.status_code == 200:
+        break
 
 #print(page.url)
 
@@ -33,31 +38,34 @@ for link in soup.find_all("a"):
     if text != "PDF":
         mainData.append([text,url]) #{text}: 
 
-
-print(len(mainData))
+#print(len(mainData))
 for i in range(17):
     mainData.pop(0)
 
 mainData = mainData[:327]
 
 for i in range(len(mainData)):
-    startURLText = "https://redd.it/"
-    if mainData[i][1].startswith(startURLText):
-        urlText = requests.get(mainData[i][1], allow_redirects=True).url[:-10]
-        urlText = "https://www.reddit.com/r/BehindTheTables/comments/" + urlText[len(mainData[i][1]):]
+    #time.sleep(0.25)
+    urlData = requests.get("https://redd.it/3xys3d", allow_redirects=True)
+    urlText = urlData.url[:-10]
+    startURLText = "https://www.reddit.com/comments/"
+    if urlText.startswith(startURLText):
+        urlText = "https://www.reddit.com/r/BehindTheTables/comments/" + urlText[len(startURLText):]
         advancedPage = requests.get(urlText, allow_redirects=True)
         pageText = advancedPage.text
-        startFindText = "<shreddit-canonical-url-updater value="
-        startTextIndex = pageText.find(startFindText)
-        if startTextIndex == -1:
-            continue
-        pageText = pageText[startTextIndex + 1 + len(startFindText):]
-        pageText = pageText[:pageText.find("></shreddit-canonical-url-updater>") - 1]
-        urlText = pageText
-        mainData[i] = [mainData[i][0], urlText]
-    #print(urlText)
+        startText = "<shreddit-redirect href="
+        pageText = pageText[pageText.find(startText) + 1 + len(startText):]
+        pageText = pageText[:pageText.find("></shreddit-redirect>") - 1]
+        startBitToAdd = "https://www.reddit.com"
+        urlText = startBitToAdd + pageText
 
-    #mainData[i] = [mainData[i][0], urlText]
+    #print(urlText)
+    if urlData.status_code == 429:
+        print("error")
+        i -= 1
+        time.sleep(3)
+        continue
+    mainData[i] = [mainData[i][0], urlText]
     print(i)
     #followedURL = requests.get(url, allow_redirects=True)
 
