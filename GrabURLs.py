@@ -44,7 +44,7 @@ for i in range(len(mainData)):
     startURLText = "https://redd.it/"
     if mainData[i][1].startswith(startURLText):
         urlText = requests.get(mainData[i][1], allow_redirects=True).url[:-10]
-        urlText = "https://www.reddit.com/r/BehindTheTables/comments/" + urlText[len(startURLText):]
+        urlText = "https://www.reddit.com/r/BehindTheTables/comments/" + urlText[len(mainData[i][1]):]
         advancedPage = requests.get(urlText, allow_redirects=True)
         pageText = advancedPage.text
         startFindText = "<shreddit-canonical-url-updater value="
