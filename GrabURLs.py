@@ -38,33 +38,39 @@ for link in soup.find_all("a"):
     if text != "PDF":
         mainData.append([text,url]) #{text}: 
 
+
 #print(len(mainData))
 for i in range(17):
     mainData.pop(0)
 
-mainData = mainData[:327]
+mainData = mainData[:50] #327
 
-for i in range(len(mainData)):
-    #time.sleep(0.25)
-    urlData = requests.get("https://redd.it/3xys3d", allow_redirects=True)
+for i in range(50): #len(mainData)
+    print(mainData[i][1])
+    time.sleep(1)
+    removeURL = "https://redd.it/"
+    urlData = requests.get(removeURL + mainData[i][1][len(removeURL):], allow_redirects=True)
     urlText = urlData.url[:-10]
+    print(urlText)
     startURLText = "https://www.reddit.com/comments/"
     if urlText.startswith(startURLText):
         urlText = "https://www.reddit.com/r/BehindTheTables/comments/" + urlText[len(startURLText):]
+        print(urlText)
         advancedPage = requests.get(urlText, allow_redirects=True)
         pageText = advancedPage.text
         startText = "<shreddit-redirect href="
         pageText = pageText[pageText.find(startText) + 1 + len(startText):]
         pageText = pageText[:pageText.find("></shreddit-redirect>") - 1]
+        print(pageText)
         startBitToAdd = "https://www.reddit.com"
         urlText = startBitToAdd + pageText
 
     #print(urlText)
     if urlData.status_code == 429:
         print("error")
-        i -= 1
-        time.sleep(3)
-        continue
+        #i -= 1
+        time.sleep(45)
+        #continue
     mainData[i] = [mainData[i][0], urlText]
     print(i)
     #followedURL = requests.get(url, allow_redirects=True)
