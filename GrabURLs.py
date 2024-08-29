@@ -10,6 +10,23 @@ import time
 # use that as the redit page to look at
 
 
+def getRedirect(URLText: str):
+    startText = "<shreddit-redirect href="
+    pageText = urlText[urlText.find(startText) + 1 + len(startText):]
+    index = pageText.find("></shreddit-redirect>")
+    pageText = pageText[:index - 1]
+    prefix = "https://www.reddit.com"
+    pageText = prefix + pageText
+    return pageText, index
+
+def deapRedirect(URL: str):
+    page = requests.get(URL, allow_redirects=True).text
+    text, index = getRedirect(page)
+    if index == -1:
+        return URL
+    else:
+        deapRedirect(text)
+
 
 URL = "https://www.reddit.com/r/BehindTheTables/wiki/index/"
 
@@ -58,9 +75,7 @@ for i in range(50): #len(mainData)
         print(urlText)
         advancedPage = requests.get(urlText, allow_redirects=True)
         pageText = advancedPage.text
-        startText = "<shreddit-redirect href="
-        pageText = pageText[pageText.find(startText) + 1 + len(startText):]
-        pageText = pageText[:pageText.find("></shreddit-redirect>") - 1]
+        pageText = getRedirect(pageText)[0]
         print(pageText)
         startBitToAdd = "https://www.reddit.com"
         urlText = startBitToAdd + pageText
