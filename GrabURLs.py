@@ -12,7 +12,7 @@ import time
 
 def getRedirect(URLText: str):
     startText = "<shreddit-redirect href="
-    pageText = urlText[urlText.find(startText) + 1 + len(startText):]
+    pageText = URLText[URLText.find(startText) + 1 + len(startText):]
     index = pageText.find("></shreddit-redirect>")
     pageText = pageText[:index - 1]
     prefix = "https://www.reddit.com"
@@ -20,22 +20,21 @@ def getRedirect(URLText: str):
     return pageText, index
 
 def deapRedirect(URL: str):
-    page = requests.get(URL, allow_redirects=True).text
-    text, index = getRedirect(page)
+    page = requests.get(URL, allow_redirects=True)
+    if page.status_code == 429:
+        print("error 429")
+        exit()
+    text, index = getRedirect(page.text)
     if index == -1:
         return URL
     else:
-        deapRedirect(text)
+        return deapRedirect(text)
 
 
 URL = "https://www.reddit.com/r/BehindTheTables/wiki/index/"
 
-while True:
-    page = requests.get(URL, allow_redirects=True)
-    print(page.status_code)
-    time.sleep(3)
-    if page.status_code == 200:
-        break
+page = requests.get(URL, allow_redirects=True)
+print(page.status_code)
 
 #print(page.url)
 
@@ -61,10 +60,10 @@ for i in range(17):
     mainData.pop(0)
 
 mainData = mainData[:50] #327
-
+'''
 for i in range(50): #len(mainData)
     print(mainData[i][1])
-    time.sleep(1)
+    #time.sleep(1)
     removeURL = "https://redd.it/"
     urlData = requests.get(removeURL + mainData[i][1][len(removeURL):], allow_redirects=True)
     urlText = urlData.url[:-10]
@@ -91,6 +90,14 @@ for i in range(50): #len(mainData)
     #followedURL = requests.get(url, allow_redirects=True)
 
 
+'''
+for i in range(10): #len(mainData)
+    wantToRemovePrefix = "https://redd.it/"
+    appendPrefix = "https://www.reddit.com/comments/"
+    if mainData[i][1].startswith(wantToRemovePrefix):
+        modifiedURL = appendPrefix + mainData[i][1][len(wantToRemovePrefix):]
+        mainData[i][1] = deapRedirect(modifiedURL)
+    print(i)
 
 # Write the results to a file
 with open("URLData.txt", "w", encoding="utf-8") as f:
