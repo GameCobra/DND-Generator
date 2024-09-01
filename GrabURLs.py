@@ -59,7 +59,7 @@ for link in soup.find_all("a"):
 for i in range(17):
     mainData.pop(0)
 
-mainData = mainData[:50] #327
+mainData = mainData[:327] #327
 '''
 for i in range(50): #len(mainData)
     print(mainData[i][1])
@@ -91,13 +91,15 @@ for i in range(50): #len(mainData)
 
 
 '''
-for i in range(10): #len(mainData)
-    wantToRemovePrefix = "https://redd.it/"
-    appendPrefix = "https://www.reddit.com/comments/"
-    if mainData[i][1].startswith(wantToRemovePrefix):
-        modifiedURL = appendPrefix + mainData[i][1][len(wantToRemovePrefix):]
-        mainData[i][1] = deapRedirect(modifiedURL)
-    print(i)
+for j in range(32):
+    for i in range(10): #len(mainData)
+        wantToRemovePrefix = "https://redd.it/"
+        appendPrefix = "https://www.reddit.com/comments/"
+        if mainData[i + j * 10][1].startswith(wantToRemovePrefix):
+            modifiedURL = appendPrefix + mainData[i + j * 10][1][len(wantToRemovePrefix):]
+            mainData[i + j * 10][1] = deapRedirect(modifiedURL)
+        print(f"{j} : {i}")
+    time.sleep(45)
 
 # Write the results to a file
 with open("URLData.txt", "w", encoding="utf-8") as f:
