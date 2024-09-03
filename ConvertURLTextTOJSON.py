@@ -2,8 +2,12 @@ import json
 file = open('URLData.txt', 'r')
 Lines = file.readlines()
 
-L = [{"Name":1, "URL": 2}]
+
+JSONList = []
 
 for line in Lines:
     splitText = line.split("|")
-    #print(name)
+    JSONList.append({"Name":splitText[0], "URL":splitText[1]})
+
+with open('SiteDAtaJSON.json', 'w') as f:
+    json.dump(JSONList, f)
