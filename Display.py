@@ -6,12 +6,17 @@ with open('SiteDataJSON.json') as f:
     URLJSON = json.load(f)
     #print(URLJSON)
 
-t = {"v":1, "b": 2}
+def mainDictToList():
+    newList = []
+    for i in URLJSON:
+        newList.append(i["Name"])
+    return newList
 
-print(t["v"])
 def displaySelectionList(itemeList: list, menuName: str):
     print(f"-----{menuName}-----")
     for i in range(len(itemeList)):
-        print(f"{i} - {itemeList[i]['Name']}")
+        print(f"{i} - {itemeList[i]}")
+    return input("> ")
 
-displaySelectionList(URLJSON, "main")
+ 
+displaySelectionList(mainDictToList(), "main")
