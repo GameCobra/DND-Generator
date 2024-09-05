@@ -12,17 +12,13 @@ def mainDictToList():
         newList.append(i["Name"])
     return newList
 
-def isInputNumber(inputVal : str, reCall : bool = False, toCall = None):
+def isInputNumber(inputVal : str):
     try:
         inputVal = int(inputVal)
     except:
-        if reCall == True:
-            f = toCall()
-            return isInputNumber(f, reCall, toCall)
-        else:
-            return None
-    else:
         return None
+    else:
+        return inputVal
         
 
 def displaySelectionList(itemeList: list, menuName: str):
@@ -37,7 +33,9 @@ def mainMenu():
 #mainMenu()
 
 def randomThingGenerator():
-    isInputNumber(displaySelectionList(mainDictToList(), "random"))
+    result = isInputNumber(displaySelectionList(mainDictToList(), "random"))
+    if result == None:
+        randomThingGenerator()
 
 randomThingGenerator()
 
