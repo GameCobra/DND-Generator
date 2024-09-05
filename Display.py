@@ -1,4 +1,5 @@
 import json
+import time
 
 URLJSON = dict()
 
@@ -11,6 +12,9 @@ def mainDictToList():
     for i in URLJSON:
         newList.append(i["Name"])
     return newList
+
+#* Wanted commands
+#* Sel, Main, Ser
 
 def isInputNumber(inputVal : str):
     try:
@@ -35,6 +39,8 @@ def mainMenu():
 def randomThingGenerator():
     result = isInputNumber(displaySelectionList(mainDictToList(), "random"))
     if result == None:
+        print("Plese enter a propper value")
+        time.sleep(1)
         randomThingGenerator()
 
 randomThingGenerator()
