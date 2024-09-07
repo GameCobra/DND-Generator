@@ -3,6 +3,8 @@ import time
 
 URLJSON = dict()
 
+#use https://names.ironarachne.com/  (for name generator)
+
 with open('SiteDataJSON.json') as f:
     URLJSON = json.load(f)
     #print(URLJSON)
