@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests 
 from requests_html import HTMLSession
 import time
+import json
 
 URL = "https://www.reddit.com/r/BehindTheTables/comments/4iq4of/basic_dungeons/"
 
@@ -12,12 +13,27 @@ page = requests.get(URL, allow_redirects=True)
 
 #soup = BeautifulSoup(page.content, "html.parser")
 
+vals = []
+
 def firstTable(inputText : str):
     text = inputText
     firstValue = inputText.find("<strong>d")
     text = text[firstValue:]
-    secondValue = text.find("</ol><p>")
+    secondValue = text.find("</ol>")
+    print(secondValue)
     text = text[:secondValue]
     return text, secondValue + firstValue
 
-print(firstTable(page.text)[0])
+def getTables(inputText : str, depth : int):
+    result = firstTable(inputText)
+    if result[0] == "":
+        return
+    vals.append(result[0])
+    inputText = inputText[result[1]:]
+    if depth > 0:
+        getTables(inputText, depth - 1)
+
+getTables(page.text, 10)
+
+with open("Test.json", "w") as f:
+    json.dump(vals, f)
