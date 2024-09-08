@@ -12,7 +12,12 @@ page = requests.get(URL, allow_redirects=True)
 
 #soup = BeautifulSoup(page.content, "html.parser")
 
-firstValue = page.text.find("<strong>d")
-text = page.text[firstValue:]
-text = text[:text.find("</ol><p>")]
-print(text)
+def firstTable(inputText : str):
+    text = inputText
+    firstValue = inputText.find("<strong>d")
+    text = text[firstValue:]
+    secondValue = text.find("</ol><p>")
+    text = text[:secondValue]
+    return text, secondValue + firstValue
+
+print(firstTable(page.text)[0])
