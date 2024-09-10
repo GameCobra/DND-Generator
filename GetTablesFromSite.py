@@ -28,12 +28,16 @@ def getTables(inputText : str, depth : int):
     result = firstTable(inputText)
     if result[0] == "":
         return
-    vals.append(result[0])
+    vals[len(vals) - 1]['Table'].append(result[0])
     inputText = inputText[result[1]:]
     if depth > 0:
         getTables(inputText, depth - 1)
 
-getTables(page.text, 10)
+def fullTable(inputText : str, inputName : str):
+    vals.append({"Name": inputName, "Table" : []})
+    getTables(inputText, 10)
+
+fullTable(page.text, "Basic")
 
 with open("Test.json", "w") as f:
     json.dump(vals, f)
