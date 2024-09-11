@@ -20,7 +20,7 @@ def firstTable(inputText : str):
     firstValue = inputText.find("<strong>d")
     text = text[firstValue:]
     secondValue = text.find("</ol>")
-    print(secondValue)
+    #print(secondValue)
     text = text[:secondValue]
     return text, secondValue + firstValue
 
@@ -37,7 +37,19 @@ def fullTable(inputText : str, inputName : str):
     vals.append({"Name": inputName, "Table" : []})
     getTables(inputText, 10)
 
-fullTable(page.text, "Basic")
+#fullTable(page.text, "Basic")
 
-with open("Test.json", "w") as f:
+#with open("Test.json", "w") as f:
+#    json.dump(vals, f)
+
+with open("SiteDataJSON.json", "r") as f:
+    JSONList = json.load(f)
+
+for i in range(5):
+    print(i)
+    page = requests.get(JSONList[i]["URL"], allow_redirects=True)
+    fullTable(page.text, JSONList[i]["Name"])
+    time.sleep(2.5)
+
+with open("Tables.json", "w") as f:
     json.dump(vals, f)
