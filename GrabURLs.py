@@ -98,7 +98,7 @@ for j in range(32):
         if mainData[i + j * 10][1].startswith(wantToRemovePrefix):
             modifiedURL = appendPrefix + mainData[i + j * 10][1][len(wantToRemovePrefix):]
             mainData[i + j * 10][1] = deapRedirect(modifiedURL)
-        print(f"{j} : {i}")
+        print(f"{j} | {i}")
     time.sleep(45)
 
 # Write the results to a file
