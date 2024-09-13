@@ -1,0 +1,766 @@
+Random Dungeon Dressing
+d100 Air Currents
+01-05. breeze, slight.
+06-10. breeze, slight, damp.
+11-12. breeze, gusting.
+13-18. cold current.
+19-20. downdraft, slight.
+21-22. downdraft, strong.
+23-69. still.
+70-75. still, very chill.
+76-85. still, warm (or hot).
+86-87. updraft, slight.
+88-89. updraft, strong.
+90-93. wind, strong.
+94-95. wind, strong, gusting.
+96-100. wind, strong, moaning.
+
+d100 Odors
+01-03. acrid smell.
+04-05. chlorine smell.
+06-39. dank, mouldy smell.
+40-49. earthy smell.
+50-57. manure smell.
+58-61. metallic smell.
+62-65. ozone smell.
+66-70. putrid smell.
+71-75. rotting vegetation smell.
+76-77. salty, wet smell.
+78-82. smoky smell.
+83-89. stale, fetid smell.
+90-95. sulphurous smell.
+96-100. urine smell.
+
+d100 Air
+01-70. clear.
+71-80. foggy (or steamy).
+81-88. foggy near floor (or steamy).
+89-90. hazy (dust).
+91-100. misted.
+
+d100 General features
+
+arrow, broken.
+02-04. ashes.
+05-06. bones.
+
+bottle, broken.
+
+chain, corroded.
+
+club, splintered.
+10-19. cobwebs.
+
+coin, copper (bent).
+21-22. cracks, ceiling.
+23-24. cracks, floor.
+25-26. cracks, wall.
+
+dagger hilt.
+28-29. dampness, ceiling.
+30-33. dampness, wall.
+34-40. dripping.
+
+dried blood.
+42-44. dung.
+45-49. dust.
+
+flask, cracked.
+
+food scraps.
+
+fungi, common.
+53-55. guano.
+
+hair/fur bits.
+
+hammer head, cracked.
+
+helmet, badly dented.
+
+iron bar, bent, rusted.
+
+javelin head, blunt.
+
+leather boot.
+62-64. leaves (dry) & twigs.
+65-68. mold (common).
+
+pick handle.
+
+pole, broken.
+
+pottery shards.
+72-73. rags.
+
+rope, rotten.
+75-76. rubble & dirt.
+
+sack, torn.
+
+slimy coating, ceiling.
+
+slimy coating, floor.
+
+slimy coating, wall.
+
+spike, rusted.
+82-83. sticks.
+
+stones, small.
+
+straw.
+
+sword blade, broken.
+
+teeth/fangs, scattered.
+88-89. torch stub.
+90-91. wall scratchings.
+92-93. water, small puddle.
+94-95. water, large puddle.
+
+water, trickle.
+
+wax blob (candle stub).
+98-100. wood pieces, rotting.
+
+d100 Unexplained Sounds and Weird Noises
+01-05. bang, slam.
+06. bellow(ing).
+07. bong.
+08. buzzing.
+09-10. chanting.
+11. chiming.
+12. chirping.
+13. clanking.
+14. clashing.
+15. clicking.
+16. coughing.
+17-18. creaking.
+19. drumming.
+20-23. footsteps (ahead).
+24-26. footsteps (approaching).
+27-29. footsteps (behind).
+30-31. footsteps (receding).
+32-33. footsteps (side).
+34-35. giggling (faint).
+36. gong.
+37-39. grating.
+40-41. groaning.
+42. grunting.
+43-44. hissing.
+45. hooting.
+46. horn/trumpet sounding.
+47. howling.
+48. humming.
+49. jingling.
+50-53. knocking.
+54-55. laughter.
+56-57. moaning.
+58-60. murmuring.
+61. music.
+62. rattling.
+63. ringing.
+64. roar(ing).
+65-68. rustling.
+69-72. scratching/scrabbling.
+73-74. scream(ing).
+75-77. scuttling.
+78. shuffling.
+79-80. slithering.
+81. snapping.
+82. sneezing.
+83. sobbing.
+84. splashing.
+85. splintering.
+86-87. squeaking.
+88. squealing.
+89-90. tapping.
+91-92. thud.
+93-94. thumping.
+95. tinkling.
+96. twanging.
+97. whining.
+98. whispering.
+99-100. whistling.
+
+d100 Furnishing and Appointments, General
+
+altar.
+
+armchair.
+
+armoire.
+
+arross.
+
+bag.
+
+barrel.
+07-08. bed.
+
+bench.
+
+blanket.
+
+box (large).
+
+brazier & charcoal.
+
+bucket.
+
+buffet.
+
+bunks.
+
+butt (large barrel).
+
+cabinet.
+
+candelabrum.
+
+carpet (large).
+
+cask.
+
+chandelier.
+
+charcoal.
+23-24. chair.
+
+chair, padded.
+
+chair, padded, arm.
+
+chest, large.
+
+chest, medium.
+
+chest of drawers.
+
+closet (wardrobe).
+
+coal.
+32-33. couch.
+
+crate.
+
+cresset.
+
+cupboard.
+
+cushion.
+
+dias.
+
+desk.
+40-42. fireplace & wood.
+
+fireplace with mantle.
+
+firkin.
+
+fountain.
+
+fresco.
+
+grindstone.
+
+hamper.
+
+hassock.
+
+hogshead.
+
+idol (large).
+
+keg.
+
+loom.
+
+mat.
+
+mattress.
+
+pail.
+
+painting.
+58-60. pallet.
+
+pedestal.
+62-64. pegs.
+
+pillow.
+
+pipe (large cask).
+
+quilt.
+68-70. rug(small/medium).
+
+rushes.
+
+sack.
+
+sconce, wall.
+
+screen.
+
+sheet.
+76-77. shelf.
+
+shrine.
+
+sideboard.
+
+sofa.
+
+staff, normal.
+
+stand.
+
+statue.
+
+stool, high.
+
+stool, normal.
+
+table, large.
+
+table, long.
+
+table, low.
+
+table, round.
+
+table, small.
+
+table, trestle.
+
+tapestry.
+
+throne.
+
+trunk.
+
+tub.
+
+tun.
+
+urn.
+
+wall basin and font.
+
+wood billets.
+
+workbench.
+
+d100 Religious Articles and Furnishings
+01-05. altar.
+06-08. bell(s).
+09-11. brazier(s).
+12. candleabra.
+13-14. candles.
+15. candlesticks.
+16. cassocks.
+17. chime(s).
+18-19. cloth (altar).
+20-23. columns/pillars.
+24. curtain/tapestry.
+25. drum.
+26-27. font.
+28-29. gong.
+30-35. holy/unholy symbol(s).
+36-37. holy/unholy writings.
+38-43. idol(s).
+44-48. incense burner(s).
+49. kneeling bench.
+50-53. lamp(s).
+54. lectern.
+55. mosaics.
+56-58. offertory container.
+59. paintings/frescoes.
+60-61. pews.
+62. pipes (musical).
+63. prayer rug.
+64. pulpit.
+65. rail.
+66-67. robes.
+68-69. sanctuary.
+70-71. screen.
+72-76. shrine.
+77. side chair(s).
+78-79. stand.
+80-82. statues(s).
+83. throne.
+84-85. thurible.
+86-88. tripod.
+89-90. vestry.
+91-97. vestments.
+98-99. votive light.
+100. whistle.
+
+d100 Torture Chamber Furnishings
+01-02. bastinadoes.
+03. bell (huge).
+04-06. bench.
+07-10. boots (iron).
+11-15. branding irons.
+16-20. brazier.
+21-22. cage.
+23-26. chains.
+27. chair with straps.
+28. clamps.
+29-31. cressets.
+32. fetters.
+33-35. fire pit.
+36. grill.
+37-38. hooks.
+39-43. iron maiden.
+44. knives.
+45. manacles.
+46. oubliette.
+47-48. oil (barrel of).
+49-50. pillory.
+51-54. pincers.
+55-56. pliers.
+57-58. pot (huge).
+59-66. rack.
+67-68. ropes.
+69. stocks.
+70-71. stool.
+72-75. strappado.
+76-78. straw.
+79-80. table.
+81. thongs.
+82-85. thumb screws.
+86-88. torches.
+89-90. "U" rack.
+91. vice.
+92-93. well.
+94-96. wheel.
+97-100. whips.
+
+d100 Magic-User Furnishings
+01-03. alembic.
+04-05. balance & weights.
+06-09. beaker.
+10. bellows.
+11. bladder.
+12-13. bottle.
+14-16. book.
+17. bowl.
+18. box.
+19-22. brazier.
+23. cage.
+24-25. cauldron.
+26. candle.
+27. candlestick.
+28. carafe.
+29-30. chalk.
+31. crucible.
+32. cruet.
+33. crystal ball.
+34. decanter.
+35. desk.
+36. dish.
+37-38. flask.
+39. funnel.
+40. furnace.
+41-44. herbs.
+45. horn.
+46. hourglass.
+47-48. jar.
+49. jug.
+50. kettle.
+51. ladle.
+52. lamp.
+53. lens (concave, convex, etc...).
+54. magic circle.
+55. mortar & pestle.
+56. pan.
+57-58. parchment.
+59. pentacle.
+60. pentagram.
+61. phial.
+62. pipette.
+63. pot.
+64. prism.
+65. quill.
+66-68. retort.
+69. rod, mixing/stirring.
+70-71. scroll.
+72. scroll tube.
+73. sheet.
+74. skin.
+75. skull.
+76. spatula.
+77. spoon, measuring.
+78. stand.
+79. stool.
+80. stuffed animal.
+81. tank (container).
+82. tongs.
+83. tripod.
+84. tube (container).
+85-86. tube (piping).
+87. tweezers.
+88-90. vial.
+91. waterclock.
+92. wire.
+93-100. workbench.
+
+d100 General Description of Container Contents
+01-03. ash.
+04-06. bark.
+07-09. bone.
+10-14. chunks.
+15-17. cinders.
+18-22. crystals.
+23-26. dust.
+27-28. fibers.
+29-31. gelatin.
+32-33. globes.
+34-37. grains.
+38-40. greasy.
+41-43. husks.
+44-48. leaves.
+49-56. liquid.
+57-58. lump(s).
+59-61. oily.
+62-65. paste.
+66-68. pellets.
+69-81. powder.
+82-83. semi-liquid.
+84-85. skin/hide.
+86-87. splinters.
+88-89. stalks.
+90-92. strands.
+93-95. strips.
+96-100. viscous.
+
+d100 Miscellaneous Utensils and Personal Items
+
+awl.
+
+bandages.
+
+basin.
+04-05. basket.
+
+beater.
+
+book.
+08-09. bottle.
+
+bowl.
+
+box (small).
+12-13. brush.
+
+candle.
+
+candle snuffer.
+
+candlestick.
+
+cane (walking stick).
+
+case.
+
+casket (small).
+
+chopper.
+
+coffer.
+
+cologne.
+
+comb.
+
+cup.
+
+decanter.
+
+dipper.
+
+dish.
+
+earspoon.
+
+ewer.
+
+flagon.
+
+flask.
+
+food.
+
+fork.
+
+grater.
+
+grinder.
+
+hourglass.
+
+jack (container).
+
+jar.
+
+jug.
+
+kettle.
+
+knife.
+
+knucklebones.
+
+ladle.
+44-45. lamp/lantern.
+
+masher.
+
+mirror.
+
+mug.
+
+needle(s).
+
+oil, cooking (or fuel).
+
+oil fuel.
+
+oil, scented.
+
+pan.
+
+parchment.
+
+pitcher.
+
+pipe, musical.
+
+pipe, smoking.
+
+plate.
+
+platter.
+
+pot.
+
+pouch.
+
+puff.
+
+quill.
+
+razor.
+
+rope.
+
+salve.
+
+saucer.
+
+scraper.
+
+scroll.
+
+shaker.
+
+sifter.
+
+soap.
+
+spigot.
+
+spoon.
+
+stopper.
+
+statuette/figurine.
+
+strainer.
+
+tankard.
+
+thongs.
+
+thread.
+81-84. tinderbox (with flint & steel).
+85-86. towel.
+
+tray.
+
+trivet.
+
+tureen.
+90-91. twine.
+
+unguent.
+
+vase.
+
+vial.
+
+wallet.
+
+washcloth.
+
+whetstone.
+
+wig.
+
+wool.
+
+yarn.
+
+d100 Clothing and Footwear
+01-02. apron.
+03-04. belt.
+05. blouse.
+06-08. boots.
+09. buskins.
+10-11. cap.
+12-13. cape.
+14-16. cloak.
+17-18. coat.
+19. coif.
+20. doublet.
+21-22. dress.
+23-24. frock/pinafore.
+25-26. gauntlets.
+27-28. girdle.
+29. gloves.
+30-31. gown.
+32-34. hat.
+35. habit.
+36-39. hood.
+40-41. hose.
+42-43. jerkin.
+44. jupon.
+45-46. kerchief.
+47-48. kirtle.
+49-50. leggings.
+51-54. linen (drawers).
+55-58. linen (undershirt).
+59. mantle.
+60. pantaloons.
+61-62. petticoat.
+63-66. pouch/purse.
+67-70. robe.
+71-74. sandals.
+75-76. scarf.
+77. shawl.
+78-79. shift.
+80-83. slippers.
+84-86. smock.
+87-89. stockings.
+90. surcoat.
+91. toga.
+92-94. trousers.
+95-96. tunic.
+97. veil.
+98. vest.
+99. wallet.
+100. wrapper.
