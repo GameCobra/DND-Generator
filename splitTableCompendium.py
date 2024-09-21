@@ -10,6 +10,9 @@ for i in range(len(Lines)):
     textLines.append(Lines[i].replace("\n", ""))
     if len(textLines[len(textLines) - 1]) == 0:
         textLines.pop(len(textLines) - 1)
+
+
+
 '''
 pageName = textLines[0]
 textLines.pop(0)
