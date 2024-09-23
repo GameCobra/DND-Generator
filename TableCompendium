@@ -2109,8 +2109,7 @@ d12 Law Enforcement: The laws are...
 11. Enforced by a cheerful drunken sheriff.
 12. Enforced by a rigid soldier-turned-sheriff.
 
-d20 Power Players: Within or outside the
-government, power is held by...
+d20 Power Players: Within or outside the government, power is held by...
 1. A ruthless assassins’ guild.
 2. A populist demagogue.
 3. The captain of a mercenary company.
@@ -2131,6 +2130,7 @@ government, power is held by...
 18. A conniving vampire or fiend.
 19. A bold war hero.
 20. A clever witch or wizard.
+
 d20 Landmark: You see a/an..
 1. Academy or university.
 2. Ancient ruin.
@@ -2143,10 +2143,8 @@ d20 Landmark: You see a/an..
 9. Library.
 10. Lighthouse or watchtower.
 11. Marketplace.
-12. Memorial (d4): 1. mausoleum; 2. reflecting
-pool; 3. large statue; 4. botanical garden.
-13. Monument (d6): 1. colossus; 2. column; 3.
-obelisk; 4. plaque; 5. rotunda; 6. wall.
+12. Memorial (d4): 1. mausoleum; 2. reflecting pool; 3. large statue; 4. botanical garden.
+13. Monument (d6): 1. colossus; 2. column; 3. obelisk; 4. plaque; 5. rotunda; 6. wall.
 14. Palace.
 15. Parade grounds or drilling yard
 16. Pier, marina, or traveler's bazaar.
@@ -2166,72 +2164,36 @@ d20 District: This part of the city is the..
 8. Docks district. 18. Civic center.
 9. Riverfront district. 19. Ethnic enclave.
 10. Harbor district. 20. Foreign enclave.
+
 d20 Streets: The locals call this street...
 1. (d6): 1. Armory Street; 2. Barricade Street;
-3. Knight Street; 4. Pike Street; 5. Shield
-Street; 6. Spear Street.
+3. Knight Street; 4. Pike Street; 5. Shield Street; 6. Spear Street.
 2. (d6): 1. Arch Street; 2. Bridge Street.;
-3. Canal Street; 4. Cross Street; 5. Falls
-Road; 6. River Street.
+3. Canal Street; 4. Cross Street; 5. Falls Road; 6. River Street.
 3. (d6): 1. Castle Street; 2. Inn Street;
-3. Keep Street; 3. Rock Way; 4. House
-Street; 5. Hovel St.; 6. Tower Street.
+3. Keep Street; 3. Rock Way; 4. House Street; 5. Hovel St.; 6. Tower Street.
 4. (d6): 1. Cattle Road; 2. Common Street;
 3. Green Street; 4. Greenway Street;
 5. Meadow Lane; 6. Orchard Street.
-5. (d6): 1. Cooper Street; 2. Mason Street;
-3. Smith Street; 4. Tailor Street; 5. Stone
-Street; 6. Weaver Street.
-6. (d6): 1. Bluff Street; 2. Crestline Way;
-3. High Street; 4. Highland Way; 5. Hilltop
-Lane; 6. Ridge Street.
-7. (d6): 1. Devil's Alley; 2. Magpie Lane;
-3. Paupers Street; 4. Penny Lane; 5. Rat's
-Alley; 6. Serpent's Alley.
+5. (d6): 1. Cooper Street; 2. Mason Street; 3. Smith Street; 4. Tailor Street; 5. Stone Street; 6. Weaver Street.
+6. (d6): 1. Bluff Street; 2. Crestline Way; 3. High Street; 4. Highland Way; 5. Hilltop Lane; 6. Ridge Street.
+7. (d6): 1. Devil's Alley; 2. Magpie Lane; 3. Paupers Street; 4. Penny Lane; 5. Rat's Alley; 6. Serpent's Alley.
 8. Market Street.
-9. (d6): 1. Baker Street; 2. Hook Street;
-3. Farm Road; 4. Feather Street; 5. Mill
-Street; 6. Ranchers Road.
-10. (d6): 1. Banner Road; 2. Drum Street;
-3. March Street; 4. Parade Street;
-5. Trumpet Street; 6. Victory Lane.
-11. (d6): 1. Crown Street; 2. King Street;
-3. Lords Lane; 4. Palace Way; 5. Queens
-Street; 6. Royal Street.
-12. (d6): 1. Circle Street; 2. Brick Road;
-3. Perimeter Street; 4. Townline Road;
-5. Watch Street; 6. Wall Street.
-13. (d6): 1. Bay Street; 2. Commerce Street;
-3. Harbor Street; 4. Lake Street; 5. Pier
+9. (d6): 1. Baker Street; 2. Hook Street; 3. Farm Road; 4. Feather Street; 5. Mill Street; 6. Ranchers Road.
+10. (d6): 1. Banner Road; 2. Drum Street; 3. March Street; 4. Parade Street; 5. Trumpet Street; 6. Victory Lane.
+11. (d6): 1. Crown Street; 2. King Street; 3. Lords Lane; 4. Palace Way; 5. Queens Street; 6. Royal Street.
+12. (d6): 1. Circle Street; 2. Brick Road; 3. Perimeter Street; 4. Townline Road; 5. Watch Street; 6. Wall Street.
+13. (d6): 1. Bay Street; 2. Commerce Street; 3. Harbor Street; 4. Lake Street; 5. Pier
 Street; 6. Water Street.
-14. (d6): 1. Bayview Street; 2. Castleview
-Street; 3. Gardenview Street; 4. Greenview
-Street; 5. Harborview Street; 6. Riverview
-Street.
-15. (d6): 1. North Road; 2. North Street;
-3. South Road; 4. South Street;
-5. East Road; 6. West Road.
-16. (d6): 1. Cedar Street; 2. Cherry Street;
-3. Maple Street; 4. Oak Street; 5. Pine
-Street; 6. Willow Street.
-17. (d6): 1. Northgate Street; 2. Southgate
-Street; 3. Eastgate Street; 4. Westgate
-Street; 5. Old Gate Road; 6. Watchtower
-Street.
-18. (d6): 1. Briar Street; 2. Garden Street;
-3. Lilac Street; 4. Lily Way; 5. Rose Street;
-6. Violet Street.
-19. (d6): 1. Emerald Way; 2. Jewelers Lane;
-3. Golden Lane; 4. Rich Way; 5. Ruby
-Road; 6. Silver Lane.
-20. (d6): 1. Ancient Way; 2. Bath Street;
-3. Fountain Street; 4. Old Brick Road;
-5. Stone Ruin Road; 6. Tumblestone Way.
+14. (d6): 1. Bayview Street; 2. Castleview Street; 3. Gardenview Street; 4. Greenview Street; 5. Harborview Street; 6. Riverview Street.
+15. (d6): 1. North Road; 2. North Street; 3. South Road; 4. South Street; 5. East Road; 6. West Road.
+16. (d6): 1. Cedar Street; 2. Cherry Street; 3. Maple Street; 4. Oak Street; 5. Pine Street; 6. Willow Street.
+17. (d6): 1. Northgate Street; 2. Southgate Street; 3. Eastgate Street; 4. Westgate Street; 5. Old Gate Road; 6. Watchtower Street.
+18. (d6): 1. Briar Street; 2. Garden Street; 3. Lilac Street; 4. Lily Way; 5. Rose Street; 6. Violet Street.
+19. (d6): 1. Emerald Way; 2. Jewelers Lane; 3. Golden Lane; 4. Rich Way; 5. Ruby Road; 6. Silver Lane.
+20. (d6): 1. Ancient Way; 2. Bath Street; 3. Fountain Street; 4. Old Brick Road; 5. Stone Ruin Road; 6. Tumblestone Way.
+$RANDOM CRAFTING GUILDS: HIRE A PROFESSIONAL
 
-Page 12
-
-
-RANDOM CRAFTING GUILDS: HIRE A PROFESSIONAL
 d20 Common Trades: This is a guild for...
 1. Blacksmiths or farriers.
 2. Bowyers or fletchers.
@@ -2253,6 +2215,7 @@ d20 Common Trades: This is a guild for...
 18. Weavers or sailmakers.
 19. Wheelwrights, cartwrights, or carpenters.
 20. Winemakers, distillers, or brewers.
+
 d12 Uncommon Trades: This guild is for...
 1. Alchemists or apothecaries.
 2. Armorers or weaponsmiths.
@@ -2266,47 +2229,29 @@ d12 Uncommon Trades: This guild is for...
 10. Saddlers or harnessmakers.
 11. Tinkers, tiinsmiths, pewterers, or casters.
 12. Woodcarvers, roofers, or joiners.
+
 d8 Status and Control: The guild is...
-1. Poor; though once great, hard times have
-come, and the guild has little influence left.
-2. Brand new; the guild is frantically recruiting
-members in order to gain power.
-3. Exponentially rising; a recent boon has
-provided great profits and influence.
-4. Slowing; a rising competitor is slowly
-cutting into the guild’s profits and influence.
-5. Absolute; the guild has complete
-dominance in their field.
-6. Spotty; the guild’s profits and influence rise
-and fall, as market conditions change.
-7. Unquestioned; the guild exerts complete
-dominance over all other guilds in the area.
-8. Questionable; though the guild claims
-control, some operators skirt its rules.
+1. Poor; though once great, hard times have come, and the guild has little influence left.
+2. Brand new; the guild is frantically recruiting members in order to gain power.
+3. Exponentially rising; a recent boon has provided great profits and influence.
+4. Slowing; a rising competitor is slowly cutting into the guild’s profits and influence.
+5. Absolute; the guild has complete dominance in their field.
+6. Spotty; the guild’s profits and influence rise and fall, as market conditions change.
+7. Unquestioned; the guild exerts complete dominance over all other guilds in the area.
+8. Questionable; though the guild claims control, some operators skirt its rules.
+
 d8 Illicit Affairs: The guild is involved in...
 1. None; they are paragons of morality.
-2. Staying well within the law, if slipping on a
-few taxes due to ignorance, of course.
-3. Knowing how to play the political game,
-they trade a few favors with officials.
-4. Guild leaders having dollar signs for eyes,
-and setting advantageous prices in the city.
-5. Price floors becoming commonplace and
-frequent small bribes to city officials to
-overlook minor illicit activities.
-6. A variety of upper-level bribes, some minor
-scams, and the dismay of local priests.
-7. Rampant corruption, with large-scale
-bribery of various city officials and
-contracts with a thieves’ guild and
-occasionally an assassin.
-8. Pacts with crime lords, fiends, or vampires,
-large-scale counterfeiting, and treason are
-business-as-usual for this guild.
+2. Staying well within the law, if slipping on a few taxes due to ignorance, of course.
+3. Knowing how to play the political game, they trade a few favors with officials.
+4. Guild leaders having dollar signs for eyes, and setting advantageous prices in the city.
+5. Price floors becoming commonplace and frequent small bribes to city officials to overlook minor illicit activities.
+6. A variety of upper-level bribes, some minor scams, and the dismay of local priests.
+7. Rampant corruption, with large-scale bribery of various city officials and contracts with a thieves’ guild and occasionally an assassin.
+8. Pacts with crime lords, fiends, or vampires, large-scale counterfeiting, and treason are business-as-usual for this guild.
 
 d12 Headquarters: Guild business occurs...
-1. In the guild leader's personal residence or
-in the home of an influential merchant.
+1. In the guild leader's personal residence or in the home of an influential merchant.
 2. In the dusty basement of a tavern or pub.
 3. In the backroom of a tavern or pub.
 4. In a towering guildhall that leans slightly.
@@ -2316,57 +2261,43 @@ in the home of an influential merchant.
 8. In a large guildhall just off the city’s bazaar.
 9. In an opulent guildhall, showcasing riches.
 10. In a house down a shady back-alley.
-11. In a guildhall jointly shared with all other
-guilds of the city.
+11. In a guildhall jointly shared with all other guilds of the city.
 12. In a famous, centuries-old guildhall.
-d6 Minor Quest: You must fetch a
-shipment of goods from...
-1. The city gates, held up by a bureaucratic
-city official.
-2. The nearest village, where they're caught
-up in some small-town superstition.
-3. A relatively nearby city, where there is a
-severe mix-up with the shipments.
-4. The natural areas one would gather them,
-a chance to learn the roots of the trade.
-5. The stores of the city's banks, which must
-be paid off from their mortgage.
-6. Across the room where the party receives
-the quest (fetching is the easy part).
-d6 Standard Quest: Recently the guild has
-lost access to raw materials or
-manufacturing because of...
-1. A recent venture with a supplier, rival, or
-local official that has turned out badly.
+
+d6 Minor Quest: You must fetch a shipment of goods from...
+1. The city gates, held up by a bureaucratic city official.
+2. The nearest village, where they're caught up in some small-town superstition.
+3. A relatively nearby city, where there is a severe mix-up with the shipments.
+4. The natural areas one would gather them, a chance to learn the roots of the trade.
+5. The stores of the city's banks, which must be paid off from their mortgage.
+6. Across the room where the party receives the quest (fetching is the easy part).
+
+d6 Standard Quest: Recently the guild has lost access to raw materials or manufacturing because of...
+1. A recent venture with a supplier, rival, or local official that has turned out badly.
 2. A trade blockade that has to be resolved.
-3. A thieves’ guild that is targeting the guild,
-but may be convinced to look elsewhere.
-4. A master using materials frivolously, so
-new sources must be found.
-5. A city or religious official banning the
-goods, citing them as immoral.
-6. Spending all their revenue to fulfill a
-special contract or bribing officials, lacking
-foresight to buy sufficient raw materials.
-d6 Major Quest: You must fetch a rare
-creature or material from...
-1. The marketplace of a foreign city or a
-legendary city on an elemental plane.
+3. A thieves’ guild that is targeting the guild, but may be convinced to look elsewhere.
+4. A master using materials frivolously, so new sources must be found.
+5. A city or religious official banning the goods, citing them as immoral.
+6. Spending all their revenue to fulfill a special contract or bribing officials, lacking foresight to buy sufficient raw materials.
+
+d6 Major Quest: You must fetch a rare creature or material from...
+1. The marketplace of a foreign city or a legendary city on an elemental plane.
 2. An ancient dwarven stronghold's forges.
-3. A quaint pasture—in the wildest parts of a
-celestial realm.
-4. A faraway island, rumored to have
-cannibals and foul magicks.
-5. A mystic mirage that manifests in a desert
-for twenty minutes once every century.
+3. A quaint pasture—in the wildest parts of a celestial realm.
+4. A faraway island, rumored to have cannibals and foul magicks.
+5. A mystic mirage that manifests in a desert for twenty minutes once every century.
 6. The Plane of Rats (or other filthy location).
 APPRENTICE
+
 d6 Attitude: Presently, the apprentice is...
-1. Panic-stricken. 4. Nervous.
-2. Eager to learn. 5. Content
-3. Frustrated by errors. 6. Irritable.
-d6 Goal: The apprentice is seeking
-someone to...
+1. Panic-stricken. 
+2. Nervous.
+3. Eager to learn. 
+4. Content
+5. Frustrated by errors. 
+6. Irritable.
+
+d6 Goal: The apprentice is seeking someone to...
 1. Give him some tips in the craft.
 2. Purchase an item made by the apprentice.
 3. Sell him an item to resell as his own work.
@@ -2382,6 +2313,7 @@ d6 Background: The artisan is...
 4. A veteran of the craft.
 5. A master of the craft.
 6. An old crafter.
+
 d8 Trait: The artisan has...
 1. A friendly smile.
 2. Keen eyes.
@@ -2391,6 +2323,7 @@ d8 Trait: The artisan has...
 6. A missing tooth.
 7. Tired eyes.
 8. An amused smirk.
+
 d8 Feature: The artisan has...
 1. A limp.
 2. A hunchback.
@@ -2400,6 +2333,7 @@ d8 Feature: The artisan has...
 6. A burn scar on the face.
 7. A wispy mustache and/or a patchy beard..
 8. A thick mustache and/or a bushy beard.
+
 d6 Skill: The artisan is highly skilled at...
 1. Crafting one particular type of item.
 2. Identifying high quality raw materials.
@@ -2407,6 +2341,7 @@ d6 Skill: The artisan is highly skilled at...
 4. Instructing and training apprentices.
 5. Negotiating better prices for goods.
 6. Maneuvering in guild politics.
+
 d8 Goal: The artisan is looking for...
 1. A new apprentice.
 2. A journeyman craftsman to hire.
@@ -2416,6 +2351,7 @@ d8 Goal: The artisan is looking for...
 6. Someone who attended a sporting event.
 7. Someone to deliver a sensitive letter.
 8. A mug of strong ale.
+
 d8 Possession: The artisan is carrying...
 1. The tools of his or her trade.
 2. Some raw materials.
@@ -2425,16 +2361,15 @@ d8 Possession: The artisan is carrying...
 6. A set of many keys.
 7. A pipe and some tobacco.
 8. A flask of whisky.
+
 d6 Reputation: The artisan is...
 1. A well-known member of the guild.
-2. An established or up-and-coming leader in
-the guild.
-3. A new member of the guild, having
-recently relocated from a distant land.
-4. A quiet guildmember, who doesn’t get
-involved in guild politics.
+2. An established or up-and-coming leader in the guild.
+3. A new member of the guild, having recently relocated from a distant land.
+4. A quiet guildmember, who doesn’t get involved in guild politics.
 5. On the outs with guild leadership.
 6. A favorite of some of the guild’s leaders.
+
 d6 Aspiration: The artisan dreams of...
 1. Producing a masterwork of the craft.
 2. Holding the reins of guild leadership.
@@ -2442,30 +2377,22 @@ d6 Aspiration: The artisan dreams of...
 4. Retiring rich.
 5. Running away from it all.
 6. A life of adventure.
-
-Page 13
-
-
 RANDOM CULTS: BOW DOWN TO THE LORD OF WHAT?
+
 d12 Reverence: The cultists revere...
 1. A dragon.
 2. A demon lord.
 3. An archdevil.
-4. A long-dead ancient hero (d6): 1. bard;
-2. beastmaster; 3. elf-maid or prince;
-4. knight or crusader; 5. hunter; 6. prophet.
-5. A long-dead ancient villain (d6): 1. giant;
-2. necromancer; 3. vampire or lich;
-4. warlord; 5. werewolf or wererat; 6. witch.
+4. A long-dead ancient hero (d6): 1. bard; 2. beastmaster; 3. elf-maid or prince; 4. knight or crusader; 5. hunter; 6. prophet.
+5. A long-dead ancient villain (d6): 1. giant; 2. necromancer; 3. vampire or lich; 4. warlord; 5. werewolf or wererat; 6. witch.
 6. A dead god or undead being.
-7. An aberrant creature (d6): 1. brain eater;
-2. cosmic horror; 3. eye beast; 4. eyeless
-fish thing; 5. gibbering maw; 6. star spawn.
+7. An aberrant creature (d6): 1. brain eater; 2. cosmic horror; 3. eye beast; 4. eyeless fish thing; 5. gibbering maw; 6. star spawn.
 8. An elemental creature.
 9. A primordial or titan.
 10. Primal spirits or an archfey.
 11. An exarch of a god.
 12. The cult’s own mortal leader.
+
 d10 Shrine: The cultists meet in...
 1. A secret chamber in a well-known temple.
 2. The cellar of a popular tavern.
@@ -2477,6 +2404,7 @@ d10 Shrine: The cultists meet in...
 8. A creepy, dark cave.
 9. A heavily guarded chamber within a castle.
 10. The stacks of a well-stocked library.
+
 d20 Leader: The cult’s leader is...
 1. A devoted acolyte.
 2. A dogmatic teacher.
@@ -2498,52 +2426,26 @@ d20 Leader: The cult’s leader is...
 18. A humble artisan.
 19. An ancient hero reborn.
 20. The second coming of a god.
-d6 Members: The cult's membership is
-primarily made up of...
-1. The poor and downtrodden (d6): 1. slaves;
-2. beggars; 3-4. laborers; 5-6. servants.
-2. The wealthy elite (d6): 1. guildmasters;
-2-3. merchants; 4-5. nobles; 6. royalty.
-3. A segment of another religion's flock (d8):
-1. sun god; 2. earth mother; 3. death god;
-4. moon goddess; 5. goddess of love;
-6. storm god; 7. trickster god; 8. war god.
-4. Members of a particular trade (d8):
-1. blacksmiths; 2. carpenters; 3. farmers;
-4. fishermen; 5. miners; 6. soldiers;
-7. stonemasons; 8. weavers.
-5. Members of a particular race (d8):
-1. dwarves; 2. elves; 3. gnomes;
-4. goblins; 5. halflings; 6. humans; 7. orcs;
-8. lizardfolk or kobolds.
+
+d6 Members: The cult's membership is primarily made up of...
+1. The poor and downtrodden (d6): 1. slaves; 2. beggars; 3-4. laborers; 5-6. servants.
+2. The wealthy elite (d6): 1. guildmasters; 2-3. merchants; 4-5. nobles; 6. royalty.
+3. A segment of another religion's flock (d8): 1. sun god; 2. earth mother; 3. death god; 4. moon goddess; 5. goddess of love; 6. storm god; 7. trickster god; 8. war god.
+4. Members of a particular trade (d8): 1. blacksmiths; 2. carpenters; 3. farmers; 4. fishermen; 5. miners; 6. soldiers; 7. stonemasons; 8. weavers.
+5. Members of a particular race (d8): 1. dwarves; 2. elves; 3. gnomes; 4. goblins; 5. halflings; 6. humans; 7. orcs; 8. lizardfolk or kobolds.
 6. Members of all social strata.
 
-d8 Rituals: The cult's practices involve
-(leadership and believers could adhere
-to different practices)...
-1. Animal sacrifice (d10): 1. bulls; 2. calves;
-3. cats; 4. chickens; 5. dogs; 6. goats;
-7. pigeons; 8. rabbits or rats; 9. sheep;
-10. songbirds or waterfowl.
-2. Human sacrifice (d6): 1. children; 2. the
-elderly; 3. harlots; 4. priests and
-priestesses; 5. virgins; 6. volunteers.
-3. Self-mutilation (d10): 1. arm; 2. back;
-3. cheek; 4. chest; 5. ear; 6. eye; 7. feet;
-8. finger; 9. genitalia; 10. nose.
-4. Burnt offerings (d6): 1. corpses; 2. rare
-herbs; 3. sacred incense; 4. high-quality
-meat; 5. nonbelievers; 6. prisoners.
+d8 Rituals: The cult's practices involve (leadership and believers could adhere to different practices)...
+1. Animal sacrifice (d10): 1. bulls; 2. calves; 3. cats; 4. chickens; 5. dogs; 6. goats; 7. pigeons; 8. rabbits or rats; 9. sheep; 10. songbirds or waterfowl.
+2. Human sacrifice (d6): 1. children; 2. the elderly; 3. harlots; 4. priests and priestesses; 5. virgins; 6. volunteers.
+3. Self-mutilation (d10): 1. arm; 2. back; 3. cheek; 4. chest; 5. ear; 6. eye; 7. feet; 8. finger; 9. genitalia; 10. nose.
+4. Burnt offerings (d6): 1. corpses; 2. rare herbs; 3. sacred incense; 4. high-quality meat; 5. nonbelievers; 6. prisoners.
 5. Offerings of gold, gems, and valuables.
 6. Strange incantations.
-7. Public acts of violence (d6): 1. arson;
-2. beatings; 3. looting; 4. murders; 5. riots;
-6. vandalism.
-8. Ritualistic sexual acts (d6): 1. bestiality;
-2. breedings; 3. deflowerings; 4. weddings
-with beddings; 5-6. orgies.
-d8 Goals: The cult's goals (leadership and
-believers could have different goals)...
+7. Public acts of violence (d6): 1. arson; 2. beatings; 3. looting; 4. murders; 5. riots; 6. vandalism.
+8. Ritualistic sexual acts (d6): 1. bestiality; 2. breedings; 3. deflowerings; 4. weddings with beddings; 5-6. orgies.
+
+d8 Goals: The cult's goals (leadership and believers could have different goals)...
 1. Domination of the city.
 2. Destruction of the city.
 3. Reincarnation of a long-dead entity.
@@ -2563,15 +2465,14 @@ poppy; 6. tulip.
 4. Treatment of pets.
 5. Mounting a horse.
 6. Dressing one’s self for worship.
-7. Dressing one’s self for day-to-day
-activities.
+7. Dressing one’s self for day-to-day activities.
 8. Diet.
 9. Exercise routines.
 10. Bathing.
 11. Styling one’s hair.
 12. Brushing one’s teeth.
-d12 Taboos: The cult’s members are fearful
-of or take special care to avoid...
+
+d12 Taboos: The cult’s members are fearful of or take special care to avoid...
 1. Hallowed places.
 2. Moonlight.
 3. Sunlight.
@@ -2584,22 +2485,24 @@ of or take special care to avoid...
 10. Milk and cheese.
 11. Eating meat.
 12. Sobriety.
-d6 Morale: The cult’s attitude toward their
-leader is...
-1. Loyal and proud. 4. Jealous.
-2. Devoted and fawning. 5. Mutinous.
-3. Loyal and defensive. 6. Fearful.
 
+d6 Morale: The cult’s attitude toward their leader is...
+1. Loyal and proud. 
+2. Jealous.
+3. Devoted and fawning. 
+4. Mutinous.
+5. Loyal and defensive. 
+6. Fearful.
 INDIVIDUAL CULTISTS
+
 d6 Zealotry: The cultist...
 1. Is an outspoken true believer.
 2. Is a raving lunatic.
 3. Is a quiet, fervent believer.
-4. Has doubts, but is devoted to the cult's
-leader or causes.
+4. Has doubts, but is devoted to the cult's leader or causes.
 5. Has doubts, but is too afraid to voice them.
-6. Doesn't care about the religious stuff; the
-cult meets other needs.
+6. Doesn't care about the religious stuff; the cult meets other needs.
+
 d12 Trait: The cultist has...
 1. A bandage on the thumb.
 2. A face tattoo of a holy symbol.
@@ -2613,6 +2516,7 @@ d12 Trait: The cultist has...
 10. A surly curl of the lip.
 11. A gap between the front teeth.
 12. A lush, full beard.
+
 d6 Apparel: The cultist is wearing...
 1. A string of garlic around the neck.
 2. A robe with a tear at the knee.
@@ -2620,6 +2524,7 @@ d6 Apparel: The cultist is wearing...
 4. A large gold ring on one hand.
 5. A hooded robe and a mask.
 6. A robe emblazoned with a holy symbol.
+
 d10 Mannerism: The cultist is...
 1. Humming an eerie incantation.
 2. Sweating profusely.
@@ -2631,6 +2536,7 @@ d10 Mannerism: The cultist is...
 8. Whispering a prayer.
 9. Moving with a limp.
 10. Stinking of wine.
+
 d6 Possession: The cultist carries...
 1. A ceremonial dagger.
 2. A book protruding from his or her pocket.
@@ -2638,6 +2544,7 @@ d6 Possession: The cultist carries...
 4. A club or mace with symbols carved in it.
 5. A tiny scroll of secret prayers.
 6. A large purse.
+
 d10 Goal: The cultist is looking for...
 1. Ways to impress the cult’s leader.
 2. Tips for seducing the cult’s leader.
@@ -2649,21 +2556,16 @@ d10 Goal: The cultist is looking for...
 8. New recruits.
 9. Religious scholars to debate.
 10. A bottle of wine.
-d6 Connections: The cultist’s family and
-close friends know...
+
+d6 Connections: The cultist’s family and close friends know...
 1. All about the cult; they are also members..
 2. Several dark secrets about the cult.
 3. Enough to know that the cult is dangerous.
-4. Very little about the cult, but they dislike
-what they do know.
-5. Very little about the cult, but they don’t
-think it sounds too bad.
+4. Very little about the cult, but they dislike what they do know.
+5. Very little about the cult, but they don’t think it sounds too bad.
 6. Absolutely nothing about the cult.
-
-Page 14
-
-
 RANDOM DESERTS: ACROSS THE WASTELAND...
+
 d20 Interesting Location: You find...
 1. A cavern in a canyon wall.
 2. A cave entrance, hidden by a boulder.
@@ -2675,8 +2577,7 @@ d20 Interesting Location: You find...
 8. A temple ruin.
 9. A village of primitive canyon dwellers.
 10. A peculiar tent.
-11. A stone house sheltered by a canyon,
-gorge, or bluff.
+11. A stone house sheltered by a canyon, gorge, or bluff.
 12. An abandoned stone house.
 13. Some nomads’ camp.
 14. An abandoned campsite.
@@ -2686,14 +2587,14 @@ gorge, or bluff.
 18. An old mine in a canyon.
 19. An active mining camp.
 20. An ancient tomb.
+
 d20 Distinguishing Landmark: You see...
 1. An oasis with a fruit tree.
 2. An oasis with a palm tree and flowers.
 3. An unusually large, prickly desert plant.
 4. A pair of prickly plants from the same root.
 5. A patch of desert flowers in a shady spot.
-6. A patch of damp sand in the shadow of a
-large boulder.
+6. A patch of damp sand in the shadow of a large boulder.
 7. A rocky bluff.
 8. A boulder shaped like a face.
 9. A pair of identical boulders, side by side.
@@ -2707,8 +2608,8 @@ large boulder.
 17. A ridge of jagged rock.
 18. A mostly-buried, ancient monument.
 19. Twelve large stones, arranged in a ring.
-20. A sheer rock wall with patterns of color in
-the rock layers.
+20. A sheer rock wall with patterns of color in the rock layers.
+
 d20 Feature: You notice...
 1. A buzzard circles overhead.
 2. A vulture screams.
@@ -2730,17 +2631,27 @@ d20 Feature: You notice...
 18. A strange desert flower.
 19. A small palm tree.
 20. Several small prickly plants.
+
 d8 Landscape: This desert is...
-1. Rocky. 5. Boulder-strewn.
-2. Hilly. 6. Forbidding.
-3. Bleak. 7. Jagged.
-4. Rugged. 8. Wind-swept.
+1. Rocky. 
+2. Boulder-strewn.
+3. Hilly. 
+4. Forbidding.
+5. Bleak. 
+6. Jagged.
+7. Rugged. 
+8. Wind-swept.
 
 d8 Ground: Beneath your feet, the soil is...
-1. Cracked. 5. Pale brown.
-2. Hard-packed. 6. Muddy brown.
-3. Sandy. 7. Deep red.
-4. Stony. 8. Grey.
+1. Cracked. 
+2. Pale brown.
+3. Hard-packed. 
+4. Muddy brown.
+5. Sandy. 
+6. Deep red.
+7. Stony. 
+8. Grey.
+
 d20 Encounters: You come upon...
 1. A poisonous snake.
 2. A giant spider.
@@ -2762,6 +2673,7 @@ d20 Encounters: You come upon...
 18. A suspicious miner.
 19. A barbarian hunter.
 20. A mounted barbarian scout.
+
 d8 Hazards/Obstacles: You run into...
 1. A rockslide coming down a canyon wall.
 2. A boulder rolling down a canyon wall.
@@ -2771,6 +2683,7 @@ d8 Hazards/Obstacles: You run into...
 6. A sudden, swirling sandstorm.
 7. A mirage of a city.
 8. A mirage of an oasis.
+
 d6 Climate: The rains come to this desert...
 1. Once a year for a few days straight.
 2. On a few days scattered through the year.
@@ -2778,6 +2691,7 @@ d6 Climate: The rains come to this desert...
 4. Never; melting snow run-off comes yearly.
 5. Never; the land floods briefly once a year.
 6. Never; this place hasn’t had water in years.
+
 d12 What’s in the cave/cavern?
 1. A swarm of beetles.
 2. Lots of bats.
@@ -2791,20 +2705,30 @@ d12 What’s in the cave/cavern?
 10. A reclusive sorcerer.
 11. Some abandoned mining equipment.
 12. A half-mad prophet.
+
 d8 What’s in the hole/burrow?
-1. A snake. 5. Centipedes.
-2. A spider. 6. A toad.
-3. Beetles. 7. A lizard.
-4. Scorpions. 8. A fox.
+1. A snake. 
+2. Centipedes.
+3. A spider. 
+4. A toad.
+5. Beetles. 
+6. A lizard.
+7. Scorpions. 
+8. A fox.
+
 d6 Who built this monastery?
 1. An order of elementalist monks.
 2-3. An order of mystics.
 4. An order of shadow monks.
 5-6. An order of warrior monks.
+
 d6 The temple was built to honor...
-1. The sun god. 4. The moon god.
-2. The god of death. 5. The god of war.
-3. A forgotten god. 6. The storm god.
+1. The sun god. 
+2. The moon god.
+3. The god of death. 
+4. The god of war.
+5. A forgotten god. 
+6. The storm god.
 
 d6 Who lives in the peculiar tent?
 1. A merchant of exotic goods.
@@ -2813,6 +2737,7 @@ d6 Who lives in the peculiar tent?
 4. A nomadic herder.
 5. A nomadic warrior.
 6. An outcast elf.
+
 d6 Who built the stone house?
 1. A strange hermit.
 2. A reclusive scholar.
@@ -2820,16 +2745,27 @@ d6 Who built the stone house?
 4. A poor goatherder.
 5. A mining prospector.
 6. A religious fanatic with his many wives.
+
 d8 Who resides in the stone house now?
-1. Poisonous snakes. 5. An ogre.
-2. A wild shapeshifter. 6. A pair of orcs.
-3. A mad fugitive. 7. Restless ghosts.
-4. Spiders and rats. 8. An evil witch.
+1. Poisonous snakes. 
+2. An ogre.
+3. A wild shapeshifter. 
+4. A pair of orcs.
+5. A mad fugitive. 
+6. Restless ghosts.
+7. Spiders and rats. 
+8. An evil witch.
+
 d8 Who built the ancient ruins?
-1. An ancient empire. 5. A fiendish cult.
-2. A forgotten king. 6. A dragon cult.
-3. Rich merchants. 7. An evil queen.
-4. A high elf prince. 8. A dark sorcerer.
+1. An ancient empire. 
+2. A fiendish cult.
+3. A forgotten king. 
+4. A dragon cult.
+5. Rich merchants. 
+6. An evil queen.
+7. A high elf prince. 
+8. A dark sorcerer.
+
 d12 Who lives in the ancient ruins now?
 1. A treasure hunter.
 2. A wasteland druid.
@@ -2843,6 +2779,7 @@ d12 Who lives in the ancient ruins now?
 10. A pair of manticores.
 11. Slavering gnolls.
 12. A dragon.
+
 d6 What built the watchtower?
 1. An expansive empire.
 2. A nearby kingdom.
@@ -2850,6 +2787,7 @@ d6 What built the watchtower?
 4. A hobgoblin army.
 5. A legendary dwarf-lord.
 6. A powerful wizard.
+
 d6 Who holds the watchtower now?
 1. A band of desperate outlaws.
 2. An order of holy knights.
@@ -2857,6 +2795,7 @@ d6 Who holds the watchtower now?
 4. A hobgoblin war party.
 5. A fiendish presence.
 6. Ghostly warriors.
+
 d6 Who camped here?
 1. A party of orcs.
 2. A hobgoblin raiding party.
@@ -2864,6 +2803,7 @@ d6 Who camped here?
 4. A pair of wandering elves.
 5. Some refugees or fugitives.
 6. Someone whose purposes are unclear.
+
 d6 Who is/was mining here and for what?
 1. Greedy dwarves. 1. Copper.
 2. Ambitious humans. 2. Gold.
@@ -2871,14 +2811,14 @@ d6 Who is/was mining here and for what?
 4. Industrious kobolds. 4. Lead.
 5. A merchant guild. 5. Silver.
 6. A royal company. 6. Tin.
+
 d6 Whose soul or remains haunt the tomb?
-1-2. A heretical priest. 5. A dark queen.
-3-4. A vengeful king. 6. A tricky thief.
-
-Page 15
-
-
+1-2. A heretical priest. 
+3. A dark queen.
+4-5. A vengeful king. 
+6. A tricky thief.
 RANDOM FLAME-SCORCHED DESERTS: DESERT VARIANT  
+
 d20 Interesting Location: You find...
 1. A cavern in a canyon wall.
 2. A cave entrance, hidden by a boulder.
@@ -2886,13 +2826,11 @@ d20 Interesting Location: You find...
 4. A large pit that periodically bleches fire.
 5. A hole under a large boulder.
 6. A large burrow, next to a lava flow.
-7. A secluded monastery atop a steaming
-volcano.
+7. A secluded monastery atop a steaming volcano.
 8. A temple ruin.
 9. A village of savage canyon dwellers.
 10. A peculiar tent.
-11. A stone house sheltered by a canyon,
-gorge, or bluff.
+11. A stone house sheltered by a canyon, gorge, or bluff.
 12. An abandoned stone house near a spring.
 13. Some nomads’ camp near a steam vent.
 14. An abandoned campsite.
@@ -2902,14 +2840,14 @@ gorge, or bluff.
 18. An old mine that reeks of brimstone.
 19. An active mining camp.
 20. An ancient tomb.
+
 d20 Distinguishing Landmark: You see...
 1. An oasis with only a puddle of water.
 2. An oasis with a burnt tree.
 3. An unusually large, prickly desert plant.
 4. A pair of prickly plants from the same root.
 5. A patch of desert flowers in a shady spot.
-6. A patch of coarse grass in the shadow of a
-large boulder.
+6. A patch of coarse grass in the shadow of a large boulder.
 7. A rocky bluff.
 8. A boulder shaped like a face.
 9. A pair of identical boulders, side by side.
@@ -2924,6 +2862,7 @@ large boulder.
 18. A mostly-buried, ancient monument.
 19. Twelve large stones, arranged in a ring.
 20. A sheer rock wall of volcanic glass.
+
 d20 Feature: You notice...
 1. A buzzard circles overhead.
 2. A vulture screams.
@@ -2945,17 +2884,27 @@ d20 Feature: You notice...
 18. A strange desert flower.
 19. A dead palm tree.
 20. Several small prickly plants.
+
 d8 Landscape: This desert is...
-1. Rocky. 5. Boulder-strewn.
-2. Flat. 6. Forbidding.
-3. Bleak. 7. Jagged.
-4. Rugged. 8. Wind-swept.
+1. Rocky. 
+2. Boulder-strewn.
+3. Flat. 
+4. Forbidding.
+5. Bleak. 
+6. Jagged.
+7. Rugged. 
+8. Wind-swept.
 
 d8 Ground: Beneath your feet, the soil is...
-1. Cracked. 5. Black.
-2. Hard-packed. 6. Dusty.
-3. Gravelly. 7. Deep red.
-4. Stony. 8. Grey.
+1. Cracked. 
+2. Black.
+3. Hard-packed. 
+4. Dusty.
+5. Gravelly. 
+6. Deep red.
+7. Stony. 
+8. Grey.
+
 d20 Encounters: You come upon...
 1. A flame snake.
 2. A swarm of scorpions.
@@ -2977,6 +2926,7 @@ d20 Encounters: You come upon...
 18. A bold prospector.
 19. A conniving fiend.
 20. A terrifying dragon.
+
 d8 Hazards/Obstacles: You run into...
 1. A rockslide coming down a canyon wall.
 2. Several steam vents, hissing and popping.
@@ -2986,6 +2936,7 @@ d8 Hazards/Obstacles: You run into...
 6. A sudden, swirling dust storm.
 7. A mirage of a city.
 8. A mirage of an oasis.
+
 d6 Climate: The rains come to this desert...
 1. Once a year for a few days straight.
 2. On a few days scattered through the year.
@@ -2993,6 +2944,7 @@ d6 Climate: The rains come to this desert...
 4. Never; the only water is in hot springs.
 5. Never; it only rains fire in these lands.
 6. Never; this place hasn’t had water in years.
+
 d12 What’s in the cave/cavern?
 1. A swarm of beetles.
 2. Lots of fire bats.
@@ -3006,20 +2958,30 @@ d12 What’s in the cave/cavern?
 10. A reclusive sorcerer.
 11. Some abandoned mining equipment.
 12. A half-mad prophet.
+
 d8 What’s in the hole/burrow?
-1. A flame snake. 5. Centipedes.
-2. A spider. 6. Dry bones.
-3. Beetles. 7. A flameskull.
-4. Scorpions. 8. A fire mephit.
+1. A flame snake. 
+2. Centipedes.
+3. A spider. 
+4. Dry bones.
+5. Beetles. 
+6. A flameskull.
+7. Scorpions. 
+8. A fire mephit.
+
 d6 Who built this monastery?
 1-2. An order of elementalist monks.
 3-4. An order of demonic monks.
 5. An order of shadow monks.
 6. An order of warrior monks.
+
 d6 The temple was built to honor...
-1. The sun god. 4. The god of fire.
-2. The god of death. 5. The god of war.
-3. A forgotten god. 6. A demonic prince.
+1. The sun god. 
+2. The god of fire.
+3. The god of death. 
+4. The god of war.
+5. A forgotten god. 
+6. A demonic prince.
 
 d6 Who lives in the peculiar tent?
 1. A merchant of exotic goods.
@@ -3028,6 +2990,7 @@ d6 Who lives in the peculiar tent?
 4. A refugee far from home.
 5. A half-dragon warrior.
 6. A nomadic sorcerer.
+
 d6 Who built the stone house?
 1. A strange hermit.
 2. A reclusive scholar.
@@ -3035,17 +2998,29 @@ d6 Who built the stone house?
 4. A rancher with a herd of giant lizards.
 5. A mining prospector.
 6. A heretical outcast priest.
+
 d8 Who resides in the stone house now?
-1. An outcast azer. 5. Flame snakes.
-2. Salamander brutes. 6. A fugitive slave.
-3. A mad sorcerer. 7. Restless ghosts.
-4. A wild shapeshifter. 8. An evil witch.
+1. An outcast azer. 
+2. Flame snakes.
+3. Salamander brutes. 
+4. A fugitive slave.
+5. A mad sorcerer. 
+6. Restless ghosts.
+7. A wild shapeshifter. 
+8. An evil witch.
+
 d10 Who built the ancient ruins?
-1. A fire giant clan. 6. A fiendish cult.
-2. An ambitious djinn. 7. A dragon cult.
-3. A high elf prince. 8. An efreet lord.
-4. A forgotten empire. 9. A dark sorcerer.
-5. Elementalist monks.10. Priests of fire.
+1. A fire giant clan. 
+2. A fiendish cult.
+3. An ambitious djinn. 
+4. A dragon cult.
+5. A high elf prince. 
+6. An efreet lord.
+7. A forgotten empire. 
+8. A dark sorcerer.
+9. Elementalist monks.
+10. Priests of fire.
+
 d10 Who lives in the ancient ruins now?
 1. A clan of fire giants.
 2. A master martial artists.
@@ -3057,6 +3032,7 @@ d10 Who lives in the ancient ruins now?
 8. A territorial giriffon.
 9. A pair of manticores.
 10. A dragon.
+
 d6 What built the watchtower?
 1. A long-forgotten empire.
 2. An order of elementalist monks.
@@ -3064,6 +3040,7 @@ d6 What built the watchtower?
 4. An elemental lord’s army.
 5. An ancient elf-witch.
 6. A legendary wizard.
+
 d6 Who holds the watchtower now?
 1. The last remnant of a defeated army.
 2. An order of holy knights.
@@ -3071,6 +3048,7 @@ d6 Who holds the watchtower now?
 4. A hobgoblin war party.
 5. A fiendish presence.
 6. Drakes at ground level, fire bats up above.
+
 d6 Who camped here?
 1. An orkish war party.
 2. A fire giant raiding party.
@@ -3078,6 +3056,7 @@ d6 Who camped here?
 4. A merchant caravan.
 5. Some refugees or fugitives.
 6. Someone whose purposes are unclear.
+
 d6 Who is/was mining here and for what?
 1. Greedy dwarves. 1. Copper.
 2. Ambitious humans. 2. Gold.
@@ -3085,15 +3064,16 @@ d6 Who is/was mining here and for what?
 4. Industrious kobolds. 4. Lead.
 5. A merchant guild. 5. Silver.
 6. Slaves of an efreet. 6. Tin.
+
 d6 Whose soul or remains haunt the tomb?
-1. A heretical priest. 4. A dracolich.
-2. A vengeful king. 5. A tricky thief.
-3. A legendary hero. 6. A dark queen.
-
-Page 16
-
-
+1. A heretical priest. 
+2. A dracolich.
+3. A vengeful king. 
+4. A tricky thief.
+5. A legendary hero. 
+6. A dark queen.
 RANDOM SHADOW-TOUCHED DESERTS: DESERT VARIANT  
+
 d20 Interesting Location: You find...
 1. A cavern in a canyon wall.
 2. A cave entrance, hidden by a boulder.
@@ -3105,8 +3085,7 @@ d20 Interesting Location: You find...
 8. A temple ruin.
 9. A pair of graves.
 10. A peculiar tent.
-11. A stone house sheltered by a canyon,
-gorge, or bluff.
+11. A stone house sheltered by a canyon, gorge, or bluff.
 12. An abandoned stone house.
 13. Some nomads’ camp.
 14. An abandoned campsite.
@@ -3116,14 +3095,14 @@ gorge, or bluff.
 18. An rocky cave, full of choking dust.
 19. A mass grave on an old battlefield.
 20. An ancient tomb.
+
 d20 Distinguishing Landmark: You see...
 1. An oasis with foul-smelling water.
 2. An oasis with a tree bearing rotten fruit.
 3. An unusually large, prickly desert plant.
 4. A pair of prickly plants from the same root.
 5. A patch of desert flowers in a shady spot.
-6. A patch of coarse grass next to a boulder,
-shrouded in a strange mist.
+6. A patch of coarse grass next to a boulder,shrouded in a strange mist.
 7. A rocky bluff.
 8. A boulder shaped like a skull.
 9. A pair of identical boulders, side by side.
@@ -3137,8 +3116,8 @@ shrouded in a strange mist.
 17. A ridge of jagged rock.
 18. A mostly-buried, ancient monument.
 19. Twelve large stones, arranged in a ring.
-20. A sheer rock wall with a strange mist
-lingering overhead.
+20. A sheer rock wall with a strange mist lingering overhead.
+
 d20 Feature: You notice...
 1. A buzzard circles overhead.
 2. A vulture screams.
@@ -3160,17 +3139,27 @@ d20 Feature: You notice...
 18. A distant scream.
 19. The smell of rotting flesh.
 20. The smell of decay.
+
 d8 Landscape: This desert is...
-1. Rocky. 5. Boulder-strewn.
-2. Flat. 6. Forbidding.
-3. Bleak. 7. Jagged.
-4. Rugged. 8. Wind-swept.
+1. Rocky. 
+2. Boulder-strewn.
+3. Flat. 
+4. Forbidding.
+5. Bleak. 
+6. Jagged.
+7. Rugged. 
+8. Wind-swept.
 
 d8 Ground: Beneath your feet, the soil is...
-1. Cracked. 5. Black.
-2. Hard-packed. 6. Dusty.
-3. Gravelly. 7. Purple.
-4. Stony. 8. Grey.
+1. Cracked. 
+2. Black.
+3. Hard-packed. 
+4. Dusty.
+5. Gravelly. 
+6. Purple.
+7. Stony. 
+8. Grey.
+
 d20 Encounters: You come upon...
 1. A shadow snake.
 2. A flock of shadowravens.
@@ -3192,6 +3181,7 @@ d20 Encounters: You come upon...
 18. A sword-wielding wraith.
 19. A conniving fiend.
 20. A terrifying dragon.
+
 d8 Hazards/Obstacles: You run into...
 1. A rockslide coming down a canyon wall.
 2. A boulder rolling down a canyon wall.
@@ -3201,6 +3191,7 @@ d8 Hazards/Obstacles: You run into...
 6. A sudden, swirling dust storm.
 7. A mirage of a city.
 8. A mirage of an oasis.
+
 d6 Climate: The rains come to this desert...
 1. Once a year for a few days straight.
 2. On a few days scattered through the year.
@@ -3208,6 +3199,7 @@ d6 Climate: The rains come to this desert...
 4. Only during a rare astronomical alignment.
 5. Never; however, it does snow every winter.
 6. Never; this place hasn’t had water in years.
+
 d12 What’s in the cave/cavern?
 1. A swarm of beetles.
 2. Lots of bats.
@@ -3221,20 +3213,30 @@ d12 What’s in the cave/cavern?
 10. A reclusive witch.
 11. A pair of shadow stalkers or phase cats.
 12. A creepy hermit.
+
 d8 What’s in the hole/burrow?
-1. A shadow snake. 5. Centipedes.
-2. A giant spider. 6. Dry bones.
-3. So many beetles. 7. A severed limb.
-4. Scorpions. 8. A shadow cat.
+1. A shadow snake. 
+2. Centipedes.
+3. A giant spider. 
+4. Dry bones.
+5. So many beetles. 
+6. A severed limb.
+7. Scorpions. 
+8. A shadow cat.
+
 d6 Who built this monastery?
 1-2. An order of assassin monks.
 3. An order of demonic monks.
 4-5. An order of shadow monks.
 6. An order of warrior monks.
+
 d6 The temple was built to honor...
-1. The moon god. 4. An undead god.
-2. The god of death. 5. A savage god.
-3. A spider goddess. 6. An arch devil.
+1. The moon god. 
+2. An undead god.
+3. The god of death. 
+4. A savage god.
+5. A spider goddess. 
+6. An arch devil.
 
 d6 Who lives in the peculiar tent?
 1. A merchant of exotic goods.
