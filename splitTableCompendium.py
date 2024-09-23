@@ -7,9 +7,9 @@ Lines = file.readlines()
 textLines : list = []
 
 for i in range(len(Lines)):
-    textLines.append(Lines[i].replace("\n", ""))
-    if len(textLines[len(textLines) - 1]) == 0:
-        textLines.pop(len(textLines) - 1)
+    if Lines[i].startswith("$") == True:
+        textLines.append({"Page Title": Lines[i], "Table" : []})
+    #if Lines[i] == "":
 
 
 

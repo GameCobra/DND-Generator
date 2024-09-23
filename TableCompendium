@@ -1115,19 +1115,16 @@ d20 Rooms: This chamber is...
 9. A crypt.
 10. An intimate or informal dining room.
 11. A dressing room.
-12. A gallery (d6): 1. armor and weaponry; 2.
-paintings; 3. sculptures; 4. tapestries; 5.
-hunting trophies; 6. trophies of war.
+12. A gallery (d6): 1. armor and weaponry; 2. paintings; 3. sculptures; 4. tapestries; 5. hunting trophies; 6. trophies of war.
 13. A guardroom.
 14. A kennel, menagerie, or stable.
 15. The kitchen.
 16. A library or study.
 17. A pantry.
-18. Store room for mundane supplies or a
-cistern for drinking water.
+18. Store room for mundane supplies or a cistern for drinking water.
 19. The throne room.
-20. A treasure vault (likely hidden and/or
-protected by traps).
+20. A treasure vault (likely hidden and/or protected by traps).
+
 d20 Features: You notice...
 1. An armchair flanked by two sconces.
 2. A large armoire or buffet cabinet.
@@ -1149,7 +1146,8 @@ d20 Features: You notice...
 18. A large table beneath a chandelier.
 19. An ornate tapestry.
 20. A small wall basin and font.
-ENCOUNTERS
+$ENCOUNTERS
+
 d10 Under siege: You come upon...?
 1. A squad of archers hustling up a stair.
 2. A patrol of guards brandishing weapons.
@@ -1161,6 +1159,7 @@ d10 Under siege: You come upon...?
 8. A noble hastily penning a letter.
 9. A squire aiding a knight with his armor.
 10. A healer checking over his potions.
+
 d10 In peace: You come upon...?
 1. The huntsman cleaning a recent kill.
 2. The kennelmaster leading a leashed dog.
@@ -1172,12 +1171,9 @@ d10 In peace: You come upon...?
 8. A maid polishing an ornamental shield.
 9. A servant carrying a tray of food.
 10. Several archers practicing in the yard.
+$RANDOM CASTLES: INHABITANTS  
+$NOBLEMAN
 
-Page 7
-
-
-RANDOM CASTLES: INHABITANTS  
-NOBLEMAN
 d6 Background: The lord is...
 1. A patient old man.
 2. A wide-eyed young man.
@@ -1185,6 +1181,7 @@ d6 Background: The lord is...
 4. A patient and benevolent ruler.
 5. A guest, a member of a powerful house.
 6. A guest, a member of a lesser house.
+
 d6 Goal: The lord seeks someone to...
 1. Dispose of an enemy.
 2. Negotiate a trade contract.
@@ -1192,6 +1189,7 @@ d6 Goal: The lord seeks someone to...
 4. Sabotage a rival.
 5. Arrange a beneficial marriage.
 6. Have a good time with.
+
 d6 Possession: The lord carries...
 1. Several deeds and titles.
 2. A family heirloom.
@@ -1200,6 +1198,7 @@ d6 Possession: The lord carries...
 5. A compromising love letter.
 6. A letter from a powerful lord or lady.
 NOBLEWOMAN
+
 d6 Background: The lady is...
 1. A wise old woman.
 2. A passionate young woman.
@@ -1207,6 +1206,7 @@ d6 Background: The lady is...
 4. An acerbic wit.
 5. A guest, a member of a powerful house.
 6. A guest, a member of a lesser house.
+
 d6 Goal: The lady seeks someone to...
 1. Help gain revenge against a bitter rival.
 2. Bring to light a scandal involving an enemy.
@@ -1214,12 +1214,16 @@ d6 Goal: The lady seeks someone to...
 4. Talk some sense into her husband or father.
 5. Deliver a secret message.
 6. Share some wine and gossip.
+
 d6 Possession: The lady carries...
-1. A family heirloom. 4. A vial of perfume.
-2. Valuable jewels. 5. A hidden dagger.
-3. A compromising 6. A letter from a
-love letter. powerful ally.
-GUARD
+1. A family heirloom. 
+2. A vial of perfume.
+3. Valuable jewels. 
+4. A hidden dagger.
+5. A compromising 
+6. A letter from a love letter. powerful ally.
+$GUARD
+
 d6 Goal: The guard serves his liege for...
 1. The steady pay.
 2. The chance to bully others.
@@ -1227,10 +1231,15 @@ d6 Goal: The guard serves his liege for...
 4. God and country.
 5. The chance to demonstrate his valor.
 6. The possibility of being raised to a knight.
+
 d6 Trait: On the guard’s face is...
-1. An unsightly scar. 4. An eager grin.
-2. A haughty sneer. 5. A blank stare.
-3. A bushy mustache. 6. A sour look.
+1. An unsightly scar. 
+2. An eager grin.
+3. A haughty sneer. 
+4. A blank stare.
+5. A bushy mustache. 
+6. A sour look.
+
 d6 Possession: The guard carries...
 1. A highly polished blade.
 2. A letter from a fallen comrade.
@@ -1238,8 +1247,8 @@ d6 Possession: The guard carries...
 4. A ribbon from a sweet maiden.
 5. A battered old shield.
 6. A pair of dice and a few coins.
+$KNIGHT
 
-KNIGHT
 d6 Background: The knight is...
 1. A beautiful youth.
 2. A brutish thug.
@@ -1247,6 +1256,7 @@ d6 Background: The knight is...
 4. A popular tavern patron.
 5. A favorite among the ladies.
 6. Ruggedly handsome.
+
 d6 Oath: The knight has sworn to...
 1. Protect his liege from harm.
 2. Defend his liege’s lands.
@@ -1254,6 +1264,7 @@ d6 Oath: The knight has sworn to...
 4. Protect his liege’s loved ones.
 5. Advance his liege’s ideals or faith.
 6. Ride to war in his liege’s name.
+
 d6 Possession: The knight carries...
 1. A finely crafted longsword.
 2. A huge greatsword.
@@ -1261,7 +1272,8 @@ d6 Possession: The knight carries...
 4. A heavy warhammer.
 5. A letter from his liege.
 6. A favor from a faraway maiden.
-SQUIRE / VALET
+$SQUIRE / VALET
+
 d6 Background: The retainer is...
 1. A squire from a lesser noble house.
 2. A frightened link boy.
@@ -1269,10 +1281,15 @@ d6 Background: The retainer is...
 4. A reformed criminal-turned valet.
 5. A prisoner of war.
 6. A mysterious foreigner.
+
 d6 Trait: The retainer has...
-1. A gullible nature. 4. An easy swagger.
-2. Wild, shaggy hair. 5. A black eye.
-3. A terrible stutter. 6. A thin mustache.
+1. A gullible nature. 
+2. An easy swagger.
+3. Wild, shaggy hair. 
+4. A black eye.
+5. A terrible stutter. 
+6. A thin mustache.
+
 d6 Goal: The retainer wants to...
 1. Earn a little silver.
 2. Train with weapons to become a hero.
@@ -1280,7 +1297,8 @@ d6 Goal: The retainer wants to...
 4. Bring honor to his family name.
 5. Avoid entangling himself in a scandal.
 6. Have a drink and a rest.
-ARCHER
+$ARCHER
+
 d6 Background: The archer is...
 1. An eager young marksman.
 2. An trigger-happy hotshot.
@@ -1288,6 +1306,7 @@ d6 Background: The archer is...
 4. A skilled hunter.
 5. An wily, old veteran.
 6. A local archery champion.
+
 d6 Goal The archer is looking to...
 1. Help his allies slaughter the enemy.
 2. Keep safe someone special in the castle.
@@ -1295,6 +1314,7 @@ d6 Goal The archer is looking to...
 4. Show off his skill with the bow.
 5. Swap tales of the hunt or of battle.
 6. Eat, drink, and be merry.
+
 d6 Possession: The archer carries...
 1. A longbow with a fraying string.
 2. A longbow crafted of superior wood.
@@ -1303,7 +1323,7 @@ d6 Possession: The archer carries...
 5. A flask containing a strong drink.
 6. A flute or harp.
 
-ARMORER / SMITH
+$ARMORER / SMITH
 d6 Background: The smith is...
 1. A meticulous armorsmith.
 2. A blacksmith who makes decent swords.
@@ -1311,6 +1331,7 @@ d6 Background: The smith is...
 4. A highly-skilled weaponsmith.
 5. A sensitive artisan.
 6. An expert on horses.
+
 d6 Goal: The smith is looking for...
 1. Someone who can shoe horses.
 2. Steel of the highest quality.
@@ -1318,62 +1339,74 @@ d6 Goal: The smith is looking for...
 4. Someone who appreciates masterful work.
 5. A little extra coin to help pay the bills.
 6. A mug of strong ale.
+
 d6 Possession: The smith carries...
-1. A small hammer. 4. A filthy rag.
-2. A large hammer. 5. A few coins.
-3. A lucky charm. 6. A pressed flour.
-STEWARD
+1. A small hammer. 
+2. A filthy rag.
+3. A large hammer.
+4. A few coins.
+5. A lucky charm. 
+6. A pressed flour.
+$STEWARD
+
 d6 Background: The steward is...
 1-2. A lesser member of the liege’s house.
 3-4. A lesser member of a powerful house.
 5. A member of a lesser house.
 6. A commoner by birth.
+
 d6 Goal: The steward seeks someone to...
 1-2. Obtain hard-to-get provisions.
 3. Deliver some letters.
 4. Help win over a sweetheart.
 5-6. Share a drink and a laugh.
+
 d6 Work: The steward is concerned about...
-1. Gold and silver. 4. Ale and grain.
-2. Meat and cheese. 5. Gold and silver.
-3. Ale and wine stores. 6. Castle repairs.
-CHAPLAIN
+1. Gold and silver. 
+2. Ale and grain.
+3. Meat and cheese. 
+4. Gold and silver.
+5. Ale and wine stores. 
+6. Castle repairs. CHAPLAIN
+
 d6 Background: The chaplain is...
 1-2. A devoted acolyte.
 3. An adept healer.
 4-5. A wise source of counsel.
 6. A drunken hypocrite.
+
 d6 Goal: The chaplain is looking for...
 1-2. News from the surrounding lands.
 3. Sinners and heretics to chastise.
 4. The answer to an ancient mystery.
 5-6. The bottom of a goblet.
+
 d6 Possession: The chaplain carries...
 1. A ceremonial cudgel or staff.
 2-3. A prominently displayed holy symbol.
 4-5. A pocketbook of sacred texts.
 6. A wineskin.
-COOK
+$COOK
+
 d6 Food: The cook greets you with...
 1-2. A goblet of warm wine.
 3-4. A chunk of bread and a piece of cheese.
 5. A cup of onion soup.
 6. A tankard of mead.
+
 d6 Goal: The cook is looking for...
 1. Someone to chop onions.
 2. Some better cabbage.
 3-4. A good joke or story.
 5-6. The bottom of a bottle.
+$RANDOM CASTLES: MORE INHABITANTS  
+$FOOL / JESTER
 
-Page 8
-
-
-RANDOM CASTLES: MORE INHABITANTS  
-FOOL / JESTER
 d6 Background: The fool is...
 1. A dwarf. 4. Dressed in motley.
 2. Morbidly obese. 5. A faux knight.
 3. Wearing a mask. 6. A faux wizard.
+
 d8 Gimmick: The fool gets laughs from...
 1. Falling stunts.
 2. Gorging himself with food or drink.
@@ -1383,6 +1416,7 @@ d8 Gimmick: The fool gets laughs from...
 6. Juggling sharp objects.
 7. Swallowing flames.
 8. Witty jokes and observations.
+
 d6 Goal: The fool desires only to...
 1. Bring smiles to others’ faces.
 2. Get as far from this castle as he can.
@@ -1390,7 +1424,8 @@ d6 Goal: The fool desires only to...
 4. Kiss a pretty maiden.
 5. Have a drink and be merry.
 6. Get drunk and feel numb.
-TUTOR / SAGE
+$TUTOR / SAGE
+
 d6 Background: The tutor is...
 1. A scholar trained at a university.
 2. A wizard trained at an academy.
@@ -1398,11 +1433,13 @@ d6 Background: The tutor is...
 4. A self-taught scholar of noble birth.
 5. A monk of an order famed for wisdom.
 6. A priest dedicated to spreading knowledge.
+
 d6 Style: Pupils view the tutor as...
 1-2. A trusted friend or mentor
 3. A second father/mother.
 4-5. A weakling to be antagonized and bullied.
 6. A tyrant to be feared.
+
 d12 Expertise: The tutor is well-versed in...
 1. Alchemy. 7. Military history.
 2. Ancient cultures. 8. Music.
@@ -1410,7 +1447,8 @@ d12 Expertise: The tutor is well-versed in...
 4. Herb lore. 10. Political history.
 5. Mathematics. 11. Theater and dance.
 6. Mineralogy. 12. Theology.
-MAIDSERVANT
+$MAIDSERVANT
+
 d6 Background: The servant is...
 1. Her ladyship’s/her lordship’s favorite.
 2. A long-time servant of the household.
@@ -1418,6 +1456,7 @@ d6 Background: The servant is...
 4. New to the household and eager to please.
 5. A foreigner, new to this land and house.
 6. A foreigner, who can never return home.
+
 d6 Trait: The servant has...
 1. A pretty smile, but crooked teeth.
 2. Beautiful but sad eyes.
@@ -1425,6 +1464,7 @@ d6 Trait: The servant has...
 4. A bony figure.
 5. Curves that could get her into trouble.
 6. A wicked smile, and a sharp wit.
+
 d6 Goal: The servant wants to...
 1. Avoid being alone with a particular noble.
 2. Discipline one of the children in the castle.
@@ -1432,8 +1472,8 @@ d6 Goal: The servant wants to...
 4. Bend your ear for an old folk tale.
 5. Share a bit of juicy gossip she overheard.
 6. Share a drink and a dance.
+$GUARD CAPTAIN
 
-GUARD CAPTAIN
 d6 Background: The captain is...
 1. A lesser member of a noble house.
 2. A brutish thug.
@@ -1441,6 +1481,7 @@ d6 Background: The captain is...
 4. A celebrated war hero.
 5. An anointed knight.
 6. A career soldier.
+
 d6 Work: The captain is concerned about...
 1. The resolve of the new recruits.
 2. The castle’s food stores.
@@ -1448,6 +1489,7 @@ d6 Work: The captain is concerned about...
 4. Running out of ale during a siege.
 5. Bolstering the guard with new recruits.
 6. A flaw in the castle’s design.
+
 d6 Goal: The captain is looking for...
 1. Information regarding enemy movements.
 2. Reinforcements or new recruits.
@@ -1455,6 +1497,7 @@ d6 Goal: The captain is looking for...
 4. Drinking companions and storytellers.
 5. Help passing a message to a favorite lady.
 6. Help saving his son or daughter from ruin.
+
 d6 Possession: The captain carries...
 1. A superbly crafted sword.
 2. A trusted blade and a map.
@@ -1462,41 +1505,46 @@ d6 Possession: The captain carries...
 4. The token of a faraway love.
 5. A pipe and pouch of tobacco.
 6. A little jar of mustache wax.
-HORSEMASTER
+$HORSEMASTER
+
 d6 Background: The horsemaster is...
 1-2. A knight lamed in combat years ago.
 3. The son of a servant to the liege’s family.
 4. A genius for breeding horses.
 5-6. A foreigner who grew up in the saddle.
+
 d6 Trait: The horsemaster has...
 1-2. A sackful of oats strapped to his belt.
 3-4. A calm demeanor.
 5. A soft-spoken manner.
 6. A pointed beard.
+
 d6 Goal: The horsemaster wants to...
-1-2. Keep a swift horse at-the-ready to carry his
-liege’s urgent messages.
+1-2. Keep a swift horse at-the-ready to carry his liege’s urgent messages.
 3-4. Tell a tale of a grueling ride.
 5. Bring honor to his family name.
 6. Boast about a prized young mare.
-STABLE HAND
+$STABLE HAND
+
 d6 Background: The stable hand is...
 1-2. A shady-looking character.
 3. The son of another servant in the castle.
 4. A prisoner-of-war turned servant.
 5-6. A simple-minded stable boy.
+
 d6 Trait: The stable hand has...
 1. An awkward gait.
 2. Incredibly large hands.
 4-5. Quite an odor.
 5-6. A patchy beard.
+
 d6 Goal: The stable hand wants to...
 1-2. Earn a little silver.
 3. Avoid being kicked by a horse.
 4. Rise to the position of horsemaster.
 5-6. Pet the pretty horses.
+$HUNTSMAN
 
-HUNTSMAN
 d6 Background: The huntsman is...
 1. A member of the liege’s family.
 2. A bastard son of a noble house.
@@ -1504,6 +1552,7 @@ d6 Background: The huntsman is...
 4. A former poacher.
 5. A sadistic killer.
 6. A kindly sportsman.
+
 d6 Work: The huntsman is worried about...
 1. Reports of strange creatures in the region.
 2. The reckless behavior of a fellow hunter.
@@ -1511,6 +1560,7 @@ d6 Work: The huntsman is worried about...
 4. Bringing enough wine on the next hunt.
 5. Pests damaging nearby crops or forests.
 6. A disease ravaging the wild game.
+
 d6 Goal: The huntsman is looking to...
 1. Track an unusual beast.
 2. Find the lair of a rare beast.
@@ -1518,50 +1568,54 @@ d6 Goal: The huntsman is looking to...
 4. Swap tales and rumors.
 5. Play cards and gamble.
 6. Win a drinking contest.
+
 d6 Possession: The huntsman carries...
-1. A fine longbow. 4. A hunting trap.
-2. A heavy crossbow. 5. A large knife.
-3. A trophy from a kill. 6. A sturdy hatchet..
-KENNELMASTER
+1. A fine longbow. 
+2. A hunting trap.
+3. A heavy crossbow. 
+4. A large knife.
+5. A trophy from a kill. 
+6. A sturdy hatchet..
+$KENNELMASTER
+
 d6 Background: The kennelmaster is...
 1. An eccentric dog-trainer.
 2. A skilled hunter.
 3-4. A short-tempered, portly fellow.
 5-6. A tall, gregarious fellow.
+
 d6 Goal: The kennelmaster is looking to...
 1. Encourage a hunting expedition.
 2-3. Improve the breeding stock of the hounds.
 4-5. Show off a clever hound.
-6. Avoid questions regarding the hounds’
-obedience.
+6. Avoid questions regarding the hounds’ obedience.
+
 d6 Possession: The kennelmaster carries...
 1. A dog whistle.
 2-3. A rope of some kind of jerky.
 4. A stick or club.
 5-6. A rope leash.
-BOWYER / FLETCHER
+$BOWYER / FLETCHER
+
 d6 Background:The bowyer is...
 1-2. A patient craftsman.
 3-4. An old archer, blind in one eye.
-5. A foreigner who puts unusual touches on
-the bows and feathers he makes.
-6. Skilled at mending bows and arrows, but not
-so good at making them from raw materials.
+5. A foreigner who puts unusual touches on the bows and feathers he makes.
+6. Skilled at mending bows and arrows, but not so good at making them from raw materials.
+
 d6 Goal: The bowyer is looking for...
 1. Someone who can fletch arrows.
 2-3. Stray arrowheads.
 4-5. Intact arrow shafts.
 6. A mug of strong ale.
+
 d6 Possession: The bowyer carries...
 1. A whittling knife.
 2-3. A quiver of arrows to be mended.
 4-5. A quiver of newly made arrows.
 6. A bundle of fresh wood cuttings.
+$RANDOM CASTLES: DUNGEONS  
 
-Page 9
-
-
-RANDOM CASTLES: DUNGEONS  
 d6 Location: The dungeon is located...
 1. In a tower set apart from the main castle.
 2. Beneath the keep.
@@ -1569,58 +1623,47 @@ d6 Location: The dungeon is located...
 4. Beneath a flanking tower in the castle.
 5. In a corner tower of the castle.
 6. Beneath a corner tower of the castle.
+
 d6 Origin: The dungeon was built...
 1-2. As part of the original castle.
 3. As a later addition.
 4. For another purpose originally.
 5-6. Long before most of the castle.
+
 d8 Structure: The dungeon is...
 1. A sprawling maze of twisting passages.
 2. A sprawling maze of narrow passages.
-3. Organized into small, neat rows of cells or
-pits.
-4. Organized around a large central cell block
-or pit.
+3. Organized into small, neat rows of cells or pits.
+4. Organized around a large central cell block or pit.
 5. Only a few rooms.
-6. An endless series of long corridors or
-ladders.
-7. An endless series of small rooms and
-staircases.
+6. An endless series of long corridors or ladders.
+7. An endless series of small rooms and staircases.
 8. A series of corridors with very low ceilings.
+
 d10 Cells: Prisoners are held within...
 1. Individual cells, in complete isolation.
-2. Individual cells, but they can see and hear
-other prisoners.
-3. Individual cells, but they can hear other
-prisoners.
-4. Cells that accommodate up to two
-prisoners.
-5. Cells that accommodate up to two
-prisoners, each shackled to the wall.
-6. Cells that accommodate up to four
-prisoners.
-7. Cells that accommodate up to four
-prisoners, each shackled to the wall.
-8. A large chamber with many other prisoners,
-each shackled to the wall.
+2. Individual cells, but they can see and hear other prisoners.
+3. Individual cells, but they can hear other prisoners.
+4. Cells that accommodate up to two prisoners.
+5. Cells that accommodate up to two prisoners, each shackled to the wall.
+6. Cells that accommodate up to four prisoners.
+7. Cells that accommodate up to four prisoners, each shackled to the wall.
+8. A large chamber with many other prisoners, each shackled to the wall.
 9. Individual pits or wells, open at the top.
-10. One or more huge pit with many other
-prisoners.
+10. One or more huge pit with many other prisoners.
+
 d6 Condition: The walls and tunnels are...
 1-2. Well-maintained; the walls are solid.
-3-4. Aging, but sturdy; the walls have some
-cracks.
+3-4. Aging, but sturdy; the walls have some cracks.
 5. Decrepit; the walls are crumbling.
 6. So dark it’s difficult to say.
+
 d6 Treatment: Prisoners are treated...
-1. Humanely; they receive reasonable meals,
-some exercise, and healing when needed.
-2-3. Like dogs; they receive poor quality meals
-and enough healing to keep them alive.
-4-5. Like rats; they receive terrible meals and are
-plagued by sickness.
-6. Like they don’t exist; occasionally they
-receive food.
+1. Humanely; they receive reasonable meals, some exercise, and healing when needed.
+2-3. Like dogs; they receive poor quality meals and enough healing to keep them alive.
+4-5. Like rats; they receive terrible meals and are plagued by sickness.
+6. Like they don’t exist; occasionally they receive food.
+
 d10 Reputation: The dungeon is known for...
 1. Many deaths during a terrible plague.
 2. A mass escape in the past.
@@ -1633,8 +1676,7 @@ d10 Reputation: The dungeon is known for...
 9. Its quirky jailer.
 10. The quality of its meals.
 
-d8 Secret: According to rumor, within the
-castle’s dungeon lies...
+d8 Secret: According to rumor, within the castle’s dungeon lies...
 1. A secret tunnel to the outside.
 2. The bones of a long-lost hero.
 3. The preserved head of an ancient villain.
@@ -1643,6 +1685,7 @@ castle’s dungeon lies...
 6. A famous jewel stolen by a notorious thief.
 7. A unique and terrible torture device.
 8. The bones of a deposed king or queen.
+
 d10 Rooms: This chamber is...
 1. A dungeon cell.
 2. Another dungeon cell.
@@ -1654,6 +1697,7 @@ d10 Rooms: This chamber is...
 8. A small dining room.
 9. An interrogation room.
 10. A torture chamber.
+
 d20 Features: You notice...
 1. A wooden door reinforced with steel bands.
 2. Steel bars where you expected a stone wall.
@@ -1675,37 +1719,30 @@ d20 Features: You notice...
 18. Howls of agony.
 19. Horrific screams.
 20. The clanking of chains.
+
 d12 Escape Encounters: You come upon...
 1. A snoozing guard or jailer.
 2. A pair of guards on patrol.
-3. A quartet of guards playing cards or dice on
-their break.
-4. A pack of trained hunting dogs commanded
-by a high-ranking guard who has been
-alerted of the escape attempt.
-5. An inquisitor on-site to interrogate another
-prisoner about an unrelated case.
+3. A quartet of guards playing cards or dice on their break.
+4. A pack of trained hunting dogs commanded by a high-ranking guard who has been alerted of the escape attempt.
+5. An inquisitor on-site to interrogate another prisoner about an unrelated case.
 6. An ear-splitting shriek from a maidservant.
-7. A wide, well-lit yard that must be crossed
-with guards watching it from towers.
+7. A wide, well-lit yard that must be crossed with guards watching it from towers.
 8. A high wall directly in the path of escape.
 9. A barred window in the path of escape.
 10. The rat-infested kitchens.
-11. An imprisoned nobleman who offers to help
-if you help him escape.
+11. An imprisoned nobleman who offers to help if you help him escape.
 12. An imprisoned thief who is bent on revenge.
-d6 Danger: Even if you make it out of the
-dungeon, you’ll never escape because...
+
+d6 Danger: Even if you make it out of the dungeon, you’ll never escape because...
 1. The castle’s huntsman will ride you down.
 2. The castle’s hunting hounds are peerless.
 3. The castle’s ghosts will shriek in alarm.
-4. The knights sworn to the castle’s liege will
-not rest until they return you to him or her.
+4. The knights sworn to the castle’s liege will not rest until they return you to him or her.
 5. The castle’s archers will fill you with arrows.
-6. You’ve been branded a prisoner of this
-place; no one will risk helping you.
+6. You’ve been branded a prisoner of this place; no one will risk helping you.
+$JAILER
 
-JAILER
 d6 Background: The jailer is...
 1. A coward who likes to act tough.
 2. A bully in every sense of the word.
@@ -1713,16 +1750,19 @@ d6 Background: The jailer is...
 4. A sadistic thug.
 5. A mild-mannered man of faith.
 6. A resentful cripple.
+
 d6 Work: The jailer is concerned about...
 1. Rumors of an upcoming escape attempt.
 2-3. Losing his job after a messy prisoner death.
 4. Facing a prisoner who creeps him out.
 5-6. Ways to make a little extra silver.
+
 d6 Goal: The jailer is looking to...
 1-2. Abuse someone who is defenseless.
 3. Make himself feel powerful.
 4. Reach out to a disturbed prisoner.
 5-6. Swap grisly tales.
+
 d8 Possession: The jailer carries...
 1. A large ring of keys.
 2. A large knife and a sap.
@@ -1732,12 +1772,14 @@ d8 Possession: The jailer carries...
 6. A spiked club.
 7. A scourge or whip.
 8. A wineskin.
-PRISONER
+$PRISONER
+
 d6 Trait: The prisoner has...
 1-2. A long scraggly beard.
 3. A patchy beard.
 4-5. Skin draped loosely over his bones.
 6. Boils and sores on his skin.
+
 d6 Crime: The prisoner is here because...
 1. He stole something.
 2. He killed someone.
@@ -1745,12 +1787,14 @@ d6 Crime: The prisoner is here because...
 4. He was caught poaching on his liege’s land.
 5. He committed an act of fraud.
 6. Someone confused him with someone else.
+
 d6 The prisoner has...
 1-2. No hope of escape.
 3. A foolish optimism of his escape prospects.
 4-5. A tenuous grasp on sanity.
 6. Been driven mad.
-TORTURER
+$TORTURER
+
 d6 Background: The torturer is...
 1. The bastard son of a noble house.
 2. A priest with a puritanical agenda.
@@ -1758,11 +1802,13 @@ d6 Background: The torturer is...
 4. A wicked little man.
 5. A soldier and a survivor.
 6. A soft-spoken artistic type.
+
 d6 Goal: The torturer is looking to...
 1. Impress his liege with efficient confessions.
 2-3. Make himself feel powerful.
 4-5. Break a particularly willful prisoner.
 6. Frighten someone with grisly tales.
+
 d6 Possession: The torturer carries...
 1. A large knife and a scourge.
 2. A leatherbound case of hooks and prongs.
@@ -1770,65 +1816,44 @@ d6 Possession: The torturer carries...
 4. A trophy taken from a tortured prisoner.
 5. A pocket-sized prayer book.
 6. A flask of spirits.
+$RANDOM CAVERNS: INTO THE DARK...
 
-Page 10
-
-
-RANDOM CAVERNS: INTO THE DARK...
 d10 Entrance: The cave mouth is...
-1. Wide and tall, letting much daylight into the
-entry chamber.
+1. Wide and tall, letting much daylight into the entry chamber.
 2. A wide sinkhole.
 3. An easy to spot, narrow passage.
 4. A steep, slippery sloped tunnel.
 5. A man-made tunnel.
-6. A collapsed tunnel, impassable without
-excavation.
+6. A collapsed tunnel, impassable without excavation.
 7. Marked with several warning signs.
-8. Hidden by the terrain (d6): 1-2. boulders;
-3-4. waterfall; 5. rocky overhang;
-6. hillock.
-9. Hidden by vegetation (d6): 1. a briar patch;
-2. a curtain of moss;
-3-4. enormous tree roots; 5-6. overgrown
-vines.
-10. Difficult to access (d6): 1-2. up or down a
-cliff face; 3. down a deep hole; 4-5. in an
-underwater tunnel; 6. through an illusory
-rock or wall.
+8. Hidden by the terrain (d6): 1-2. boulders; 3-4. waterfall; 5. rocky overhang; 6. hillock.
+9. Hidden by vegetation (d6): 1. a briar patch; 2. a curtain of moss; 3-4. enormous tree roots; 5-6. overgrown vines.
+10. Difficult to access (d6): 1-2. up or down a cliff face; 3. down a deep hole; 4-5. in an underwater tunnel; 6. through an illusory rock or wall.
+
 d20 Distinguishing Landmark: You see...
-1. A trickle of water flowing down the walls
-and across the floor.
+1. A trickle of water flowing down the walls and across the floor.
 2. An underground lake of potable water.
 3. A pool of stagnant water.
 4. A natural bridge over a chasm.
-5. A narrow chasm with walls close enough
-to climb between.
+5. A narrow chasm with walls close enough to climb between.
 6. A deep chasm with no bottom in sight.
-7. A shaft in the ceiling with no light coming
-from it.
-8. A shaft in the ceiling with dim light coming
-from it.
+7. A shaft in the ceiling with no light coming from it.
+8. A shaft in the ceiling with dim light coming from it.
 9. A group of stalagmites arranged in a circle.
-10. An arrangement of two large stalactites
-and two large stalagmites, reminiscent of
-fangs in a yawning mouth.
+10. An arrangement of two large stalactites and two large stalagmites, reminiscent of fangs in a yawning mouth.
 11. A pair of natural columns.
-12. A large stalactite that has broken off from
-the ceiling and fallen to the floor.
-13. An array of many small stalactites
-spreading across the ceiling.
+12. A large stalactite that has broken off from the ceiling and fallen to the floor.
+13. An array of many small stalactites spreading across the ceiling.
 14. A damp wall covered in soft mold.
-15. A recess in the wall, covered in slimy
-mold.
+15. A recess in the wall, covered in slimy mold.
 16. A large patch of glowing fungus.
 17. A large patch of small mushrooms.
 18. A group of enormous mushrooms.
 19. A large cavern with a strong echo.
 20. A claustrophobic tunnel with a low ceiling.
+
 d12 Features: You notice...
-1. A cache of abandoned, decrepit mining
-equipment.
+1. A cache of abandoned, decrepit mining equipment.
 2. Some old dry bones.
 3. Many bones underfoot.
 4. Evidence of a recent encampment.
@@ -1837,11 +1862,8 @@ equipment.
 7. The clatter of rocks falling.
 8. Loose stones underfoot.
 9. An unstable ceiling.
-10. A distant sound (d6): 1. a scream;
-2-3. hammers at work; 4-5. footsteps;
-6. drums.
-11. The name of a previous traveler carved
-into or written on a wall.
+10. A distant sound (d6): 1. a scream; 2-3. hammers at work; 4-5. footsteps; 6. drums.
+11. The name of a previous traveler carved into or written on a wall.
 12. Several ancient runes carved into the wall.
 
 d100 Denizens: What lives in the cave?
@@ -1895,6 +1917,7 @@ d100 Denizens: What lives in the cave?
 95-96. Xorn.
 97-98. Yuan-ti.
 99-100. Zombies.
+
 d10 Ecology: The creature is...
 1. A predator or a hunter.
 2. A food source for other denizens.
@@ -1906,14 +1929,14 @@ d10 Ecology: The creature is...
 8. Living in deliberate isolation.
 9. Living in unintentional isolation.
 10. Severely out of place in this cave.
+
 d6 Hazards/Obstacles: You find...
 1. A colony of poisonous mushrooms.
 2. A patch of toxic mold.
 3. The ceiling caves in.
 4. Several rocks tumble down a sloped wall.
 5. The floor is very slippery.
-6. Your foot misses the floor as you step into
-a pit or chasm.
+6. Your foot misses the floor as you step into a pit or chasm.
 
 d12 Walls: The cave wall is...
 1. Slightly damp.
@@ -1928,6 +1951,7 @@ d12 Walls: The cave wall is...
 10. Crumbling, with loose bits flaking off.
 11. Crumbling, with large chunks falling off.
 12. Covered in an unidentifiable slime.
+
 d6 Ceiling: The cave ceiling is...
 1. Uncomfortably close to your head.
 2. Covered in stalactites (watch your head!).
@@ -1935,33 +1959,23 @@ d6 Ceiling: The cave ceiling is...
 4. Rough and jagged.
 5. Joined to the floor by natural columns.
 6. So high it is difficult to see.
+
 d12 Travelers/Visitors: You come upon...
 1. An explorer (d6): 1. duergar; 2. goblin;
 3-5. human; 6. kobold.
-2. An escaped slave (d6): 1. dwarf;
-2. goblin; 3. gnome; 4. halfling; 5. human;
-6. kobold.
-3. A forager (d6): 1. duergar; 2-3. goblin;
-4-5. kobold; 6. orc.
-4. A fugitive criminal (d6): 1. heretic;
-2-3. killer; 4. smuggler; 5-6. thief.
-5. A lost treasure hunter (d6): 1-2. dwarf;
-3. half-elf; 4. high elf; 5-6. human.
-6. A mapmaker (d6): 1-2. dwarf; 3. goblin;
-4-5. gnome; 6. svirfneblin.
-7. A messenger (d6): 1. dark elf; 2-3. goblin;
-4-5. gnome; 6. svirfneblin.
-8. A miner (d6): 1. dwarf; 2. svirfneblin;
-3. gnome; 4. goblin; 5. human; 6. kobold.
-9. A prospector (d6): 1-2. dwarf; 3. gnome;
-4-5. human; 6. svirfneblin.
-10. A scout (d6): 1-2. dark elf; 3-4. goblin;
-5. kobold; 6. orc.
-11. A soldier (d6): 1. dark elf; 2. duergar;
-3. dwarf; 4. goblin; 5. kobold; 6. orc.
-12. A spy (d6): 1-2. dark elf; 3. duergar;
-4-5. goblin; 6. kobold.
-DARK ELF
+2. An escaped slave (d6): 1. dwarf; 2. goblin; 3. gnome; 4. halfling; 5. human; 6. kobold.
+3. A forager (d6): 1. duergar; 2-3. goblin; 4-5. kobold; 6. orc.
+4. A fugitive criminal (d6): 1. heretic; 2-3. killer; 4. smuggler; 5-6. thief.
+5. A lost treasure hunter (d6): 1-2. dwarf; 3. half-elf; 4. high elf; 5-6. human.
+6. A mapmaker (d6): 1-2. dwarf; 3. goblin; 4-5. gnome; 6. svirfneblin.
+7. A messenger (d6): 1. dark elf; 2-3. goblin; 4-5. gnome; 6. svirfneblin.
+8. A miner (d6): 1. dwarf; 2. svirfneblin; 3. gnome; 4. goblin; 5. human; 6. kobold.
+9. A prospector (d6): 1-2. dwarf; 3. gnome; 4-5. human; 6. svirfneblin.
+10. A scout (d6): 1-2. dark elf; 3-4. goblin; 5. kobold; 6. orc.
+11. A soldier (d6): 1. dark elf; 2. duergar; 3. dwarf; 4. goblin; 5. kobold; 6. orc.
+12. A spy (d6): 1-2. dark elf; 3. duergar; 4-5. goblin; 6. kobold.
+$DARK ELF
+
 d8 Background: The dark elf is...
 1. A deadly assassin.
 2. A death-marked heretic.
@@ -1971,22 +1985,20 @@ d8 Background: The dark elf is...
 6. A capable scout.
 7. A battle-hardened soldier.
 8. A patient and calculating spy.
+
 d6 Goal: The dark elf is looking to...
 1. Track an unnatural beast or invader.
 2-3. Lead any travelers into a dangerous trap.
-4. Find some knowledge about an ancient
-event or place.
+4. Find some knowledge about an ancient event or place.
 5-6. Share some wine while prying for secrets.
+
 d6 Possession: The dark elf carries...
 1. An ancient wand or staff.
 2-3. A unique gem or piece of jewelry.
 4. A finely-crafted short sword or crossbow.
 5-6. A tome of dark lore.
+$QUICK CITY-BUILDING: MINIMAL URBAN PLANNING
 
-Page 11
-
-
-QUICK CITY-BUILDING: MINIMAL URBAN PLANNING
 d10 Geography: The city grew up around...
 1. A coastal harbor.
 2. A calm, coastal bay.
@@ -1998,18 +2010,29 @@ d10 Geography: The city grew up around...
 8. A series of natural springs.
 9. A well-traveled crossroads.
 10. A water source and a well-traveled road.
-d20 Resources: The city is near a region
-ideal for mining, growing, or grazing...
-1. Iron ore. 11. Rice or wheat.
-2. Copper ore. 12. Potatoes.
-3. Gold or silver deposits. 13. Sugar cane.
-4. Clay or granite deposits. 14. Tobacco.
-5. Quartz or salt deposits. 15. Cotton.
-6. Peat or coal deposits. 16. Fruit trees.
-7 Hardwood lumber. 17. Cabbages.
-8. Barley and oats. 18. Cattle.
-9. Beans and corn. 19. Dairy cows.
-10. Nuts and olives. 20. Sheep.
+
+d20 Resources: The city is near a region ideal for mining, growing, or grazing...
+1. Iron ore. 
+2. Rice or wheat.
+3. Copper ore. 
+4. Potatoes.
+5. Gold or silver deposits. 
+6. Sugar cane.
+7. Clay or granite deposits. 
+8. Tobacco.
+9. Quartz or salt deposits. 
+10. Cotton.
+11. Peat or coal deposits. 
+12. Fruit trees.
+13. Hardwood lumber. 
+14. Cabbages.
+15. Barley and oats. 
+16. Cattle.
+17. Beans and corn. 
+18. Dairy cows.
+19. Nuts and olives. 
+20. Sheep.
+
 d20 Culture: The city is known for its...
 1. Architectural style. 11. Romance.
 2. Architectural feats. 12. Jousting games.
@@ -2021,6 +2044,7 @@ d20 Culture: The city is known for its...
 8. Horse races. 18. Unusual dress.
 9. Scholars and sages. 19. Theater scene.
 10. Music and/or dance. 20. Wine and/or ale.
+
 d10 Government: The city is ruled by...
 1. The head of a noble family.
 2. A council of distinguished nobles.
@@ -2032,6 +2056,7 @@ d10 Government: The city is ruled by...
 8. A brutal warlord or military commander.
 9. A cabal of witches and wizards.
 10. The leaders of a religious order.
+
 d20 Historical Event: The city experienced...
 1. Mass conversions. 11. A destructive fire.
 2. An earthquake. 12. A deadly plague.
@@ -2043,8 +2068,8 @@ d20 Historical Event: The city experienced...
 8. A series of riots. 18. An economic boom.
 9. A great discovery. 19. A great depression.
 10. Vermin infestation. 20. A dragon attack.
-d12 Threats: The people are fearful of
-(commoners and elites may differ)...
+
+d12 Threats: The people are fearful of (commoners and elites may differ)...
 1. Bandits and outlaws.
 2. Barbarian invasions.
 3. Disease outbreaks.
@@ -2069,21 +2094,21 @@ d10 Defenses: The city is defended by...
 8. Thick stone walls and impenetrable gates.
 9. High stone walls, catapults, and scorpions.
 10. A powerful magical ward or gigantic golem.
+
 d12 Law Enforcement: The laws are...
 1. Enforced by a strict, orderly city watch.
 2. Enforced by a corrupt, roguish city watch.
 3. Not enforced among the wealthy elite.
-6. Enforced in a haphazard fashion,
-incomprehensible to visitors.
+6. Enforced in a haphazard fashion, incomprehensible to visitors.
 4. Not enforced for those who pay bribes.
 5. More like guidelines.
-7. Enforced by a secret society of assassins,
-mages, or priests.
+7. Enforced by a secret society of assassins, mages, or priests.
 8. Enforced by a company of mercenaries.
 9. Simple, easy to learn and to follow.
 10. Extensive and complicated, nonsensical.
 11. Enforced by a cheerful drunken sheriff.
 12. Enforced by a rigid soldier-turned-sheriff.
+
 d20 Power Players: Within or outside the
 government, power is held by...
 1. A ruthless assassins’ guild.
