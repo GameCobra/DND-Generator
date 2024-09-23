@@ -3245,6 +3245,7 @@ d6 Who lives in the peculiar tent?
 4. A nomadic herder.
 5. A nomadic warrior
 6. An outcast elf.
+
 d6 Who built the stone house?
 1. A strange hermit.
 2. A reclusive scholar.
@@ -3252,23 +3253,41 @@ d6 Who built the stone house?
 4. A poor goatherder.
 5. Someone who left no trace.
 6. A member of an ancient clan.
+
 d8 Who resides in the stone house now?
-1. A death hound 5. Spiders and bats.
-2. Several zombies. 6. A necromancer.
-3. A mad sorcerer. 7. Restless ghosts.
-4. A wild shapeshifter. 8. An evil witch.
+1. A death hound 
+2. Spiders and bats.
+3. Several zombies. 
+4. A necromancer.
+5. A mad sorcerer. 
+6. Restless ghosts.
+7. A wild shapeshifter. 
+8. An evil witch.
+
 d10 Who built the ancient ruins?
-1. A shadowfolk clan. 6. A fiendish cult.
-2. A dark elf queen. 7. A dragon cult.
-3. An ambitious lich. 8. A death cult.
-4. A forgotten empire. 9. A forgotten king.
-5. Shadow monks. 10. A dark sorcerer.
+1. A shadowfolk clan. 
+2. A fiendish cult.
+3. A dark elf queen. 
+4. A dragon cult.
+5. An ambitious lich. 
+6. A death cult.
+7. A forgotten empire. 
+8. A forgotten king.
+9. Shadow monks. 
+10. A dark sorcerer.
+
 d10 Who lives in the ancient ruins now?
-1. A necromancer. 6. Starved ghouls.
-2. Cursed mummies. 7. Restless ghosts.
-3. Undead guardians. 8. Shadow warriors.
-4. Pair of manticores. 9. Aberrant spirits.
-5. Pack of death dogs. 10. A dracolich.
+1. A necromancer. 
+2. Starved ghouls.
+3. Cursed mummies. 
+4. Restless ghosts.
+5. Undead guardians. 
+6. Shadow warriors.
+7. Pair of manticores. 
+8. Aberrant spirits.
+9. Pack of death dogs. 
+10. A dracolich.
+
 d6 What built the watchtower?
 1. A long-forgotten empire.
 2. An order of shadow monks.
@@ -3276,6 +3295,7 @@ d6 What built the watchtower?
 4. An fiendish lord’s army.
 5. An ancient elf-witch.
 6. A legendary wizard.
+
 d6 Who holds the watchtower now?
 1. The last remnant of a defeated army.
 2. An order of holy knights.
@@ -3283,6 +3303,7 @@ d6 Who holds the watchtower now?
 4. A hobgoblin war party.
 5. Zombies at the ground level, bats upstairs.
 6. Rats at ground level, spiders up above.
+
 d6 Who camped here?
 1. An orkish war party.
 2. A shadowfolk raiding party.
@@ -3290,27 +3311,40 @@ d6 Who camped here?
 4. Some refugees or fugitives.
 5. Someone who left a heap of fresh bones.
 6. Someone whose purposes are unclear.
+
 d10 Who is in the grave?
-1. A fallen adventurer. 6. Twisted bones.
-2. A dismembered body. 7. An old woman.
-3. A pile of bones. 8. A old man.
-4. A hateful mummy. 9. A child.
-5. An empty coffin. 10. A fair maiden.
+1. A fallen adventurer. 
+2. Twisted bones.
+3. A dismembered body. 
+4. An old woman.
+5. A pile of bones. 
+6. A old man.
+7. A hateful mummy. 
+8. A child.
+9. An empty coffin. 
+10. A fair maiden.
+
 d6 The grave is covered with...
-1. Fresh earth. 4. A large stone slab.
-2. Rotting flowers. 5. A worn marker.
-3. A carved stone. 6. Scratch marks.
+1. Fresh earth. 
+2. A large stone slab.
+3. Rotting flowers. 
+4. A worn marker.
+5. A carved stone. 
+6. Scratch marks.
+
 d10 Whose soul or remains haunt the tomb?
-1. An ancient king. 6. Dead monks.
-2. An ancient queen. 7. A demilich.
-3. An ancient sorcerer. 8. Twisted bones.
-4. A powerful mummy. 9. Foul ghosts.
-5. Zombie warriors. 10. Piles of bones.
-
-Page 17
-
-
+1. An ancient king. 
+2. Dead monks.
+3. An ancient queen. 
+4. A demilich.
+5. An ancient sorcerer. 
+6. Twisted bones.
+7. A powerful mummy. 
+8. Foul ghosts.
+9. Zombie warriors. 
+10. Piles of bones.
 RANDOM DISEASES: BRING OUT YOUR DEAD...
+
 d12 Exposure: This disease is spread by...
 1. Inhaling contaminated air.
 2. Drinking contaminated water.
@@ -3321,12 +3355,11 @@ d12 Exposure: This disease is spread by...
 7. The bite of a fly or tick.
 8. The bite of a rat or bat.
 9. Nothing; it’s a genetic condition.
-10. Nothing; it’s a chronic condition brought on
-by lifestyle choices.
+10. Nothing; it’s a chronic condition brought on by lifestyle choices.
 11. Mysterious, magic-related means.
 12. Unknown means.
-d8 Incubation: Once exposed to the
-disease, a person develops symptoms...
+
+d8 Incubation: Once exposed to the disease, a person develops symptoms...
 1. Almost immediately (1d6 hours).
 2. Very rapidly (4d6 hours).
 3. Within a few days (1d4 days).
@@ -3335,59 +3368,35 @@ disease, a person develops symptoms...
 6. Some time in the next 2 months (2d4 wks).
 7. Some time in the next year (2d6 months).
 8. Some time in the person’s life (2d20 yrs).
-d10 Geography: This disease is frequently
-encountered in regions with...
-1. A warm climate. 6. A cold climate.
-2. An arid climate. 7. A damp climate.
-3. A mild climate. 8. Swamps / bogs.
-4. A coastal climate. 9. Dense jungles.
-5. A temperate climate. 10. High altitude.
+
+d10 Geography: This disease is frequently encountered in regions with...
+1. A warm climate. 
+2. A cold climate.
+3. An arid climate. 
+4. A damp climate.
+5. A mild climate. 
+6. Swamps / bogs.
+7. A coastal climate. 
+8. Dense jungles.
+9. A temperate climate. 
+10. High altitude.
+
 d10 Common Symptoms: Affect the...
-1. Eyes (d8): 1. blurred vision; 2. light
-sensitivity; 3. puffiness; 4. poor night
-vision; 5. watery eyes; 6. yellow discharge;
-7. double vision; 8. difficulty focusing.
-2. Brain (d8): 1. changes in mood;
-2. dissociative fugues; 3. dizziness;
-4. drowsiness; 5. headaches; 6. insomnia;
-7. nightmares; 8. shortened attention span.
-3. Chest (d8): 1. chest pain; 2. congestion;
-3. coughing fits; 4. hives; 5. wheezing;
-6. shortness of breath; 7. coughing up
-blood; 8. tightness in chest.
-4. Ears and throat (d8): 1. excessive ear wax;
-2. difficulty swallowing; 3. swollen glands;
-4. sore throat; 5. hearing loss; 6. vertigo;
-7. bleeding from the ears; 8. loss of voice.
-5. Head and nose (d8): 1. dry scalp; 2. hair
-loss; 3. pimples; 4. sinus pressure;
-5. sneezing; 6. swollen cheeks; 7. runny
-nose; 8. bleeding from the nose.
-6. Limbs (d8): 1. achiness; 2. joint pain;
-3. muscle spasms; 4. restlessness; 5. stiff
-joints; 6. weakness; 7. discoloration of the
-fingernails or toenails; 8. bruising.
-7. Mouth (d8): 1. bleeding gums; 2. canker
-sores; 3. cracked lips; 4. dry mouth;
-5. foamy, excessive salivation; 6. tooth
-pain; 7. tooth discoloration; 8. tooth decay.
-8. Sex organs (d8): 1. loss of desire; 2. pale
-discharge; 3. inability to climax; 4. open
-sores; 5. pain during urination; 6. warts;
-7. itchy bumps; 8. bloody discharge.
-9. Skin (d8): 1. black or purple spots; 2. boils;
-3. itchiness; 4. pale or yellow hue;
-5. peeling; 6. rash; 7. red spots; 8. scales.
-10. Stomach and gut (d8): 1. loss of appetite;
-2. constipation; 3. excessive flatulence;
-4. loose stool; 5. bloody stool; 6. nausea
-and vomiting; 7. ulcers, 8. vomiting blood.
+1. Eyes (d8): 1. blurred vision; 2. light sensitivity; 3. puffiness; 4. poor night vision; 5. watery eyes; 6. yellow discharge; 7. double vision; 8. difficulty focusing.
+2. Brain (d8): 1. changes in mood; 2. dissociative fugues; 3. dizziness; 4. drowsiness; 5. headaches; 6. insomnia; 7. nightmares; 8. shortened attention span.
+3. Chest (d8): 1. chest pain; 2. congestion; 3. coughing fits; 4. hives; 5. wheezing; 6. shortness of breath; 7. coughing up blood; 8. tightness in chest.
+4. Ears and throat (d8): 1. excessive ear wax; 2. difficulty swallowing; 3. swollen glands; 4. sore throat; 5. hearing loss; 6. vertigo; 7. bleeding from the ears; 8. loss of voice.
+5. Head and nose (d8): 1. dry scalp; 2. hair loss; 3. pimples; 4. sinus pressure; 5. sneezing; 6. swollen cheeks; 7. runny nose; 8. bleeding from the nose.
+6. Limbs (d8): 1. achiness; 2. joint pain; 3. muscle spasms; 4. restlessness; 5. stiff joints; 6. weakness; 7. discoloration of the fingernails or toenails; 8. bruising.
+7. Mouth (d8): 1. bleeding gums; 2. canker sores; 3. cracked lips; 4. dry mouth; 5. foamy, excessive salivation; 6. tooth pain; 7. tooth discoloration; 8. tooth decay.
+8. Sex organs (d8): 1. loss of desire; 2. pale discharge; 3. inability to climax; 4. open sores; 5. pain during urination; 6. warts; 7. itchy bumps; 8. bloody discharge.
+9. Skin (d8): 1. black or purple spots; 2. boils; 3. itchiness; 4. pale or yellow hue; 5. peeling; 6. rash; 7. red spots; 8. scales.
+10. Stomach and gut (d8): 1. loss of appetite; 2. constipation; 3. excessive flatulence; 4. loose stool; 5. bloody stool; 6. nausea and vomiting; 7. ulcers, 8. vomiting blood.
 
 d20 Rare Symptoms: May include...
 1. Amnesia; partial or complete.
 2. Blindness or deafness.
-3. Coma (d6): 1-2. short-term; 3-4. long-term;
-5-6. indefinite.
+3. Coma (d6): 1-2. short-term; 3-4. long-term; 5-6. indefinite.
 4. Complete changes in personality.
 5. Concurrent vomiting and diarrhea.
 6. Coughing up blood.
@@ -3404,8 +3413,8 @@ d20 Rare Symptoms: May include...
 17. Susceptibility to other illnesses.
 18. Tumors or tumor-like growths.
 19. Wild mood swings.
-20. Sudden aversion to one or more familiar
-foods, individuals, or objects.
+20. Sudden aversion to one or more familiar foods, individuals, or objects.
+
 d6 Natural History: Symptoms are...
 1-2. Acute and curable; once the afflicted is
 cured, the symptoms never return.
