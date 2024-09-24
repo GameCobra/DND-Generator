@@ -3343,7 +3343,7 @@ d10 Whose soul or remains haunt the tomb?
 8. Foul ghosts.
 9. Zombie warriors. 
 10. Piles of bones.
-RANDOM DISEASES: BRING OUT YOUR DEAD...
+$RANDOM DISEASES: BRING OUT YOUR DEAD...
 
 d12 Exposure: This disease is spread by...
 1. Inhaling contaminated air.
@@ -3416,31 +3416,19 @@ d20 Rare Symptoms: May include...
 20. Sudden aversion to one or more familiar foods, individuals, or objects.
 
 d6 Natural History: Symptoms are...
-1-2. Acute and curable; once the afflicted is
-cured, the symptoms never return.
-3. Acute but recurring; once the afflicted is
-cured, symptoms may return later in life.
-4-5. Chronic but completely curable; once the
-afflicted is cured, symptoms rarely return.
-6. Chronic but treatable; after treatment,
-symptoms will reoccur every few years.
+1-2. Acute and curable; once the afflicted is cured, the symptoms never return.
+3. Acute but recurring; once the afflicted is cured, symptoms may return later in life.
+4-5. Chronic but completely curable; once the afflicted is cured, symptoms rarely return.
+6. Chronic but treatable; after treatment, symptoms will reoccur every few years.
+
 d6 Complications: If untreated, cases are...
-1. Rarely serious; running its course in a few
-days or weeks.
-2. Rarely lethal; fatal complications occur in
-less than 1% of cases.
-3. Sometimes debilitating, but rarely lethal;
-permanent disabilities occur in
-approximately 10% of cases, and fatal
-complications in less than 1% of cases
-4. Sometimes lethal; fatal complications
-occur in approximately 10% of cases.
-5. Often debilitating, and sometimes lethal;
-permanent disabilities occur in more than
-50% of cases, and fatal complications in
-approximately 10% of cases.
-6. Often lethal; fatal complications occur in
-more than 50% of cases.
+1. Rarely serious; running its course in a few days or weeks.
+2. Rarely lethal; fatal complications occur in less than 1% of cases.
+3. Sometimes debilitating, but rarely lethal; permanent disabilities occur in approximately 10% of cases, and fatal complications in less than 1% of cases
+4. Sometimes lethal; fatal complications occur in approximately 10% of cases.
+5. Often debilitating, and sometimes lethal; permanent disabilities occur in more than 50% of cases, and fatal complications in approximately 10% of cases.
+6. Often lethal; fatal complications occur in more than 50% of cases.
+
 d8 Treatment: The cure for the disease is...
 1. A simple herbal remedy.
 2. A complex herbal potion or salve.
@@ -3450,21 +3438,16 @@ d8 Treatment: The cure for the disease is...
 6. Basic healing spells and incantations.
 7. Advanced healing spells and potions.
 8. Extremely powerful and rare magic.
+
 d6 Response time: Treatment is typically...
 1. Miraculous; symptoms disappear instantly.
-2. Quick; the afflicted is cured within a few
-hours of receiving treatment.
-3. Short; the afflicted is cured within a few
-days of receiving treatment.
-4. Lengthy; the afflicted is cured within a few
-weeks of receiving treatment.
-5. Long-term; the afflicted is cured within a
-few months of receiving treatment.
-6. Erratic; the time-course of treatment varies
-greatly among individuals or among
-outbreaks of the disease.
+2. Quick; the afflicted is cured within a few hours of receiving treatment.
+3. Short; the afflicted is cured within a few days of receiving treatment.
+4. Lengthy; the afflicted is cured within a few weeks of receiving treatment.
+5. Long-term; the afflicted is cured within a few months of receiving treatment.
+6. Erratic; the time-course of treatment varies greatly among individuals or among outbreaks of the disease.
+$MAGICAL MALADIES
 
-MAGICAL MALADIES
 d20 Supernatural Symptoms: May include...
 1. Belching up vermin.
 2. Demonic or ghostly possession.
@@ -3486,7 +3469,8 @@ d20 Supernatural Symptoms: May include...
 18. Uncontrollable fits of laughter or tears.
 19. Uncontrollable singing or dancing.
 20. Overactive libido.
-HEALERS
+$HEALERS
+
 d12 Profession: The healer is...
 1. A devoted acolyte.
 2. A skilled alchemist.
