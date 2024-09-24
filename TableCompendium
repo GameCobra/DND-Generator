@@ -2304,8 +2304,8 @@ d6 Goal: The apprentice is seeking someone to...
 4. Listen to complaints about his master.
 5. Tell a tale that inspires creativity.
 6. Sneak off for a drink and some kisses.
+$ARTISAN
 
-ARTISAN
 d6 Background: The artisan is...
 1. A young journeyman.
 2. A mediocre journeyman.
@@ -2377,7 +2377,7 @@ d6 Aspiration: The artisan dreams of...
 4. Retiring rich.
 5. Running away from it all.
 6. A life of adventure.
-RANDOM CULTS: BOW DOWN TO THE LORD OF WHAT?
+$RANDOM CULTS: BOW DOWN TO THE LORD OF WHAT?
 
 d12 Reverence: The cultists revere...
 1. A dragon.
@@ -2454,14 +2454,11 @@ d8 Goals: The cult's goals (leadership and believers could have different goals)
 6. Death to non-believers.
 7. Opening a portal to another plane.
 8. Release of a powerful captive entity.
-d12 Rules: The cult’s members must follow
-a strict rule regarding...
-1. Wearing a flower in the hair or on the lapel
-(d6): 1. lily; 2. orchid; 3. rose; 4. petunia; 5.
-poppy; 6. tulip.
+
+d12 Rules: The cult’s members must follow a strict rule regarding...
+1. Wearing a flower in the hair or on the lapel (d6): 1. lily; 2. orchid; 3. rose; 4. petunia; 5. poppy; 6. tulip.
 2. Fashion trends.
-3. Maintaining their personal weapon (d6):
-1-2. club; 2-3. dagger; 4. handaxe; 6. staff.
+3. Maintaining their personal weapon (d6): 1-2. club; 2-3. dagger; 4. handaxe; 6. staff.
 4. Treatment of pets.
 5. Mounting a horse.
 6. Dressing one’s self for worship.
@@ -2493,7 +2490,7 @@ d6 Morale: The cult’s attitude toward their leader is...
 4. Mutinous.
 5. Loyal and defensive. 
 6. Fearful.
-INDIVIDUAL CULTISTS
+$INDIVIDUAL CULTISTS
 
 d6 Zealotry: The cultist...
 1. Is an outspoken true believer.
@@ -2564,7 +2561,7 @@ d6 Connections: The cultist’s family and close friends know...
 4. Very little about the cult, but they dislike what they do know.
 5. Very little about the cult, but they don’t think it sounds too bad.
 6. Absolutely nothing about the cult.
-RANDOM DESERTS: ACROSS THE WASTELAND...
+$RANDOM DESERTS: ACROSS THE WASTELAND...
 
 d20 Interesting Location: You find...
 1. A cavern in a canyon wall.
@@ -2817,7 +2814,7 @@ d6 Whose soul or remains haunt the tomb?
 3. A dark queen.
 4-5. A vengeful king. 
 6. A tricky thief.
-RANDOM FLAME-SCORCHED DESERTS: DESERT VARIANT  
+$RANDOM FLAME-SCORCHED DESERTS: DESERT VARIANT  
 
 d20 Interesting Location: You find...
 1. A cavern in a canyon wall.
@@ -3072,7 +3069,7 @@ d6 Whose soul or remains haunt the tomb?
 4. A tricky thief.
 5. A legendary hero. 
 6. A dark queen.
-RANDOM SHADOW-TOUCHED DESERTS: DESERT VARIANT  
+$RANDOM SHADOW-TOUCHED DESERTS: DESERT VARIANT  
 
 d20 Interesting Location: You find...
 1. A cavern in a canyon wall.
@@ -3484,6 +3481,7 @@ d12 Profession: The healer is...
 10. A practiced surgeon.
 11. A battle-tested warpriest.
 12. A quirky witch-doctor.
+
 d10 Mannerism: The healer has...
 1. A likable grin.
 2. Kind eyes.
@@ -3495,6 +3493,7 @@ d10 Mannerism: The healer has...
 8. An easy laugh.
 9. A habit of sighing.
 10. A habit of muttering to himself or herself.
+
 d10 Possessions: The healer carries...
 1. A clean, sharp knife.
 2. A wooden staff.
@@ -3506,6 +3505,7 @@ d10 Possessions: The healer carries...
 8. Scales, glass vials, and delicate tools.
 9. A small field guide to diagnosing illnesses.
 10. A wineskin.
+
 d10 Goal: The healer is looking for...
 1. The translation of an ancient text.
 2. Individuals in need of his or her services.
@@ -3517,11 +3517,8 @@ d10 Goal: The healer is looking for...
 8. A chance to earn a little coin.
 9. A chance to tell a tale of woe.
 10. The bottom of a goblet.
+$RANDOM DRUIDS: WILD BEASTS AND SPICY HERBS...
 
-Page 18
-
-
-RANDOM DRUIDS: WILD BEASTS AND SPICY HERBS...
 d20 Background: The druid is...
 1. A wildling orphan.
 2. A seasoned herbalist.
@@ -3543,6 +3540,7 @@ d20 Background: The druid is...
 18. A mystic shaman.
 19. A savage priest or priestess.
 20. A village elder.
+
 d12 Training: The druid learned from...
 1. Apprenticing to a woodland witch.
 2. Studying wilderness lore at an academy.
@@ -3552,12 +3550,11 @@ d12 Training: The druid learned from...
 6. Conversing with primal spirits.
 7. An enchanted beast.
 8. Studying old books.
-9. The circle of druids that took him/her in as
-a child.
-10. A fey creature that offered redemption for
-past transgressions against nature.
+9. The circle of druids that took him/her in as a child.
+10. A fey creature that offered redemption for past transgressions against nature.
 11. A mysterious village elder.
 12. Time spent stranded in a wild, foreign land.
+
 d10 Eyes: The druid has...
 1. Sky blue eyes.
 2. Deep sea blue eyes.
@@ -3569,6 +3566,7 @@ d10 Eyes: The druid has...
 8. Night-sky purple eyes.
 9. Dusty brown eyes.
 10. Stony grey eyes.
+
 d10 Trait: The druid has...
 1. An earthy scent.
 2. Bits of green under the fingernails.
@@ -3580,6 +3578,7 @@ d10 Trait: The druid has...
 8. Long, sharp fingernails.
 9. Beautiful, healthy skin.
 10. A greenish, mossy beard.
+
 d12 Mannerism: The druid...
 1. Stares hungrily like a wolf.
 2. Stares suspiciously like a cat.
@@ -3594,8 +3593,7 @@ d12 Mannerism: The druid...
 11. Fidgets like a squirrel.
 12. Pounces like a lion.
 
-d20 Wild Connection: The druid shares an
-especially close connection with...
+d20 Wild Connection: The druid shares an especially close connection with...
 1. Aquatic mammals.
 2. Bears.
 3. Birds of prey.
@@ -3616,30 +3614,29 @@ especially close connection with...
 18. Glaciers and tundra.
 19. Deserts and sand.
 20. Swamps and marshes.
+
 d8 Weapon: The druid wields...
-1. A wood staff. 5. A dagger.
-2. A wood club. 6. A club and a shield.
-3. A scimitar. 7. A scimitar and a shield.
-4. A spear. 8. A spear and a shield.
+1. A wood staff. 
+2. A dagger.
+3. A wood club. 
+4. A club and a shield.
+5. A scimitar. 
+6. A scimitar and a shield.
+7. A spear. 
+8. A spear and a shield.
+
 d8 Druidic Focus: The druid carries...
 1. A sprig of holly.
 2. A sprig of mistletoe.
 3. A yew wand.
 4. A cutting from a rare plant.
-5. A totem necklace, strung with pieces of
-beasts (d6): 1. beaks; 2. bones; 3. claws;
-4. shells; 5. tiny skulls; 6. teeth.
-6. A totem rod, adorned with pieces of beasts
-(d6): 1. bones; 2. feathers; 3. fur; 4. scales;
-5. a skull; 6. teeth.
-7. A totem necklace, strung with plant
-material (d6): 1. seed pods; 2. dried fruit;
-3. root clippings; 4. fresh flowers; 5. fresh
-leaves; 6. woven reeds.
-8. A totem rod, adorned with plant material
-(d6): 1. berries; 2. tree bark; 3. fragrant
-herbs; 4. fresh leaves; 5. runes carved into
-the wood; 6. seeds and tree sap.
+5. A totem necklace, strung with pieces of beasts (d6): 1. beaks; 2. bones; 3. claws; 4. shells; 5. tiny skulls; 6. teeth.
+6. A totem rod, adorned with pieces of beasts (d6): 1. bones; 2. feathers; 3. fur; 4. scales; 5. a skull; 6. teeth.
+7. A totem necklace, strung with plant material (d6): 1. seed pods; 2. dried fruit;
+3. root clippings; 4. fresh flowers; 5. fresh leaves; 6. woven reeds.
+8. A totem rod, adorned with plant material (d6): 1. berries; 2. tree bark; 3. fragrant
+herbs; 4. fresh leaves; 5. runes carved into the wood; 6. seeds and tree sap.
+
 d12 Possession: The druid also carries...
 1. A small knife.
 2. A wooden flute.
@@ -3654,6 +3651,7 @@ d12 Possession: The druid also carries...
 in a region the druid has never visited.
 11. A book of Elvish poems and songs.
 12. Several vials of healing potions.
+
 d10 Apparel: The druid wears...
 1. Robes of earth tones.
 2. A dark green cape.
@@ -3679,7 +3677,8 @@ d12 Goal: The druid is looking to...
 10. Provide a safe haven for a hunted beast.
 11. Inspire a love for nature.
 12. Drink some tea mixed with strong spirits.
-HERB LORE
+$HERB LORE
+
 d12 Purpose: The herbal remedy will help...
 1. A wound heal more quickly.
 2. To reduce pain.
@@ -3693,6 +3692,7 @@ d12 Purpose: The herbal remedy will help...
 10. One stay awake.
 11. One fall asleep.
 12. To make one fertile or virile.
+
 d10 Form and Color: The herbal remedy is...
 1. A thick paste. 1. Pale green.
 2. A thin paste. 2. Dark green.
@@ -3704,6 +3704,7 @@ d10 Form and Color: The herbal remedy is...
 8. A sweet-tasting potion. 8. Dark grey.
 9. A strong tea. 9. Light brown.
 10. A fragrant tea. 10. Dark brown.
+
 d20 Ingredients: The remedy contains...
 1. Root hairs. 11. Pollen.
 2. Ground roots. 12. Fruit peels.
@@ -3715,6 +3716,7 @@ d20 Ingredients: The remedy contains...
 8. Crumbled leaves. 18. Ground thorns.
 9. Leaf buds. 19. Seeds.
 10. Flower petals. 20. A shrubbery.
+
 d10 Method: The remedy is prepared by...
 1. Vigorous mixing.
 2. Boiling slowly.
@@ -3726,6 +3728,7 @@ d10 Method: The remedy is prepared by...
 8. Brining.
 9. Brewing.
 10. Steeping.
+
 d8 Use: The herbal remedy must be...
 1. Consumed immediately after preparation.
 2. Consumed after it ages for a few hours.
@@ -3735,12 +3738,9 @@ d8 Use: The herbal remedy must be...
 6. Taken with water.
 7. Taken before going to bed.
 8. Taken with caution; side effects are likely.
+$RANDOM ELVES: IMMORTAL, GRACEFUL, AND MAGICAL
+$DARK ELF
 
-Page 19
-
-
-RANDOM ELVES: IMMORTAL, GRACEFUL, AND MAGICAL
-DARK ELF
 d6 Hair: The dark elf has...
 1. Bright white hair.
 2. Silver-blonde hair.
@@ -3748,6 +3748,7 @@ d6 Hair: The dark elf has...
 4. Whitish blonde hair.
 5. Shiny platinum hair.
 6. Pale grey hair.
+
 d6 Eyes: The dark elf has...
 1. Whitish blue eyes.
 2. Pale blue eyes.
@@ -3755,6 +3756,7 @@ d6 Eyes: The dark elf has...
 4. Pale violet eyes.
 5. Deep red eyes.
 6. Pale pink eyes.
+
 d8 Mannerisms: The dark elf has...
 1. A likable grin.
 2. A delicate laugh.
@@ -3764,6 +3766,7 @@ d8 Mannerisms: The dark elf has...
 6. An insolent curl to the lip.
 7. A habit of pacing.
 8. A habit of scratching the back of the neck.
+
 d12 Profession: The dark elf is...
 1. A deadly assassin.
 2. A death-marked heretic.
@@ -3777,20 +3780,19 @@ d12 Profession: The dark elf is...
 10. A devoted guardian.
 11. A peerless gemcutter.
 12. A secretive merchant.
+
 d10 Goal: The dark elf is looking to...
 1. Track an aberrant beast.
-2. Investigate the disappearance of a
-comrade.
+2. Investigate the disappearance of a comrade.
 3. Lead any travelers into a dangerous trap.
 4. Locate the lair of a legendary spider.
-5. Find some knowledge about an ancient
-event or place.
-6. Prove his or her worth to a priestess back
-home.
+5. Find some knowledge about an ancient event or place.
+6. Prove his or her worth to a priestess back home.
 7. Avoid any other dark elves.
 8. Avoid any high elves or wood elves.
 9. Kill some goblins.
 10. Share some wine while prying for secrets.
+
 d10 Possessions: The dark elf carries...
 1. An ancient wand or staff.
 2. A unique gem or piece of jewelry.
@@ -3799,12 +3801,11 @@ d10 Possessions: The dark elf carries...
 5. A pair of matching short swords.
 6. A half dozen sharp daggers.
 7. Several doses of deadly poisons.
-8. A staff or sword with a spiderweb pattern
-etched along its length.
+8. A staff or sword with a spiderweb pattern etched along its length.
 9. A pet spider.
 10. A trophy from a foe he or she killed.
+$HIGH ELF
 
-HIGH ELF
 d8 Hair: The high elf has...
 1. Black hair.
 2. Copper hair.
@@ -3814,6 +3815,7 @@ d8 Hair: The high elf has...
 6. Dark brown hair.
 7. Reddish-brown.
 8. Fiery red hair.
+
 d8 Eyes: The high elf has...
 1. Pale golden eyes.
 2. Bright golden eyes.
@@ -3823,6 +3825,7 @@ d8 Eyes: The high elf has...
 6. Dark blue eyes.
 7. Blue eyes with golden flecks.
 8. Green eyes with golden flecks.
+
 d8 Mannerisms: The high elf has...
 1. A beautiful smile.
 2. A delicate laugh.
@@ -3832,6 +3835,7 @@ d8 Mannerisms: The high elf has...
 6. A touch of sorrow in his or her voice.
 7. A habit of pacing.
 8. A habit of scratching the chin.
+
 d12 Profession: The high elf is...
 1. A powerful enchanter or enchantress.
 2. A patient and wise sage.
@@ -3845,17 +3849,17 @@ d12 Profession: The high elf is...
 10. A well-known singer.
 11. A masterful sailor.
 12. A celebrated shipbuilder.
+
 d8 Goal: The high elf is looking to...
 1. Track an unnatural beast or invader.
 2. Lead any travelers out of the forest.
-3. Find some knowledge about an ancient
-event or place.
+3. Find some knowledge about an ancient event or place.
 4. Locate a legendary gem.
 5. Solve an ancient mystery.
-6. Find one of the last copies of a legendary
-book.
+6. Find one of the last copies of a legendary book.
 7. Sail to the undying lands.
 8. Share a drink a tale of woe.
+
 d12 Possessions: The high elf carries...
 1. An ancient blade.
 2. A unique gem or piece of jewelry.
@@ -3863,17 +3867,14 @@ d12 Possessions: The high elf carries...
 4. A tome of mystic lore.
 5. The journal of an ancient scholar.
 6. A sword etched with ancient runes.
-7. A staff with a moon-white crystal set at the
-end.
-8. Arrows fletched with the feathers of a fey
-bird (d6): 1. eagle; 2. hawk; 3. owl;
-4. phoenix; 5. raven; 6. swan.
+7. A staff with a moon-white crystal set at the end.
+8. Arrows fletched with the feathers of a fey bird (d6): 1. eagle; 2. hawk; 3. owl; 4. phoenix; 5. raven; 6. swan.
 9. Several vials of healing potions.
 10. A cache of useful herbs.
 11. A silver flute.
 12. A golden harp.
+$WOOD ELF
 
-WOOD ELF
 d8 Hair: The wood elf has...
 1. Black hair.
 2. Dark brown hair.
@@ -3883,6 +3884,7 @@ d8 Hair: The wood elf has...
 6. Dark brown hair with an auburn streak.
 7. Brown hair with a blonde streak.
 8. Blonde hair.
+
 d6 Eyes: The wood elf has...
 1. Brilliant green eyes.
 2. Dark green eyes.
@@ -3890,6 +3892,7 @@ d6 Eyes: The wood elf has...
 4. Golden brown eyes.
 5. Dark brown eyes.
 6. Hazel eyes.
+
 d8 Mannerisms: The wood elf has...
 1. A likable grin.
 2. A delicate laugh.
@@ -3899,6 +3902,7 @@ d8 Mannerisms: The wood elf has...
 6. A touch of sorrow in his or her voice.
 7. A habit of pacing.
 8. A habit of scratching the back of the neck.
+
 d12 Profession: The wood elf is...
 1. An adept healer.
 2. A devoted priest.
@@ -3912,18 +3916,17 @@ d12 Profession: The wood elf is...
 10. An enchanting musician.
 11. A famous beast-slayer.
 12. An exceptional winemaker.
+
 d8 Goal: The wood elf is looking to...
 1. Track an unnatural beast or invader.
 2. Lead any travelers away from the forest.
 3. Guard a sacred site from outsiders.
-4. Lead travelers astray in a dangerous part
-of the forest.
-5. Warn travelers against the dangers of the
-forest.
-6. Protect the secrets of his or her people at
-all costs.
+4. Lead travelers astray in a dangerous part of the forest.
+5. Warn travelers against the dangers of the forest.
+6. Protect the secrets of his or her people at all costs.
 7. Drive an invader out of the forest.
 8. Eat, drink, and be merry.
+
 d12 Possessions: The wood elf carries...
 1. An ancient blade.
 2. A unique gem or piece of jewelry.
@@ -3932,20 +3935,14 @@ d12 Possessions: The wood elf carries...
 5. A heavy steel sword.
 6. A simple spear and a simple bow.
 7. A curved blade and a small wooden shield.
-8. Arrows fletched with the feathers of a wild
-bird (d8): 1. eagle; 2. goose; 3. hawk;
-4. owl; 5. pheasant; 6. quail; 7. raven;
-8. swan.
+8. Arrows fletched with the feathers of a wild bird (d8): 1. eagle; 2. goose; 3. hawk; 4. owl; 5. pheasant; 6. quail; 7. raven; 8. swan.
 9. Several vials of healing potions.
 10. A cache of useful herbs.
 11. A silver flute.
 12. A carved wooden harp.
+$RANDOM FANTASTIC BEASTS: BEASTS OF OTHER REALMS
+$ABERRANT BEAST
 
-Page 20
-
-
-RANDOM FANTASTIC BEASTS: BEASTS OF OTHER REALMS
-ABERRANT BEAST
 d12 Form: The beast looks a good bit like...
 1. An ape. 7. A lizard.
 2. A bat. 8. A lobster.
@@ -3953,6 +3950,7 @@ d12 Form: The beast looks a good bit like...
 4. A crow. 10. A panther.
 5. A fish. 11. A spider.
 6. A jellyfish. 12. A vulture.
+
 d8 Trait 1: The beast has...
 1. Tentacles where you expect eyes.
 2. A blind, jawed worm for a tongue.
@@ -3962,6 +3960,7 @@ d8 Trait 1: The beast has...
 6. Small tentacles covering its body.
 7. Dexterous tentacles it uses like hands.
 8. An unpleasant, briny odor.
+
 d8 Trait 2: ...and...
 1. Moves by floating eerily in air or water.
 2. Moves by slithering or scuttling.
@@ -3971,6 +3970,7 @@ d8 Trait 2: ...and...
 6. Glides smoothly over the ground or water.
 7. Mutters darkly to itself.
 8. Whispers strange desires to mortals.
+
 d6 Goal: The beast is looking for...
 1. A brain to devour.
 2. A host to infect with its parasitic larva.
@@ -3978,14 +3978,22 @@ d6 Goal: The beast is looking for...
 4. A mortal to present to its master.
 5. An opportunity to overthrow its master.
 6. Someone to lovingly caress.
-CELESTIAL BEAST
+$CELESTIAL BEAST
+
 d12 Form: The beast appears in the form of...
-1. A badger. 7. A horse.
-2. A bull. 8. A lion.
-3. A dove. 9. A serpent.
-4. An eagle. 10. A stag.
-5. A griffon. 11. A swan.
-6. A hound. 12. A unicorn.
+1. A badger. 
+2. A horse.
+3. A bull. 
+4. A lion.
+5. A dove. 
+6. A serpent.
+7. An eagle. 
+8. A stag.
+9. A griffon. 
+10. A swan.
+11. A hound. 
+12. A unicorn.
+
 d8 Trait 1: The beast has...
 1. Shining golden eyes.
 2. Sympathetic pale blue or grey eyes.
@@ -3995,6 +4003,7 @@ d8 Trait 1: The beast has...
 6. Pristine white feathers or fur.
 7. An aura of glowing light.
 8. An aura of peacefulness.
+
 d6 Trait 2: ...and...
 1. Moves gracefully, almost gliding.
 2. Carries itself proudly.
@@ -4002,6 +4011,7 @@ d6 Trait 2: ...and...
 4. Speaks eloquently.
 5. Speaks in poetic riddles.
 6. Fills you with a sense of peace.
+
 d8 Goal: The beast is looking for...
 1. An answer to a cosmic riddle.
 2. A mortal worthy of its service.
@@ -4011,15 +4021,22 @@ d8 Goal: The beast is looking for...
 6. An item of importance to its master.
 7. The location of an ancient, hidden evil.
 8. The resting place of a great hero.
+$DEMONIC BEAST
 
-DEMONIC BEAST
 d12 Form: The beast appears in the form of...
-1. An ape. 7. A manticore.
-2. A boar. 8. A scorpion.
-3. A drake. 9. A spider.
-4. A goat. 10. A vulture.
-5. A horse. 11. A wolf.
-6. A hyena. 12. A worm.
+1. An ape. 
+2. A manticore.
+3. A boar. 
+4. A scorpion.
+5. A drake. 
+6. A spider.
+7. A goat. 
+8. A vulture.
+9. A horse. 
+10. A wolf.
+11. A hyena. 
+12. A worm.
+
 d8 Trait 1: The beast has...
 1. Glowing red eyes.
 2. Dark, sinister eyes.
@@ -4029,6 +4046,7 @@ d8 Trait 1: The beast has...
 6. Huge horns or tusks.
 7. An unwholesome odor.
 8. An odor of decay.
+
 d8 Trait 2: ...and...
 1. Powerful hind legs for leaping and pouncing.
 2. A slavering maw.
@@ -4038,6 +4056,7 @@ d8 Trait 2: ...and...
 6. Fins or ridges running down its back.
 7. Black or grey, leathery wings.
 8. A ferocious howl or roar.
+
 d6 Goal: The beast is looking for...
 1. Blood to spill.
 2. Bones to crunch.
@@ -4045,14 +4064,22 @@ d6 Goal: The beast is looking for...
 4. A soul to devour.
 5. A fight.
 6. The loathsome mage who summoned it.
-FEY BEAST
+$FEY BEAST
+
 d12 Form: The beast is...
-1. A bear. 7. An owlbear.
-2. A beaver. 8. A panther.
-3. A boar. 9. A songbird.
-4. An elk. 10. A swan.
-5. A hawk. 11. A toad.
-6. An owl. 12. A wolf.
+1. A bear. 
+2. An owlbear.
+3. A beaver. 
+4. A panther.
+5. A boar. 
+6. A songbird.
+7. An elk. 
+8. A swan.
+9. A hawk. 
+10. A toad.
+11. An owl. 
+12. A wolf.
+
 d6 Trait 1: The beast has...
 1. Unusually bright coloration.
 2. Unusual stripes or markings.
@@ -4060,6 +4087,7 @@ d6 Trait 1: The beast has...
 4. Mischievous, green or gold eyes.
 5. A shimmering aura.
 6. A misty aura.
+
 d8 Trait 2: ...and...
 1. Moves gracefully, almost dancing.
 2. Darts in and out of hiding places.
@@ -4069,6 +4097,7 @@ d8 Trait 2: ...and...
 6. Speaks in songs.
 7. Gives you an uneasy feeling.
 8. Relishes in playful pranks and hijinks.
+
 d8 Goal: The beast is looking for...
 1. An answer to an ancient riddle.
 2. A mortal worthy of its service.
@@ -4078,15 +4107,22 @@ d8 Goal: The beast is looking for...
 6. The source of corruption near its home.
 7. The recipient of a specific, secret message.
 8. A new song to sing.
+$INFERNAL BEAST
 
-INFERNAL BEAST
 d12 Form: The beast appears in the form of...
-1. A bat. 7. A panther.
-2. A drake. 8. A raven.
-3. A hippogriff. 9. A scorpion.
-4. A hound. 10. A serpent.
-5. A horse. 11. A worm.
-6. A falcon. 12. A wyvern.
+1. A bat. 
+2. A panther.
+3. A drake. 
+4. A raven.
+5. A hippogriff. 
+6. A scorpion.
+7. A hound. 
+8. A serpent.
+9. A horse. 
+10. A worm.
+11. A falcon. 
+12. A wyvern.
+
 d8 Trait 1: The beast has...
 1. Glowing red eyes.
 2. Pale, sinister eyes.
@@ -4096,6 +4132,7 @@ d8 Trait 1: The beast has...
 6. Long pointy horns.
 7. An odor of brimstone.
 8. An aura of choking smoke.
+
 d8 Trait 2: ...and...
 1. Powerful hind legs for leaping and pouncing.
 2. Speaks in a hissing voice.
@@ -4105,6 +4142,7 @@ d8 Trait 2: ...and...
 6. Red or black, leathery wings.
 7. Black or grey, feathered wings.
 8. Has a tail with a venomous stinger.
+
 d6 Goal: The beast is looking for...
 1. A mortal to tempt and to corrupt.
 2. A soul to collect for its master.
@@ -4112,7 +4150,8 @@ d6 Goal: The beast is looking for...
 4. An opportunity to overthrow its master.
 5. A specific mortal who sold his or her soul.
 6. An item of great power and evil.
-SHADOW BEAST
+$SHADOW BEAST
+
 d12 Form: The beast is...
 1. A bat. 7. A raven.
 2. A centipede. 8. A serpent.
@@ -4120,6 +4159,7 @@ d12 Form: The beast is...
 4. An owl. 10. A vulture.
 5. A panther. 11. A wolf.
 6. A rat. 12. A wyvern.
+
 d8 Trait 1: The beast has...
 1. Dark, sinister eyes.
 2. Pale, glowing eyes.
@@ -4129,6 +4169,7 @@ d8 Trait 1: The beast has...
 6. Blackened teeth.
 7. An aura of gloom.
 8. An odor of death.
+
 d6 Trait 2: ...and...
 1. Can disappear into shadows.
 2. Can teleport in a swirl of shadows.
@@ -4136,6 +4177,7 @@ d6 Trait 2: ...and...
 4. Speaks in rhymes and riddles.
 5. Gives you an uneasy feeling.
 6. A mournful howl or cry.
+
 d8 Goal: The beast is looking for...
 1. A soul to devour.
 2. Dead flesh to eat.
@@ -4145,19 +4187,23 @@ d8 Goal: The beast is looking for...
 6. A dark hole in which to wait for prey.
 7. Share a tale of terror and death.
 8. The loathsome mage who summoned it.
+$RANDOM FANTASTIC BEASTS: BEASTS OF LEGEND AND MAGIC  
+$FIRE BEAST
 
-Page 21
-
-
-RANDOM FANTASTIC BEASTS: BEASTS OF LEGEND AND MAGIC  
-FIRE BEAST
 d12 Form: The beast is...
-1. A basilisk. 7. A hawk.
-2. A bat. 8. A hound.
-3. A beetle. 9. A lizard.
-4. A drake. 10. A scorpion.
-5. A fox. 11. A serpent.
-6. A griffon. 12. A worm.
+1. A basilisk. 
+2. A hawk.
+3. A bat. 
+4. A hound.
+5. A beetle. 
+6. A lizard.
+7. A drake. 
+8. A scorpion.
+9. A fox. 
+10. A serpent.
+11. A griffon. 
+12. A worm.
+
 d8 Trait 1: The beast has...
 1. Glowing red eyes.
 2. Bright, golden eyes.
@@ -4167,6 +4213,7 @@ d8 Trait 1: The beast has...
 6. An odor of brimstone.
 7. An aura of flickering flames.
 8. An aura of choking smoke.
+
 d8 Trait 2: ...and...
 1. Exhales smoke when it breathes.
 2. Can exhale a spout of flame.
@@ -4176,6 +4223,7 @@ d8 Trait 2: ...and...
 6. Can disappear in a blinding flash of fire.
 7. Explodes in a fiery cloud if it is slain.
 8. Sheds dim, orange light.
+
 d6 Goal: The beast is looking for...
 1. Something to burn and to consume.
 2. A lair with walls that can withstand flames.
@@ -4183,18 +4231,30 @@ d6 Goal: The beast is looking for...
 4. An opportunity to impress its master.
 5. The scorched skull of a long-dead fire titan.
 6. An item that grants mastery over flames.
-LEGENDARY BEAST
+$LEGENDARY BEAST
+
 d20 Form: The beast is...
-1. A basilisk. 11. An owlbear.
-2. A bear. 12. A serpent.
-3. A chimera. 13. A shark.
-4. A drake. 14. A spider.
-5. An eagle. 15. A stag.
-6. A griffon. 16. A tiger.
-7. A hound. 17. A unicorn.
-8. A kraken. 18. A whale.
-9. A lion. 19. A wolf.
-10. A manticore. 20. A wyvern.
+1. A basilisk. 
+2. An owlbear.
+3. A bear. 
+4. A serpent.
+5. A chimera. 
+6. A shark.
+7. A drake. 
+8. A spider.
+9. An eagle. 
+10. A stag.
+11. A griffon. 
+12. A tiger.
+13. A hound. 
+14. A unicorn.
+15. A kraken. 
+16. A whale.
+17. A lion. 
+18. A wolf.
+19. A manticore. 
+20. A wyvern.
+
 d10 Trait: The beast has...
 1. Unnatural intelligence.
 2. The power of speech.
@@ -4206,6 +4266,7 @@ d10 Trait: The beast has...
 8. A terrible scar on its face.
 9. A terrible scar on its body.
 10. A missing eye.
+
 d10 Reputation: The beast is known for...
 1. Slaying a well-known hero.
 2. Slaying a notorious villain.
@@ -4217,15 +4278,22 @@ d10 Reputation: The beast is known for...
 8. Hunting along a well-traveled road.
 9. Toying with its prey before the kill.
 10. Protecting the people who live near it.
+$SEA BEAST
 
-SEA BEAST
 d12 Form: The beast is...
-1. A beetle. 7. A scorpion.
-2. A centipede. 8. A serpent.
-3. A drake. 9. A spider.
-4. A horse. 10. A turtle.
-5. A lion. 11. A worm.
-6. A monkey. 12. A wyvern.
+1. A beetle. 
+2. A scorpion.
+3. A centipede. 
+4. A serpent.
+5. A drake. 
+6. A spider.
+7. A horse. 
+8. A turtle.
+9. A lion. 
+10. A worm.
+11. A monkey. 
+12. A wyvern.
+
 d8 Trait 1: The beast has...
 1. Lidless, golden eyes.
 2. Unblinking, green eyes.
@@ -4235,6 +4303,7 @@ d8 Trait 1: The beast has...
 6. Wide gills.
 7. A long fin running down its back.
 8. Oversized webbed feet or flippers.
+
 d8 Trait 2: ...and...
 1. Swims with a slithering motion.
 2. Swims with powerful fins or flippers.
