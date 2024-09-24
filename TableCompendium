@@ -4313,6 +4313,7 @@ d8 Trait 2: ...and...
 6. Scuttles along the sea floor.
 7. Waits to strike from a nook in a reef.
 8. Waits to strike from a hole in the sea floor.
+
 d6 Goal: The beast is looking for...
 1. Some fish to eat.
 2. Something warm-blooded to eat.
@@ -4320,14 +4321,22 @@ d6 Goal: The beast is looking for...
 4. A mate or a nesting site.
 5. Shiny baubles and trinkets.
 6. A place where food is plentiful.
-STORM BEAST
+$STORM BEAST
+
 d12 Form: The beast is...
-1. A basilisk. 7. A manticore.
-2. A boar. 8. An owlbear.
-3. A drake. 9. An ox.
-4. A griffon. 10. A scorpion.
-5. A hawk. 11. A serpent.
-6. A lizard. 12. A wyvern.
+1. A basilisk. 
+2. A manticore.
+3. A boar. 
+4. An owlbear.
+5. A drake. 
+6. An ox.
+7. A griffon. 
+8. A scorpion.
+9. A hawk. 
+10. A serpent.
+11. A lizard. 
+12. A wyvern.
+
 d8 Trait 1: The beast has...
 1. Bright blue or white markings.
 2. Zigzag stripes.
@@ -4337,6 +4346,7 @@ d8 Trait 1: The beast has...
 6. A coat that always appears damp.
 7. An aura of static electricity.
 8. A windy aura.
+
 d8 Trait 2: ...and...
 1. Flies erratically, fluttering in the wind.
 2. Flies swiftly, like a bolt of lightning.
@@ -4346,6 +4356,7 @@ d8 Trait 2: ...and...
 6. Exhales lightning when it breathes.
 7. Electrically shocks those who touch it.
 8. Flies into a rage when struck by an attack.
+
 d6 Goal: The beast is looking for...
 1. Something to electrocute or to drown.
 2. A lair on high ground with a view of the land.
@@ -4353,15 +4364,22 @@ d6 Goal: The beast is looking for...
 4. An opportunity to impress its master.
 5. The remains of a long-dead storm titan.
 6. An item that can call thunderstorms.
+$UNDEAD BEAST
 
-UNDEAD BEAST
 d12 Form: The beast was once...
-1. An ape. 7. A hound.
-2. A basilisk. 8. A mare.
-3. A bat. 9. An ox.
-4. A bear. 10. A panther.
-5. A boar. 11. A rat.
-6. A hippogriff. 12. A raven.
+1. An ape. 
+2. A hound.
+3. A basilisk. 
+4. A mare.
+5. A bat. 
+6. An ox.
+7. A bear. 
+8. A panther.
+9. A boar. 
+10. A rat.
+11. A hippogriff. 
+12. A raven.
+
 d8 Trait 1: The beast has...
 1. Gaping holes where its eyes should be.
 2. Lidless, bloodshot eyes.
@@ -4371,6 +4389,7 @@ d8 Trait 1: The beast has...
 6. An odor of rotting flesh.
 7. An aura of gloom.
 8. An aura of disease.
+
 d8 Trait 2: ...and...
 1. Grasping claws or teeth.
 2. A drooling maw.
@@ -4380,6 +4399,7 @@ d8 Trait 2: ...and...
 6. Several oozing boils on its back.
 7. Walks with an awkward limp.
 8. Shambles and shuffles when it walks.
+
 d6 Goal: The beast is looking for...
 1. Something to kill.
 2. Something to eat.
@@ -4387,7 +4407,8 @@ d6 Goal: The beast is looking for...
 4. An opportunity to impress its master.
 5. The location of an evil shrine.
 6. The location of an evil artifact.
-WINTER BEAST
+$WINTER BEAST
+
 d12 Form: The beast is...
 1. A bear. 7. A goat.
 2. A boar. 8. An owl.
