@@ -4410,12 +4410,19 @@ d6 Goal: The beast is looking for...
 $WINTER BEAST
 
 d12 Form: The beast is...
-1. A bear. 7. A goat.
-2. A boar. 8. An owl.
-3. A drake. 9. An owlbear.
-4. An eagle. 10. An ox.
-5. An elk. 11. A stag.
-6. A fox. 12. A wolf.
+1. A bear. 
+2. A goat.
+3. A boar. 
+4. An owl.
+5. A drake. 
+6. An owlbear.
+7. An eagle. 
+8. An ox.
+9. An elk. 
+10. A stag.
+11. A fox. 
+12. A wolf.
+
 d8 Trait 1: The beast has...
 1. Bright, red eyes.
 2. Squinty, dark eyes.
@@ -4425,6 +4432,7 @@ d8 Trait 1: The beast has...
 6. A thick coat of fur or feathers.
 7. An aura of swirling snow.
 8. A frigid aura.
+
 d8 Trait 2: ...and...
 1. Exhales an icy spray when it breathes.
 2. Can exhale a spout of freezing wind.
@@ -4434,6 +4442,7 @@ d8 Trait 2: ...and...
 6. Can disappear in a puff of swirling snow.
 7. Explodes into many icy shards if it is slain.
 8. Walks without hindrance atop snow and ice.
+
 d6 Goal: The beast is looking for...
 1. Something to preserve to eat later.
 2. A lair with an entrance hidden from view.
@@ -4441,11 +4450,8 @@ d6 Goal: The beast is looking for...
 4. An opportunity to impress its master.
 5. The frozen corpse of a long-dead frost titan.
 6. An item that can call blizzards.
+$RANDOM FIENDS: YOUR SOUL OR YOUR LIFE?
 
-Page 22
-
-
-RANDOM FIENDS: YOUR SOUL OR YOUR LIFE?
 d12 Status/Rank: The fiend is...
 1. In the service of a more powerful fiend.
 2. Bound to serve a mortal spellcaster.
@@ -4454,16 +4460,12 @@ d12 Status/Rank: The fiend is...
 5. Recently reborn.
 6. An ancient and powerful being.
 7. Rapidly ascending in rank.
-8. Recently demoted from a position of
-greater power.
-9. Rampaging after breaking free of its
-summoner.
-10. A respected and feared lieutenant of a
-mighty fiend.
-11. A laughingstock among the mighty fiends
-of its home realm.
-12. Not entirely certain what its purpose and
-place may be.
+8. Recently demoted from a position of greater power.
+9. Rampaging after breaking free of its summoner.
+10. A respected and feared lieutenant of a mighty fiend.
+11. A laughingstock among the mighty fiends of its home realm.
+12. Not entirely certain what its purpose and place may be.
+
 d12 Skin: The fiend's skin is...
 1. Dark crimson.
 2. Blood red.
@@ -4477,6 +4479,7 @@ d12 Skin: The fiend's skin is...
 10. Rough.
 11. Fur-covered.
 12. Scaly.
+
 d12 Eyes: The fiend's eyes are...
 1. Glowing yellow.
 2. Burning red.
@@ -4490,6 +4493,7 @@ d12 Eyes: The fiend's eyes are...
 10. Unblinking and hollow.
 11. More often closed than open.
 12. Wide and perceptive.
+
 d12 Head/Face: The fiend has...
 1. A long snout.
 2. Sharp fangs.
@@ -4503,6 +4507,7 @@ d12 Head/Face: The fiend has...
 10. A constant smirk.
 11. Long, dark hair.
 12. Large ears.
+
 d12 Body: The fiend has...
 1. A well-muscled physique.
 2. A voluptuous feminine shape.
@@ -4520,8 +4525,7 @@ d12 Body: The fiend has...
 d12 Appendages: The fiend has...
 1. A pair of leathery wings.
 2. A pair of feathered wings.
-3. Wings pull close to its body to hide from
-view.
+3. Wings pull close to its body to hide from view.
 4. A scaly tail.
 5. A tail ending in a poisoned stinger.
 6. A forked tail.
@@ -4530,34 +4534,26 @@ view.
 9. Hooves in place of feet.
 10. Exceptionally long fingernails.
 11. Talons in place of feet.
-12. The body and legs of a beast (d6):
-1. crocodile; 2. goat; 3. lion; 4. serpent;
-5. spider; 6. walrus.
-d12 Knowledge and Magic: The fiend
-possesses...
+12. The body and legs of a beast (d6): 1. crocodile; 2. goat; 3. lion; 4. serpent; 5. spider; 6. walrus.
+
+d12 Knowledge and Magic: The fiend possesses...
 1. A missing line from a dark prophecy.
-2. The soul of a celebrated hero trapped in a
-gem.
-3. The soul of a terrifying villain trapped in a
-gem.
+2. The soul of a celebrated hero trapped in a gem.
+3. The soul of a terrifying villain trapped in a gem.
 4. The true name of a god or goddess.
 5. A contract with an ancient dragon.
-6. A map to the prison of a powerful aberrant
-being.
-7. A map to the location of a dead god's
-resting place.
-8. The key to the gates of a destructive
-realm.
+6. A map to the prison of a powerful aberrant being.
+7. A map to the location of a dead god's resting place.
+8. The key to the gates of a destructive realm.
 9. A key to the gates of the realm of the dead.
 10. Knowledge of the location of a lost city.
 11. A book of morbid omens and prophecies.
 12. A book of foul summoning rituals.
-d12 Weapons/Attacks: The fiend prefers to
-fight with...
+
+d12 Weapons/Attacks: The fiend prefers to fight with...
 1. A whip of pure flame.
 2. A sword of elemental lightning.
-3. A cudgel covered in teeth and sharp
-spikes.
+3. A cudgel covered in teeth and sharp spikes.
 4. A black steel mace.
 5. A steel sword tempered in blood.
 6. A wicked trident or spear.
@@ -4567,6 +4563,7 @@ spikes.
 10. Its minions and thralls.
 11. Its bare fists.
 12. Tooth and claw.
+
 d12 Goal: The fiend is looking for...
 1. A soul to collect and to keep.
 2. A soul to devour.
@@ -4576,95 +4573,71 @@ d12 Goal: The fiend is looking for...
 6. An artifact from a previous age.
 7. Something to kill.
 8. Something to burn.
-9. An opportunity to usurp the place of its
-fiendish liege.
-10. An opportunity to prove its value to its
-fiendish liege.
+9. An opportunity to usurp the place of its fiendish liege.
+10. An opportunity to prove its value to its fiendish liege.
 11. A lost temple or tomb of story and song.
-12. The means to open a portal to a dark
-realm.
-d6 Weakness: The fiend cannot resist...
-1. Tasty flesh. 4. Breaking things.
-2. A pretty face. 5. Burning things.
-3. A stiff drink. 6. A chance to gloat.
+12. The means to open a portal to a dark realm.
 
-d12 Favorite Prey: The fiend is particularly
-fond of preying upon...
+d6 Weakness: The fiend cannot resist...
+1. Tasty flesh. 
+2. Breaking things.
+3. A pretty face. 
+4. Burning things.
+5. A stiff drink. 
+6. A chance to gloat.
+
+d12 Favorite Prey: The fiend is particularly fond of preying upon...
 1. Beautiful young women.
 2. Handsome young men.
 3. Rulers and tyrants.
 4. Poor, simple folk.
 5. Pious, religious folk.
 6. Mighty warriors.
-7. Greedy and ambitious nobles and
-merchants.
+7. Greedy and ambitious nobles and merchants.
 8. Sad old men and women.
 9. Sailors, pirates, and fishermen.
 10. Desperate outlaws and thieves.
 11. Talented actors and musicians.
 12. Anyone; the fiend enjoys variety.
-d20 Favorite Torments: With prey in its
-clutches, the fiend prefers to...
+
+d20 Favorite Torments: With prey in its clutches, the fiend prefers to...
 1. Dismember its prey savagely.
 2. Devour the flesh of its prey hungrily.
 3. Toy with its prey before killing it.
-4. Seduce its prey before violating the prey
-sadistically.
-5. Mutilate its prey, leaving a horrifying
-reminder of the encounter.
-6. Imprison its prey, subjecting it to years of
-psychological torment.
-7. Torture its prey, keeping it alive and in pain
-for years.
-8. Trap the soul of its prey in a gem, jar, or
-other object.
-9. Collect the soul of its prey, sending it along
-to a fiendish realm.
-10. Mark the soul of its prey, returning to
-collect it later.
-11. Corrupt its prey, inciting it to commit evil
-acts.
-12. Devour the soul of its prey, leaving a
-soulless husk.
-13. Set dates for meetings then arrive late or
-cancel at the last minute.
-14. Set dates for meetings and then never
-show up, apologize profusely, and promise
-to “make it up to you.”
-15. Sow discord between its prey and the
-prey’s companions.
-16. Lead its prey far afield while important
-matters are left undecided.
-17. Lie to its prey; painting a rosier picture than
-reality dictates.
+4. Seduce its prey before violating the prey sadistically.
+5. Mutilate its prey, leaving a horrifying reminder of the encounter.
+6. Imprison its prey, subjecting it to years of psychological torment.
+7. Torture its prey, keeping it alive and in pain for years.
+8. Trap the soul of its prey in a gem, jar, or other object.
+9. Collect the soul of its prey, sending it along to a fiendish realm.
+10. Mark the soul of its prey, returning to collect it later.
+11. Corrupt its prey, inciting it to commit evil acts.
+12. Devour the soul of its prey, leaving a soulless husk.
+13. Set dates for meetings then arrive late or cancel at the last minute.
+14. Set dates for meetings and then never show up, apologize profusely, and promise to “make it up to you.”
+15. Sow discord between its prey and the prey’s companions.
+16. Lead its prey far afield while important matters are left undecided.
+17. Lie to its prey; painting a rosier picture than reality dictates.
 18. Undermine its prey’s business ventures.
-19. Enter contracts it knows are flawed in its
-favor to the prey’s detriment.
-20. Make promises to its prey for the sole
-purpose of breaking them.
-d12 Vulnerability: To bind, to summon, or to
-control the fiend, or to drive it back to
-the shadow, one must...
+19. Enter contracts it knows are flawed in its favor to the prey’s detriment.
+20. Make promises to its prey for the sole purpose of breaking them.
+
+d12 Vulnerability: To bind, to summon, or to control the fiend, or to drive it back to the shadow, one must...
 1. Speak its true name.
 2. Write its true name in one’s own blood.
 3. Tattoo its true name to one’s breast.
 4. Ritualistically burn a bit of the fiend’s skin.
 5. Graft some of the fiend’s skin to one’s self.
 6. Replace one’s own hand with the fiend’s.
-7. Drink the fiend’s poisonous blood, die from
-the poison, and be resurrected.
+7. Drink the fiend’s poisonous blood, die from the poison, and be resurrected.
 8. Perform a ritualistic sacrifice of a goat.
 9. Perform a ritualistic sacrifice of a maiden.
 10. Locate the place of the fiend’s birth.
-11. Pay tribute to the fiend’s far more
-dangerous and powerful liege lord.
+11. Pay tribute to the fiend’s far more dangerous and powerful liege lord.
 12. Give up; no one’s ever bound this fiend.
+$RANDOM FISHING: THE DAILY CATCH
+$FISHERFOLK
 
-Page 23
-
-
-RANDOM FISHING: THE DAILY CATCH
-FISHERFOLK
 d10 Home waters: The fisher fishes in...
 1. A quiet creek.
 2. A wide river.
@@ -4676,14 +4649,15 @@ d10 Home waters: The fisher fishes in...
 8. A natural harbor.
 9. A narrow channel.
 10. The open ocean.
-d6 Fishing spot: The fisher typically fishes
-from...
+
+d6 Fishing spot: The fisher typically fishes from...
 1. A sandy or rocky beach.
 2. An embankment, sandbar, or levee.
 3. A pier or bridge.
 4. His/her own boat.
 5. A boat owned by someone else.
 6. Wherever the fish can be reached.
+
 d8 Fishing gear: The fisher uses...
 1. A rod and reel with a baited hook.
 2. A rod and reel with a lure.
@@ -4692,26 +4666,26 @@ d8 Fishing gear: The fisher uses...
 5. Nets.
 6. Baited lines and nets.
 7. Baited lines and baited traps.
-8. An unusual technique (d6): 1-2. harpoon;
-3-4. spear; 5. bare hands; 6. trained beast.
+8. An unusual technique (d6): 1-2. harpoon; 3-4. spear; 5. bare hands; 6. trained beast.
+
 d6 Work style: The fisher prefers to fish...
 1. Alone, in silence.
 2. Alone, while whistling or humming.
-3. Alone, but within earshot of other
-fishermen.
+3. Alone, but within earshot of other fishermen.
 4. With a trusted partner.
 5. With an apprentice fisherman.
 6. With an experienced fisherman.
+
 d8 Goal: The fisher is seeking...
 1. A new apprentice.
 2. The answer to a riddle.
 3. To tell the tale of the one that got away.
 4. Rumors of new locations to fish.
 5. Revenge against a rival.
-6. Assistance repairing a boat, net, or some
-other fishing gear.
+6. Assistance repairing a boat, net, or some other fishing gear.
 7. Fishing companions.
 8. Drinking companions.
+
 d8 Tattoo: The fisher has...
 1. An anchor tattoo.
 2. A pair of crossed bones tattoo.
@@ -4721,6 +4695,7 @@ d8 Tattoo: The fisher has...
 6. A lobster tattoo.
 7. A mermaid tattoo.
 8. A dragon tattoo.
+
 d10 Distinguishing feature: The fisher has...
 1. A wooden pipe.
 2. Rotten teeth.
@@ -4732,8 +4707,8 @@ d10 Distinguishing feature: The fisher has...
 8. A long, hooked nose.
 9. An open shirt and a very hairy chest.
 10. Long mutton chop sideburns.
+$FISHING BOAT
 
-FISHING BOAT
 d6 Type: The boat is...
 1. A flat raft.
 2. A pontoon raft.
@@ -4741,22 +4716,21 @@ d6 Type: The boat is...
 4. A coracle.
 5. A drifter.
 6. A buss.
+
 d6 Crew: The boat can...
 1. Easily be operated by one person.
-2-3. Be operated by one person, but some flaw
-or damage has made handling difficult.
-4-5. Be operated by two people, but it can be
-handled by one with difficulty.
-6. Be operated by three or more people, but it
-can be handled by two with difficulty.
+2-3. Be operated by one person, but some flaw or damage has made handling difficult.
+4-5. Be operated by two people, but it can be handled by one with difficulty.
+6. Be operated by three or more people, but it can be handled by two with difficulty.
+
 d6 Condition: Presently, the boat is...
 1. Laden with the latest catch.
-2. Well-stocked with bait and gear and ready
-to go.
+2. Well-stocked with bait and gear and ready to go.
 3. In tip-top shape.
 4. In need of repair.
 5. Barely staying afloat.
 6. Resting beneath the waves.
+
 d10 Hull: The boat’s hull markings feature...
 1. A ghost.
 2. A mermaid.
@@ -4768,7 +4742,8 @@ d10 Hull: The boat’s hull markings feature...
 8. A crab.
 9. A sea turtle.
 10. A big tuna.
-COLD OCEAN
+$COLD OCEAN
+
 d10 Near-shore catch: You haul in...
 1. A clam.
 2. A crab.
@@ -4780,6 +4755,7 @@ d10 Near-shore catch: You haul in...
 8. A salmon.
 9. A smelt.
 10. A rare catch (see below).
+
 d10 Deep-sea catch: You haul in...
 1. A crab.
 2. A cod.
@@ -4791,16 +4767,16 @@ d10 Deep-sea catch: You haul in...
 8. A squid.
 9. A tuna.
 10. A rare catch (see below).
+
 d6 Rare catch: You haul in...
-1. A piece of junk (d6): 1-2. seaweed tangle;
-3. torn net; 4-5. rotten wood; 6. old boot.
+1. A piece of junk (d6): 1-2. seaweed tangle; 3. torn net; 4-5. rotten wood; 6. old boot.
 2. An abalone.
 3. A monkfish.
 4. An octopus (fights, attacks).
 5. A sea bass (fights).
 6. A giant squid (fights, attacks).
+$WARM OCEAN
 
-WARM OCEAN
 d10 Near-shore catch: You haul in...
 1. An anchovy.
 2. A clam.
@@ -4812,6 +4788,7 @@ d10 Near-shore catch: You haul in...
 8. A sea bass.
 9. A skate.
 10. A rare catch (see below).
+
 d10 Deep-sea catch: You haul in...
 1. A cuttlefish.
 2. A flounder.
@@ -4823,6 +4800,7 @@ d10 Deep-sea catch: You haul in...
 8. A snapper.
 9. A tuna.
 10. A rare catch (see below).
+
 d8 Rare catch: You haul in...
 1. A piece of junk (d6): 1-2. seaweed tangle;
 3-4. torn net; 5. rotten wood; 6. old boot.
@@ -4833,7 +4811,8 @@ d8 Rare catch: You haul in...
 6. An octopus (fights, attacks).
 7. A reef shark (fights, attacks).
 8. A swordfish (fights).
-FRESHWATER
+$FRESHWATER
+
 d10 Cold-water catch: You haul in...
 1. A bass (fights).
 2. A carp.
@@ -4845,6 +4824,7 @@ d10 Cold-water catch: You haul in...
 8. A sturgeon.
 9. A trout.
 10. A walleye.
+
 d10 Warm-water catch: You haul in...
 1. A carp.
 2. A catfish (fights).
@@ -4856,6 +4836,7 @@ d10 Warm-water catch: You haul in...
 8. A salmon.
 9. A tilapia.
 10. A trout.
+
 d6 Swamp-water catch: You haul in...
 1. A bass (fights).
 2. A catfish (fights).
@@ -4863,15 +4844,8 @@ d6 Swamp-water catch: You haul in...
 4. A crocodile (fights, attacks).
 5. An eel (fights).
 6. A prawn.
-NOTE: A catch that “fights” requires extra
-strength or skill to bring in. A catch that “attacks”
-attempts to bite, slap, pinch, or otherwise
-savage a person who catches it.
+$RANDOM FORESTS: INTO THE WOODS...
 
-Page 24
-
-
-RANDOM FORESTS: INTO THE WOODS...
 d12 Interesting Location: You find...
 1. A cavern behind a waterfall.
 2. A small cave in the bank of a creek.
@@ -4885,6 +4859,7 @@ d12 Interesting Location: You find...
 10. A sacred grove.
 11. A grave with an illegible headstone.
 12. Ancient ruins.
+
 d20 Distinguishing Landmark: You see...
 1. A fruit tree.
 2. A large, hollow tree.
@@ -4906,6 +4881,7 @@ d20 Distinguishing Landmark: You see...
 18. A tree felled by lightning.
 19. An old gnarled tree.
 20. The stump of an enormous tree.
+
 d20 Feature: You notice...
 1. A flock of birds scatter.
 2. A hawk cries.
@@ -4927,6 +4903,7 @@ d20 Feature: You notice...
 18. Leaves rustling.
 19. The scent of flowers.
 20. The smell of decay.
+
 d12 What’s in the cave/cavern?
 1. A bear’s lair.
 2. Lots of bats.
