@@ -4939,8 +4939,8 @@ d20 Encounters: You come upon...
 18. A woodcutter busy with the day’s work.
 19. An intrepid hunter.
 20. An elvish ranger.
-d20 Dominant Tree Species: Many of the
-trees are...
+
+d20 Dominant Tree Species: Many of the trees are...
 1. Apple or pear trees.
 2. Ashes.
 3. Birches.
@@ -4961,6 +4961,7 @@ trees are...
 18. Spruces.
 19. Willows.
 20. Yew or holly trees.
+
 d6 What’s in the hole/burrow?
 1. A snake.
 2. A spider.
@@ -4968,6 +4969,7 @@ d6 What’s in the hole/burrow?
 4. Earthworms.
 5. A centipede.
 6. Unusual fungus.
+
 d6 Who lives in the peculiar cottage?
 1. A lonely old woman.
 2. A reclusive shapeshifter.
@@ -4975,6 +4977,7 @@ d6 Who lives in the peculiar cottage?
 4. A beautiful witch.
 5. A horrible witch.
 6. An outcast dwarf.
+
 d6 Who lived in the abandoned cabin?
 1. A lonely old woman.
 2. A reclusive scholar.
@@ -4983,14 +4986,14 @@ d6 Who lived in the abandoned cabin?
 5. A fur trader.
 6. A dwarf prospector.
 
-d6 Who resides in the abandoned
-cabin now?
+d6 Who resides in the abandoned cabin now?
 1. An owlbear.
 2. An ogre.
 3. A troll.
 4. A mad witch.
 5. A paranoid shapeshifter.
 6. Restless ghosts.
+
 d10 Who built the ancient ruins?
 1. Dwarvish miners.
 2. A wood elf king.
@@ -5002,6 +5005,7 @@ d10 Who built the ancient ruins?
 8. A forgotten king.
 9. An evil queen.
 10. A dark sorcerer.
+
 d10 Who lives in the ancient ruins now?
 1. A dwarf prospector.
 2. A wood elf druid.
@@ -5013,7 +5017,8 @@ d10 Who lives in the ancient ruins now?
 8. Some irritable trolls.
 9. A pair of manticores.
 10. A dragon.
-WOODSMAN
+$WOODSMAN
+
 d6 The woodsman is...
 1. A fugitive from justice.
 2. A strange herbalist.
@@ -5021,6 +5026,7 @@ d6 The woodsman is...
 4. A desperate poacher.
 5. A poor woodcutter.
 6. A bearded lumberjack.
+
 d6 The woodsman is looking to...
 1. Track an unusual beast.
 2. Find the lair of a rare beast.
@@ -5028,6 +5034,7 @@ d6 The woodsman is looking to...
 4. Find a place where game is plentiful.
 5. Sell some of his wares.
 6. Swap tales and rumors.
+
 d6 The woodsman carries...
 1. A sturdy hatchet.
 2. A bundle of firewood.
@@ -5035,25 +5042,27 @@ d6 The woodsman carries...
 4. A large knife and a hunting trap.
 5. A finely made longbow.
 6. A trophy or piece of a wild beast.
-WOOD ELF
+$WOOD ELF
+
 d6 The wood elf is...
-1. An adept healer. 3-4. A watchful ranger.
-2. A silent scout. 5-6. A fierce warrior.
+1. An adept healer. 
+2-3. A watchful ranger.
+4. A silent scout. 
+5-6. A fierce warrior.
+
 d6 The wood elf is looking to...
 1-2. Track an unnatural beast or invader.
 3. Lead any travelers out of the forest.
 4. Guard a sacred site from outsiders.
 5-6. Eat, drink, and be merry.
+
 d6 The wood elf carries...
 1. An ancient blade.
 2. A unique gem or piece of jewelry.
 3-4. A finely-crafted spear or longsword.
 5-6. An ornate longbow.
-
-Page 25
-
-
 RANDOM ENCHANTED FORESTS: FOREST VARIANT  
+
 d12 Interesting Location: You find...
 1. A cavern behind a waterfall.
 2. An entrance to a rocky cave.
@@ -5066,8 +5075,8 @@ d12 Interesting Location: You find...
 9. A ring of mushrooms.
 10. Ancient ruins.
 11. A reflecting pool between colonnades.
-12. The statue of a goddess on a beautiful
-marble fountain.
+12. The statue of a goddess on a beautiful marble fountain.
+
 d20 Distinguishing Landmark: You see...
 1. A lush fruit tree.
 2. A large, hollow tree.
@@ -5089,6 +5098,7 @@ d20 Distinguishing Landmark: You see...
 18. A tree felled by lightning.
 19. An old gnarled tree.
 20. The stump of an enormous tree.
+
 d20 Feature: You notice...
 1. A flock of birds scatter.
 2. A hawk cries.
@@ -5110,6 +5120,7 @@ d20 Feature: You notice...
 18. Leaves rustling.
 19. The scent of flowers.
 20. Pixies dancing in the distance.
+
 d12 What’s in the cave/cavern?
 1. A bear’s lair.
 2. Lots of bats.
@@ -5122,8 +5133,7 @@ d12 What’s in the cave/cavern?
 9. Some lizardfolk’s lair.
 10. The remnant’s of a satyr’s feasting.
 11. A mysterious chest.
-12. A reflecting pool between a pair of beautiful
-stone colonnades.
+12. A reflecting pool between a pair of beautiful stone colonnades.
 
 d20 Encounters: You come upon...
 1. A large bear.
@@ -5146,6 +5156,7 @@ d20 Encounters: You come upon...
 18. A lost child.
 19. A high elf sage.
 20. A wood elf wanderer.
+
 d6 Who lives in the burrow/under the tree?
 1. Intelligent rabbits.
 2. A giant talking spider.
@@ -5153,6 +5164,7 @@ d6 Who lives in the burrow/under the tree?
 4. A gnomish illusionist.
 5. A gnomish prankster.
 6. A suspicious sprite.
+
 d8 Who lives up in the tree?
 1. A giant owl.
 2. A talking raven.
@@ -5162,14 +5174,15 @@ d8 Who lives up in the tree?
 6. Several nervous sprites.
 7. A swarm of sentient butterflies.
 8. It’s not a tree; it’s a treant.
-d6 Who lives in the peculiar/
-well-maintained cottage?
+
+d6 Who lives in the peculiar/ well-maintained cottage?
 1. A lonely old gnome.
 2. A reclusive shapeshifter.
 3. A gnomish healer.
 4. A beautiful witch.
 5. A horrible witch.
 6. An outcast dwarf.
+
 d10 Who built the ancient ruins?
 1. A great goblin king.
 2. A wood elf king.
@@ -5181,6 +5194,7 @@ d10 Who built the ancient ruins?
 8. A forgotten king.
 9. An evil queen.
 10. A dark sorcerer.
+
 d12 Who lives in the ancient ruins now?
 1. A high elf guardian.
 2. A wood elf druid.
@@ -5194,8 +5208,8 @@ d12 Who lives in the ancient ruins now?
 10. A displacer beast.
 11. A pair of manticores.
 12. A dragon.
+$FAERIEFOLK
 
-FAERIEFOLK
 d8 The faerie is...
 1. A capricious nymph.
 2. An apprehensive nymph.
@@ -5205,14 +5219,15 @@ d8 The faerie is...
 6. A curious sprite.
 7. A drunken satyr.
 8. A satyr bully.
+
 d6 The faerie is looking for...
-1. An unnatural creature that has taken up
-residence in the forest.
+1. An unnatural creature that has taken up residence in the forest.
 2. Ways to cause mischief for travelers.
 3. Worthy visitors of a secret grove.
 4. Someone to listen to a new song.
 5. A dance partner.
 6. A drinking partner.
+
 d8 The faerie carries...
 1. An delicate wreath of flowers.
 2. A gem glowing with moonlight or starlight.
@@ -5220,27 +5235,29 @@ d8 The faerie carries...
 4. A vial containing a potent potion.
 5. Several magical mushrooms.
 6. A message from a faerie king or queen.
-7. A musical instrument (d6): 1-2. flute;
-3-4. harp; 5. horn; 6. pipes.
+7. A musical instrument (d6): 1-2. flute; 3-4. harp; 5. horn; 6. pipes.
 8. A jug of wine.
-HIGH ELF
+$HIGH ELF
+
 d6 The high elf is...
 1. A powerful enchanter/enchantress.
 2. A patient and wise sage.
 4-5. A dedicated knight.
 5-6. A capable scout.
+
 d6 The high elf is looking to...
 1. Track an unnatural beast or invader.
 2-3. Lead any travelers out of the forest.
-4-5. Find some knowledge about an ancient
-event or place.
+4-5. Find some knowledge about an ancient event or place.
 6. Share a drink a tale of woe.
+
 d6 The high elf carries...
 1-2. An ancient blade.
 3. A unique gem or piece of jewelry.
 4-5. A finely-crafted longsword or bow.
 6. A tome of mystic lore.
-TREEFOLK
+$TREEFOLK
+
 d6 The treeperson is...
 1. A flowering dryad enchantress.
 2. A soft-spoken dryad protector.
@@ -5248,21 +5265,20 @@ d6 The treeperson is...
 4. A green treant loreseeker.
 5. A sturdy treant guardian.
 6. A withered treant lorekeeper.
+
 d6 The treeperson is looking to...
 1-2. Drive away intruders.
 3. Warn intruders of dangers ahead.
 4. Find a spot where a rare flower grows.
 5-6. Talk after centuries of silence.
+
 d6 The treeperson carries...
 1-2. A magic acorn, nut, or other seed.
 3-4. A clipping of ancient wood.
 5. A rare moss with healing properties.
 6. A deathly poison mushroom.
+$RANDOM HAUNTED FORESTS: FOREST VARIANT  
 
-Page 26
-
-
-RANDOM HAUNTED FORESTS: FOREST VARIANT  
 d10 Interesting Location: You find...
 1. Ancient burial mounds.
 2. An entrance to a rocky cave.
@@ -5274,6 +5290,7 @@ d10 Interesting Location: You find...
 8. An abandoned cabin.
 9. An abandoned campsite.
 10. Ancient ruins.
+
 d20 Distinguishing Landmark: You see...
 1. A tree with rotten fruit all around its base.
 2. A large, hollow tree.
@@ -5295,6 +5312,7 @@ d20 Distinguishing Landmark: You see...
 18. A tree felled by lightning.
 19. An old gnarled tree.
 20. The stump of an enormous tree.
+
 d20 Feature: You notice...
 1. A flock of crows scatter.
 2. A vulture screams.
@@ -5316,6 +5334,7 @@ d20 Feature: You notice...
 18. A distant scream.
 19. The scent of rotting flesh.
 20. The smell of decay.
+
 d12 What’s in the cave/cavern?
 1. Several skeletons.
 2. Lots of bats.
@@ -5351,6 +5370,7 @@ d20 Encounters: You come upon...
 18. An old witch.
 19. A lost child.
 20. A gravedigger.
+
 d12 Who is in the ancient burial mound?
 1. The remains of an ancient war chief.
 2. The remains of a tribal shaman.
@@ -5364,6 +5384,7 @@ d12 Who is in the ancient burial mound?
 10. A skeletal hound.
 11. An ancient vampire.
 12. Huge, disorganized piles of bones.
+
 d10 Who is in the grave?
 1. The corpse of a young maiden.
 2. The corpse of a child.
@@ -5375,6 +5396,7 @@ d10 Who is in the grave?
 8. A pile of bones.
 9. A newly-made vampire.
 10. An empty coffin.
+
 d10 Who built the ancient ruins?
 1. Dwarvish miners.
 2. A wood elf king.
@@ -5386,6 +5408,7 @@ d10 Who built the ancient ruins?
 8. A forgotten king.
 9. An evil queen.
 10. A dark sorcerer.
+
 d12 Who resides in the ancient ruins now?
 1. A brilliant necromancer.
 2. Starved ghouls.
@@ -5409,6 +5432,7 @@ d8 What’s in the hole/burrow?
 6. Unusual fungus.
 7. A decomposing body.
 8. Cold, dry bones.
+
 d6 Who lives in the peculiar cottage?
 1. A lonely old woman.
 2. A reclusive shapeshifter.
@@ -5416,6 +5440,7 @@ d6 Who lives in the peculiar cottage?
 4. A beautiful witch.
 5. A horrible witch.
 6. A cranky old priest.
+
 d6 Who lived in the abandoned cabin?
 1. A lonely old woman.
 2. A reclusive scholar.
@@ -5423,70 +5448,66 @@ d6 Who lived in the abandoned cabin?
 4. A poor woodcutter.
 5. A fur trader.
 6. A dwarf prospector.
-d6 Who resides in the abandoned
-cabin now?
+
+d6 Who resides in the abandoned cabin now?
 1. A death hound.
 2. A handful of zombies.
 3. A paranoid shapeshifter.
 4. A mad witch.
 5. A malevolent ghost.
 6. Restless ghosts.
-GRAVEROBBER
+$GRAVEROBBER
+
 d6 The graverobber is...
 1. A veteran treasure hunter.
 2-3. A desperate thief.
 4-5. A reckless fortune seeker.
 6. A student of anatomy.
+
 d6 The graverobber is looking for...
 1. A fresh grave.
 2. The entrance to an ancient crypt.
 3-4. A pair of strong arms to help dig.
 5-6. A drink and a break from digging.
+
 d6 The graverobber carries...
 1-2. A sturdy shovel and a dirty handkerchief.
 3-4. Several over-sized sacks.
 5. An ornately crafted lantern.
 6. A pocketbook of notes on gravesites.
-NECROMANCER
+$NECROMANCER
+
 d6 The necromancer is...
 1. A brilliant academy graduate.
 2. A well-known villain.
 3-4 A violent maniac.
 5-6. An ambitious mage.
+
 d6 The necromancer is looking for...
 1. Test subjects.
-2-3. A body—fresh if possible, decomposed just
-as good.
+2-3. A body—fresh if possible, decomposed just as good.
 4-5. Gullible souls.
 6. A drink of absinthe and a ghost story.
+
 d6 The necromancer carries...
 1. A twisted blackwood staff.
 2-3. A tome of necromantic lore.
 4. A rare alchemical substance.
 5-6. A razor-sharp ceremonial dagger.
+$RANDOM GOBLIN GANGS: WE’RE THE BAD GUYS!
 
-Page 27
-
-
-RANDOM GOBLIN GANGS: WE’RE THE BAD GUYS!
-d10 Business: The goblins’ primary
-“business” involves...
+d10 Business: The goblins’ primary “business” involves...
 1. Raiding villages and farms.
 2. Burglarizing storehouses and shops.
-3. Harassing anyone who passes through
-their territory.
-4. Robbing caravans carrying gems, precious
-metals, and exotic goods.
+3. Harassing anyone who passes through their territory.
+4. Robbing caravans carrying gems, precious metals, and exotic goods.
 5. Holding up traders’ ships or wagons.
-6. Smuggling drugs (d6): 1-2. smokeleaf;
-3-4. a hallucinogenic mushroom;
-5. sleepysalt (a downer). 6. sharpsugar (an
-upper).
-7. Smuggling living things (exotic beasts,
-foreign harlots, fugitives, slaves).
+6. Smuggling drugs (d6): 1-2. smokeleaf; 3-4. a hallucinogenic mushroom; 5. sleepysalt (a downer). 6 sharpsugar (an upper).
+7. Smuggling living things (exotic beasts, foreign harlots, fugitives, slaves).
 8. Serving as muscle for evildoers.
 9. Mining and crafting.
 10. Pranks and hijinks.
+
 d10 Symbol: The goblin gang’s symbol is...
 1. A skull.
 2. An arrow.
@@ -5498,24 +5519,24 @@ d10 Symbol: The goblin gang’s symbol is...
 8. A rat.
 9. A wolf.
 10. A bat.
-d6 Lair Location: The goblins’ lair is
-located...
+
+d6 Lair Location: The goblins’ lair is located...
 1. In a dark and haunted forest.
 2. In an enchanted forest.
 3. Along a mountain pass.
 4. High in the mountains.
 5. Beneath a bustling city.
 6. Near a quiet farm village.
+
 d6 Lair Structure: The goblins’ lair is...
 1. A series of natural caverns.
 2. An abandoned mine.
-3. A mine in which the goblins are actively
-digging.
+3. A mine in which the goblins are actively digging.
 4. An underground fortress.
 5. A semi-organized military encampment.
 6. A crude encampment.
-d20 Favorite Victims: The goblins are
-particularly fond of picking on...
+
+d20 Favorite Victims: The goblins are particularly fond of picking on...
 1. Fishermen and sailors.
 2. Beggars and drunks.
 3. Merchants and moneychangers.
@@ -5537,10 +5558,8 @@ particularly fond of picking on...
 19. Elves and rangers.
 20. Dwarves and gnomes.
 
-d10 Plans: The goblins’ are currently
-planning a raid on...
-1. The residence of the leader or a senior
-gangmember.
+d10 Plans: The goblins’ are currently planning a raid on...
+1. The residence of the leader or a senior gangmember.
 2. An artisan's shop or guildhall.
 3. A merchant's office.
 4. A tavern or inn.
@@ -5549,8 +5568,8 @@ gangmember.
 7. A temple complex or shrine.
 8. The town hall.
 9. A shantytown
-10. The residence of a wealthy individual or
-prominent citizen.
+10. The residence of a wealthy individual or prominent citizen.
+
 d10 Boss: The goblins’ boss is...
 1. An egotistical goblin warrior.
 2. A charismatic goblin rogue.
@@ -5562,17 +5581,16 @@ d10 Boss: The goblins’ boss is...
 8. A brutal hobgoblin warpriest.
 9. A brilliant hobgoblin warlord.
 10. A calculating bugbear assassin.
-d6 Goals: The goblins’ goals include (boss
-and rank-and-file members could have
-different goals)...
+
+d6 Goals: The goblins’ goals include (boss and rank-and-file members could have different goals)...
 1. Disruption of the region’s politics.
 2. Disruption of the region’s trade.
 3. Revenge against a specific organization.
 4. Revenge against a rival goblin gang.
 5. Spreading chaos and destruction.
 6. Possession of a powerful artifact.
-d12 Tactics: The goblins typically fight
-with...
+
+d12 Tactics: The goblins typically fight with...
 1. Swarm tactics.
 2. Hit-and-run tactics.
 3. Ambush tactics.
@@ -5585,26 +5603,25 @@ with...
 10. Lots of head-butting.
 11. Lots of biting and scratching.
 12. Laying traps.
-d6 Allies: As enforcers or extra muscle, the
-goblins sometimes hire...
+
+d6 Allies: As enforcers or extra muscle, the goblins sometimes hire...
 1. Hobgoblin mercenaries.
 2. Bugbear thugs.
 3. Ogre savages.
 4. Orc berserkers.
 5. Trolls.
 6. Other goblin gangs.
-d6 Pets: As guardians or pets, the goblins
-sometimes keep...
+
+d6 Pets: As guardians or pets, the goblins sometimes keep...
 1. Wolves.
 2. Wargs.
 3. Giant spiders.
 4. Boars.
 5. Giant bats.
 6. Dire rats.
+$INDIVIDUAL GOBLINS
 
-INDIVIDUAL GOBLINS
-d12 Skill: The goblin is particularly skilled
-at...
+d12 Skill: The goblin is particularly skilled at...
 1. Being sneaky.
 2. Not being seen.
 3. Tracking foes.
@@ -5617,6 +5634,7 @@ at...
 10. Crafting arms and armor.
 11. Crushing skulls.
 12. Cutting throats.
+
 d12 Weapons: The goblin wields...
 1. A rusty sword.
 2. A finely-made sword
@@ -5627,10 +5645,10 @@ d12 Weapons: The goblin wields...
 7. A large, serrated dagger.
 8. A pair of curved daggers.
 9. A cracked wooden shield.
-10. A shield, emblazoned with the gangs’
-symbol.
+10. A shield, emblazoned with the gangs’ symbol.
 11. Arrows fletched with crow feathers.
 12. Arrows fletched with hawk feathers.
+
 d12 Armor/Apparel: The goblin wears...
 1. Armor with greasy stains.
 2. Patched leather armor.
@@ -5644,6 +5662,7 @@ d12 Armor/Apparel: The goblin wears...
 10. A wolf skin.
 11. A black cloak with a hood.
 12. A large belt purse.
+
 d12 Trait: On the goblin’s face has...
 1. Blue warpaint.
 2. An eyepatch.
@@ -5657,6 +5676,7 @@ d12 Trait: On the goblin’s face has...
 10. A boil oozing pus.
 11. A wisp of a mustache.
 12. Amazing sideburns.
+
 d8 Manner: The goblin has...
 1. An unsettling stare.
 2. A lean and hungry look.
@@ -5666,12 +5686,9 @@ d8 Manner: The goblin has...
 6. A tendency to snicker at everything.
 7. A nervous twitch.
 8. A difficult time standing still.
+$RANDOM HUNTING: GONE A-HUNTING...
+$HUNTERS
 
-Page 28
-
-
-RANDOM HUNTING: GONE A-HUNTING...
-HUNTERS
 d8 Territory: The hunter prefers to hunt...
 1. Near a quiet creek.
 2. Along the banks of a wide river.
@@ -5681,6 +5698,7 @@ d8 Territory: The hunter prefers to hunt...
 6. In a canyon or gorge.
 7. Where the vegetation is thick.
 8. Where the vegetation is sparse.
+
 d10 Weapons: The hunter makes kills with...
 1. A reliable crossbow.
 2. A powerful crossbow.
@@ -5691,18 +5709,20 @@ d10 Weapons: The hunter makes kills with...
 7. A thrown spear.
 8. Baited steel traps.
 9. Snares.
-10. An unusual hunting weapon (d10): 1. bare
-hands; 2. battleaxe; 3. blowgun with darts;
-4. blowgun with poisoned darts; 5. bolas
-and knife; 6. bolas and spear; 7. spiked
-club; 8. scimitar; 9. sling; 10. thrown darts.
-d10 Training: The hunter learned to hunt
-from...
-1. A parent. 6. A distant relation.
-2. A grandparent. 7. A veteran ranger.
-3. A fellow hunter. 8. Living with beasts.
-4. A military scout. 9. Living with beasts.
-5. A wild savage. 10. Surviving the wild.
+10. An unusual hunting weapon (d10): 1. bare hands; 2. battleaxe; 3. blowgun with darts; 4. blowgun with poisoned darts; 5. bolas and knife; 6. bolas and spear; 7. spiked club; 8. scimitar; 9. sling; 10. thrown darts.
+
+d10 Training: The hunter learned to hunt from...
+1. A parent. 
+2. A distant relation.
+3. A grandparent. 
+4. A veteran ranger.
+5. A fellow hunter. 
+6. Living with beasts.
+7. A military scout. 
+8. Living with beasts.
+9. A wild savage. 
+10. Surviving the wild.
+
 d6 Work Style: The hunter prefers to hunt...
 1. Alone, stalking for prey.
 2. Alone, lying in wait for prey.
@@ -5710,6 +5730,7 @@ d6 Work Style: The hunter prefers to hunt...
 4. With a trusted hunting hound.
 5. With a trusted partner.
 6. With a local guide or experienced hunter.
+
 d8 Goal: The hunter is seeking...
 1. An apprentice or local guide.
 2. A legendary beast.
@@ -5719,6 +5740,7 @@ d8 Goal: The hunter is seeking...
 6. A new hunting hound.
 7. Hunting companions.
 8. Drinking companions.
+
 d10 Trait: The hunter has...
 1. A mouthful of chew.
 2. A gap-toothed grin.
@@ -5730,6 +5752,7 @@ d10 Trait: The hunter has...
 8. A long, hooked nose.
 9. An open shirt and a very hairy chest.
 10. Large ears.
+
 d6 Possession: The hunter carries...
 1. A trophy from his or her first kill.
 2. A trophy from a particularly difficult kill.
@@ -5737,8 +5760,8 @@ d6 Possession: The hunter carries...
 4. A heavy, carved hunting horn.
 5. A skinning knife and a pipe.
 6. Salt, spices, and a frying pan.
+$FOREST
 
-FOREST
 d20 After a day in the forest, you catch...
 1. 1d2 rabbits (1d2 lbs. of meat each).
 2. 1d4 rabbits (1d2 lbs. of meat each).
@@ -5760,7 +5783,8 @@ d20 After a day in the forest, you catch...
 18. A badger (10 + 1d10 lbs. of meat).
 19. A fox (4 + 1d6 lbs. of meat).
 20. A wolf (20 + 1d20 lbs. of meat).
-PLAINS
+$PLAINS
+
 d20 After a day in the plains, you catch...
 1. 1d2 rabbits (1d2 lbs. of meat each).
 2. 1d4 rabbits (1d2 lbs. of meat each).
@@ -5782,7 +5806,8 @@ d20 After a day in the plains, you catch...
 18. A badger (10 + 1d10 lbs. of meat).
 19. A fox (4 + 1d6 lbs. of meat).
 20. A wolf (20 + 1d20 lbs. of meat).
-JUNGLE
+$JUNGLE
+
 d20 After a day in the jungle, you catch...
 1. 1d2 small snakes (1d4 lbs. of meat each).
 2. A large snake (4 + 1d8 lbs. of meat).
@@ -5804,10 +5829,9 @@ d20 After a day in the jungle, you catch...
 18. A black bear (40 + 1d12 lbs. of meat).
 19. A fishing cat (10 + 1d10 lbs. of meat).
 20. A panther (30 + [1d8 x 10] lbs. of meat).
+$MOUNTAINS
 
-MOUNTAINS
-d12 After a day in the mountains, you
-catch...
+d12 After a day in the mountains, you catch...
 1. 1d2 small snakes (1 lb. of meat each).
 2. 1d2 lizards (1 lb. of meat each).
 3. A goat (10 + 1d8 lbs. of meat).
@@ -5820,7 +5844,8 @@ catch...
 10. A brown bear (60 + 1d12 lbs. of meat).
 11. A wildcat (30 + [1d8 x 10] lbs. of meat).
 12. A wolf (20 + 1d20 lbs. of meat).
-DESERT
+$DESERT
+
 d12 After a day in the desert, you catch...
 1. 1d2 lizards (1 lb. of meat each).
 2. 1d4 lizards (1 lb. of meat each).
@@ -5834,9 +5859,9 @@ d12 After a day in the desert, you catch...
 10. A bird of prey (1d2 lbs. of meat).
 11. A fox (2 + 1d4 lbs. of meat).
 12. A giant lizard (30 + 1d10 lbs. of meat).
-FROZEN LANDS
-d12 After a day in the frozen lands, you
-catch...
+$FROZEN LANDS
+
+d12 After a day in the frozen lands, you catch...
 1. 1d2 hares (1d2 lbs. of meat each).
 2. 1d4 hares (1d2 lbs. of meat each).
 3. 1d4 songbirds (1/2 lb. of meat each).
@@ -5849,7 +5874,8 @@ catch...
 10. 1d4 seals (40 + 1d6 lbs. of meat each).
 11. A wolf (20 + 1d20 lbs. of meat).
 12. A polar bear (80 + 1d12 lbs. of meat).
-SWAMP
+$SWAMP
+
 d20 After a day in the swamp, you catch...
 1. 1d2 small snakes (1d4 lbs. of meat each).
 2. 1d4 small snakes (1d4 lbs. of meat each).
@@ -5871,11 +5897,8 @@ d20 After a day in the swamp, you catch...
 18. A giant frog (10 + 1d10 lbs. of meat).
 19. A panther (30 + [1d8 x 10] lbs. of meat).
 20. A crocodile (20 + 1d20 lb. of meat).
+$RANDOM JUNGLES: WELCOME TO THE JUNGLE...
 
-Page 29
-
-
-RANDOM JUNGLES: WELCOME TO THE JUNGLE...
 d12 Interesting Location: You find...
 1. A cavern behind a waterfall.
 2. The wreck of a riverboat.
@@ -5886,10 +5909,10 @@ d12 Interesting Location: You find...
 7. A stilt house or tree house.
 8. A recently vacated campsite.
 9. A hastily abandoned campsite.
-10. A ruined stilt house or tree house
-overgrown with vines.
+10. A ruined stilt house or tree house overgrown with vines.
 11. A ruined ancient temple.
 12. Ruins of an ancient city.
+
 d20 Distinguishing Landmark: You see...
 1. A tree bearing large, yellow fruit.
 2. A tree bearing small, red fruit.
@@ -5898,10 +5921,8 @@ d20 Distinguishing Landmark: You see...
 5. A tree growing over a boulder.
 6. A thicket of brambles.
 7. A wide, shallow pool at a river bend.
-8. A wide, shallow river with a single large
-tree growing in its main channel.
-9. A fern-covered boulder in the midst of a
-gently flowing river.
+8. A wide, shallow river with a single large tree growing in its main channel.
+9. A fern-covered boulder in the midst of a gently flowing river.
 10. Several gentle rapids.
 11. A pair of dangerous rapids.
 12. A large, gnarled log half-buried in mud.
@@ -5913,6 +5934,7 @@ gently flowing river.
 18. A large, rotting log.
 19. An old tree with an oddly shaped knot.
 20. The stump of an enormous tree.
+
 d20 Feature: You notice...
 1. A flock of birds scatter.
 2. A woodpecker drumming.
@@ -5934,6 +5956,7 @@ d20 Feature: You notice...
 18. Brightly, colored berries.
 19. The scent of flowers.
 20. The smell of decay.
+
 d12 What’s in the cave/cavern?
 1. A manticore’s lair.
 2. Lots of bats.
@@ -5969,12 +5992,19 @@ d20 Encounters: You come upon...
 18. An old witch.
 19. A curious herbalist.
 20. A ruthless big-game hunter.
+
 d10 Flower Color: The flowers are...
-1. Shockingly pink. 6. Blood red.
-2. Deep crimson. 7. Pale purple
-3. Iridescent orange. 8. Dark purple
-4. Brilliant yellow. 9. Pale pink.
-5. Dark bluish purple. 10. White.
+1. Shockingly pink. 
+2. Blood red.
+3. Deep crimson. 
+4. Pale purple
+5. Iridescent orange. 
+6. Dark purple
+7. Brilliant yellow. 
+8. Pale pink.
+9. Dark bluish purple. 
+10. White.
+
 d10 Flower Shape: The petals are...
 1. Radiating in a spiraling pattern.
 2. Radiating from a hemispherical center.
@@ -5986,6 +6016,7 @@ d10 Flower Shape: The petals are...
 8. Ellipsoidal and flat.
 9. Ellipsoidal and curled.
 10. The largest petals you’ve ever seen.
+
 d10 Who built the ancient ruins?
 1. A lizardfolk chieftain.
 2. An aberrant cult.
@@ -5997,6 +6028,7 @@ d10 Who built the ancient ruins?
 8. A forgotten king.
 9. An evil queen.
 10. A dark sorcerer.
+
 d10 Who resides in the ruins now?
 1. An isolated snake cult.
 2. A paranoid shapeshifter.
@@ -6008,14 +6040,14 @@ d10 Who resides in the ruins now?
 8. A band of lizardfolk warriors.
 9. A pair of manticores.
 10. A dragon.
+
 d6 What kind of riverboat was it?
 1-2. A fisherman's raft.
 3. An eeler’s canoe.
 4. A beasthunter's dugout.
 5-6. A treasure seeker's keelboat.
 
-d8 Who lives or lived in the stilt house or
-tree house?
+d8 Who lives or lived in the stilt house or tree house?
 1. A lonely old woman.
 2. A reclusive shapeshifter.
 3. An eccentric healer.
@@ -6024,6 +6056,7 @@ tree house?
 6. An outcast wood elf.
 7. A horrifying medusa.
 8. A scheming hag.
+
 d8 Who camped here?
 1. A lizardfolk hunting party.
 2. A band of wandering elves.
@@ -6033,6 +6066,7 @@ d8 Who camped here?
 6. An extraordinary beasthunter.
 7. A brave explorer and naturalist.
 8. An ambitious treasure hunter.
+
 d6 What’s in the hole/burrow?
 1. A poisonous snake.
 2. A spider.
@@ -6040,6 +6074,7 @@ d6 What’s in the hole/burrow?
 4. A swarm of earthworms.
 5. A giant centipede.
 6. Unusual fungus.
+
 d6 What’s up in the tree?
 1. A constrictor snake.
 2. A giant spider.
@@ -6047,45 +6082,47 @@ d6 What’s up in the tree?
 4. A swarm of locusts.
 5. An aggressive ape.
 6. A lizardfolk hunter.
-SNAKE CULTIST
+$SNAKE CULTIST
+
 d6 The cultist is...
 1. A cunning warrior.
 2-3. A stealthy assassin.
 4. A fanatical priestess.
 5-6. A foolish zealot.
+
 d6 The cultist is looking to...
 1-2. Recruit new members to the cult.
 3. Warn outsiders away from the cult.
 4-5. Collect captives for human sacrifice.
 6. Slip some poison into someone’s drink.
+
 d6 The cultist carries or wears...
 1. Several eggs stolen from a snake’s nest.
 2-3. A necklace or bracelet of snake fangs.
 4. Snakeskin armor or boots.
 5-6. A book of prayers and curses.
-LIZARDFOLK
+$LIZARDFOLK
+
 d6 The lizardfolk is...
 1-2. A savvy hunter.
 3-4. A savage warrior.
 5. A powerful shaman.
 6. A dim-witted brute.
+
 d6 The lizardfolk is looking for...
 1-2. New waters for fishing and hunting.
 3-4. The tracks of an intruder in the region.
 5. The lair of a troublesome beast.
 6. Safe nesting grounds.
+
 d6 The lizardfolk carries...
 1-2. A scimitar and a wooden shield.
 3-4. A spear and a blowgun.
 5. A curved dagger with feathers on the hilt.
 6. An oversized club.
+$RANDOM KNIGHTS: SWORN SWORDS
 
-Page 30
-
-
-RANDOM KNIGHTS: SWORN SWORDS
-d20 House colors: The knight’s house’s
-colors are...
+d20 House colors: The knight’s house’s colors are...
 1. Black.
 2. Red / scarlet.
 3. Gold.
@@ -6106,49 +6143,16 @@ colors are...
 18. Yellow.
 19. Orange.
 20. Olive green.
-d8 House symbol: The knight’s house's
-symbol is...
-1. A weapon (d8):
-1. arrow. 5. mace.
-2. axe. 6. spear.
-3. dagger. 7. staff.
-4. hammer. 8. sword.
-2. A piece of armor (d4):
-1. breastplate. 3. helm.
-2. gauntlet. 4. shield.
-3. A celestial body (d4):
-1. sun. 3. star.
-2. moon. 4. comet.
-4. A plant or part of a plant (d12):
-1. apple. 7. maple.
-2. barley. 8. oak.
-3. briar. 9. olive.
-4. fig. 10. pine.
-5. grapes. 11. rose.
-6. lily. 12. wheat.
-5. An aquatic beast (d6):
-1. crab. 4. fish.
-2. crocodile. 5. octopus.
-3. frog. 6. whale.
-6. A small beast (d10):
-1. badger. 7. hedgehog.
-2. bat. 8. lizard.
-3. beaver. 9. rat.
-4. dog. 10. scorpion.
-5. ferret. 11. snake.
-6. fox. 12. spider.
-7. A great beast (d8):
-1. bear. 5. lion.
-2. boar. 6. ox.
-3. bull. 7. stag.
-4. dragon. 8. wolf.
-8. A bird (d12):
-1. cardinal. 7. pelican.
-2. dove. 8. raven.
-3. eagle. 9. rooster.
-4. hawk. 10. sparrow.
-5. mockingbird. 11. swan.
-6. owl. 12. vulture.
+
+d8 House symbol: The knight’s house's symbol is...
+1. A weapon (d8): 1. arrow. 2. mace. 3. axe. 4. spear. 5. dagger. 6. staff. 7. hammer. 8. sword.
+2. A piece of armor (d4): 1. breastplate. 2. helm. 3. gauntlet. 4. shield.
+3. A celestial body (d4): 1. sun. 2. star. 3. moon. 4. comet.
+4. A plant or part of a plant (d12): 1. apple. 2. maple. 3. barley. 4. oak. 5. briar. 6. olive. 7. fig. 8. pine. 9. grapes. 10. rose. 11. lily. 12. wheat.
+5. An aquatic beast (d6): 1. crab. 2. fish. 3. crocodile. 4. octopus. 5. frog. 6. whale.
+6. A small beast (d10): 1. badger. 2. hedgehog. 3. bat. 4. lizard. 5. beaver. 6. rat. 7. dog. 8. scorpion. 9. ferret. 10. snake. 11. fox. 12. spider.
+7. A great beast (d8): 1. bear. 2. lion. 3. boar. 4. ox. 5. bull. 6. stag. 7. dragon. 8. wolf.
+8. A bird (d12): 1. cardinal. 2. pelican. 3. dove. 4. raven. 5. eagle. 6. rooster. 7. hawk. 8. sparrow. 9. mockingbird. 10. swan. 11. owl. 12. vulture.
 
 d12 Background: The knight is...
 1. A pompous windbag.
@@ -6163,27 +6167,29 @@ d12 Background: The knight is...
 10. A popular tavern patron.
 11. A favorite among the ladies.
 12. Ruggedly handsome.
-d6 Liege: The knight has sworn to a noble
-lord or lady to...
+
+d6 Liege: The knight has sworn to a noble lord or lady to...
 1. Protect that person from harm.
 2. Defend that person’s lands.
 3. Avenge that person’s grievances.
 4. Protect that person’s loved ones.
 5. Advance that person’s ideals or faith.
 6. Ride to war in that person’s name.
-d6 Values: Above all else, the knight
-values...
+
+d6 Values: Above all else, the knight values...
 1. Bravery.
 2. Honor.
 3. Righteousness.
 4. Might (strength or tyranny).
 5. Love (devotion or conquest).
 6. Carousing.
+
 d6 Armor type: The knight is clad in...
 1. Studded leather armor.
 2-3. Chainmail.
 4-5. Scale armor.
 6. Plate armor.
+
 d6 Armor quality: The knight’s armor is...
 1. Shiny and new.
 2. In excellent condition.
@@ -6191,6 +6197,7 @@ d6 Armor quality: The knight’s armor is...
 4. Covered in dings and dents.
 5. Dirty and well-worn.
 6. Barely held together.
+
 d12 Weapons: The knight is wielding...
 1. A longsword.
 2. A longsword and a shield.
@@ -6204,6 +6211,7 @@ d12 Weapons: The knight is wielding...
 10. A warhammer and a shield.
 11. A lance and a longsword.
 12. A lance and a battleaxe.
+
 d6 Mount: The knight’s mount is...
 1. A huge destrier.
 2. A reliable courser.
@@ -6225,16 +6233,11 @@ d12 Trait: On the knight’s face is...
 10. Unshaven stubble.
 11. A neatly-trimmed beard.
 12. An extravagant mustache.
+
 d10 Possession: The knight carries...
-1. A blade with soft leather tassels dangling
-from the pommel.
-2. A blade with a carved hilt (d6): 1. ivory;
-2. jade; 3. soapstone; 4. ebony;
-5. mahogany; 6. oak.
-3. A blade with beasts sculpted into the steel
-of the guard (d6): 1. dragons; 2. lions;
-3. scorpions; 4. snakes; 5. spiders;
-6. wolves.
+1. A blade with soft leather tassels dangling from the pommel.
+2. A blade with a carved hilt (d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+3. A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders; 6. wolves.
 4. A blade made of blackened steel.
 5. A highly polished blade.
 6. A token from a sweetheart.
@@ -6242,7 +6245,8 @@ of the guard (d6): 1. dragons; 2. lions;
 8. A letter from a fallen comrade.
 9. A trophy from a fallen enemy.
 10. A ribbon from a faraway maiden.
-INDIVIDUAL RETAINERS
+$INDIVIDUAL RETAINERS
+
 d12 Background: The servant is...
 1. A squire from a powerful noble house.
 2. A squire from a minor noble house.
@@ -6256,15 +6260,15 @@ d12 Background: The servant is...
 10. A simple-minded stable hand.
 11. An expert on horses.
 12. A camp follower or harlot.
+
 d6 Motivation: The servant works for...
 1. The steady pay.
 2. The adventure.
-3. The training and advancement
-opportunies.
+3. The training and advancement opportunies.
 4. No reason, other than being told.
-5. A chance to escape from life
-imprisonment.
+5. A chance to escape from life imprisonment.
 6. Romantic devotion.
+
 d8 Trait: On the servant’s face is...
 1. A large wart.
 2. An unsightly scar.
@@ -6274,14 +6278,9 @@ d8 Trait: On the servant’s face is...
 6. A look of confusion.
 7. A long, hooked nose.
 8. Pronounced ears.
+$RANDOM LYCANTHROPES: BEWARE THE FULL MOON...
 
-Page 31
-
-
-RANDOM LYCANTHROPES: BEWARE THE FULL MOON...
-d12 Background: In humanoid form, the
-beastshifter presents himself/herself
-as...
+d12 Background: In humanoid form, the beastshifter presents himself/herself as...
 1. A farmer or herder.
 2. A miner or fisher.
 3. A beggar or urchin.
@@ -6294,8 +6293,8 @@ as...
 10. A thief or bandit.
 11. A smuggler or con artist.
 12. A sailor or pirate.
-d12 Beast form: The beastshifter transforms
-into...
+
+d12 Beast form: The beastshifter transforms into...
 1. A grizzly bear.
 2. A black bear.
 3. A wild boar.
@@ -6308,62 +6307,46 @@ into...
 10. A reddish brown wolf.
 11. A dark brown or black wolf.
 12. A white wolf.
-d6 Curse: The beastshifter transforms
-involuntarily...
+
+d6 Curse: The beastshifter transforms involuntarily...
 1. Whenever he/she is in moonlight.
 2. On nights when a full moon occurs.
-3. On nights when the moon is half full or
-more.
-4. Whenever the leader of his/her pack or
-clan transforms.
+3. On nights when the moon is half full or more.
+4. Whenever the leader of his/her pack or clan transforms.
 5. Whenever he/she becomes enraged.
-6. Never; he/she is in complete control of
-his/her power.
-d8 Beastly behavior: While transformed,
-the beastshifter behaves...
+6. Never; he/she is in complete control of his/her power.
+
+d8 Beastly behavior: While transformed, the beastshifter behaves...
 1. Mostly as a normal beast of his/her type.
-2. As an unusually intelligent version of the
-beast of his/her type.
+2. As an unusually intelligent version of the beast of his/her type.
 3. More like a human than a beast.
 4. As a skilled hunter.
 5. As a cautious predator.
 6. As a savage predator.
 7. As a frightened beast.
 8. Violently, spreading blood and chaos.
-d8 Manner: The beastshifter has a
-tendency to...
+
+d8 Manner: The beastshifter has a tendency to...
 1. Lose his/her temper easily.
-2. Speak in low growls (or squeaks), making
-it difficult for others to understand him/her
-when excited.
-3. Recoil from touching anything made of
-silver.
+2. Speak in low growls (or squeaks), making it difficult for others to understand him/her when excited.
+3. Recoil from touching anything made of silver.
 4. Get nervous in moonlight.
 5. Constantly lick his/her lips hungrily.
 6. Fidget or pace when in indoor spaces.
-7. Daydream about hunting in his/her beast
-form.
+7. Daydream about hunting in his/her beast form.
 8. Sniff people upon meeting them.
 
-d8 Social connections: The beastshifter
-lives...
-1. Alone among humans, hiding his/her
-powers.
-2. Alone among humans who know and
-accept his/her powers.
+d8 Social connections: The beastshifter ives...
+1. Alone among humans, hiding his/her powers.
+2. Alone among humans who know and accept his/her powers.
 3. Alone as an outcast from human society.
-4. Among other beastshifters integrated into
-human society.
-5. Among other beastshifters as outcasts
-from human society.
-6. Among other beastshifters, hiding their
-powers from society.
-7. Among other beastshifters, apart from
-human society.
-8. Alone as an outcast from his/her pack or
-clan.
-d12 Residence: The beastshifter makes
-his/her home...
+4. Among other beastshifters integrated into human society.
+5. Among other beastshifters as outcasts from human society.
+6. Among other beastshifters, hiding their powers from society.
+7. Among other beastshifters, apart from human society.
+8. Alone as an outcast from his/her pack or clan.
+
+d12 Residence: The beastshifter makes his/her home...
 1. In a cave.
 2. In a swamp.
 3. On a vast plain.
@@ -6376,8 +6359,8 @@ his/her home...
 10. In the city sewers.
 11. On a quiet residential street in the city.
 12. In or near a castle or palace.
-d12 Trait: In humanoid form, the
-beastshifter’s face has...
+
+d12 Trait: In humanoid form, the beastshifter’s face has...
 1. Unsightly nose and ear hair.
 2. A garish earing.
 3. An empty eye socket.
@@ -6390,8 +6373,8 @@ beastshifter’s face has...
 10. Ferocious sideburns.
 11. An unruly beard.
 12. An intimidating mustache.
-d8 Tactics: In humanoid form, the
-beastshifter fights with...
+
+d8 Tactics: In humanoid form, the beastshifter fights with...
 1. Hit-and-run tactics.
 2. Making a mad charge.
 3. Kicking and stomping.
@@ -6400,22 +6383,30 @@ beastshifter fights with...
 6. Lots of taunts and jeers.
 7. Lots of screaming and shouting.
 8. Lots of head-butting.
-UNCOMMON LYCANTHROPES
-d20 Beast Form: The beastshifter
-transforms into...
-1. A badger. 11. A leopard.
-2. A bat. 12. A lion.
-3. A cat. 13. An owl.
-4. A crocodile. 14. A panther.
-5. A dog. 15. A raven.
-6. A dolphin. 16. A seal.
-7. A fox. 17. A serpent.
-8. A hyena. 18. A shark.
-9. A jackal. 19. A spider.
-10. A jaguar. 20. A swine.
+$UNCOMMON LYCANTHROPES
+d20 Beast Form: The beastshifter transforms into...
+1. A badger. 
+2. A leopard.
+3. A bat. 
+4. A lion.
+5. A cat. 
+6. An owl.
+7. A crocodile. 
+8. A panther.
+9. A dog. 
+10. A raven.
+11. A dolphin. 
+12. A seal.
+13. A fox. 
+14. A serpent.
+15. A hyena. 
+16. A shark.
+17. A jackal. 
+18. A spider.
+19. A jaguar. 
+20. A swine.
 
-d20 Favorite prey: The beastshifter’s
-favorite prey are...
+d20 Favorite prey: The beastshifter’s favorite prey are...
 1. Foreigners and travelers.
 2. Beggars and drunks.
 3. Young men.
@@ -6436,18 +6427,18 @@ favorite prey are...
 18. Sheep and goats.
 19. Chickens and turkeys.
 20. Dogs and cats.
-LYCANTHROPE PACKS
+$LYCANTHROPE PACKS
+
 d8 Social structure: The pack is...
 1. A band of exiles and outcasts.
 2. A roving band of outlaws and thieves.
 3. A nomadic warrior clan.
 4. A band of sought-after mercenaries.
-5. An integral part of the local thieves’ or
-assassins’ guild.
-6. A mercenary company in the service of a
-local lord or city watch.
+5. An integral part of the local thieves’ or assassins’ guild.
+6. A mercenary company in the service of a local lord or city watch.
 7. A wild bunch of hunters and killers.
 8. An ancient clan of warrior-hunters.
+
 d12 Pack leader: The pack’s leader is...
 1. A dangerous megalomaniac.
 2. A charismatic demagogue.
@@ -6461,31 +6452,25 @@ d12 Pack leader: The pack’s leader is...
 10. A brutish thug.
 11. A de-frocked priest.
 12. A well-known fugitive.
-d6 Morale: The pack’s attitude toward their
-leader is...
+
+d6 Morale: The pack’s attitude toward their leader is...
 1. Friendly and loyal.
 2. Respectful and business-like.
 3. Cautious and uncertain.
 4. Terrified and tight-lipped.
 5. Disappointed and disrespectful.
 6. Agitated and restless.
-d6 Goals: The pack’s goals include (the
-pack leader and rank-and-file members
-could have different goals)...
+
+d6 Goals: The pack’s goals include (the pack leader and rank-and-file members could have different goals)...
 1. Becoming the region’s dominant predators.
-2. Revenge against a rival band of
-lycanthropes or outlaws.
+2. Revenge against a rival band of lycanthropes or outlaws.
 3. Revenge against the region’s elite.
 4. Rebellion against the region’s elite.
 5. A quiet and peaceful existence.
 6. Violence to slake their bloodlust.
+$RANDOM MERCENARY TROOPS: GOLD FOR BLOOD...
 
-Page 32
-
-
-RANDOM MERCENARY TROOPS: GOLD FOR BLOOD...
-d12 Colors: The mercenary troop’s colors
-are...
+d12 Colors: The mercenary troop’s colors are...
 1. Black.
 2. Red / scarlet.
 3. Gold.
@@ -6498,8 +6483,8 @@ are...
 10. Dark brown / chocolate.
 11. Steel / blue grey.
 12. Olive green.
-d20 Symbol: The mercenary troop’s banner
-features...
+
+d20 Symbol: The mercenary troop’s banner features...
 1. A skull.
 2. A ghost.
 3. A clenched fist.
@@ -6520,8 +6505,7 @@ features...
 18. A snake.
 19. A vulture.
 20. A wolf.
-d10 Leader: The mercenaries’ commander
-is...
+$d10 Leader: The mercenaries’ commander is...
 1. A brazen outlaw.
 2. A charismatic demagogue.
 3. A mysterious foreigner.
