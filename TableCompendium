@@ -6505,7 +6505,8 @@ d20 Symbol: The mercenary troop’s banner features...
 18. A snake.
 19. A vulture.
 20. A wolf.
-$d10 Leader: The mercenaries’ commander is...
+
+d10 Leader: The mercenaries’ commander is...
 1. A brazen outlaw.
 2. A charismatic demagogue.
 3. A mysterious foreigner.
@@ -6516,16 +6517,16 @@ $d10 Leader: The mercenaries’ commander is...
 8. A celebrated war hero.
 9. A disgraced knight.
 10. A former arena champion.
-d6 Morale: The mercenary troop’s attitude
-toward their commander is...
+
+d6 Morale: The mercenary troop’s attitude toward their commander is...
 1. Friendly and loyal.
 2. Respectful and business-like.
 3. Cautious and uncertain.
 4. Terrified and tight-lipped.
 5. Disappointed and rude.
 6. Angry and rebellious.
-d6 Contract: The mercenary troop is
-currently...
+
+d6 Contract: The mercenary troop is currently...
 1. Gainfully employed as guards.
 2. Gainfully employed in war.
 3. Under contract with some criminals.
@@ -6533,8 +6534,7 @@ currently...
 5. Under contract with some nobles.
 6. Looking for work.
 
-d10 Specialization: The mercenary troop
-specializes in...
+d10 Specialization: The mercenary troop specializes in...
 1. Siege-breaking.
 2. Holding redoubts.
 3. Frontal assaults.
@@ -6545,9 +6545,9 @@ specializes in...
 8. Flanking maneuvers.
 9. Guerilla tactics.
 10. Raiding and pillaging.
-INDIVIDUAL SELLSWORDS
-d8 Armor or Uniform: The sellsword is
-armored in...
+$INDIVIDUAL SELLSWORDS
+
+d8 Armor or Uniform: The sellsword is armored in...
 1. Exotic robes.
 2. Leather armor.
 3. Studded leather armor.
@@ -6556,14 +6556,15 @@ armored in...
 6. Chainmail.
 7. Scale armor.
 8. Plate armor.
-d6 Armor Condition: The sellsword’s armor
-is...
+
+d6 Armor Condition: The sellsword’s armor is...
 1. Shiny and new.
 2. In excellent condition.
 3. Obviously repaired, but serviceable.
 4. Covered in dings and dents.
 5. Dirty and well-worn.
 6. Barely held together.
+
 d12 Weapon: The sellsword is wielding...
 1. A longsword.
 2. A longsword and a shield.
@@ -6577,6 +6578,7 @@ d12 Weapon: The sellsword is wielding...
 10. A warhammer.
 11. A scimitar.
 12. A scimitar and a shield.
+
 d8 Tactics: The sellsword fights with...
 1. Hit-and-run tactics.
 2. Making a direct assault.
@@ -6586,6 +6588,7 @@ d8 Tactics: The sellsword fights with...
 6. No mercy.
 7. Lots of taunts and jeers.
 8. Dirty tactics.
+
 d8 Motivation: The sellsword fights for...
 1. The love of gold.
 2. Pure bloodlust.
@@ -6596,8 +6599,7 @@ d8 Motivation: The sellsword fights for...
 7. Gold to secure a marriage.
 8. Fortune and glory.
 
-d8 Reputation: The mercenary troop is
-notorious for...
+d8 Reputation: The mercenary troop is notorious for...
 1. Taking no prisoners.
 2. Leaving the dead to be eaten by beasts.
 3. Tattooing or branding prisoners.
@@ -6620,6 +6622,7 @@ d12 Background: The sellsword is...
 10. A former pirate.
 11. A de-frocked priest.
 12. A favorite among the ladies.
+
 d12 Trait: On the sellsword’s face is...
 1. An eye-catching mole.
 2. A garish earring.
@@ -6633,32 +6636,22 @@ d12 Trait: On the sellsword’s face is...
 10. Ferocious sideburns.
 11. An unruly beard.
 12. An intimidating mustache.
+
 d12 Possession: The sellsword carries...
-1. A blade with a gem embedded in the
-pommel.
-2. A blade with soft leather tassels dangling
-from the pommel.
-3. A blade with a carved hilt (d6): 1. ivory, 2.
-jade; 3. soapstone; 4. ebony;
-5. mahogany; 6. oak.
+1. A blade with a gem embedded in the pommel.
+2. A blade with soft leather tassels dangling from the pommel.
+3. A blade with a carved hilt (d6): 1. ivory, 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
 4. A blade with a gently curved hilt.
-5. A blade with beasts sculpted into the steel
-of the guard (d6): 1. dragons;
-2. lions; 3. scorpions; 4. snakes;
-5. spiders; 6. wolves.
+5. A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders; 6. wolves.
 6. A blade made of blackened steel.
 7. A highly polished blade.
 8. A blade with runes carved into it.
 9. Arrows/bolts tipped with black steel.
 10. Arrows/bolts with bronzed tips.
 11. Arrows/bolts fletched with crow feathers.
-12. Arrows/bolts fletched with peacock
-feathers.
+12. Arrows/bolts fletched with peacock feathers.
+$RANDOM MERCHANT CARAVANS: OVERLAND SHIPPING...
 
-Page 33
-
-
-RANDOM MERCHANT CARAVANS: OVERLAND SHIPPING...
 d6 Transport Method: The caravan is...
 1. A wagon train.
 2. A long train of pack animals.
@@ -6666,8 +6659,8 @@ d6 Transport Method: The caravan is...
 4. A train of pack animals with a few wagons.
 5. A train of pack animals and livestock.
 6. Traveling on foot with a few pack animals.
-d8 Pack Animals: The caravan’s pack
-animals are...
+
+d8 Pack Animals: The caravan’s pack animals are...
 1. One-humped camels.
 2. Two-humped camels.
 3. Large draft horses.
@@ -6675,9 +6668,7 @@ animals are...
 5. Sure-footed ponies.
 6. Mules.
 7. Oxen.
-8. Exotic beasts (d6): 1. bison; 2. drakes;
-3. elephants; 4. elk; 5. giant lizards;
-6. zebras.
+8. Exotic beasts (d6): 1. bison; 2. drakes; 3. elephants; 4. elk; 5. giant lizards; 6. zebras.
 d6 Commodities: The caravan is
 transporting...
 1. Cloth (d4): 1. cotton; 2. linen; 3. silk;
