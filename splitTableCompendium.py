@@ -2,14 +2,17 @@ import json
 
 tables = []
 
-file = open('TableCompendium', 'r')
+file = open('TableCompendium', 'r', encoding="utf8")
 Lines = file.readlines()
+Lines = Lines[:6000]
 textLines : list = []
-
 for i in range(len(Lines)):
     if Lines[i].startswith("$") == True:
         textLines.append({"Page Title": Lines[i], "Table" : []})
-    #if Lines[i] == "":
+    if Lines[i] == "\n":
+        textLines[len(textLines) - 1]["Table"].append({"Table Title" : Lines[i + 1], "Entries" : []})
+        i += 1
+print(textLines)
 
 
 
