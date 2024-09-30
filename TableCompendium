@@ -7040,24 +7040,23 @@ d12 Other Landmarks: You see...
 10. A stockade or jail.
 11. Animal pens.
 12. Graves.
+
 d6 Mounts: The camp’s mounts include...
 1. Camels.
 2. Large draft horses.
 3. Reliable garrons.
 4. Quick-footed palfreys.
 5. Huge destriers.
-6. Exotic mounts (d6): 1. bears; 2. bison;
-3. elephants; 4. elk; 5. giant lizards;
-6. zebras.
+6. Exotic mounts (d6): 1. bears; 2. bison; 3. elephants; 4. elk; 5. giant lizards; 6. zebras.
+
 d6 Hunting or War Beasts: The camp has...
 1. Falcons.
 2. Fighting dogs.
 3. Hounds.
 4. Terriers.
 5. Wolves.
-6. Exotic beasts (d10): 1. boars; 2. dire rats;
-3. dire wolves; 4. drakes; 5. eagles; 6. lions;
-7. owlbears; 8. ravens; 9. tigers; 10. wargs.
+6. Exotic beasts (d10): 1. boars; 2. dire rats; 3. dire wolves; 4. drakes; 5. eagles; 6. lions; 7. owlbears; 8. ravens; 9. tigers; 10. wargs.
+
 d6 Morale: The camp’s general mood is...
 1. Desperate; a calamity has befallen them.
 2. Solemn; badly outnumbered, battle is nigh.
@@ -7065,24 +7064,27 @@ d6 Morale: The camp’s general mood is...
 4. Tired; the journey is long and longer yet.
 5. Eager; great plunder waits at journey’s end.
 6. Cheerful; victory is all but certain.
-SCOUT
+$SCOUT
+
 d6 Background: The scout is...
 1. A daring ranger.
 2-3. A skilled hunter.
 4-5. An expert tracker.
 6. A brutal warrior.
+
 d6 Goal: The scout is looking to...
 1. Help the camp slaughter the enemy.
 2-3. Keep the camp from marching into a trap.
 4-5. Hear word of enemy patrols and wild game.
 6. Eat, drink, and be merry.
+
 d6 Possession: The scout carries...
 1. A map with notes scrawled all over it.
 2-3. A unique trinket or piece of jewelry.
 4-5. A longbow and a quiver of arrows.
 6. A large knife and climbing gear.
+$COMMANDER
 
-COMMANDER
 d6 Background: The commander is...
 1. A brilliant strategist.
 2. A brutish thug.
@@ -7090,6 +7092,7 @@ d6 Background: The commander is...
 4. A celebrated war hero.
 5. An anointed knight.
 6. A career soldier.
+
 d6 Goal: The commander is looking for...
 1. Information regarding enemy positioning.
 2. Information regarding the terrain ahead.
@@ -7097,12 +7100,13 @@ d6 Goal: The commander is looking for...
 4. News of his hometown.
 5. Revenge against a bitter rival.
 6. Drinking companions and storytellers.
-d6 Concern: The commander is trying to
-avoid...
+
+d6 Concern: The commander is trying to avoid...
 1. Barbarians.
 2. Bandits.
 3-4. The enemy army.
 5-6. Hazardous terrain.
+
 d6 Possession: The commander carries...
 1. A superbly crafted sword.
 2. A trusted blade and a map.
@@ -7110,7 +7114,8 @@ d6 Possession: The commander carries...
 4. The token of a faraway love.
 5. A pipe and pouch of tobacco.
 6. A little jar of mustache wax.
-SOLDIER
+$SOLDIER
+
 d6 Background: The soldier fights for...
 1. The steady pay.
 2. Pure bloodlust.
@@ -7118,17 +7123,20 @@ d6 Background: The soldier fights for...
 4. A chance at vengeance.
 5. God and country.
 6. Fortune and glory.
+
 d6 Trait: On the soldier’s face is...
 1. An unsightly scar.
 2. A haughty sneer.
 3-4. A look of sadness.
 5-6. An eager grin.
+
 d6 Possession: The soldier carries...
 1. A highly polished blade.
 2-3. A letter from a fallen comrade.
 4-5. A trophy from a fallen enemy.
 6. A ribbon from a faraway maiden.
-CAMP FOLLOWER
+$CAMP FOLLOWER
+
 d6 Background: The traveler is...
 1. A harlot.
 2. A healer.
@@ -7136,52 +7144,58 @@ d6 Background: The traveler is...
 4. A peddler.
 5. A preacher.
 6. A refugee.
+
 d6 Long-term Goal: The traveler is seeking...
 1-2. To find a long lost friend or family member.
 3. To escape from a troubled past.
 4. To gain revenge against a bitter rival.
 5-6. To survive the war and start over.
-d6 Immediate: Goal: Tonight, the traveler is
-looking for...
+
+d6 Immediate: Goal: Tonight, the traveler is looking for...
 1-2. A little company.
 3-4. An opportunity to earn some coin.
 5. Someone to hear a sad tale.
 6. Drinking companions.
+$QUARTERMASTER
 
-QUARTERMASTER
 d6 Background: The quartermaster is...
 1. A member of a merchant guild.
 2-3. A member of a prominent family.
 4-5. A survivor of a terrible battle wound.
 6. Secretly a coward.
-d6 Goal: The quartermaster seeks someone
-to...
+
+d6 Goal: The quartermaster seeks someone to...
 1-2. Obtain hard-to-get provisions.
 3-4. Purchase contraband items.
 5. Help win over a sweetheart.
 6. Share a drink and a laugh.
+
 d6 Currency: The quartermaster trades in...
 1-2. Coins.
 3. Gems and trinkets.
 4-5. Meat, foraged roots, and other provisions.
 6. Bones, scalps, teeth, or other grisly trophies.
-ARMORER
+$ARMORER
+
 d6 Background: The armorer is...
 1. A meticulous armorsmith.
 2-3. A blacksmith with some militia experience.
 4-5. A farrier with little experience with weapons.
 6. A highly-skilled weaponsmith.
+
 d6 Goal: The armorer is looking for...
 1-2. A new apprentice or a journeyman assistant.
 3-4. Rare metals.
 5. Dull blades to sharpen.
 6. A mug of strong ale.
 d6 Possession: The armorsmith carries...
+
 1-2. A hammer.
 3. A metal trinket made by the armorer.
 4-5. A contract for a set of special plate armor.
 6. Little more than a few coins.
-STABLE HAND / SQUIRE / VALET
+$STABLE HAND / SQUIRE / VALET
+
 d8 Background: The servant is...
 1. A squire from a noble house.
 2. A frightened link boy.
@@ -7191,11 +7205,13 @@ d8 Background: The servant is...
 6. A mysterious foreigner.
 7. A simple-minded stable hand.
 8. An expert on horses.
+
 d6 The servant has...
 1. An awkward gait.
 2-3. Incredibly large hands.
 4. Quite an odor.
 5-6. A ragged beard.
+
 d6 Goal: The servant wants to...
 1. Earn a little silver.
 2. Go back home.
@@ -7203,7 +7219,8 @@ d6 Goal: The servant wants to...
 4. Train with weapons and be a hero.
 5. Earn the affection of his or her master.
 6. Have a drink and a rest.
-COOK
+$COOK
+
 d6 Goal: The cook is looking for...
 1. Someone more important to talk to.
 2. Someone to try an improvised recipe.
@@ -7211,11 +7228,8 @@ d6 Goal: The cook is looking for...
 4. A good joke or story.
 5. Someone with whom to share some wine.
 6. The bottom of a bottle.
+$RANDOM MILITARY COMPANIES: WE HAVE MET THE ENEMY...
 
-Page 36
-
-
-RANDOM MILITARY COMPANIES: WE HAVE MET THE ENEMY...
 d20 Colors: The company’s colors are...
 1. Black.
 2. Red / scarlet.
@@ -7237,8 +7251,8 @@ d20 Colors: The company’s colors are...
 18. Yellow.
 19. Orange.
 20. Olive green.
-d20 Symbol: The company’s banner
-features...
+
+d20 Symbol: The company’s banner features...
 1. A skull.
 2. A clenched fist.
 3. A flame.
@@ -7259,6 +7273,7 @@ features...
 18. A snake.
 19. A stag.
 20. A wolf.
+
 d10 Leader: The company’s commander is...
 1. A brilliant strategist.
 2. A scion from a prominent family.
@@ -7270,8 +7285,8 @@ d10 Leader: The company’s commander is...
 8. An anointed knight.
 9. A career soldier
 10. A former arena champion.
-d6 Morale: The company’s attitude toward
-their commander is...
+
+d6 Morale: The company’s attitude toward their commander is...
 1. Friendly and loyal.
 2. Respectful and business-like.
 3. Cautious and uncertain.
@@ -7279,8 +7294,7 @@ their commander is...
 5. Disappointed and disrespectful.
 6. Agitated and restless.
 
-d8 Specialization: The company
-specializes in...
+d8 Specialization: The company specializes in...
 1. Siege-breaking.
 2. Holding redoubts.
 3. Frontal assaults.
@@ -7289,8 +7303,8 @@ specializes in...
 6. Flanking maneuvers.
 7. Guerilla tactics.
 8. Foraging.
-d8 Reputation: The company is notorious
-for...
+
+d8 Reputation: The company is notorious for...
 1. Taking no prisoners.
 2. Scarring or branding prisoners.
 3. Incompetence.
@@ -7299,18 +7313,16 @@ for...
 6. Romantic escapades.
 7. Eating everything that is available.
 8. Drinking too much ale and wine.
-d6 Armor: Most soldiers in the company
-are outfitted with...
+
+d6 Armor: Most soldiers in the company are outfitted with...
 1. Patched leather armor.
-2. Leather armor marked with the symbol of
-their liege lord.
-3. Helms and breastplates emblazoned with
-the symbol of their liege lord.
+2. Leather armor marked with the symbol of their liege lord.
+3. Helms and breastplates emblazoned with the symbol of their liege lord.
 4. Well-maintained chainmail.
 5. Well-worn scale armor.
 6. Newly-forged scale armor.
-d12 Weapons: Most soldiers in the company
-are equipped with...
+
+d12 Weapons: Most soldiers in the company are equipped with...
 1. Longswords and shortbows.
 2. Longswords and crossbows.
 3. Longswords and shields.
@@ -7323,8 +7335,8 @@ are equipped with...
 10. Longspears and shortswords.
 11. Pikes and shortswords.
 12. Halberds and handaxes.
-d8 Training: Most soldiers in the company
-are...
+
+d8 Training: Most soldiers in the company are...
 1. Trained men-at-arms.
 2. Militia men.
 3. Veterans of war.
@@ -7333,8 +7345,8 @@ are...
 6. Conscripts from peasant villages.
 7. Convicted criminals.
 8. Green boys.
+$INDIVIDUAL SOLDIERS
 
-INDIVIDUAL SOLDIERS
 d12 Background: The soldier is...
 1. A farm boy.
 2. The son of a miner or fisherman.
@@ -7348,6 +7360,7 @@ d12 Background: The soldier is...
 10. A former pirate.
 11. A failed craftsman.
 12. A favorite among the ladies.
+
 d12 Motivation: The soldier fights for...
 1. The steady pay.
 2. The love of someone he cannot have.
@@ -7356,12 +7369,12 @@ d12 Motivation: The soldier fights for...
 5. A chance at vengeance.
 6. Gold to repay debts.
 7. Gold to aid a family member.
-8. A chance to escape from life
-imprisonment.
+8. A chance to escape from life imprisonment.
 9. A chance at redemption.
 10. God and country.
 11. Fortune and glory.
 12. Strength and honor.
+
 d12 Trait: On the soldier’s face is...
 1. A large wart.
 2. An eyepatch.
@@ -7375,14 +7388,11 @@ d12 Trait: On the soldier’s face is...
 10. A neatly-trimmed goatee.
 11. An unruly beard.
 12. A lush, thick mustache.
+
 d10 Possession: The soldier carries...
-1. A blade with soft leather tassels dangling
-from the pommel.
-2. A blade with a carved hilt (ivory, jade,
-soapstone, ebony, mahogany, or oak).
-3. A blade with beasts sculpted into the steel
-of the guard (dragons, lions, scorpions,
-snakes, spiders, or wolves).
+1. A blade with soft leather tassels dangling from the pommel.
+2. A blade with a carved hilt (ivory, jade, soapstone, ebony, mahogany, or oak).
+3. A blade with beasts sculpted into the steel of the guard (dragons, lions, scorpions, snakes, spiders, or wolves).
 4. A blade made of blackened steel.
 5. A highly polished blade.
 6. A token from a sweetheart.
@@ -7390,26 +7400,30 @@ snakes, spiders, or wolves).
 8. A letter from a fallen comrade.
 9. A trophy from a fallen enemy.
 10. A ribbon from a faraway maiden.
+$RANDOM MINES: WE DIG, DIG, DIG...
 
-Page 37
-
-
-RANDOM MINES: WE DIG, DIG, DIG...
 d20 The miners are hauling out...
-1. Chalk. 10. Salt.
-2. Coal. 11. Silver.
-3. Copper. 12. Zinc.
-4. Gold. 13. Diamonds.
-5. Iron. 14. Emeralds.
-6. Lead 15. Jade.
-7. Lead. 16. Rubies.
-8. Nickel. 17. Sapphires.
-9. Platinum. 18. Turquoise.
-19. Other gems (d6): 1. amethyst; 2.
-aquamarine; 3. garnet; 4. opal; 5. peridot;
-6. tanzanite; 7. topaz, 8. zirconium.
-20. An especially rare metal (d6):
-1-2. adamantine; 3-4. mithral; 5-6. orium.
+1. Chalk. 
+2. Salt.
+3. Coal. 
+4. Silver.
+5. Copper. 
+6. Zinc.
+7. Gold. 
+8. Diamonds.
+9. Iron. 
+10. Emeralds.
+11. Lead 
+12. Jade.
+13. Quarts. 
+14. Rubies.
+15. Nickel. 
+16. Sapphires.
+17. Platinum. 
+18. Turquoise.
+19. Other gems (d8): 1. amethyst; 2. aquamarine; 3. garnet; 4. opal; 5. peridot; 6. tanzanite; 7. topaz, 8. zirconium.
+20. An especially rare metal (d6): 1-2. adamantine; 3-4. mithral; 5-6. orium.
+
 d12 Entrance: The mine’s entrance is...
 1. Up a winding trail from a camp or village.
 2. Up a steep trail from a camp or village.
@@ -7418,39 +7432,30 @@ d12 Entrance: The mine’s entrance is...
 5. An easy to spot, narrow passage.
 6. A steep, slippery sloped tunnel.
 7. A tunnel reinforced with wood beams.
-8. A partially collapsed tunnel, impassable
-without excavation.
+8. A partially collapsed tunnel, impassable without excavation.
 9. Marked with several signs.
-10. Hidden by the terrain (d6): 1-2. boulders;
-3. waterfall; 4-5. rocky overhang; 6. hillock.
-11. Hidden by vegetation (d6): 1-2. a briar
-patch; 3. a curtain of moss; 4. enormous
-tree roots; 5-6. overgrown vines.
-12. Difficult to access (d6): 1-2. up or down a
-cliff face; 3-4. down a deep hole; 5. in an
-underwater tunnel; 6. through an illusory
-rock or wall.
+10. Hidden by the terrain (d6): 1-2. boulders; 3. waterfall; 4-5. rocky overhang; 6. hillock.
+11. Hidden by vegetation (d6): 1-2. a briar patch; 3. a curtain of moss; 4. enormous tree roots; 5-6. overgrown vines.
+12. Difficult to access (d6): 1-2. up or down a cliff face; 3-4. down a deep hole; 5. in an underwater tunnel; 6. through an illusory rock or wall.
+
 d6 Layout: Most of the mine is...
 1. A sprawling maze of twisting tunnels.
 2. A sprawling maze of narrow tunnels.
-3. A series of tunnels connecting large
-natural caverns.
+3. A series of tunnels connecting large natural caverns.
 4. A wide open-pit quarry.
-5. A series of tunnels connecting large open
-pits or sinkholes.
+5. A series of tunnels connecting large open pits or sinkholes.
 6. A sprawling maze of open trenches.
-d8 Methods: Material excavated from the
-mine is...
+
+d8 Methods: Material excavated from the mine is...
 1. Floated on rafts down a stream or river.
 2. Hauled out on pack mules.
 3. Hauled out on mule-drawn carts.
 4. Hauled out on sure-footed ponies.
 5. Hauled out on ox-drawn carts.
-6. Hauled out on the backs of uncommon
-beasts of burden (d6): 1. bears; 2-3. giant
-lizards; 4-5. goats; 6. undead horses.
+6. Hauled out on the backs of uncommon beasts of burden (d6): 1. bears; 2-3. giant lizards; 4-5. goats; 6. undead horses.
 7. Rolled out in single mine carts.
 8. Rolled out in long trains of mine carts.
+
 d10 Hazards/Obstacles: You find...
 1. A colony of poisonous mushrooms.
 2. A patch of toxic mold.
@@ -7459,24 +7464,32 @@ d10 Hazards/Obstacles: You find...
 5. The floor is very slippery.
 6. You nearly step into a pit or chasm.
 7. A heap of unstable explosives.
-8. A sudden explosion in another part of the
-mine shakes the floor.
-9. The floor is writhing with vermin (d6):
-1-2. beetles; 3. centipedes; 4. rats;
-5-6. spiders.
+8. A sudden explosion in another part of the mine shakes the floor.
+9. The floor is writhing with vermin (d6): 1-2. beetles; 3. centipedes; 4. rats; 5-6. spiders.
 10. The tunnel or trench is steadily flooding.
 
 d20 Denizens: If you dig deep, you’ll find...
-1. Carrion crawler. 11. Myconids.
-2. Cloaker. 12. Ooze.
-3. Darkmantle. 13. Otyugh.
-4. Drider. 14. Piercer.
-5. Fungi. 15. Roper.
-6. Gargoyle. 16. Rust monster.
-7. Ghosts. 17. Skeletons.
-8. Gricks. 18. Stirges.
-9. Hook horror. 19. Umber hulk.
-10. Mimics. 20. Wraiths.
+1. Carrion crawler. 
+2. Myconids.
+3. Cloaker. 
+4. Ooze.
+5. Darkmantle. 
+6. Otyugh.
+7. Drider. 
+8. Piercer.
+9. Fungi. 
+10. Roper.
+11. Gargoyle. 
+12. Rust monster.
+13. Ghosts. 
+14. Skeletons.
+15. Gricks. 
+16. Stirges.
+17. Hook horror. 
+18. Umber hulk.
+19. Mimics. 
+20. Wraiths.
+
 d10 Ecology: The creature is...
 1. A predator or a hunter.
 2. A food source for other denizens.
@@ -7488,21 +7501,27 @@ d10 Ecology: The creature is...
 8. Living in deliberate isolation.
 9. Living in unintentional isolation.
 10. Severely out of place in this mine.
-d12 Neighbors: The miners complain of
-trouble from a nearby colony of...
-1. Cyclops. 7. Grimlocks.
-2. Duergar. 8. Hobgoblins.
-3. Dwarves. 9. Kobolds.
-4. Elves, dark. 10. Orcs.
-5. Gnomes, deep. 11. Troglodytes.
-6. Goblins. 12. Trolls.
+
+d12 Neighbors: The miners complain of trouble from a nearby colony of...
+1. Cyclops. 
+2. Grimlocks.
+3. Duergar. 
+4. Hobgoblins.
+5. Dwarves. 
+6. Kobolds.
+7. Elves, dark. 
+8. Orcs.
+9. Gnomes, deep. 
+10. Troglodytes.
+11. Goblins. 
+12. Trolls.
+
 d20 Distinguishing Landmark: You see...
 1. A trickle of water on the walls and floor
 2. An underground lake of potable water.
 3. A pool of stagnant water.
 4. A rickety bridge over a chasm.
-5. A narrow chasm with walls close enough to
-climb between.
+5. A narrow chasm with walls close enough to climb between.
 6. A deep chasm with no bottom in sight.
 7. A group of boulders arranged in a circle.
 8. A damp wall covered in soft mold.
@@ -7518,6 +7537,7 @@ climb between.
 18. A wide vein of ore visible in the wall.
 19. A partially excavated wall with plentiful ore.
 20. A heap of excavated rock.
+
 d12 Features: You notice...
 1. Some broken mining equipment.
 2. Some old dry bones.
@@ -7531,6 +7551,7 @@ d12 Features: You notice...
 10. The distant sound of hammers at work.
 11. A prospector’s mark scratched on the wall.
 12. A cracked wooden beam overhead.
+
 d6 Reputation: The mine is believed to be...
 1-2. Full of riches.
 3. A productive place to dig.
@@ -7546,6 +7567,7 @@ d8 Ownership: The mine is controlled by...
 6. A shadowy cabal of merchants.
 7. A vicious warlord or mercenary captain.
 8. A crime boss who’s never visited the site.
+
 d6 Laborers: Most of the miners are...
 1. Free men working for wages.
 2. Low-level members of a guild.
@@ -7553,7 +7575,8 @@ d6 Laborers: Most of the miners are...
 4. Paid with credit at a merchant’s store.
 5. Prisoners.
 6. Slaves.
-MINER
+$MINER
+
 d6 Trait: The miner has...
 1. A sweat-stained shirt.
 2. Skin blackened with dust.
@@ -7561,17 +7584,20 @@ d6 Trait: The miner has...
 4. Long whiskers.
 5. An excited laugh.
 6. A raspy voice.
+
 d6 Goal: The miner is looking to...
 1-2. Get rich quick.
 3. Make some coin to pay off a debt.
 4-5. Make some coin to send home to family.
 6. Share a drink while prying for rumors.
+
 d6 Possession: The miner carries...
 1-2. A shovel and a pick.
 3. A length of rope and a lantern.
 4. A pouch of uncut gems or bits of raw ore.
 5-6. A flask of strong spirits.
-DWARF
+$DWARF
+
 d8 Background: The dwarf is...
 1. A greedy prospector.
 2. A hard-working miner.
@@ -7581,20 +7607,27 @@ d8 Background: The dwarf is...
 6. A capable stonemason.
 7. A battle-hardened soldier.
 8. A fearsome berserk warrior.
+
 d10 Beard: The dwarf’s beard is...
-1. Snowy white. 6. Tangled.
-2. Stony grey. 7. Braided.
-3. Fiery red. 8. Down to the floor.
-4. Black as coal. 9. Neatly trimmed.
-5. Earthy brown. 10. Magnificent.
+1. Snowy white. 
+2. Tangled.
+3. Stony grey. 
+4. Braided.
+5. Fiery red. 
+6. Down to the floor.
+7. Black as coal. 
+8. Neatly trimmed.
+9. Earthy brown. 
+10. Magnificent.
+
 d6 Goal: The dwarf is looking to...
 1. Re-establish an ancestral claim.
 2. Find a new source for precious gems.
-3. Find some knowledge about an ancient
-event or place.
+3. Find some knowledge about an ancient event or place.
 4. Drink some ale and swap tales of treasure.
 5. Drink some ale and sing a bawdy song.
 6. Drink some ale and start a fight.
+
 d6 Possession: The dwarf carries...
 1. An old battleaxe with a razor sharp edge.
 2. A highly polished warhammer.
@@ -7602,13 +7635,9 @@ d6 Possession: The dwarf carries...
 4. A hammer and sack full of climbing gear.
 5. A pick-ax and an old map.
 6. A satchel of potions, tonics, and remedies.
+$RANDOM MONASTERIES: DISCIPLINE, STRENGTH, AND WISDOM...
 
-Page 38
-
-
-RANDOM MONASTERIES: DISCIPLINE, STRENGTH, AND WISDOM...
-d12 Knowledge and Experience: Visitors to
-the monastery come seeking...
+d12 Knowledge and Experience: Visitors to the monastery come seeking...
 1. Ancient knowledge.
 2. Mystic wisdom.
 3. Spiritual guidance.
@@ -7621,8 +7650,8 @@ the monastery come seeking...
 10. The means to travel to another realm.
 11. Training in a unique fighting style.
 12. The tools and training to exact vengeance.
-d12 Reputation: The monastery is known for
-its...
+
+d12 Reputation: The monastery is known for its...
 1. Compassionate healers.
 2. Sacred music.
 3. Ancient wisdom.
@@ -7635,8 +7664,8 @@ its...
 10. Master brewers or vintners.
 11. Powerful mystics.
 12. Indefatigable warriors.
-d8 Location: The monastery complex is
-located...
+
+d8 Location: The monastery complex is located...
 1. On a hilltop overlooking a small village.
 2. On a hilltop not far from a large city.
 3. On a remote mountaintop.
@@ -7645,20 +7674,19 @@ located...
 6. Near a desert oasis.
 7. Belowground.
 8. In the heart of a city.
+
 d10 Structure: The monastery complex is...
 1. A tight cluster of buildings (or chambers).
-2. A cluster of buildings with gardens, lawns,
-and yards in the spaces between.
+2. A cluster of buildings with gardens, lawns, and yards in the spaces between.
 3. A cluster of interconnected buildings.
 4. Buildings ringed by a fence or low wall.
 5. Buildings ringed by a defensible stone wall.
 6. A single large building.
-7. A large main building with several smaller
-support buildings located nearby.
-8. A fortress with walls and watchtowers or
-sentry posts.
+7. A large main building with several smaller support buildings located nearby.
+8. A fortress with walls and watchtowers or sentry posts.
 9. A labyrinthine series of small buildings.
 10. Symmetrically divided into two wings.
+
 d12 This building/chamber is...
 1. A chapel or shrine.
 2. A dormitory.
@@ -7672,6 +7700,7 @@ d12 This building/chamber is...
 10. A forge.
 11. A brewery.
 12. A barn.
+
 d6 Many of the monastery’s ceilings are...
 1. Uncomfortably close to your head.
 2-3. Connected to the floor by columns.
@@ -7684,8 +7713,8 @@ d6 Decor: The buildings/chambers are...
 3. Adorned with painted wood and plaster.
 4. Sturdy structures of finished wood.
 5. Solid structures of oven-fired clay bricks.
-6. Behind large metal doors (d6): 1. brass;
-2. bronze; 3. gold; 4. iron; 5. steel; 6. tin.
+6. Behind large metal doors (d6): 1. brass; 2. bronze; 3. gold; 4. iron; 5. steel; 6. tin.
+
 d8 Walls: Many of the interior walls are...
 1. Rough hewn stone.
 2. Smooth cut stone.
@@ -7695,6 +7724,7 @@ d8 Walls: Many of the interior walls are...
 6. Decorated with elaborate murals.
 7. Decorated with relief carvings.
 8. Decorated with sacred texts and runes.
+
 d20 Features: You notice...
 1. A small altar set in an alcove in the wall.
 2. The sound of bells ringing in a tower.
@@ -7710,14 +7740,13 @@ d20 Features: You notice...
 12. A kneeler beneath a small statue or icon.
 13. An oil lamp with colored glass panels.
 14. A mosaic set into the floor of the room.
-15. A wide fresco or mural depicting a
-mythological scene.
-16. The pipes of an indoor plumbing system
-running along the wall.
+15. A wide fresco or mural depicting a mythological scene.
+16. The pipes of an indoor plumbing system running along the wall.
 17. Robes and cassocks hanging on hooks.
 18. An ornamental rug.
 19. The sound of chanting from another room.
 20. A statue of a recognizable figure.
+
 d12 Encounters: You come upon...
 1. A bright-eyed student.
 2. An exhausted student.
@@ -7731,8 +7760,7 @@ d12 Encounters: You come upon...
 10. A member of the monastery’s guard.
 11. A strange energy.
 12. A feeling that you’re being watched.
-d10 Secret Lore: The monastery guards the
-secret to...
+d10 Secret Lore: The monastery guards the secret to...
 1. World peace.
 2. Inner peace.
 3. Spiritual enlightenment.
@@ -7743,13 +7771,14 @@ secret to...
 8. Unsealing a portal to another realm.
 9. Instant and irreversible death.
 10. The perfect pint of ale.
+
 d6 Lore Keepers: The secret is known to...
 1-2. Everyone, but the specifics are hidden.
 3. Monks that perform a particular service.
 4. Several of the monastery’s masters.
 5-6. A single master and a single student.
+$INDIVIDUAL MONKS
 
-INDIVIDUAL MONKS
 d6 Job: At the monastery, the monk is...
 1. A brewer or vintner.
 2. A baker, butcher, or cook.
@@ -7757,6 +7786,7 @@ d6 Job: At the monastery, the monk is...
 4. A farmer, gardener, or herder.
 5. An instructor or scribe.
 6. A leatherworker, ropemaker, or weaver.
+
 d6 Knowledge: The monk is an expert in...
 1. The power of the mind.
 2. Realms beyond the material world.
@@ -7764,29 +7794,30 @@ d6 Knowledge: The monk is an expert in...
 4. The journey of the soul.
 5. Sacred texts.
 6. The body's strengths and weaknesses.
-d6 Meditation: The monk has recently been
-contemplating...
+
+d6 Meditation: The monk has recently been contemplating...
 1. The mysteries of death and life.
 2. The meaning of dreams and dark omens.
 3. The perfection of the mind, body, and soul.
 4. The wisdom of an ancient philosopher.
 5. The beauty and power of nature.
 6. The balance of order and chaos.
-d6 Practice: The monk prefers to
-meditate...
+
+d6 Practice: The monk prefers to meditate...
 1. In a shrine at the monastery.
 2. In his or her personal cell.
 3. In a garden.
 4. Deep in the wilderness.
 5. On the site of an ancient ruin.
 6. While walking the roads of the world.
+
 d6 The monk wears...
 1. A threadbare robe.
 2-3. A comfortable linen robe.
 4. A cotton robe bearing the symbol of a god.
 5-6. A clean silk robe with simple embroidery.
-d8 Martial Arts: The monk's martial arts
-style includes...
+
+d8 Martial Arts: The monk's martial arts style includes...
 1. Landing many rapid, open-hand slaps.
 2. Landing a few powerful, close-fist punches.
 3. Acrobatic flips and leaps.
@@ -7795,21 +7826,22 @@ style includes...
 6. Landing a few powerful kicks.
 7. Striking pressure points to debilitate foes.
 8. Explosive powders and distracting smoke.
+
 d8 Possession: The monk carries...
 1. A wooden staff.
 2. Several razor-sharp daggers.
-3. An uncommon weapon (d6): 1. kukri;
-2. kusari-gama; 3. nunchaku; 4. scythe;
-5. shuriken; 6. sickle.
+3. An uncommon weapon (d6): 1. kukri; 2. kusari-gama; 3. nunchaku; 4. scythe; 5. shuriken; 6. sickle.
 4. A purse of silver to distribute to the poor.
 5. A variety of healing potions and salves.
 6. A set of prayer beads or a prayer book.
 7. A heavy ring of keys.
 8. A wineskin or flask.
+
 d6 Drink: The monk prefers to drink...
 1-2. Ale.
 3-4. Tea (d6): 1-2. black; 3-4. green; 5-6. white.
 5-6. Wine.
+
 d6 Goal: The monk is looking for...
 1. New students.
 2. The translation of an ancient manuscript.
@@ -7817,11 +7849,8 @@ d6 Goal: The monk is looking for...
 4. The location of an ancient ruin.
 5. An opportunity to tell a fable.
 6. The bottom of a goblet.
+$RANDOM MOUNTAINS: TO THE TOP OF THE PEAK!
 
-Page 39
-
-
-RANDOM MOUNTAINS: TO THE TOP OF THE PEAK!
 d20 Interesting Location: You find...
 1. A cavern behind a waterfall.
 2. A small cave in the crook of a rock wall.
@@ -7843,31 +7872,29 @@ d20 Interesting Location: You find...
 18. An abandoned watchtower.
 19. A ruined monastery.
 20. An enormous bird’s nest.
+
 d20 Distinguishing Landmark: You see...
 1. A trickle of water flowing down a rock wall.
 2. A small mountain lake of cold, fresh water.
 3. A swiftly flowing small stream.
 4. A natural bridge between two cliff faces.
-5. A narrow gorge with walls close enough to
-climb between.
+5. A narrow gorge with walls close enough to climb between.
 6. A deep gorge with no bottom in sight.
 7. A set of deliberately stacked stones.
-8. A large boulder eroded by the wind into the
-shape of a near-perfect sphere.
+8. A large boulder eroded by the wind into the shape of a near-perfect sphere.
 9. A group of stones arranged in a circle.
 10. A boulder shaped to resemble a face.
 11. A pair of narrow needle-like peaks.
 12. A chimney-like column of rock.
 13. A large boulder split in half like an egg.
 14. A damp rock wall, covered in moss.
-15. The fossilized bones of a great beast
-visible in a rock wall.
-16. A thicket of hardy mountain shrubs
-growing atop a boulder.
+15. The fossilized bones of a great beast visible in a rock wall.
+16. A thicket of hardy mountain shrubs growing atop a boulder.
 17. A copse of scrawny trees.
 18. A gorge where the wind whistles.
 19. A gorge with a near perfect echo.
 20. A rocky shoulder beneath a snowcap.
+
 d20 Feature: You notice...
 1. Abandoned, decrepit mining equipment.
 2. Some old dry bones.
@@ -7878,16 +7905,11 @@ d20 Feature: You notice...
 7. The clatter of rocks falling.
 8. Loose stones underfoot.
 9. An unstable rock wall.
-10. A distant sound (d6): 1. scream; 2. drums;
-3. hammers at work; 4. footsteps;
-5-6. rocks crashing.
-11. The name of a previous traveler carved
-into a boulder.
+10. A distant sound (d6): 1. scream; 2. drums; 3. hammers at work; 4. footsteps; 5-6. rocks crashing.
+11. The name of a previous traveler carved into a boulder.
 12. An ancient rune carved in a rock wall.
-13. A scrawny tree growing with its roots
-spread over a small boulder.
-14. The distant cry of a beast (d6): 1-2. eagle;
-3. goat; 4. mountain lion; 5-6. wolf.
+13. A scrawny tree growing with its roots spread over a small boulder.
+14. The distant cry of a beast (d6): 1-2. eagle; 3. goat; 4. mountain lion; 5-6. wolf.
 15. The wind whips up to a treacherous speed.
 16. Snow flurries begin to fall.
 17. The sound of birds chirping.
@@ -7916,6 +7938,7 @@ d20 What’s in the cave/cavern/tunnel?
 18. A wyvern’s nest.
 19. A clan of stone giants.
 20. A sleeping dragon.
+
 d6 Who lives or lived in the cabin?
 1. A fugitive from justice.
 2. A stubborn miner.
@@ -7923,8 +7946,8 @@ d6 Who lives or lived in the cabin?
 4. A dwarvish war veteran.
 5. A gnomish wizard.
 6. A mystic sage.
-d8 Who resides in the abandoned cabin
-now?
+
+d8 Who resides in the abandoned cabin now?
 1. An owlbear.
 2. An ogre.
 3. A troll.
@@ -7933,6 +7956,7 @@ now?
 6. Restless ghosts.
 7. An outcast orc.
 8. A strange hermit.
+
 d6 Who camped here?
 1. A party of orc scouts.
 2. A goblin raiding party.
@@ -7940,31 +7964,42 @@ d6 Who camped here?
 4. A pair of wandering elves.
 5. Some refugees or fugitives.
 6. Someone whose purposes are unclear.
+
 d6 Who is/was digging in this mine?
 1-2. Greedy dwarves.
 3. Ambitious humans.
 4-5. Tricky goblins.
 6. Industrious kobolds.
+
 d6 What were the miners digging for?
 1. Copper.
 2. Gems.
 3. Gold.
 4. Iron.
 5. Silver.
-6. A rare metal (d6): 1. adamantine;
-2. electrum; 3-4. mithral; 5-6. platinum.
-d20 What lives in the abandoned
-mine/ancient ruin now?
-1. Carrion crawler. 11. Ooze.
-2. Cloaker. 12. Orcs.
-3. Darkmantle. 13. Otyugh.
-4. Dwarves. 14. Piercer.
-5. Fungi. 15. Roper.
-6. Kobolds. 16. Rust monster.
-7. Ghosts. 17. Stirges.
-8. Mimics. 18. Trolls.
-9. Myconids. 19. Umber hulk.
-10. Ogres. 20. Wraiths.
+6. A rare metal (d6): 1. adamantine; 2. electrum; 3-4. mithral; 5-6. platinum.
+
+d20 What lives in the abandoned mine/ancient ruin now?
+1. Carrion crawler. 
+2. Ooze.
+3. Cloaker. 
+4. Orcs.
+5. Darkmantle. 
+6. Otyugh.
+7. Dwarves. 
+8. Piercer.
+9. Fungi. 
+10. Roper.
+11. Kobolds. 
+12. Rust monster.
+13. Ghosts. 
+14. Stirges.
+15. Mimics. 
+16. Trolls.
+17. Myconids. 
+18. Umber hulk.
+19. Ogres. 
+20. Wraiths.
 
 d6 Who built this monastery?
 1. An order of elementalist monks.
@@ -7973,6 +8008,7 @@ d6 Who built this monastery?
 4. An order of shadow monks.
 5. An order of warrior monks.
 6. An unknown order of monks.
+
 d6 The temple was built to honor...
 1. The sun god.
 2. The god of the heavens.
@@ -7980,6 +8016,7 @@ d6 The temple was built to honor...
 4. The storm god.
 5. The earth mother goddess.
 6. A long-forgotten god.
+
 d6 What built the nest?
 1. A giant eagle.
 2. A giant owl.
@@ -7987,6 +8024,7 @@ d6 What built the nest?
 4. A griffon.
 5. A roc.
 6. A wyvern.
+
 d6 What built the watchtower?
 1. An expansive empire.
 2. A nearby kingdom.
@@ -7994,6 +8032,7 @@ d6 What built the watchtower?
 4. Elvish warriors from a past age.
 5. A clan of orcs.
 6. A goblin kingdom.
+
 d8 Who holds the watchtower now?
 1. A disciplined military company.
 2. A rowdy mercenary troop.
@@ -8003,6 +8042,7 @@ d8 Who holds the watchtower now?
 6. A goblin war party.
 7. Several harpies.
 8. Ghostly warriors.
+
 d20 Encounters: You come upon...
 1. A lost prospector.
 2. A solemn warrior.
@@ -8024,73 +8064,59 @@ d20 Encounters: You come upon...
 18. A trio of monstrous trolls.
 19. A clan of stone giants at rest.
 20. A roc tearing apart some prey.
+
 d8 Hazards/Obstacles: You run into...
 1. A perilous rockslide.
 2. An icy rime across the path or road.
 3. A tumbling boulder.
 4. Loose rocks that make for poor footing.
 5. A large boulder blocking the way.
-6. A place where the path has fallen away
-leaving a narrow ledge on which to walk.
-7. A place where the path or road slopes
-steeply down toward a cliff edge.
+6. A place where the path has fallen away leaving a narrow ledge on which to walk.
+7. A place where the path or road slopes steeply down toward a cliff edge.
 8. A sudden storm bringing heavy snow.
+$RANDOM NOBLE HOUSES: POWER PLAYERS IN THE GREAT GAME
 
-Page 40
-
-
-RANDOM NOBLE HOUSES: POWER PLAYERS IN THE GREAT GAME
 d20 Colors: The house's colors are...
-1. Black. 11. Grey / gunmetal.
-2. Red / scarlet. 12. White.
-3. Gold. 13. Maroon.
-4. Forest green. 14. Sky blue.
-5. Royal blue. 15. Navy blue.
-6. Violet. 16. Dark brown.
-7. Silver. 17. Teal / turquoise.
-8. Bronze. 18. Yellow.
-9. Tan / khaki. 19. Orange.
-10. Brown / beaver. 20. Olive green.
+1. Black. 
+2. Grey / gunmetal.
+3. Red / scarlet. 
+4. White.
+5. Gold. 
+6. Maroon.
+7. Forest green. 
+8. Sky blue.
+9. Royal blue. 
+10. Navy blue.
+11. Violet. 
+12. Dark brown.
+13. Silver. 
+14. Teal / turquoise.
+15. Bronze. 
+16. Yellow.
+17. Tan / khaki. 
+18. Orange.
+19. Brown / beaver. 
+20. Olive green.
+
 d8 Symbol: The house's symbol is...
-1. A weapon (d8): 1. arrow; 2. axe;
-3. dagger; 4. hammer; 5. mace;
-6. spear; 7. staff; 8. sword.
-2. A piece of armor (d4): 1. breastplate;
-2. gauntlet; 3. helm; 4. shield.
-3. A celestial body (d4): 1. sun; 2. moon;
-3. star; 4. comet.
-4. A plant or part of a plant (d12):
-1. apple; 2. barley; 3. briar; 4. fig;
-5. grapes; 6. lily; 7. maple; 8. oak;
-9. olive; 10. pine; 11. rose; 12. wheat.
-5. An aquatic beast (d6): 1. crab;
-2. crocodile; 3. frog; 4. fish; 5. octopus;
-6. whale.
-6. A small beast (d10): 1. badger; 2. bat;
-3. beaver; 4. dog; 5. ferret; 6. fox;
-7. hedgehog; 8. lizard; 9. rat;
-10. scorpion; 11. snake; 12. spider.
-7. A great beast (d8): 1. bear; 2. boar;
-3. bull; 4. dragon; 5. lion; 6. ox;
-7. stag; 8. wolf.
-8. A bird (d12): 1. cardinal; 2. dove;
-3. eagle; 4. hawk; 5. mockingbird;
-6. owl; 7. pelican; 8. raven; 9. rooster;
-10. sparrow; 11. swan; 12. vulture.
+1. A weapon (d8): 1. arrow; 2. axe; 3. dagger; 4. hammer; 5. mace; 6. spear; 7. staff; 8. sword.
+2. A piece of armor (d4): 1. breastplate; 2. gauntlet; 3. helm; 4. shield.
+3. A celestial body (d4): 1. sun; 2. moon; 3. star; 4. comet.
+4. A plant or part of a plant (d12): 1. apple; 2. barley; 3. briar; 4. fig; 5. grapes; 6. lily; 7. maple; 8. oak; 9. olive; 10. pine; 11. rose; 12. wheat.
+5. An aquatic beast (d6): 1. crab; 2. crocodile; 3. frog; 4. fish; 5. octopus; 6. whale.
+6. A small beast (d12): 1. badger; 2. bat; 3. beaver; 4. dog; 5. ferret; 6. fox; 7. hedgehog; 8. lizard; 9. rat; 10. scorpion; 11. snake; 12. spider.
+7. A great beast (d8): 1. bear; 2. boar; 3. bull; 4. dragon; 5. lion; 6. ox; 7. stag; 8. wolf.
+8. A bird (d12): 1. cardinal; 2. dove; 3. eagle; 4. hawk; 5. mockingbird; 6. owl; 7. pelican; 8. raven; 9. rooster; 10. sparrow; 11. swan; 12. vulture.
+
 d6 Reputation: The house is...
-1. Ancient and well-respected by all houses,
-great and small.
-2. Ancient and greatly diminished in standing
-from what it once was.
-3. Old with the respect of many houses, great
-and small.
-4. Old and struggling to maintain respect of
-other houses.
-5. Old but often overshadowed by other
-houses.
+1. Ancient and well-respected by all houses, great and small.
+2. Ancient and greatly diminished in standing from what it once was.
+3. Old with the respect of many houses, great and small.
+4. Old and struggling to maintain respect of other houses.
+5. Old but often overshadowed by other houses.
 6. Newly raised up to the nobility.
-d12 Famous member: The best known
-member of the house is or was...
+
+d12 Famous member: The best known member of the house is or was...
 1. A gallant knight.
 2. A beautiful woman.
 3. A ruthless tyrant.
@@ -8103,23 +8129,37 @@ member of the house is or was...
 10. A brilliant scholar.
 11. A gifted orator.
 12. A dangerous and mad ruler.
-d6 ...who had a role in a/an...
-1. Assassination. 4. Negotiation.
-2. Discovery. 5. Rebellion.
-3. Military battle. 6. Religious event.
 
-d20 Motto: The house's motto champions
-the ideals of...
-1. Compassion. 11. Hope.
-2. Courage. 12. Integrity.
-3. Courtesy. 13. Justice.
-4. Determination. 14. Loyalty.
-5. Discipline. 15. Mercy.
-6. Duty. 16. Patience.
-7. Excellence. 17. Righteousness.
-8. Faith. 18. Strength.
-9. Generosity. 19. Trust.
-10. Honor. 20. Wisdom.
+d6 ...who had a role in a/an...
+1. Assassination. 
+2. Negotiation.
+3. Discovery. 
+4. Rebellion.
+5. Military battle. 
+6. Religious event.
+
+d20 Motto: The house's motto champions the ideals of...
+1. Compassion. 
+2. Hope.
+3. Courage. 
+4. Integrity.
+5. Courtesy. 
+6. Justice.
+7. Determination. 
+8. Loyalty.
+9. Discipline. 
+10. Mercy.
+11. Duty. 
+12. Patience.
+13. Excellence. 
+14. Righteousness.
+15. Faith. 
+16. Strength.
+17. Generosity. 
+18. Trust.
+19. Honor. 
+20. Wisdom.
+
 d10 Head: The current head of the house is...
 1. A kindly old man or woman.
 2. A ruthless old man or woman.
@@ -8131,36 +8171,28 @@ d10 Head: The current head of the house is...
 8. A heartbroken widower or widow.
 9. A hot-headed young man or woman.
 10. A child.
-d8 Goals: The house's goals include
-(individual members may have different
-goals)...
+
+d8 Goals: The house's goals include (individual members may have different goals)...
 1. Domination of the city or region's politics.
 2. Domination of the city or region's trade.
-3. Revenge against a rival house in the same
-city or region.
-4. Revenge against a rival house in another
-city or region.
-5. Sabotage of a group run by commoners—a
-guild, academy, religious faith, or secret
-society.
-6. Fomenting rebellion against the city or
-region's ruling house.
+3. Revenge against a rival house in the same city or region.
+4. Revenge against a rival house in another city or region.
+5. Sabotage of a group run by commoners—a guild, academy, religious faith, or secret society.
+6. Fomenting rebellion against the city or region's ruling house.
 7. Marriage with a powerful allied house.
 8. Marriage with a powerful rival house.
-d8 Secret: One or more house members
-keep secret (the secret may involve past
-or present events)...
+
+d8 Secret: One or more house members keep secret (the secret may involve past or present events)...
 1. A long-time scandalous romance.
 2. The existence of a bastard child.
-3. A murder in one of the house's keeps,
-castles, or palaces.
+3. A murder in one of the house's keeps, castles, or palaces.
 4. Religious zealotry.
 5. The birth of a malformed freak.
 6. Treason against the region's sovereign.
 7. The senility or madness of family members.
 8. Criminal sabotage of a rival house.
-d10 Lands: The house's seat of power is
-located in or near...
+
+d10 Lands: The house's seat of power is located in or near...
 1. A port city.
 2. A range of high mountains.
 3. A wide, fertile plain.
@@ -8171,12 +8203,16 @@ located in or near...
 8. A pristine lake.
 9. A desert plateau.
 10. An idyllic hill country.
+$INDIVIDUAL NOBLE
 
-INDIVIDUAL NOBLE
 d6 Background: The noble is...
-1. A knight. 4. A young lord.
-2. An old lord. 5. A young lady.
-3. An old lady. 6. A rich merchant.
+1. A knight. 
+2. A young lord.
+3. An old lord. 
+4. A young lady.
+5. An old lady. 
+6. A rich merchant.
+
 d8 Appearance: he noble wears...
 1. Some flashy jewelry.
 2. Shiny leather boots.
@@ -8186,6 +8222,7 @@ d8 Appearance: he noble wears...
 6. An extremely ugly scowl.
 7. An arrogant sneer.
 8. Beautifully-styled hair (and facial hair).
+
 d8 Trait: The noble has...
 1. A loud, deep laugh.
 2. A high-pitched laugh.
@@ -8195,17 +8232,17 @@ d8 Trait: The noble has...
 6. A commanding presence.
 7. Complete disregard for commoners.
 8. Not a care in the world.
+
 d8 Goal: The noble seeks someone to...
 1. Dispose of an enemy.
 2. Negotiate a trade contract.
 3. Deliver a letter.
 4. Prepare an army for war.
 5. Sabotage a rival.
-6. Secure an advantageous marriage for
-himself or herself.
-7. Secure an advantageous marriage for a
-friend or family member.
+6. Secure an advantageous marriage for himself or herself.
+7. Secure an advantageous marriage for a friend or family member.
 8. Have a good time with.
+
 d6 Possession: The noble carries...
 1. Several deeds and titles.
 2. A family heirloom.
@@ -8213,31 +8250,27 @@ d6 Possession: The noble carries...
 4. Some very valuable jewels.
 5. A compromising love letter.
 6. A letter from a powerful lord or lady.
+
 d8 Rank: The noble is respected by...
 1. Most members of his or her house.
-2. The head of his or her house, but few
-others.
+2. The head of his or her house, but few others.
 3. His or her own mother, but few others.
-4. The knights and sworn allies of his or her
-house.
+4. The knights and sworn allies of his or her house.
 5. A well known member of a rival house.
 6. Merchants and moneylenders.
 7. Soldiers and military leaders.
 8. Scoundrels and thieves.
+
 d6 Residence: The noble often resides...
 1. In a castle built by his or her ancestors.
 2. In a castle taken from a rival house.
 3. In a palace in a large city.
 4. On a quiet country estate.
 5. In a lonely watchtower.
-6. In the castle belonging to another noble
-house.
+6. In the castle belonging to another noble house.
+$NPC APPEARANCE, PERSONALITY, FAITH, AND FLAWS
+$FACIAL FEATURES
 
-Page 41
-
-
-NPC APPEARANCE, PERSONALITY, FAITH, AND FLAWS
-FACIAL FEATURES
 d10 Eyes: The person has...
 1. Sleepy eyes.
 2. Shifty eyes.
@@ -8249,6 +8282,7 @@ d10 Eyes: The person has...
 8. Wild eyes.
 9. Distant eyes.
 10. A lazy eye.
+
 d8 Ears: The person has...
 1. Over-sized ears.
 2. Long ear lobes.
@@ -8258,6 +8292,7 @@ d8 Ears: The person has...
 6. Pointy ears.
 7. Short ear lobes.
 8. Ears that stick out.
+
 d10 Mouth: The person has...
 1. Full lips.
 2. Buck-teeth.
@@ -8269,6 +8304,7 @@ d10 Mouth: The person has...
 8. Dry, cracked lips.
 9. One or more false teeth.
 10. A mouth that hangs open.
+
 d8 Nose: The person has...
 1. A crooked nose.
 2. A bulbous nose.
@@ -8278,6 +8314,7 @@ d8 Nose: The person has...
 6. A broad nose.
 7. An angular nose.
 8. A round nose.
+
 d8 Chin or jaw: He/she has...
 1. A pronounced chin.
 2. A cleft chin.
@@ -8287,6 +8324,7 @@ d8 Chin or jaw: He/she has...
 6. A square jaw.
 7. A round jaw.
 8. An underbite.
+
 d8 Hair: The person has...
 1. Thick hair.
 2. Wispy hair.
@@ -8296,6 +8334,7 @@ d8 Hair: The person has...
 6. Wiry hair.
 7. Oily hair.
 8. Lush hair.
+
 d8 Other: His/her face has...
 1. High cheekbones.
 2. Tight, drawn cheeks.
@@ -8305,8 +8344,8 @@ d8 Other: His/her face has...
 6. A beauty mark.
 7. Freckles.
 8. Terrible scarring.
+$PHYSICAL TRAITS
 
-PHYSICAL TRAITS
 d6 Height: The person is...
 1. Unusually short.
 2. Short in stature.
@@ -8314,6 +8353,7 @@ d6 Height: The person is...
 4. Slightly above average height.
 5. Well above average height.
 6. Unusually tall.
+
 d12 Body: The person’s body is...
 1. Thin and delicate.
 2. Of average build.
@@ -8327,6 +8367,7 @@ d12 Body: The person’s body is...
 10. Flabby and weak.
 11. Lumpy or bent.
 12. Covered in hair.
+
 d6 Hands: The person has...
 1. Powerful hands.
 2. Delicate hands.
@@ -8334,12 +8375,14 @@ d6 Hands: The person has...
 4. Soft hands.
 5. A light touch.
 6. A heavy touch.
+
 d6 Scar: The person has...
 1-2. A jagged scar.
 5. A dark purple scar.
 4. An angry red scar.
 5-6. A long, thin scar.
-ACCESSORIES
+$ACCESSORIES
+
 d12 Tattoo: The person has...
 1. A dagger tattoo.
 2. An arrow tattoo.
@@ -8353,6 +8396,7 @@ d12 Tattoo: The person has...
 10. A ring of thorns tattoo.
 11. A mermaid tattoo.
 12. A dragon tattoo.
+
 d10 Jewelry: The person wears...
 1. An earring.
 2. Two earrings.
@@ -8364,8 +8408,8 @@ d10 Jewelry: The person wears...
 8. Several rings.
 9. A bracelet.
 10. A nose ring.
-d8 Clothes: The person’s
-clothing is...
+
+d8 Clothes: The person’s clothing is...
 1. Crisp and new.
 2. Fashionable and hip.
 3. A bit old-fashioned.
@@ -8374,10 +8418,9 @@ clothing is...
 6. Faded and patched.
 7. Torn in places; missing buttons.
 8. Tattered and worn.
+$EMOTIONS AND ATTITUDE
 
-EMOTIONS AND ATTITUDE
-d100 Calm Trait: When calm, the
-person is typically...
+d100 Calm Trait: When calm, the person is typically...
 1-3. Compassionate.
 4-7. Cheerful.
 8-10. Reserved.
@@ -8410,8 +8453,8 @@ person is typically...
 92-94. Loyal.
 95-97. Sophisticated.
 98-100. Weak-Willed.
-d100 Stress Trait: When stressed,
-the person often becomes...
+
+d100 Stress Trait: When stressed, the person often becomes...
 1-4. Withdrawn.
 5-7. Murderous.
 8-10. Obsessive.
@@ -8446,17 +8489,28 @@ the person often becomes...
 98-100. Intolerant.
 
 d20 Mood: Now, the person is...
-1. Agreeable. 11. Focused.
-2. Carefree. 12. Suspicious.
-3. Curious. 13. Tired.
-4. Eager. 14. Withdrawn.
-5. Friendly. 15. Disagreeable.
-6. Happy. 16. Agitated.
-7. Hopeful. 17. Angry.
-8. Upbeat. 18. Despondent.
-9. Indifferent. 19. Gloomy.
-10. Bored. 20. Nervous
-FAITH AND BELIEFS
+1. Agreeable. 
+2. Focused.
+3. Carefree. 
+4. Suspicious.
+5. Curious. 
+6. Tired.
+7. Eager. 
+8. Withdrawn.
+9. Friendly. 
+10. Disagreeable.
+11. Happy. 
+12. Agitated.
+13. Hopeful. 
+14. Angry.
+15. Upbeat. 
+16. Despondent.
+17. Indifferent. 
+18. Gloomy.
+19. Bored. 
+20. Nervous
+$FAITH AND BELIEFS
+
 d8 The person is a...
 1. Quiet true believer.
 2. Casual observer.
@@ -8466,30 +8520,16 @@ d8 The person is a...
 6. Broken heretic.
 7. Cautious listener.
 8. Fanatical true believer.
-d6 The person is prejudiced
-against...
+
+d6 The person is prejudiced against...
 1. Other genders.
-2. An age group (d6):
-1-2. children; 3-4. teenagers;
-5-6. elderly.
-3. A social class (d6): 1-2. rulers;
-3-4. powerful rich; 5-6. destitute
-poor.
-4. Social deviants (d6):
-1-2. beggars; 3-4. drunks;
-5-6. junkies.
-5. A profession (d12): 1. farmers;
-2. artists; 3. clergy; 4. soldiers;
-5. fishers; 6. harlots; 7. miners;
-8. merchants; 9. scholars;
-10. herders; 11. sailors;
-12. mages.
-6. A race (d8): 1. dwarves;
-2. elves; 3. gnomes; 4. goblins;
-5. half-breeds; 5. halflings;
-6. humans; 7. orcs;
-8. reptilians.
-FLAWS
+2. An age group (d6): 1-2. children; 3-4. teenagers; 5-6. elderly.
+3. A social class (d6): 1-2. rulers; 3-4. powerful rich; 5-6. destitute poor.
+4. Social deviants (d6): 1-2. beggars; 3-4. drunks; 5-6. junkies.
+5. A profession (d12): 1. farmers; 2. artists; 3. clergy; 4. soldiers; 5. fishers; 6. harlots; 7. miners; 8. merchants; 9. scholars; 10. herders; 11. sailors; 12. mages.
+6. A race (d8): 1. dwarves; 2. elves; 3. gnomes; 4. goblins; 5. half-breeds; 5. halflings; 6. humans; 7. orcs; 8. reptilians.
+$FLAWS
+
 d20 The person...
 1. Fidgets.
 2. Drinks too much.
@@ -8511,47 +8551,40 @@ d20 The person...
 18. Is skeptical of everything.
 19. Paces.
 20. Makes poor eye contact.
+$RANDOM ORKISH CLANS: FEAR THE PIKE HORDE!
 
-Page 42
-
-
-RANDOM ORKISH CLANS: FEAR THE PIKE HORDE!
 d12 Business: The orcs are...
 1. Nomadic hunters, following game.
 2. Raiders displaced from their native lands.
 3. In exile from their native lands.
 4. In the service of a sovereign warlord.
-5. A loose confederacy of tribes and families
-related by blood.
+5. A loose confederacy of tribes and families related by blood.
 6. Degenerate survivors from a broken army.
-7. Disorganized; a clan of competing
-warriors.
+7. Disorganized; a clan of competing warriors.
 8. A tight-knit war band.
 9. Hell bent on sowing chaos and mayhem.
 10. Raiders after supplies and slaves.
-11. Marching to war under the leadership of a
-great chief.
-12. On an errand for an evil wizard or other
-powerful being.
+11. Marching to war under the leadership of a great chief.
+12. On an errand for an evil wizard or other powerful being.
+
 d10 Values: The orcs value...
-1. Bravery. 6. Survival.
-2. Strength. 7. Kill counts.
-3. Virility. 8. Scalps.
-4. Honoring the gods. 9. Steel.
-5. Battle-scars. 10. Meat.
-d6 Symbols: The orcs’ iconography
-features...
-1-2. Symbols of death and destruction (d8):
-1. bats; 2. bones; 3. crows; 4. flames;
-5. ghosts; 6. scorpions; 7. skulls;
-8. vultures.
-3. Symbols of the heavens (d6): 1. clouds;
-2-3. lightning; 4-5. moon; 6. stars.
-4-5. Symbols of strength and weaponry (d6):
-1. arrows; 2. axes; 3. fists; 4. spears;
-5. stones; 6. swords.
-6. A great beast (d6): 1. bears; 2. boars;
-3. eagles; 4. lions; 5. snakes; 6. wolves.
+1. Bravery. 
+2. Survival.
+3. Strength. 
+4. Kill counts.
+5. Virility. 
+6. Scalps.
+7. Honoring the gods. 
+8. Steel.
+9. Battle-scars. 
+10. Meat.
+
+d6 Symbols: The orcs’ iconography features...
+1-2. Symbols of death and destruction (d8): 1. bats; 2. bones; 3. crows; 4. flames; 5. ghosts; 6. scorpions; 7. skulls; 8. vultures.
+3. Symbols of the heavens (d6): 1. clouds; 2-3. lightning; 4-5. moon; 6. stars.
+4-5. Symbols of strength and weaponry (d6): 1. arrows; 2. axes; 3. fists; 4. spears; 5. stones; 6. swords.
+6. A great beast (d6): 1. bears; 2. boars; 3. eagles; 4. lions; 5. snakes; 6. wolves.
+
 d10 Chief: The orcs’ chief is...
 1. A well-respected chief.
 2. A charismatic warlord.
@@ -8563,8 +8596,8 @@ d10 Chief: The orcs’ chief is...
 8. A wise old chief.
 9. A celebrated war hero.
 10. A prolific lover.
-d12 Meat: The orcs’ favorite meat comes
-from...
+
+d12 Meat: The orcs’ favorite meat comes from...
 1. Dwarves and halflings.
 2. Beggars and thieves.
 3. Merchants and caravan guards.
@@ -8577,6 +8610,7 @@ from...
 10. Peasant women.
 11. Young children.
 12. Elves and pixies.
+
 d6 Morale: The orcs’ current attitude is...
 1. Carefree and festive.
 2. Rowdy and festive.
@@ -8588,12 +8622,11 @@ d6 Morale: The orcs’ current attitude is...
 d6 Fears: The orcs fear...
 1. Men armored in steel.
 2. Spellcasters.
-3. Members of a particular race (d6):
-1-2. elves; 3-4. dwarves; 5. goblinoids;
-6. reptilians.
+3. Members of a particular race (d6): 1-2. elves; 3-4. dwarves; 5. goblinoids; 6. reptilians.
 4. The gods.
 5. Aberrant evils.
 6. Dragons.
+
 d10 Notoriety: The orcs are notorious for...
 1. Never leaving survivors.
 2. Feeding prisoners to wild beasts.
@@ -8605,6 +8638,7 @@ d10 Notoriety: The orcs are notorious for...
 8. Eating prisoners raw.
 9. Claiming prisoners as slaves.
 10. Taking prisoners as wives or concubines,.
+
 d12 Reputation: The orcs are known for...
 1. Screaming and shouting during battle.
 2. Convening with ghosts and spirits.
@@ -8618,14 +8652,15 @@ d12 Reputation: The orcs are known for...
 10. Shaving their heads and bodies.
 11. Wearing long top-knots or braids.
 12. Bathing and perfuming their bodies.
-d6 Goals: The orcs’ goals include (chief
-and others could have different goals)...
+
+d6 Goals: The orcs’ goals include (chief and others could have different goals)...
 1. Upheaval of the region’s politics.
 2. Disruption of the region’s trade.
 3. Revenge against another civilization.
 4. Revenge against a rival orkish clan.
 5. Spreading chaos and destruction.
 6. Possession of a powerful artifact.
+
 d8 Tactics: The orcs typically fight with...
 1. Hit-and-run tactics.
 2. Ambush tactics.
@@ -8634,8 +8669,8 @@ d8 Tactics: The orcs typically fight with...
 5. Kicking and stomping.
 6. Lots of head-butting.
 7. Lots of biting and scratching.
-8. Frequent breaks for (d6): 1-2. arguments;
-3. looting; 4-5. forming ranks; 6. eating.
+8. Frequent breaks for (d6): 1-2. arguments; 3. looting; 4-5. forming ranks; 6. eating.
+
 d10 Slaves: As slaves, the orcs keep...
 1. Dwarves.
 2. Gnomes.
@@ -8647,8 +8682,8 @@ d10 Slaves: As slaves, the orcs keep...
 8. Nothing; the orcs eat all captives they take.
 9. Nothing; the orcs leave no survivors.
 10. Nothing; the orcs value freedom for all.
-d6 Beasts: As guardians or pets, the orcs
-keep...
+
+d6 Beasts: As guardians or pets, the orcs keep...
 1. Boars.
 2. Dire rats.
 3. Giant lizards.
@@ -8656,8 +8691,7 @@ keep...
 5. Wargs.
 6. Wolves.
 
-d12 Weapons: Most of the orcs are
-wielding...
+d12 Weapons: Most of the orcs are wielding...
 1. Spears and large hunting knives.
 2. Spears and javelins.
 3. Exotic, curved blades and several bolas.
@@ -8670,7 +8704,8 @@ wielding...
 10. Longswords and longbows.
 11. Jagged greatswords and shortbows.
 12. Greataxes and javelins.
-INDIVIDUAL ORCS
+$INDIVIDUAL ORCS
+
 d8 Appearance: The orc has...
 1. Pale green skin.
 2. Yellowish green skin.
@@ -8680,6 +8715,7 @@ d8 Appearance: The orc has...
 6. A tall frame.
 7. A thick-set frame.
 8. Bug eyes.
+
 d6 Tattoo: The orc has...
 1. A bone tattoo.
 2. A dragon tattoo.
@@ -8687,8 +8723,8 @@ d6 Tattoo: The orc has...
 4. A spear tattoo.
 5. A spiderweb tattoo.
 6. A tattoo of thorns.
-d8 Skill: Even among orcs, the orc is
-particularly good at...
+
+d8 Skill: Even among orcs, the orc is particularly good at...
 1. Tracking creatures by scent.
 2. Identifying and following the tracks.
 3. Running down prey.
@@ -8697,6 +8733,7 @@ particularly good at...
 6. Roping captives.
 7. Breaking slaves.
 8. Handling savage beasts.
+
 d8 Armor: The orc is armored in...
 1. Nothing.
 2. Tattered leather.
@@ -8705,8 +8742,8 @@ d8 Armor: The orc is armored in...
 5. The hides of scaly beasts.
 6. The hides of furry beasts.
 7. The hides of exotic beasts.
-8. A helm and breastplate taken from a fallen
-enemy.
+8. A helm and breastplate taken from a fallen enemy.
+
 d8 Weapon: The orc is wielding...
 1. A spear.
 2. A scimitar.
@@ -8716,6 +8753,7 @@ d8 Weapon: The orc is wielding...
 6. A greatsword.
 7. A greataxe.
 8. A longbow.
+
 d6 Motivation: The orc is looking for...
 1. A good meal, fresh if possible.
 2. A hearty meal, spoiled is not a problem.
@@ -8723,44 +8761,45 @@ d6 Motivation: The orc is looking for...
 4. A chance to prove itself in combat.
 5. A place to rest and to sharpen weapons.
 6. A strong drink.
-
-Page 43
-
-
-RANDOM OUTLAW BANDS: CRIMINALS ON THE FRINGES
-d10 Business: The outlaw band’s primary
-“business” involves...
-1. Poaching from the sovereign's preserve or
-a prominent noble’s lands.
+$RANDOM OUTLAW BANDS: CRIMINALS ON THE FRINGES
+d10 Business: The outlaw band’s primary “business” involves...
+1. Poaching from the sovereign's preserve or  a prominent noble’s lands.
 2. Harboring fugitives.
-3. Harassing government officials and nobles
-who pass along the road.
-4. Robbing caravans carrying gems, precious
-metals, and exotic goods.
-5. Holding up incoming or outgoing ships or
-wagons.
-6. Smuggling drugs—smokeleaf, a
-hallucinogenic mushroom, sleepysalt (a
-downer), sharpsugar (an upper).
+3. Harassing government officials and nobles who pass along the road.
+4. Robbing caravans carrying gems, precious metals, and exotic goods.
+5. Holding up incoming or outgoing ships or wagons.
+6. Smuggling drugs—smokeleaf, a hallucinogenic mushroom, sleepysalt (a downer), sharpsugar (an upper).
 7. Smuggling rare antiquities.
 8. Smuggling stolen goods.
-9. Smuggling living things (exotic beasts,
-foreign harlots, fugitives, slaves).
-10. Serving as muscle for shady merchants
-and/or brothel-keepers.
+9. Smuggling living things (exotic beasts, foreign harlots, fugitives, slaves).
+10. Serving as muscle for shady merchants and/or brothel-keepers.
+
 d10 Colors: The outlaw band’s colors are...
-1. Black. 6. Brown / beaver.
-2. Gold. 7. Grey / gunmetal.
-3. Forest green. 8. Maroon.
-4. Bronze. 9. Dark brown.
-5. Tan / khaki. 10. Olive green.
+1. Black. 
+2. Brown / beaver.
+3. Gold. 
+4. Grey / gunmetal.
+5. Forest green. 
+6. Maroon.
+7. Bronze. 
+8. Dark brown.
+9. Tan / khaki. 
+10. Olive green.
+
 d12 Symbol: The outlaw band’s symbol is...
-1. A skull. 7. A snake.
-2. An arrow. 8. A badger.
-3. A dagger. 9. A spider.
-4. A goblet. 10. A rat.
-5. The moon. 11. A wolf.
-6. A star. 12. A bear.
+1. A skull. 
+2. A snake.
+3. An arrow. 
+4. A badger.
+5. A dagger. 
+6. A spider.
+7. A goblet. 
+8. A rat.
+9. The moon. 
+10. A wolf.
+11. A star. 
+12. A bear.
+
 d12 Boss: The outlaw band’s leader is...
 1. A dangerous megalomaniac.
 2. A charismatic demagogue.
@@ -8774,8 +8813,8 @@ d12 Boss: The outlaw band’s leader is...
 10. A brutish thug.
 11. A devoted priest.
 12. A well-known fugitive.
-d10 Hideout: The outlaw band’s
-headquarters is hidden in or near...
+
+d10 Hideout: The outlaw band’s headquarters is hidden in or near...
 1. The residence of a prominent noble.
 2. The village’s market square.
 3. A wayside inn.
@@ -8786,15 +8825,16 @@ headquarters is hidden in or near...
 8. A waterfall.
 9. A cave.
 10. A dense forest.
-d6 Recruits: The outlaw band’s members
-are primarily...
-1. Idle artisans. 4. Escaped slaves.
-2. Former soldiers. 5. Poor peasants.
-3. Exiles / refugees. 6. Vagrants.
 
-d8 Goals: The outlaw band’s goals include
-(leadership and rank-and-file members
-could have different goals)...
+d6 Recruits: The outlaw band’s members are primarily...
+1. Idle artisans. 
+2. Escaped slaves.
+3. Former soldiers. 
+4. Poor peasants.
+5. Exiles / refugees. 
+6. Vagrants.
+
+d8 Goals: The outlaw band’s goals include (leadership and rank-and-file members could have different goals)...
 1. Domination of the region’s trade.
 2. Sabotage of the region’s trade.
 3. Revenge against a rival band of outlaws.
@@ -8803,8 +8843,8 @@ could have different goals)...
 6. Equality and freedom for all.
 7. A wealthy and peaceful retirement.
 8. Violence to slake their bloodlust.
-d10 Weapons: Members of the outlaw band
-are typically armed with...
+
+d10 Weapons: Members of the outlaw band are typically armed with...
 1. Wooden clubs.
 2. Over-sized daggers.
 3. Shortbows and arrows.
@@ -8815,8 +8855,8 @@ are typically armed with...
 8. Shortswords.
 9. Brass knuckles.
 10. Daggers and sling shots.
-d10 Victims or Foils: The outlaw band is
-feared or respected by...
+
+d10 Victims or Foils: The outlaw band is feared or respected by...
 1. Ambassadors and tax collectors.
 2. Merchants and peddlers.
 3. Politicians and magistrates.
@@ -8827,25 +8867,17 @@ feared or respected by...
 8. Peasants and farmers.
 9. Priests and sages.
 10. Women and children.
-POACHERS
-d6 Prey: The poachers’ favorite prey
-includes...
-1. Great beasts (d8): 1-2. bears; 3-5. wolves;
-6-8. boars.
-2. Exotic birds (d8): 1. eagle; 2. falcon;
-3. hawk; 4. owl; 5. peafowl; 6. roc;
-7. phoenix; 8. flamingo.
-3. Deer (d8): 1-2. elk; 3-4. harts;
-5-6. moose; 7-8. stags.
-4. Exotic beasts (d8): 1. lions; 2. tigers;
-3. griffons; 4. hippogriffs; 5. elephants;
-6. owlbears; 7. wyvern; 8. behemoths.
-5. Game birds (d8): 1. quail; 2. grouse;
-3. pheasant; 4. snipe; 5. duck; 6. partridge;
+$POACHERS
+
+d6 Prey: The poachers’ favorite prey includes...
+1. Great beasts (d8): 1-2. bears; 3-5. wolves; 6-8. boars.
+2. Exotic birds (d8): 1. eagle; 2. falcon; 3. hawk; 4. owl; 5. peafowl; 6. roc; 7. phoenix; 8. flamingo.
+3. Deer (d8): 1-2. elk; 3-4. harts; 5-6. moose; 7-8. stags.
+4. Exotic beasts (d8): 1. lions; 2. tigers; 3. griffons; 4. hippogriffs; 5. elephants; 6. owlbears; 7. wyvern; 8. behemoths.
+5. Game birds (d8): 1. quail; 2. grouse; 3. pheasant; 4. snipe; 5. duck; 6. partridge;
 7. turkey; 8. swan.
-6. Small beasts (d8): 1. fox; 2. otter;
-3. raccoon; 4. badger; 5. beaver;
-6. ermine; 7. sable; 8. skunk.
+6. Small beasts (d8): 1. fox; 2. otter; 3. raccoon; 4. badger; 5. beaver; 6. ermine; 7. sable; 8. skunk.
+
 d6 Purpose: The poachers’ hunt...
 1. For sport.
 2. To feed their families.
@@ -8853,8 +8885,8 @@ d6 Purpose: The poachers’ hunt...
 4. To exact revenge on the landowner.
 5. To sell the beasts’ meat.
 6. To sell the beasts’ pelts.
+$ROBBERS
 
-ROBBERS
 d6 Tactics: The robbers strike with...
 1. Swarm tactics.
 2. Hit-and-run tactics.
@@ -8862,6 +8894,7 @@ d6 Tactics: The robbers strike with...
 4. Choreographed maneuvers.
 5. Unpredictable maneuvers.
 6. Lots of fancy footwork.
+
 d8 Rep: The robbers are known for...
 1. Never leaving survivors.
 2. Branding captives.
@@ -8871,17 +8904,17 @@ d8 Rep: The robbers are known for...
 6. Romantic escapades.
 7. Singing bawdy songs.
 8. Drinking too much ale.
-SMUGGLERS
-d6 M.O.: The smuggling ring's primary
-modus operandi involves...
+$SMUGGLERS
+
+d6 M.O.: The smuggling ring's primary modus operandi involves...
 1. Underground tunnels.
 2. Secret compartments.
 3. Stealth watercraft.
 4. Humanoid mules.
 5. Bribery of officials.
 6. A network of safehouses.
-d8 Patron: The smuggling ring is supported
-by...
+
+d8 Patron: The smuggling ring is supported by...
 1. A prominent merchant.
 2. An important minister or magistrate.
 3. A major crime boss.
@@ -8890,7 +8923,8 @@ by...
 6. A group of subversives.
 7. The local guard captain or sheriff.
 8. The sovereign’s main rival.
-INDIVIDUAL OUTLAW
+$INDIVIDUAL OUTLAW
+
 d12 Distinguishing trait: The outlaw has...
 1. A flashy earring ring.
 2. Shiny leather boots.
@@ -8904,6 +8938,7 @@ d12 Distinguishing trait: The outlaw has...
 10. A bent, broken nose.
 11. An open shirt and a very hairy chest.
 12. Extravagant mustaches.
+
 d6 Goal: The outlaw is looking for...
 1. Accomplices for a tricky job.
 2. Revenge against a rival outlaw.
@@ -8911,279 +8946,28 @@ d6 Goal: The outlaw is looking for...
 4. Extra muscle for a tough job.
 5. Rumors that may lead to a big score.
 6. A rowdy evening of carousing.
+
 d6 Possession: The outlaw carries...
-1. A love letter. 4. A tattered map.
-2. A wineskin. 5. A polished blade.
-3. An ancient key. 6. A lute or pipe.
+1. A love letter. 
+2. A tattered map.
+3. A wineskin. 
+4. A polished blade.
+5. An ancient key. 
+6. A lute or pipe.
+$RANDOM PIRATE CREWS: TERROR AND PLUNDER
 
-Page 44
-
-
-QUICK PANTHEONS: GODS AND GODDESSES IN FIVE MINUTES OR LESS
-Suggestion I: [1] Roll 1d12 to generate the number of deities in the pantheon. [2] Roll 1d12 for each deity to determine the deity’s type. If the same
-number comes up twice, keep it, but choose different aspects/features. [3] Roll for features for each deity in the pantheon. [4] Name the deities.
-Suggestion II: [1] Choose the deities and features you like from the lists. [2] Add some deities or features of your own. [3] Name the deities.
-1. GOD OF THE SUN/SKY
-d6 He is often called...
-1-2. The Father of the Heavens.
-3. The Master of the Skies.
-4. The Keeper of the Sun's
-Flame.
-5-6. The Lord of Light.
-d6 He holds dominion over...
-1-2. The sun and light.
-3-4. The sun and stars.
-5. Light and fire.
-6. Fire and power.
-d6 His followers must...
-1-2. Always keep a lamp burning.
-3. Ritualistically burn or brand
-themselves.
-4. Pray at sunrise and sunset.
-5-6. Read his sacred texts in the
-daylight hours daily.
-2. EARTH/MOTHER
-GODDESS
-d6 She is often called...
-1-2. The Mother of All Things.
-3. The Keeper of Life and Death.
-4-5. The Protector of Life.
-6. The Defender of her Children.
-d6 She holds dominion over...
-1-2. The earth and harvest.
-3. The earth and trees.
-4-5. Family and childbirth.
-6. The hearth and home.
-d6 Her followers must...
-1-2. Have a shrine dedicated to her
-at home.
-3-4. Ritualistically bury their dead in
-the earth.
-5. Pray prostrate on the ground
-daily.
-6. Always use salt to season their
-food.
-3. GODDESS OF THE
-HARVEST/SEASONS
-d6 She is often called...
-1-2. The Giver of Fruit.
-3-4. The Grower of Crops.
-5. The Maiden of Spring and
-Summer.
-6. The Mistress of Autumn and
-Winter.
-d6 She holds dominion over...
-1. Farmers and gardeners.
-2. Harvests and crops.
-3-4. Time and seasons.
-5-6. Feasts and famines.
-d6 Her followers must...
-1-2. Prepare burnt offerings of fruits
-and vegetables.
-3. Ritualistically bury their dead in
-the earth.
-4. Read her sacred texts daily.
-5-6. Grow something in the ground
-or in a pot at home.
-
-4. GOD OF CRAFT/
-KNOWLEDGE
-d6 He is often called...
-1-2. The Forger of Mountains.
-3. The Lord of Craft.
-4-5. The Master of Wisdom.
-6. The Keeper of Knowledge.
-d6 He holds dominion over...
-1-2. Forges and fire.
-3. Artisans and craftsmen.
-4. Sages and scholars.
-5-6. Knowledge and wisdom.
-d6 His followers must...
-1-2. Build or craft something with
-their hands.
-3-4. Ritualistically burn their dead.
-5. Engage in vigorous scholarly
-debates.
-6. Read something new daily.
-5. GOD OF DARKNESS/
-SECRETS
-d6 He is often called...
-1-2. The Lord of Darkness.
-3. The Serpent in the Shadows.
-4. The Finder of Secrets.
-5-6. The Watchful Eye.
-d6 He holds dominion over...
-1-2. Darkness and poison.
-3. Shadows and spies.
-4. Secrets and treachery.
-5-6. Ancient lore and mysteries.
-d6 His followers must...
-1.-2 Never speak of their true
-devotion to nonbelievers.
-3-4. Ritualistically cut out the
-tongues of those who betray
-secrets.
-5. Pray every night while in utter
-darkness.
-6. Keep a journal of secrets in a
-hidden location.
-6. GODDESS OF LOVE/
-FERTILITY
-d6 She is often called...
-1. The Bearer of Children.
-2-3. The Fair Maiden.
-4-5. The Mistress of Seduction.
-6. The Giver of Love.
-d6 She holds dominion over...
-1. Marriage and children.
-2-3. Love and music.
-4-5. Love and beauty.
-6. Seduction and manipulation.
-d6 Her followers must...
-1. Participate in ritualistic sexual
-orgies.
-2-3. Procreate to the fullest extent
-they can.
-4-5. Publicly display their affections
-for loved ones.
-6. Keep a secret journal of
-romantic exploits.
-
-7. GOD OF DEATH/EVIL
-d6 He is often called...
-1-2. The Harbinger of Death.
-3. Death's Companion.
-4-5. The Lord of Torment.
-6. The Bringer of Pain.
-d6 He holds dominion over...
-1. Necromancers and assassins.
-2-3. Death and disease.
-4-5. Pain and torture.
-6. Death and cruelty.
-d6 His followers must...
-1. Commit murder at least once in
-their lives.
-2. Ritualistically eat their dead.
-3-4. Participate in painful rituals of
-human sacrifice.
-5-6. Pray in a cemetery, tomb, or
-place touched by death weekly.
-8. GODDESS OF THE
-MOON/MAGIC
-d6 She is often called...
-1. The Lady of the Moon.
-2-3. The Moon-Witch.
-4-5. The Mistress of the Night.
-6. The Maiden of Magic.
-d6 She holds dominion over...
-1. The moon and stars.
-2-3. The moon and night.
-4-5. Magic and light.
-6. Witches and wizards.
-d6 Her followers must...
-1. Hold an all-night prayer vigil
-when the moon is full.
-2-3. Read her sacred texts by
-moonlight once a month.
-4. Engage in vigorous debates of
-mysticism and magic.
-5-6. Keep a secret journal of
-magical secrets and lore.
-9. GODDESS OF THE
-HUNT/WOODLANDS
-d6 She is often called...
-1. The Great Huntress.
-2-3. The Lady of the Hunt.
-4-5. The Maiden of the Woods.
-6. The Keeper of the Ancient
-Grove.
-d6 She holds dominion over...
-1. Hunters and woodsmen.
-2-3. Beasts and wilderness.
-4-5. Forests and trees.
-6. Archers and woodland
-creatures.
-d6 Her followers must...
-1-2. Pray beneath a tree every day.
-3. Read her sacred texts in a
-grove of trees once a week.
-4-5. Participate in an annual hunt.
-6. Prepare burnt offerings of
-beasts slain while hunting.
-
-10. THE GOD OF STORMS/
-SEA GOD
-d6 He is often called...
-1-2. The Lord of Thunder.
-3-4. The Storm-Bringer.
-5. The Master of the Seas.
-6. The Taker of Ships.
-d6 He holds dominion over...
-1-2. The sea and storms.
-3-4. Merchants and ships.
-5. Sailors and pirates.
-6. Storms and strength.
-d6 His followers must...
-1-2. Splash saltwater on themselves
-when praying daily.
-3-4. Give their dead a burial at sea.
-5. Kneel outside to offer a short
-prayer whenever it rains.
-6. Keep a journal of storms and
-strange meteorological
-phenomena.
-11. THE TRICKSTER/
-MESSENGER GOD
-d6 He is often called...
-1. The Maker of Mischief.
-2. The Knife-Sharp Wit.
-3. The Messenger of the Gods.
-4. The Swift Strider.
-5. The Lucky Traveler.
-6. The Wandering Rogue.
-d6 He holds dominion over...
-1. Mischief and pranks.
-2. Trickery and cruel jokes.
-3-4. Rogues and thieves.
-5-6. Travelers and wanderers.
-d6 His followers must...
-1-2. Drink enormous amounts of
-wine at festivals.
-3-4. Participate in pranks and
-subversive activities.
-5. Pray at the beginning and end
-of any journey.
-6. Make a pilgrimage to a holy
-place at least once.
-12. THE GOD OF WAR/
-TYRANT GOD
-d6 He is often called...
-1-2. The Lord of Battle.
-3. The Bringer of Blood.
-4. The Unyielding Tyrant.
-5-6. The Harbinger of Doom.
-d6 He holds dominion over...
-1. Soldiers and gladiators.
-2-3. Violence and slaughter.
-4-5. Tyranny and battle.
-6. Strength and domination.
-d6 His followers must...
-1-2. Ritualistically scar themselves.
-3. Fight with a military company or
-war clan at least once.
-4. Train with weapons daily.
-5-6. Pray on the eve of battle.
-
-Page 45
-
-
-RANDOM PIRATE CREWS: TERROR AND PLUNDER
 d10 Ship: The pirates' ship is...
-1. A rickety raft. 6. A hulk.
-2. A galley. 7. A carrack.
-3. A longship. 8. A caravel.
-4. A catamaran. 9. A schooner.
-5. A cog. 10. A dreadnought.
+1. A rickety raft. 
+2. A hulk.
+3. A galley. 
+4. A carrack.
+5. A longship. 
+6. A caravel.
+7. A catamaran. 
+8. A schooner.
+9. A cog. 
+10. A dreadnought.
+
 d8 Condition: Presently, the ship is...
 1. Laden with treasure.
 2. Full of stolen goods.
@@ -9193,43 +8977,53 @@ d8 Condition: Presently, the ship is...
 6. In need of repair.
 7. Barely staying afloat.
 8. Resting beneath the waves.
+
 d20 Banner: The ship's banner has...
-1. A skull. 11. A dagger.
-2. Crossed bones. 12. A ghost.
-3. Skull and bones. 13. A crab.
-4. A skeletal hand. 14. An albatross.
-5. A skeletal fish. 15. A pelican.
-6. A flaming skull. 16. A whale.
-7. A clenched fist. 17. An octopus.
-8. A bloody dagger. 18. A dagger.
-9. A mermaid. 19. A sea turtle.
-10. Crossed swords. 20. A big tuna.
+1. A skull. 
+2. A dagger.
+3. Crossed bones. 
+4. A ghost.
+5. Skull and bones. 
+6. A crab.
+7. A skeletal hand. 
+8. An albatross.
+9. A skeletal fish. 
+10. A pelican.
+11. A flaming skull. 
+12. A whale.
+13. A clenched fist. 
+14. An octopus.
+15. A bloody dagger. 
+16. A dagger.
+17. A mermaid. 
+18. A sea turtle.
+19. Crossed swords. 
+20. A big tuna.
+
 d8 Masthead: The ship's masthead is...
-1. A goddess. 5. A fish or whale.
-2. A mermaid. 6. A dragon.
-3. A young lady. 7. A skeleton.
-4. An eagle or wolf. 8. An octopus.
+1. A goddess. 
+2. A fish or whale.
+3. A mermaid. 
+4. A dragon.
+5. A young lady. 
+6. A skeleton.
+7. An eagle or wolf. 
+8. An octopus.
+
 d12 Mascot: The ship's mascot is...
-1-4. A parrot:
-1. A budgie (fond of saying "Ye
-scalawags!" or "Aye, Captain!").
-2. A cockatoo (fond of saying "Pieces of
-eight!" or "It's shark week!").
-3. A conure (fond of saying "Dead men tell
-no tales!" or "Ahoy!").
-4. A macaw (fond of saying "Show me the
-booty!" or "Land, ho!").
-5-8. A monkey:
-5. A capuchin monkey (with or without an
-eyepatch).
-6. A macaque (with or without a vest).
-7. A spider monkey (with or without a
-bandanna).
-8. A tamarin (with or without mustaches).
+1. A budgie (fond of saying "Ye scalawags!" or "Aye, Captain!"). (parrot)
+2. A cockatoo (fond of saying "Pieces of eight!" or "It's shark week!"). (parrot)
+3. A conure (fond of saying "Dead men tell no tales!" or "Ahoy!"). (parrot)
+4. A macaw (fond of saying "Show me the booty!" or "Land, ho!"). (parrot)
+5. A capuchin monkey (with or without an eyepatch). (monkey)
+6. A macaque (with or without a vest). (monkey)
+7. A spider monkey (with or without a bandanna). (monkey)
+8. A tamarin (with or without mustaches). (monkey)
 9. An old turtle.
 10. A lazy sea-faring cat.
 11. A pot-belly pig.
 12. A high-energy herding dog.
+
 d12 Captain: The ship's captain is...
 1. A dangerous megalomaniac.
 2. A charismatic demagogue.
@@ -9244,8 +9038,7 @@ d12 Captain: The ship's captain is...
 11. An old sailor.
 12. A celebrated naval hero.
 
-d8 Morale: The crew's attitude toward their
-captain is...
+d8 Morale: The crew's attitude toward their captain is...
 1. Adoring and loyal.
 2. Friendly and pleased.
 3. Respectful and business-like.
@@ -9254,22 +9047,25 @@ captain is...
 6. Disappointed and indifferent.
 7. Restless and rebellious.
 8. Angry and mutinous.
+
 d6 Drink: The crew’s favorite drink is...
-1. Rum. 4. Wine.
-2. Grog. 5. Brandy.
-3. Ale. 6. Whisky.
-d8 Goals: The crew's goals include
-(captain and crewmembers could have
-different goals)...
+1. Rum.
+2. Wine.
+3. Grog. 
+4. Brandy.
+5. Ale. 
+6. Whisky.
+
+d8 Goals: The crew's goals include (captain and crewmembers could have different goals)...
 1. Discovery of a legendary hidden treasure.
 2. Domination of the region's maritime trade.
 3. Revenge against a naval hero.
 4. Revenge against a rival pirate crew.
-5. Rebellion against the dominant merchant
-traders.
+5. Rebellion against the dominant merchant traders.
 6. A wealthy and peaceful retirement.
 7. Violence to slake their bloodlust.
 8. Drinking all the rum.
+
 d12 Reputation: The crew is known for...
 1. Never leaving survivors.
 2. Feeding captives to sharks.
@@ -9283,8 +9079,8 @@ d12 Reputation: The crew is known for...
 10. Romantic escapades.
 11. Singing bawdy songs.
 12. Drinking too much rum.
-d10 Hideout: The crew's headquarters is
-hidden in or near...
+
+d10 Hideout: The crew's headquarters is hidden in or near...
 1. A rugged seaside cliff.
 2. A hidden lagoon.
 3. A remote island.
@@ -9295,8 +9091,8 @@ hidden in or near...
 8. A warehouse or shipyard.
 9. A poor fishing village
 10. An old lighthouse.
-d10 Weapons: Crewmembers typically arm
-themselves with...
+
+d10 Weapons: Crewmembers typically arm themselves with...
 1. Belaying pins (wooden clubs).
 2. Throwing knives.
 3. Over-sized daggers.
@@ -9308,13 +9104,18 @@ themselves with...
 9. Nets and tridents.
 10. Harpoons.
 
-d10 Style: Crewmembers often sport
-matching...
-1. Puffy shirts. 6. Boots.
-2. Breeches. 7. Tattoos.
-3. Scarves. 8. Hats.
-4. Vests. 9. Scars.
-5. Bandannas. 10. Mustaches.
+d10 Style: Crewmembers often sport matching...
+1. Puffy shirts. 
+2. Boots.
+3. Breeches. 
+4. Tattoos.
+5. Scarves. 
+6. Hats.
+7. Vests. 
+8. Scars.
+9. Bandannas. 
+10. Mustaches.
+
 d10 Tactics: The crew typically fights with...
 1. Swarm tactics.
 2. Hit-and-run tactics.
@@ -9326,7 +9127,8 @@ d10 Tactics: The crew typically fights with...
 8. Lots of screaming and shouting.
 9. Kicking and stomping.
 10. Lots of head-butting.
-INDIVIDUAL PIRATES
+$INDIVIDUAL PIRATES
+
 d12 Tattoo: The pirate has...
 1. A dagger tattoo.
 2. An anchor tattoo.
@@ -9340,6 +9142,7 @@ d12 Tattoo: The pirate has...
 10. A lobster tattoo.
 11. A mermaid tattoo.
 12. A dragon tattoo.
+
 d12 Trait: The pirate has...
 1. A nose ring.
 2. Shiny leather boots.
@@ -9353,6 +9156,7 @@ d12 Trait: The pirate has...
 10. A long, hooked nose.
 11. An open shirt and a very hairy chest.
 12. Extravagant mustaches.
+
 d12 Goal: The pirate longs to...
 1. Captain his own ship.
 2. Retire peacefully, far from the sea.
@@ -9366,17 +9170,20 @@ d12 Goal: The pirate longs to...
 10. Gain revenge against a sea monster.
 11. Kill the captain; that guy's an asshole.
 12. Be a pirate; a pirate’s life is a joy.
+
 d10 Possession: The pirate carries a...
-1. Polished blade. 6. Rusty sword.
-2. Silk handkerchief. 7. Map case.
-3. Jagged dagger. 8. Wooden club.
-4. Bejeweled knife. 9. Empty bottle.
-5. Fancy compass. 10. Hip flask.
+1. Polished blade. 
+2. Rusty sword.
+3. Silk handkerchief. 
+4. Map case.
+5. Jagged dagger. 
+6. Wooden club.
+7. Bejeweled knife. 
+8. Empty bottle.
+9. Fancy compass. 
+10. Hip flask.
+$RANDOM PRISONS: BUT, I SWEAR, I’M INNOCENT!
 
-Page 46
-
-
-RANDOM PRISONS: BUT, I SWEAR, I’M INNOCENT!
 d12 Location: The prison is located...
 1. On a small island on a remote coast.
 2. On a small island near a city.
@@ -9386,16 +9193,11 @@ d12 Location: The prison is located...
 6. Beneath a town hall.
 7. In an annex on a town hall.
 8. Underneath a city, deep below ground.
-9. Behind walls in a fortified rural location (d6):
-1-2. coast; 3-4. hills; 5-6. plains.
-10. Below ground, in a hidden rural location
-(d6): 1-2. coast; 3-4. hills; 5-6. plains.
-11. Behind walls in a fortified wilderness
-location (d6): 1. desert, 2. forest, 3. hills;
-4. mountains, 5. swamp; 6. tundra.
-12. Below ground, in a hidden wilderness
-location (d6): 1. desert, 2. forest, 3. hills;
-4. mountains, 5. swamp; 6. tundra.
+9. Behind walls in a fortified rural location (d6): 1-2. coast; 3-4. hills; 5-6. plains.
+10. Below ground, in a hidden rural location (d6): 1-2. coast; 3-4. hills; 5-6. plains.
+11. Behind walls in a fortified wilderness location (d6): 1. desert, 2. forest, 3. hills; 4. mountains, 5. swamp; 6. tundra.
+12. Below ground, in a hidden wilderness location (d6): 1. desert, 2. forest, 3. hills; 4. mountains, 5. swamp; 6. tundra.
+
 d12 Builder: The prison was built by...
 1. A wise king or queen.
 2. An ambitious lord or lady.
@@ -9409,11 +9211,13 @@ d12 Builder: The prison was built by...
 10. A beloved sovereign.
 11. A prosperous merchant guild.
 12. A powerful noble house.
+
 d6 Floorplan: The prison complex is...
 1-2. A sprawling maze of twisting passages.
 3. A sprawling maze of long hallways.
 4-5. Organized in neat rows of small cells or pits.
 6. Organized around a large cell block or pit.
+
 d6 Defenses: The prison is surrounded by...
 1. Very high stone walls.
 2. Incredibly thick stone walls.
@@ -9421,42 +9225,38 @@ d6 Defenses: The prison is surrounded by...
 4. A moat filled with putrescent water.
 5. A moat filled with thick, boot-sucking mud.
 6. A moat filled with sharp spikes.
+
 d6 Age: The prison was built...
 1-2. In a past age.
 3-4. Hundreds of years ago.
 5. A few decades ago.
 6. Within the past decade.
+
 d10 Cells/Pits: Prisoners are held within...
 1. Individual cells, in silence and darkness.
 2. Individual cells, in darkness but not silence.
-3. Individual cells; but they can see and hear
-other prisoners.
+3. Individual cells; but they can see and hear other prisoners.
 4. Cells that accommodate two prisoners.
-5. Cells that accommodate up to two
-prisoners, each shackled to the wall.
+5. Cells that accommodate up to two prisoners, each shackled to the wall.
 6. Cells that accommodate four prisoners.
-7. Cells that accommodate up to four
-prisoners, each shackled to the wall.
-8. A large chamber with many other prisoners,
-each shackled to the wall.
+7. Cells that accommodate up to four prisoners, each shackled to the wall.
+8. A large chamber with many other prisoners, each shackled to the wall.
 9. Individual pits or wells, open at the top.
 10. A huge pit with many other prisoners.
+
 d6 Condition: The cells’/pits’ condition is...
 1. Well-maintained; the walls are solid.
-2-3. Aging, but sturdy; the walls have some
-cracks.
+2-3. Aging, but sturdy; the walls have some cracks.
 4-5. Decrepit; the walls are crumbling.
 6. So dark it’s difficult to say.
 
 d6 Treatment: Prisoners are treated...
-1. Humanely; they receive reasonable meals,
-some exercise, and healing when needed.
-2-3. Like dogs; they receive poor quality meals
-and enough healing to keep them alive.
-4-5. Like rats; they receive terrible meals and are
-plagued by sickness.
-6. Like they don’t exist; occasionally they
-receive food.
+1. Humanely; they receive reasonable meals, some exercise, and healing when needed.
+2-3. Like dogs; they receive poor quality meals and enough healing to keep them alive.
+4. Like rats; they receive terrible meals and are plagued by sickness.
+5. They are rehabilated and thus are treated well
+6. Like they don’t exist; occasionally they receive food.
+
 d10 Rooms: This chamber is...
 1. A prison cell.
 2. Another prison cell.
@@ -9468,6 +9268,7 @@ d10 Rooms: This chamber is...
 8. A dining hall.
 9. An interrogation room.
 10. A torture chamber.
+
 d20 Features: You notice...
 1. A wooden door reinforced with steel bands.
 2. Steel bars where you expected a stone wall.
@@ -9489,6 +9290,7 @@ d20 Features: You notice...
 18. Howls of agony.
 19. Horrific screams.
 20. The clanking of chains.
+
 d10 Reputation: The prison is known for...
 1. Many prisoners dying in a terrible plague.
 2. A mass escape in the past.
@@ -9500,28 +9302,22 @@ d10 Reputation: The prison is known for...
 8. Never suffering a successful escape.
 9. Its unusual architectural style.
 10. The quality of its meals.
+
 d12 Escape Encounters: You come upon...
 1. A snoozing guard.
 2. A pair of guards on patrol.
-3. A quartet of guards playing cards or dice on
-their break.
-4. A pack of trained hunting dogs commanded
-by a high-ranking guard who has been
-alerted of the escape attempt.
-5. A law official on-site to interrogate another
-prisoner about an unrelated case.
+3. A quartet of guards playing cards or dice on their break.
+4. A pack of trained hunting dogs commanded by a high-ranking guard who has been alerted of the escape attempt.
+5. A law official on-site to interrogate another prisoner about an unrelated case.
 6. An ear-splitting alarm triggers.
-7. A wide, well-lit yard that must be crossed
-with guards watching it from towers.
+7. A wide, well-lit yard that must be crossed with guards watching it from towers.
 8. A high wall directly in the path of escape.
 9. A barred window in the path of escape.
 10. The rat-infested kitchens and mess hall.
-11. An imprisoned serial killer who also
-attempting to escape.
+11. An imprisoned serial killer who also attempting to escape.
 12. An imprisoned thief who is bent on revenge.
 
-d8 Secret: According to rumor, within the
-prison’s walls lies...
+d8 Secret: According to rumor, within the prison’s walls lies...
 1. A secret tunnel to the outside.
 2. The bones of a celebrated outlaw.
 3. The preserved head of an ancient villain.
@@ -9530,7 +9326,8 @@ prison’s walls lies...
 6. A treasure stolen by a notorious prisoner.
 7. A unique and terrible torture device.
 8. The bones of a deposed king or queen.
-JAILER
+$JAILER
+
 d8 Background: The jailer is...
 1. A coward who likes to act tough.
 2. A bully in every sense of the word.
@@ -9540,16 +9337,19 @@ d8 Background: The jailer is...
 6. A horrible sadist.
 7. A mild-mannered man of faith.
 8. A wicked little man.
+
 d6 Concern: The jailer is concerned about...
 1-2. Rumors of an upcoming escape attempt.
 3. Losing his job after a messy prisoner death.
 4-5. Facing a prisoner who creeps him out.
 6. Ways to make a little extra silver.
+
 d6 Goal: The jailer is looking to...
 1. Abuse someone who is defenseless.
 2-3. Make himself feel powerful.
 4. Reach out to a disturbed prisoner.
 5-6. Swap grisly tales.
+
 d8 Possession: The jailer carries...
 1. A large ring of keys.
 2. A large knife and a sap.
@@ -9559,18 +9359,20 @@ d8 Possession: The jailer carries...
 6. A spiked club.
 7. A scourge or whip.
 8. A wineskin.
-GUARD
+$GUARD
+
 d6 Motivation: The guard took this job for...
 1-2. The steady pay.
 3-4. The chance to bully others.
 5. To prove how tough he is.
 6. To take out his aggression on criminals.
+
 d6 Trait: On the guard’s face is...
 1. An unsightly scar.
 2-3. A stupid grin.
 4-5. A blank stare.
 6. A bushy mustache.
-PRISONER
+$PRISONER
 d6 Trait: The prisoner has...
 1-2. A long scraggly beard.
 3-4. A patchy beard.
