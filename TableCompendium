@@ -10800,8 +10800,9 @@ d6 Visitors: Who has entered the tomb?
 4. A greedy treasure hunter.
 5. A student of necromancy.
 6. A fugitive serial killer.
-RANDOM TOWNSFOLK: WHO ARE THE PEOPLE IN YOUR NEIGHBORHOOD?
-ALCHEMIST
+$RANDOM TOWNSFOLK: WHO ARE THE PEOPLE IN YOUR NEIGHBORHOOD?
+$ALCHEMIST
+
 d6 The alchemist is...
 1. An apothecary.
 2. A hedge wizard.
@@ -10809,17 +10810,20 @@ d6 The alchemist is...
 4. A poisonmaker.
 5. A potioneer.
 6. A pyromancer.
+
 d6 The alchemist is looking for...
 1. Delivery help.
 2. New recipes.
 3-4. Purchasers.
 5-6. Rare ingredients.
+
 d6 The alchemist carries...
 1-2. Several vials of acid.
 3. Several curatives.
 4-5. An unusual potion.
 6. A pyrophoric substance.
-CRIMINAL
+$CRIMINAL
+
 d6 The criminal is...
 1. An assassin.
 2. A con artist.
@@ -10827,6 +10831,7 @@ d6 The criminal is...
 4. A poacher.
 5. A smuggler.
 6. A thief.
+
 d6 The criminal is looking for...
 1. Accomplices for a specific task.
 2. Revenge against a rival criminal.
@@ -10834,6 +10839,7 @@ d6 The criminal is looking for...
 4. Extra muscle for some work.
 5. Rumors that may lead to a big score.
 6. A rowdy evening of carousing.
+
 d6 The criminal carries...
 1. A crossbow with poisoned darts.
 2. Several daggers.
@@ -10841,12 +10847,14 @@ d6 The criminal carries...
 4. A lucky charm.
 5. The token of a love.
 6. Letters for blackmail.
-LAW OFFICIAL
+$LAW OFFICIAL
+
 d6 The law official is...
 1. A constable.
 2-3. A sheriff.
 4-5. A guard captain.
 6. A magistrate.
+
 d6 The law official seeks someone to...
 1. Capture a fugitive.
 2. Catch a thief.
@@ -10854,13 +10862,14 @@ d6 The law official seeks someone to...
 4. Investigate a disappearance.
 5. Solve a murder mystery.
 6. Have an ale with.
+
 d6 The law official carries...
 1. An arrest warrant for an outlaw.
 2. A proclamation for a reward.
 3-4. A knife or sword of the office.
 5-6. A pocketbook of local laws.
+$NOBLE
 
-NOBLE
 d6 The noble is...
 1. A knight.
 2. An old lord.
@@ -10868,6 +10877,7 @@ d6 The noble is...
 4. An old lady.
 5. A young lady.
 6. A wealthy merchant.
+
 d6 The noble seeks someone to...
 1. Dispose of an enemy.
 2. Negotiate a trade contract.
@@ -10875,6 +10885,7 @@ d6 The noble seeks someone to...
 4. Sabotage a rival.
 5. Secure a marriage.
 6. Have a good time with.
+
 d6 The noble carries...
 1. Several deeds and titles.
 2. A family heirloom.
@@ -10882,7 +10893,8 @@ d6 The noble carries...
 4. Some very valuable jewels.
 5. A compromising love letter.
 6. A letter from a powerful lord or lady.
-PRIEST
+$PRIEST
+
 d6 The priest is...
 1. An acolyte.
 2. A healer.
@@ -10890,17 +10902,20 @@ d6 The priest is...
 4. A preacher.
 5. A scholar.
 6. A witch-hunter.
+
 d6 The priest is looking for...
 1-2.`New converts.
 3. Heretics.
 4-5. Relics and rare lore.
 6. The bottom of a goblet.
+
 d4 The priest carries...
 1. A well-used cudgel.
 2. A prominently displayed holy symbol.
 3. A pocketbook of sacred texts.
 4. A wineskin.
-SEER
+$SEER
+
 d6 The seer is...
 1. An astrologer.
 2. A fortune teller.
@@ -10908,34 +10923,39 @@ d6 The seer is...
 4. A lorekeeper.
 5. A prophet.
 6. A psychic.
+
 d6 The seer is looking for...
 1-2. The answer to a riddle or prophecy.
 3-4. New clients for a reading.
 3. News regarding a missing person.
 4. Some juicy gossip.
+
 d6 The seer carries...
 1-2. A crystal ball.
 3. A dowsing rod.
 4. A large, sharp-pointed knife.
 5-6. Several star charts.
+$SMITH
 
-SMITH
 d6 The smith is...
 1. An armorer.
 2-3. A blacksmith.
 4-5. A farrier.
 6. A weaponsmith.
+
 d6 The smith is looking for...
 1-2. A new apprentice.
 3. A journeyman craftsman.
 4-5. Rare metals.
 6. A mug of strong ale.
+
 d6 The smith carries...
 1-2. A hammer.
 3-4. A metal trinket made by the smith.
 5. A contract commissioning a sword.
 6. Little more than a few coins.
-TRAVELER
+$TRAVELER
+
 d8 The traveler is...
 1. An exile.
 2. A minstrel.
@@ -10945,6 +10965,7 @@ d8 The traveler is...
 6. A sellsword.
 7. A storyteller.
 8. A treasure hunter.
+
 d10 The traveler is seeking...
 1. Accomplices on a quest.
 2. The answer to a riddle
@@ -10956,7 +10977,8 @@ d10 The traveler is seeking...
 8. Steady work.
 9. Traveling companions.
 10. Drinking companions.
-BARKEEP/BARMAID
+$BARKEEP/BARMAID
+
 d8 The server greets you with...
 1. A mug of ale.
 2. A goblet of wine.
@@ -10966,6 +10988,7 @@ d8 The server greets you with...
 6. A warm handshake.
 7. A pat on the back.
 8. A pretty smile.
+
 d6 The server is looking for...
 1. An excuse to kick you out.
 2. Someone more important to talk to.
@@ -10973,64 +10996,82 @@ d6 The server is looking for...
 4. A big tip.
 5. A good joke or story.
 6. The bottom of a bottle.
+7. A freind
+8. Someone to spend some quality time with
+
 d6 The server carries...
 1. A filthy rag.
 2. A pristine silk handkerchief.
 3-4. A piece of conspicuous jewelry.
 5-6. An unusual belt purse.
+$RANDOM URBAN GANGS: THE BLACK HEART OF THE CITY
 
-Page 55
-
-
-RANDOM URBAN GANGS: THE BLACK HEART OF THE CITY
-d8 Business: The gang's money-making
-schemes include...
-1. Distributing drugs (d6): 1-2. smokeleaf;
-3-4. a hallucinogenic mushroom;
-5. sleepysalt (a downer);
-6. sharpsugar (an upper).
-2. Running heists of and/or fencing stolen
-gems and precious metals.
+d8 Business: The gang's money-making schemes include...
+1. Distributing drugs (d6): 1-2. smokeleaf; 3-4. a hallucinogenic mushroom; 5. sleepysalt (a downer); 6. sharpsugar (an upper).
+2. Running heists of and/or fencing stolen gems and precious metals.
 3. Petty theft, burglary, and/or pickpocketing.
-4. Assassinations that look like accidents or
-that frame someone else.
-5. Running brothels (d6): 1-2. exotic;
-3-4. low; 5-6. high-class.
-6. Shaking down legitimate local businesses
-and/or city officials.
-7. Serving as muscle for shady merchants
-and/or brothel-keepers.
-8. Holding up incoming or outgoing ships or
-wagons.
+4. Assassinations that look like accidents or that frame someone else.
+5. Running brothels (d6): 1-2. exotic; 3-4. low; 5-6. high-class.
+6. Shaking down legitimate local businesses and/or city officials.
+7. Serving as muscle for shady merchants and/or brothel-keepers.
+8. Holding up incoming or outgoing ships or wagons.
+
 d20 Colors: The gang's colors are...
-1. Black. 11. Grey / gunmetal.
-2. Red / scarlet. 12. Brown / beaver.
-3. Gold. 13. Silver / light grey.
-4. Forest green. 14. Sky blue.
-5. Royal blue. 15. Navy blue.
-6. Violet. 16. Dark brown.
-7. Maroon. 17. Teal / turquoise.
-8. Bronze. 18. Steel / blue grey.
-9. Tan / khaki. 19. Orange.
-10. White. 20. Olive green.
+1. Black. 
+2. Grey / gunmetal.
+3. Red / scarlet. 
+4. Brown / beaver.
+5. Gold. 
+6. Silver / light grey.
+7. Forest green. 
+8. Sky blue.
+9. Royal blue. 
+10. Navy blue.
+11. Violet. 
+12. Dark brown.
+13. Maroon. 
+14. Teal / turquoise.
+15. Bronze. 
+16. Steel / blue grey.
+17. Tan / khaki. 
+18. Orange.
+19. White. 
+20. Olive green.
+
 d20 Symbol: The gang's symbol is...
-1. A skull. 11. An open hand.
-2. A ghost. 12. A clenched fist.
-3. The moon. 13. A fish or crab.
-4. A star. 14. A snake or lizard.
-5. An arrow. 15. A badger or cat.
-6. A dagger. 16. A spider or bee.
-7. A sword. 17. A rat or skunk.
-8. A hammer. 18. A wolf or dog.
-9. A crown. 19. A bear or tiger.
-10. A goblet. 20. An eagle or owl.
-d10 Style: Gangmembers often sport
-matching...
-1. Shirts. 6. Boots.
-2. Jackets. 7. Tattoos.
-3. Scarves. 8. Hats.
-4. Vests. 9. Scars.
-5. Bandannas. 10. Mustaches.
+1. A skull. 
+2. An open hand.
+3. A ghost. 
+4. A clenched fist.
+5. The moon. 
+6. A fish or crab.
+7. A star. 
+8. A snake or lizard.
+9. An arrow. 
+10. A badger or cat.
+11. A dagger. 
+12. A spider or bee.
+13. A sword. 
+14. A rat or skunk.
+15. A hammer. 
+16. A wolf or dog.
+17. A crown. 
+18. A bear or tiger.
+19. A goblet. 
+20. An eagle or owl.
+
+d10 Style: Gangmembers often sport matching...
+1. Shirts. 
+2. Boots.
+3. Jackets. 
+4. Tattoos.
+5. Scarves. 
+6. Hats.
+7. Vests. 
+8. Scars.
+9. Bandannas. 
+10. Mustaches.
+
 d10 Boss: The gang's leader is...
 1. A dangerous megalomaniac.
 2. A charismatic demagogue.
@@ -11042,23 +11083,32 @@ d10 Boss: The gang's leader is...
 8. A charming rogue.
 9. A dashing swashbuckler.
 10. A brutish thug.
-d8 History: The boss is known for his or
-her involvement in an infamous...
-1. Gold heist. 5. Assassination.
-2. Jewel heist. 6. Blockade run.
-3. Massacre. 7. Bribery scandal.
-4. Kidnapping. 8. Romantic scandal.
 
-d12 Recruits: For recruitment, the gang
-targets individuals who are...
-1. Artisans. 7. Servants / slaves.
-2. Thieves. 8. Combat veterans.
-3. Sailors. 9. Laborers.
-4. Drunks. 10. Relocated peasants.
-5. Beggars. 11. Young children.
-6. Foreigners. 12. Circus performers.
-d10 Weapons: Gangmembers typically arm
-themselves with...
+d8 History: The boss is known for his or her involvement in an infamous...
+1. Gold heist. 
+2. Assassination.
+3. Jewel heist. 
+4. Blockade run.
+5. Massacre. 
+6. Bribery scandal.
+7. Kidnapping. 
+8. Romantic scandal.
+
+d12 Recruits: For recruitment, the gang targets individuals who are...
+1. Artisans. 
+2. Servants / slaves.
+3. Thieves. 
+4. Combat veterans.
+5. Sailors. 
+6. Laborers.
+7. Drunks. 
+8. Relocated peasants.
+9. Beggars. 
+10. Young children.
+11. Foreigners. 
+12. Circus performers.
+
+d10 Weapons: Gangmembers typically arm themselves with...
 1. Wooden clubs.
 2. Throwing knives.
 3. Over-sized daggers.
@@ -11069,10 +11119,9 @@ themselves with...
 8. Shortswords.
 9. Brass knuckles.
 10. Bare fists.
-d12 Hideout: The gang's headquarters is
-hidden in or near...
-1. The residence of the leader or a senior
-gangmember.
+
+d12 Hideout: The gang's headquarters is hidden in or near...
+1. The residence of the leader or a senior gangmember.
 2. An artisan's shop or guildhall.
 3. A merchant's office.
 4. A tavern.
@@ -11083,15 +11132,17 @@ gangmember.
 9. The town hall.
 10. An abandoned guildhall or warehouse.
 11. A shantytown
-12. The residence of a wealthy individual or
-prominent citizen.
-d6 Get In: To access headquarters, you
-must know...
-1. The password. 4. A foot soldier.
-2. The passphrase. 5. A lieutenant.
-3. How to dress. 6. The boss.
-d12 Victims or Foils: The gang is feared or
-respected by...
+12. The residence of a wealthy individual or prominent citizen.
+
+d6 Get In: To access headquarters, you must know...
+1. The password. 
+2. A foot soldier.
+3. The passphrase. 
+4. A lieutenant.
+5. How to dress. 
+6. The boss.
+
+d12 Victims or Foils: The gang is feared or respected by...
 1. Fishermen and sailors.
 2. Beggars and thieves.
 3. Merchants and moneychangers.
@@ -11104,20 +11155,16 @@ respected by...
 10. Servants and slaves.
 11. Priests and sages.
 12. Women and children.
-d6 Goals: The gang's goals include (the
-boss and lower rank members could
-have different goals)...
+
+d6 Goals: The gang's goals include (the boss and lower rank members could have different goals)...
 1. Domination of the city's politics.
 2. Domination of the city's trade.
-3. Revenge against a rival gang in the same
-city.
-4. Revenge against a rival gang in another
-city.
+3. Revenge against a rival gang in the same city.
+4. Revenge against a rival gang in another city.
 5. Revenge against the city's elite.
 6. Rebellion against the city's elite.
 
-d10 Tactics: Gangmembers typically fight
-with...
+d10 Tactics: Gangmembers typically fight with...
 1. Swarm tactics.
 2. Hit-and-run tactics.
 3. Ambush tactics.
@@ -11128,7 +11175,8 @@ with...
 8. Lots of screaming and shouting.
 9. Kicking and stomping.
 10. Lots of head-butting.
-INDIVIDUAL GANGMEMBERS
+$INDIVIDUAL GANGMEMBERS
+
 d12 Tattoo: The gangmember has...
 1. A dagger tattoo.
 2. An arrow tattoo.
@@ -11142,6 +11190,7 @@ d12 Tattoo: The gangmember has...
 10. A ring of thorns tattoo.
 11. A mermaid tattoo.
 12. A dragon tattoo.
+
 d12 Trait: The gangmember has...
 1. A nose ring.
 2. Shiny leather boots.
@@ -11155,6 +11204,7 @@ d12 Trait: The gangmember has...
 10. A long, hooked nose.
 11. An open shirt and a very hairy chest.
 12. Extravagant mustaches.
+
 d6 Goal: The gangmember is looking for...
 1. Accomplices for a tricky job.
 2. Revenge against a rival gang.
@@ -11162,42 +11212,56 @@ d6 Goal: The gangmember is looking for...
 4. Extra muscle for a tough job.
 5. An opportunity to impress the boss.
 6. A rowdy evening of carousing.
+
 d10 Possession: The gangmember carries...
 1. The favor of an admirer.
 2. A wineskin, full of cheap wine.
 3. The key to the gang’s storehouse.
-4. A map of the hidden passages in a local
-palace, temple, or fortress.
+4. A map of the hidden passages in a local palace, temple, or fortress.
 5. An ornate dagger or shortsword.
 6. A musical instrument.
 7. A long pipe and some smokeleaf.
 8. A crowbar and some rope.
 9. A set of fine lockpicks.
 10. A lantern and a shovel.
-d6 Motivation: The gangmember joined the
-gang to...
-1. Earn some coin. 4. Gain status.
-2. Impress a lady. 5. Get rich quick.
-3. Impress a parent. 6. Stay alive.
 
-Page 56
-
-
+d6 Motivation: The gangmember joined the gang to...
+1. Earn some coin. 
+2. Gain status.
+3. Impress a lady. 
+4. Get rich quick.
+5. Impress a parent. 
+6. Stay alive.
 RANDOM WATCHMEN: TO SERVE AND PROTECT
+
 d12 Colors: The watch’s colors are...
-1. Black. 7. Brown / beaver.
-2. Red / scarlet. 8. White.
-3. Gold. 9. Maroon.
-4. Forest green. 10. Sky blue.
-5. Royal blue. 11. Navy blue.
-6. Silver. 12. Dark brown.
+1. Black. 
+2. Brown / beaver.
+3. Red / scarlet. 
+4. White.
+5. Gold. 
+6. Maroon.
+7. Forest green. 
+8. Sky blue.
+9. Royal blue. 
+10. Navy blue.
+11. Silver. 
+12. Dark brown.
+
 d12 Symbol: The watch’s symbol is...
-1. A flame. 7. An eagle.
-2. A gauntlet. 8. An owl.
-3. A shield. 9. A dragon.
-4. A sword. 10. A lion.
-5. The sun. 11. A raven.
-6. An eye. 12. A wolf.
+1. A flame. 
+2. An eagle.
+3. A gauntlet. 
+4. An owl.
+5. A shield. 
+6. A dragon.
+7. A sword. 
+8. A lion.
+9. The sun. 
+10. A raven.
+11. An eye. 
+12. A wolf.
+
 d12 Captain: The watch’s captain is...
 1. A religious zealot.
 2. A scion from a prominent family.
@@ -11211,34 +11275,38 @@ d12 Captain: The watch’s captain is...
 10. An adept investigator.
 11. An erudite detective.
 12. A devoted public servant.
-d6 Morale: The watch’s attitude toward
-their captain is...
+
+d6 Morale: The watch’s attitude toward their captain is...
 1. Friendly and loyal.
 2. Respectful and business-like.
 3. Completely indifferent.
 4. Cautious and uncertain.
 5. Terrified and tight-lipped.
 6. Disappointed and disrespectful.
+
 d12 Reputation: The watch is known for...
-1. High morals. 7. Intimidation.
-2. Efficiency. 8. Lechery.
-3. Reliability. 9. Cowardice.
-4. Brutality. 10. Incompetence.
-5. Taking bribes. 11. Intoxication.
-6. Corrupt dealings. 12.. Rowdiness..
-d6 Armor or Uniforms: Most members of
-the watch are outfitted with...
+1. High morals. 
+2. Intimidation.
+3. Efficiency. 
+4. Lechery.
+5. Reliability. 
+6. Cowardice.
+7. Brutality. 
+8. Incompetence.
+9. Taking bribes. 
+10. Intoxication.
+11. Corrupt dealings. 
+12. Rowdiness.
+
+d6 Armor or Uniforms: Most members of the watch are outfitted with...
 1. Rough-spun wool cloaks.
 2. Whatever armor they can find.
-3. Leather armor marked with the symbol of
-the watch.
-4. Leather armor marked with the symbol of
-their city or lord.
-5. Helms and breastplates emblazoned with
-the symbol of their city or lord.
+3. Leather armor marked with the symbol of the watch.
+4. Leather armor marked with the symbol of their city or lord.
+5. Helms and breastplates emblazoned with the symbol of their city or lord.
 6. Well-maintained chainmail.
-d10 Weapons: Most members of the watch
-are equipped with...
+
+d10 Weapons: Most members of the watch are equipped with...
 1. Maces and shields.
 2. Maces and crossbows.
 3. Staves and crossbows.
@@ -11250,8 +11318,7 @@ are equipped with...
 9. Pikes and shortswords.
 10. Pikes and shortbows.
 
-d8 Headquarters: The watch captain’s
-office is...
+d8 Headquarters: The watch captain’s office is...
 1. In the city or town hall building.
 2. In the basement of a crafters’ guild.
 3. Next to a temple or shrine.
@@ -11260,7 +11327,8 @@ office is...
 6. In a wing of a palace or castle.
 7. In the backroom of a tavern.
 8. At the top of a watchtower.
-INDIVIDUAL GUARDS
+$INDIVIDUAL GUARDS
+
 d10 Background: The guard is...
 1. A farm boy.
 2. The son of a miner or fisherman.
@@ -11272,14 +11340,15 @@ d10 Background: The guard is...
 8. A thug.
 9. A failed craftsman.
 10. A favorite among the ladies.
+
 d6 Motivation: The guard works for...
 1. The steady pay.
 2. A chance to deal out sadistic punishment.
 3. Gold to repay debts.
 4. Gold to aid a family member.
-5. A chance to escape from life
-imprisonment.
+5. A chance to escape from life imprisonment.
 6. Patriotic devotion.
+
 d12 Trait: On the guard’s face is...
 1. A large wart.
 2. An unsightly scar.
@@ -11293,6 +11362,7 @@ d12 Trait: On the guard’s face is...
 10. An unruly beard.
 11. A neatly-trimmed mustache.
 12. A beautiful, waxed mustache.
+
 d8 Uniform: The guard’s uniform is...
 1. Pristine.
 2. Clean and tidy.
@@ -11302,9 +11372,9 @@ d8 Uniform: The guard’s uniform is...
 6. Tattered and in bad need of repair.
 7. A little too tight.
 8. Two sizes too large.
+
 d10 Possession: The guard carries...
-1. A blade with soft leather tassels dangling
-from the pommel.
+1. A blade with soft leather tassels dangling from the pommel.
 2. A blade with an inscription.
 3. A highly polished blade.
 4. A token from a favorite harlot.
@@ -11314,8 +11384,8 @@ from the pommel.
 8. A flask of wine.
 9. A lucky charm (rabbit’s foot, old coin).
 10. A grocery list.
+$INDIVIDUAL INVESTIGATORS
 
-INDIVIDUAL INVESTIGATORS
 d10 Background: The constable is...
 1. An eccentric priest.
 2. A stoic monk.
@@ -11327,15 +11397,15 @@ d10 Background: The constable is...
 8. A criminal lackey.
 9. A popular tavern patron.
 10. Ruggedly handsome.
+
 d6 Motivation: The constable works for...
 1. The steady pay.
 2. A chance to bring evil-doers to justice.
 3. Gold to repay debts.
-4. Gold to support his addiction (d6):
-1-2. drinking; 3-4. gambling; 5. harlots; 6.
-smoking.
+4. Gold to support his addiction (d6): 1-2. drinking; 3-4. gambling; 5. harlots; 6. smoking.
 5. The joy of solving mysteries.
 6. A chance for vengeance.
+
 d12 Trait: On the constable’s face is...
 1. A scar from a burn.
 2. A jagged scar.
@@ -11349,15 +11419,11 @@ d12 Trait: On the constable’s face is...
 10. Unshaven stubble.
 11. A neatly-trimmed beard.
 12. An intimidating mustache.
+
 d10 Possession: The constable carries...
 1. A magnifying lens.
-2. A blade with a carved hilt (d6): 1. ivory; 2.
-jade; 3. soapstone; 4. ebony;
-5. mahogany; 6. oak.
-3. A blade with beasts sculpted into the steel
-of the guard (d6): 1. dragons;
-2. lions; 3. scorpions; 4. snakes;
-5. spiders; 6. wolves.
+2. A blade with a carved hilt (d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+3. A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders; 6. wolves.
 4. A blade made of blackened steel.
 5. An unusual hat.
 6. A clue from an unsolved crime.
@@ -11365,8 +11431,8 @@ of the guard (d6): 1. dragons;
 8. Props for several disguises.
 9. Alchemical reference manual.
 10. A pocket-sized almanac.
-d12 Knowledge: The constable is
-particularly knowledgeable on...
+
+d12 Knowledge: The constable is particularly knowledgeable on...
 1. City or national politics.
 2. The law and legal proceedings.
 3. Religious history and philosophy.
@@ -11379,11 +11445,8 @@ particularly knowledgeable on...
 10. Foreign customs and exotic artwork.
 11. Tall tales and drinking songs.
 12. Fine wines and gourmet food.
+$RANDOM VAMPIRES: HUNGRY FOR BLOOD
 
-Page 57
-
-
-RANDOM VAMPIRES: HUNGRY FOR BLOOD
 d12 Background: In life, the vampire was...
 1. An alchemist or pyromancer.
 2. An assassin or poisonmaker.
@@ -11397,6 +11460,7 @@ d12 Background: In life, the vampire was...
 10. A sailor or pirate.
 11. A seer or mystic.
 12. A thief or smuggler.
+
 d12 Alias: Often, the vampire poses as...
 1. A powerful noble.
 2. An eccentric scholar.
@@ -11410,10 +11474,9 @@ d12 Alias: Often, the vampire poses as...
 10. A charismatic entertainer.
 11. A religious fanatic.
 12. A veteran soldier.
-d12 Amusement: In addition to draining
-blood, the vampire is fond of...
-1. Shooting prey with an arrow or bolt from
-range.
+
+d12 Amusement: In addition to draining blood, the vampire is fond of...
+1. Shooting prey with an arrow or bolt from range.
 2. Impaling prey.
 3. Gutting or eviscerating prey.
 4. Flaying prey.
@@ -11425,21 +11488,18 @@ range.
 10. Throwing prey off a roof.
 11. Severely beating prey.
 12. Dismembering prey.
+
 d8 Goals: The vampire’s goals include...
 1. Procreating.
-2. Corrupting and influencing the politics of
-the city or region.
+2. Corrupting and influencing the politics of the city or region.
 3. Domination of the city or region’s politics.
 4. Revenge against a rival vampire.
-5. Revenge against a living person, family, or
-organization.
+5. Revenge against a living person, family, or organization.
 6. Seeking hedonistic pleasure.
-7. Uncovering ancient secrets of death and
-undeath.
-8. Enslaving the living to create an easy
-source of food for vampires.
-d10 Lair: The vampire’s base of operations
-is...
+7. Uncovering ancient secrets of death and undeath.
+8. Enslaving the living to create an easy source of food for vampires.
+
+d10 Lair: The vampire’s base of operations is...
 1. A beautiful manor house.
 2. A run-down castle.
 3. An ancient fortress.
@@ -11451,16 +11511,15 @@ is...
 9. A crypt beneath a temple.
 10. The vampire is a transient.
 
-d6 Nocturnal activity: The vampire prefers
-to hunt...
+d6 Nocturnal activity: The vampire prefers to hunt...
 1. Just before sunrise.
 2. Just after sunset.
 3. In the early evening.
 4. Well into the night.
 5. The toll of midnight.
 6. After midnight.
-d20 Victims: The vampire’s favorite prey
-are...
+
+d20 Victims: The vampire’s favorite prey are...
 1. Fishermen and sailors.
 2. Beggars and thieves.
 3. Merchants and moneychangers.
@@ -11481,6 +11540,7 @@ are...
 18. Inquisitive children.
 19. Young children.
 20. Elves and the fey.
+
 d12 Limits: He or she refuses to feed on...
 1. Ugly women.
 2. Beautiful women.
@@ -11494,16 +11554,16 @@ d12 Limits: He or she refuses to feed on...
 10. Anyone who is blind, deaf, or lame.
 11. Big burly men.
 12. Dwarves and underground dwellers.
-d6 Shapeshifting: The vampire can
-shapeshift to take the form of...
+
+d6 Shapeshifting: The vampire can shapeshift to take the form of...
 1. A tiny bat.
 2. A swarm of bats.
 3. A cloud of mist.
 4. A swirl of shadows.
 5. A wolf.
 6. A giant bat.
-d8 Skills: Even among vampires, the
-vampire is quite good at...
+
+d8 Skills: Even among vampires, the vampire is quite good at...
 1. Charming humanoids.
 2. Frightening humanoids.
 3. Draining blood quickly.
@@ -11512,8 +11572,8 @@ vampire is quite good at...
 6. Disguising its true nature.
 7. Negotiations.
 8. Climbing.
-d6 Chained to the grave: The vampire’s
-gravedirt is from...
+
+d6 Chained to the grave: The vampire’s gravedirt is from...
 1. A faraway land.
 2. A local cemetery or temple.
 3. A country village or manor.
@@ -11521,23 +11581,19 @@ gravedirt is from...
 5. A battlefield.
 6. A remote forest or mountain.
 
-d10 Associates: The vampire’s associates
-include...
+d10 Associates: The vampire’s associates include...
 1. Less powerful vampires.
-2. Skeletons, zombies, and other undead
-thralls.
+2. Skeletons, zombies, and other undead thralls.
 3. Living thralls on which to feed.
-4. Living thralls who provide pleasurable
-diversions.
+4. Living thralls who provide pleasurable diversions.
 5. Hundreds of bats.
 6. Rats and maggots.
 7. A pack of vicious wolves.
 8. Members of a death cult.
 9. The local nobility.
-10. The local band of outlaws or assassins’
-guild.
-d12 Personality: Even among vampires, the
-vampire is especially...
+10. The local band of outlaws or assassins’ guild.
+
+d12 Personality: Even among vampires, the vampire is especially...
 1. Agile.
 2. Attractive.
 3. Charming.
@@ -11550,6 +11606,7 @@ vampire is especially...
 10. Smooth.
 11. Sneaky.
 12. Witty.
+
 d10 Apparel: The vampire often wears...
 1. Shiny leather boots.
 2. A black cape with a hood.
@@ -11561,8 +11618,8 @@ d10 Apparel: The vampire often wears...
 8. A family signet ring.
 9. An unusual brooch or necklace.
 10. A waxy mustache.
-d12 Quirk: The vampire is unusually fond of
-or particular regarding...
+
+d12 Quirk: The vampire is unusually fond of or particular regarding...
 1. Horticulture and floral arrangements.
 2. Fashion trends.
 3. Arms and armor maintenance.
@@ -11575,9 +11632,8 @@ or particular regarding...
 10. Personal hygiene.
 11. Hair styles.
 12. Dental hygiene.
-d8 Fears: The vampire is particularly
-afraid of or takes special care to
-avoid...
+
+d8 Fears: The vampire is particularly afraid of or takes special care to avoid...
 1. Hallowed places.
 2. Densely populated areas.
 3. Sunlight.
@@ -11586,11 +11642,8 @@ avoid...
 6. Garlic.
 7. Silver objects.
 8. Relics of the gods.
+$RANDOM WITCHES: I’LL GET YOU, MY PRETTY!
 
-Page 58
-
-
-RANDOM WITCHES: I’LL GET YOU, MY PRETTY!
 d20 Background: The witch is...
 1. A femme fatale.
 2. The wife of a farmer, fisherman, or miner.
@@ -11612,12 +11665,10 @@ d20 Background: The witch is...
 18. An old crone.
 19. An old widow.
 20. An attractive young widow.
-d10 Training: The witch learned her craft
-from...
-1. A fellow witch who kidnapped her as a
-young girl.
-2. A fellow witch who aided her in a time of
-need.
+
+d10 Training: The witch learned her craft from...
+1. A fellow witch who kidnapped her as a young girl.
+2. A fellow witch who aided her in a time of need.
 3. A neighbor.
 4. Her mother.
 5. Her older sister.
@@ -11626,6 +11677,7 @@ need.
 8. Communication with the spirits of the dead.
 9. Consorting with a fiend.
 10. Participating in bacchanalian fey orgies.
+
 d12 Specialty: The witch specializes in...
 1. Charms.
 2. Clairvoyance.
@@ -11639,8 +11691,8 @@ d12 Specialty: The witch specializes in...
 10. Poisons.
 11. Potions.
 12. Prophecies.
-d10 Services: For coin or barter, the witch
-will...
+
+d10 Services: For coin or barter, the witch will...
 1. Read your palm.
 2. Gaze into her crystal ball.
 3. Contact a dead relative or friend.
@@ -11663,8 +11715,10 @@ d10 Goal: The witch is seeking...
 8. The wand of a legendary witch or wizard.
 9. The staff of an ancient witch or wizard.
 10. Someone to eat.
-d8 Secrets: The witch has uncovered dark
-secrets. She cannot be killed by...
+11. Power.
+12. A freind.
+
+d8 Secrets: The witch has uncovered dark secrets. She cannot be killed by...
 1. Hanging or strangulation.
 2. Drowning.
 3. Burning.
@@ -11673,6 +11727,7 @@ secrets. She cannot be killed by...
 6. The blade of a mortal man.
 7. Falling from a great height.
 8. Old age.
+
 d12 Trait: The witch has...
 1. A large wart on her nose.
 2. An oversized, crooked nose.
@@ -11686,8 +11741,8 @@ d12 Trait: The witch has...
 10. Long straggly hair.
 11. Long beautiful hair.
 12. Her hair pulled up.
-d20 Potion ingredient: The witch's brew in
-the cauldron contains...
+
+d20 Potion ingredient: The witch's brew in the cauldron contains...
 1. Eye of newt.
 2. Toe of frog.
 3. Wool of bat.
@@ -11708,6 +11763,7 @@ the cauldron contains...
 18. Cob of corn.
 19. Stirge's foot.
 20. Dryad's thorn.
+
 d8 Potion recipe: The witch is brewing...
 1. A love potion.
 2. A fertility tonic.
@@ -11729,29 +11785,21 @@ d10 Lair: The witch’s home is...
 8. Just outside a quiet village.
 9. Down a dark alley in the city.
 10. In the castle or palace of a lord.
+
 d6 Travel: The witch prefers to travel by...
 1. Flying broomstick.
 2. Flying mount (giant owl or hippogriff).
 3. Horseback.
 4. Walking.
-5. Transforming into a beast (d8):
-1. bat; 2. cat; 3. fox; 4. horse; 5. owl;
-6. rat; 7. raven; 8. wolf.
+5. Transforming into a beast (d8): 1. bat; 2. cat; 3. fox; 4. horse; 5. owl; 6. rat; 7. raven; 8. wolf.
 6. Teleportation.
-FAMILIARS
+$FAMILIARS
+
 d12 Creature: The witch’s familiar is...
-1. An elemental spirit (d8): 1. air; 2. earth;
-3. fire; 4. ice; 5. mud; 6. storm; 7. stone;
-8. water.
-2. A fey spirit (d6): 1. an animated toadstool;
-2-3. a pixie; 4. a sprite;
-6. a talking songbird.
-3. A fiendish spirit (d6): 1. a demon trapped in
-a book; 2. a devil trapped in a gem;
-3-4. an imp; 5-6. a quasit.
-4. An undead creature (d6):
-1-2. a crawling claw; 3. a disembodied
-voice; 4. an eerie spectral skull;
+1. An elemental spirit (d8): 1. air; 2. earth; 3. fire; 4. ice; 5. mud; 6. storm; 7. stone; 8. water.
+2. A fey spirit (d6): 1. an animated toadstool; 2-3. a pixie; 4. a sprite; 6. a talking songbird.
+3. A fiendish spirit (d6): 1. a demon trapped in a book; 2. a devil trapped in a gem; 3-4. an imp; 5-6. a quasit.
+4. An undead creature (d6): 1-2. a crawling claw; 3. a disembodied voice; 4. an eerie spectral skull;
 5. a flaming skull; 6. a formless ghost.
 5. A bat.
 6. A cat.
@@ -11761,8 +11809,8 @@ voice; 4. an eerie spectral skull;
 10. A raven.
 11. A rat.
 12. A toad.
-d12 Personality: The witch’s familiar’s
-manner is...
+
+d12 Personality: The witch’s familiar’s manner is...
 1. Calculating.
 2. Clever.
 3. Coy.
