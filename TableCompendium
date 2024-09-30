@@ -9373,11 +9373,13 @@ d6 Trait: On the guard’s face is...
 4-5. A blank stare.
 6. A bushy mustache.
 $PRISONER
+
 d6 Trait: The prisoner has...
 1-2. A long scraggly beard.
 3-4. A patchy beard.
 5. Skin draped loosely over his bones.
 6. Boils and sores on his skin.
+
 d6 Crime: The prisoner is here because...
 1. He stole something.
 2. He killed someone.
@@ -9385,11 +9387,8 @@ d6 Crime: The prisoner is here because...
 4. He advocated rebellion and unrest.
 5. He committed an act of fraud.
 6. Someone confused him with someone else.
+$RANDOM RESTLESS UNDEAD: WALKING BONES AND WANDERING SPIRITS
 
-Page 47
-
-
-RANDOM RESTLESS UNDEAD: WALKING BONES AND WANDERING SPIRITS
 d20 Background: The person was...
 1. A farmer or herder.
 2. A miner or fisher.
@@ -9411,6 +9410,7 @@ d20 Background: The person was...
 18. A smuggler or con artist.
 19. A sailor or pirate.
 20. An alchemist or seer.
+
 d20 Cause of death: The person died from...
 1. Hanging or strangulation.
 2. Beheading.
@@ -9431,66 +9431,49 @@ d20 Cause of death: The person died from...
 17. Liver failure.
 18. Old age.
 19. Natural causes.
-20. Unknown causes or under mysterious
-circumstances.
-d12 Cursed purpose: The person's spirit
-lingers...
+20. Unknown causes or under mysterious circumstances.
+
+d12 Cursed purpose: The person's spirit lingers...
 1. To seek vengeance.
 2. To pine for lost love.
 3. To bemoan lost treasure.
 4. Out of pure hatred of the living.
 5. Out of jealousy of the living.
-6. To covet the belongings of a specific
-individual.
-7. To provide protection to a specific
-someone.
-8. To warn a specific someone against
-danger.
-9. To warn everyone against a specific
-danger.
+6. To covet the belongings of a specific individual.
+7. To provide protection to a specific someone.
+8. To warn a specific someone against danger.
+9. To warn everyone against a specific danger.
 10. To torment a specific someone.
 11. To torment members of a specific group.
 12. To torment anyone who crosses its path.
 
-d12 Breaking the curse: The person's spirit
-can move on if...
+$d12 Breaking the curse: The person's spirit can move on if...
 1. Someone helps it achieve it's goal.
-2. It saves the life of at least one other
-person.
+2. It saves the life of at least one other person.
 3. It achieves its goal on its own.
 4. It is destroyed.
 5. It is driven from its current location.
-6. It is given evidence of events that
-happened after the person's death.
-7. It is made aware of the circumstances of
-the person's death.
-8. It is forced to visit the location of the
-person's death.
-9. It is given the opportunity to speak to a
-loved one.
+6. It is given evidence of events that happened after the person's death.
+7. It is made aware of the circumstances of the person's death.
+8. It is forced to visit the location of the person's death.
+9. It is given the opportunity to speak to a loved one.
 10. It sufficiently satisfies its lust for blood.
-11. It sufficiently satisfies its lust for human
-touch.
+11. It sufficiently satisfies its lust for human touch.
 12. The Hells freeze over.
-CORPOREAL UNDEAD
+$CORPOREAL UNDEAD
+
 d10 Form: The person's spirit is...
-1. Occupying its original body, showing no
-signs of decay.
-2. Occupying its original body, showing some
-signs of decay.
-3. Occupying its original body, badly
-decomposed.
-4. Occupying its original body, only bare
-bones remain.
+1. Occupying its original body, showing no signs of decay.
+2. Occupying its original body, showing some signs of decay.
+3. Occupying its original body, badly decomposed.
+4. Occupying its original body, only bare bones remain.
 5. Occupying the corpse of someone else.
 6. Occupying the living body of a stranger.
-7. Occupying the living body of someone the
-person knew.
+7. Occupying the living body of someone the person knew.
 8. Occupying the living body of a beast.
-9. Occupying part of its original body (skull or
-hand).
-10. Occupying part of someone else’s corpse
-(skull or hand).
+9. Occupying part of its original body (skull or hand).
+10. Occupying part of someone else’s corpse (skull or hand).
+
 d6 Movement: The creature moves...
 1. With a shambling gait.
 2. With an awkward limp.
@@ -9498,6 +9481,7 @@ d6 Movement: The creature moves...
 4. With more of a shimmy than a walk.
 5. Taking slow, steady steps.
 6. With surprising quickness and agility.
+
 d12 Trait: The creature has...
 1. A tattered shirt.
 2. A missing arm, leg, or finger.
@@ -9512,8 +9496,7 @@ d12 Trait: The creature has...
 11. Buck teeth.
 12. A creepy mustache.
 
-d8 Attitude: The spirit’s initial reaction
-when it encounters living creatures is...
+d8 Attitude: The spirit’s initial reaction when it encounters living creatures is...
 1. Hostile and aggressive.
 2. Hostile and suspicious.
 3. Nervous and frightened.
@@ -9522,34 +9505,20 @@ when it encounters living creatures is...
 6. Curious but suspicious.
 7. Curious and playful.
 8. Desperate and aggressive.
+#INCORPOREAL UNDEAD
 
-INCORPOREAL UNDEAD
 d10 Form: The spirit is...
-1. Incorporeal, invisible, and incapable of
-affecting its material surroundings.
-2. Incorporeal, invisible, and capable of
-moving small objects.
-3. Incorporeal, invisible, but capable of
-making itself seen.
-4. Incorporeal, invisible, and hidden within an
-inanimate object (d6):
-1. book; 2. chest; 3. writing desk;
-4. kettle; 5. sword; 6. wardrobe.
-5. Incorporeal, visible, but incapable of
-affecting it's material surroundings.
-6. Incorporeal, visible, and capable of
-significant mischief and harm.
-7. Incorporeal, extraordinarily beautiful, and
-capable of mischief and harm.
-8. Incorporeal, wretched and slimy, and
-capable of mischief and harm.
-9. Incorporeal, glowing blue or green, and
-capable of mischief and harm.
-10. Incorporeal, visible, but in an
-unrecognizable form (d6): 1. mist or fog; 2.
-animal shape; 3. floating skull; 4. faint
-glow; 5. pool of shadows;
-6. spectral hand.
+1. Incorporeal, invisible, and incapable of affecting its material surroundings.
+2. Incorporeal, invisible, and capable of moving small objects.
+3. Incorporeal, invisible, but capable of making itself seen.
+4. Incorporeal, invisible, and hidden within an inanimate object (d6): 1. book; 2. chest; 3. writing desk; 4. kettle; 5. sword; 6. wardrobe.
+5. Incorporeal, visible, but incapable of affecting it's material surroundings.
+6. Incorporeal, visible, and capable of significant mischief and harm.
+7. Incorporeal, extraordinarily beautiful, and capable of mischief and harm.
+8. Incorporeal, wretched and slimy, and capable of mischief and harm.
+9. Incorporeal, glowing blue or green, and capable of mischief and harm.
+10. Incorporeal, visible, but in an unrecognizable form (d6): 1. mist or fog; 2. animal shape; 3. floating skull; 4. faint glow; 5. pool of shadows; 6. spectral hand.
+
 d6 Movement: The spirit moves...
 1. By creeping, oozelike, across the ground.
 2. Smoothly, gliding above the grond.
@@ -9557,6 +9526,7 @@ d6 Movement: The spirit moves...
 4. Lightly, rarely touching the ground.
 5. Much quicker than you expect it to.
 6. By teleporting in a swirl of shadows.
+
 d10 Trait: The spirit appears to be...
 1. Severely bloated.
 2. Moaning in anguish.
@@ -9568,20 +9538,16 @@ d10 Trait: The spirit appears to be...
 8. Wind-blown and haggard.
 9. Fidgeting nervously.
 10. Oozing ectoplasm.
+$RANDOM SAVAGE HORDES: THE BARBARIANS ARE COMING!
 
-Page 48
-
-
-RANDOM SAVAGE HORDES: THE BARBARIANS ARE COMING!
 d6 Business: The barbarians are...
 1. A tribe of nomads, following game.
-2. A tribe that began raiding after being
-displaced from their native lands.
+2. A tribe that began raiding after being displaced from their native lands.
 3. A clan exiled from their native lands.
 4. A clan in the service of a sovereign.
 5. A confederacy of related tribes or clans.
-6. The degenerate survivors of a broken
-army.
+6. The degenerate survivors of a broken army.
+
 d6 Travel: The barbarians travel...
 1. On foot.
 2. On foot with small carts.
@@ -9589,6 +9555,7 @@ d6 Travel: The barbarians travel...
 4. On mounts.
 5. On mounts with wagons.
 6. In small watercraft.
+
 d8 Values: The barbarians value...
 1. Bravery.
 2. Strength.
@@ -9598,21 +9565,13 @@ d8 Values: The barbarians value...
 6. Honoring their ancestors.
 7. Battle-scars.
 8. Kill counts.
-d6 Symbol: The barbarians’ iconography
-features...
-1-2. Symbols of death and destruction (d8):
-1. bats; 2. bones; 3. crows; 4. flames;
-5. ghosts; 6. scorpions; 7. skulls;
-8. vultures.
-3. Symbols of the heavens (d6):
-1. clouds; 2. lightning; 3. moon; 4. snow; 5.
-stars; 6. sun.
-4. Symbols of strength and weaponry (d6): 1.
-arrows; 2. axes’; 3. fists; 4. spears;
-5. stones; 6. sword.
-5-6. Totem beasts (d8): 1. bears; 2. boars;
-3. eagles; 4. horses; 5. lions; 6.owls;
-7. snakes; 8. wolves.
+
+d6 Symbol: The barbarians’ iconography features...
+1-2. Symbols of death and destruction (d8): 1. bats; 2. bones; 3. crows; 4. flames; 5. ghosts; 6. scorpions; 7. skulls; 8. vultures.
+3. Symbols of the heavens (d6): 1. clouds; 2. lightning; 3. moon; 4. snow; 5. stars; 6. sun.
+4. Symbols of strength and weaponry (d6): 1. arrows; 2. axes’; 3. fists; 4. spears; 5. stones; 6. sword.
+5-6. Totem beasts (d8): 1. bears; 2. boars; 3. eagles; 4. horses; 5. lions; 6.owls; 7. snakes; 8. wolves.
+
 d10 Chief: The barbarians’ leader is...
 1. A well-respected chief.
 2. A charismatic warlord.
@@ -9624,8 +9583,8 @@ d10 Chief: The barbarians’ leader is...
 8. A wise old man.
 9. A celebrated war hero.
 10. A prolific lover.
-d10 Notoriety: The barbarians are notorious
-for...
+
+d10 Notoriety: The barbarians are notorious for...
 1. Never leaving survivors.
 2. Feeding prisoners to wild beasts.
 3. Tattooing or branding prisoners.
@@ -9635,11 +9594,9 @@ for...
 7. Plundering merchant caravans.
 8. Eating prisoners.
 9. Claiming prisoners as slaves.
-10. Taking prisoners as wives, concubines, or
-catamites.
+10. Taking prisoners as wives, concubines, or catamites.
 
-d12 Reputation: The barbarians are known
-for...
+d12 Reputation: The barbarians are known for...
 1. Screaming and shouting during battle.
 2. Convening with ghosts and spirits.
 3. Ritual animal sacrifice.
@@ -9652,6 +9609,7 @@ for...
 10. Shaving their heads and bodies.
 11. Never bathing.
 12. Bathing and perfuming their bodies.
+
 d6 Morale: The barbarians’ attitude is...
 1. Rowdy and festive.
 2. Joyful and eager to fight.
@@ -9659,7 +9617,8 @@ d6 Morale: The barbarians’ attitude is...
 4. Frightened and suspicious.
 5. Hostile and suspicious.
 6. Hostile and eager to fight.
-INDIVIDUAL WARRIORS
+$INDIVIDUAL WARRIORS
+
 d8 Armor: The warrior is armored in...
 1. Nothing.
 2. Tattered leather.
@@ -9669,8 +9628,8 @@ d8 Armor: The warrior is armored in...
 6. The hides of furry beasts.
 7. The hides of exotic beasts.
 8. Armor taken from a fallen enemy.
-d12 Primary weapon: The warrior is
-wielding...
+
+d12 Primary weapon: The warrior is wielding...
 1. A spear and a hunting knife.
 2. A spear and a shield.
 3. An exotic, curved blade.
@@ -9683,8 +9642,8 @@ wielding...
 10. A greatsword.
 11. A pair of long knives.
 12. A longspear and hunting knife.
-d8 Secondary weapon: The warrior is also
-carrying...
+
+d8 Secondary weapon: The warrior is also carrying...
 1. Several throwing spears.
 2. Several throwing axes.
 3. Many throwing knives.
@@ -9693,6 +9652,7 @@ carrying...
 6. A greatbow.
 7. A blowgun.
 8. Several bolas.
+
 d6 Tactics: The warrior fights with...
 1. Hit-and-run tactics.
 2. Making a mad charge.
@@ -9702,21 +9662,13 @@ d6 Tactics: The warrior fights with...
 6. Lots of head-butting.
 
 d10 Fears: The barbarians fear...
-1. Foreigners wearing a particular color of
-clothing (d8): 1. red; 2. gold; 3. green;
-4. blue; 5. purple; 6. white; 7. black;
-8. grey.
+1. Foreigners wearing a particular color of clothing (d8): 1. red; 2. gold; 3. green; 4. blue; 5. purple; 6. white; 7. black; 8. grey.
 2. Foreigners armored in steel.
 3. Foreigners with facial hair.
 4. Foreign women.
 5. All foreigners.
-6. Members of a particular race (d6):
-1-2. dwarves; 2. elves; 3. goblinoids;
-5-6. reptilian humanoids.
-7. A particular natural phenomenon (d6):
-1. blizzards; 2. earthquakes; 3. floods;
-4. thunderstorms; 5. volcanoes;
-6. typhoons.
+6. Members of a particular race (d6): 1-2. dwarves; 2. elves; 3. goblinoids; 5-6. reptilian humanoids.
+7. A particular natural phenomenon (d6): 1. blizzards; 2. earthquakes; 3. floods; 4. thunderstorms; 5. volcanoes; 6. typhoons.
 8. Spellcasters.
 9. The gods.
 10. Dragons.
@@ -9734,6 +9686,7 @@ d12 Skills: The warrior is...
 10. A drunk.
 11. A favorite among the men.
 12. A favorite among the ladies.
+
 d12 Facial feature: On the warrior’s face is...
 1. A bone through a nose piercing.
 2. A bone earing.
@@ -9747,13 +9700,11 @@ d12 Facial feature: On the warrior’s face is...
 10. A frame of long, beautiful long hair.
 11. An unruly beard.
 12. A long, braided mustache.
+
 d10 Body: On the warrior’s body is...
-1. A tattoo of a great beast (d6):1. bear;
-2. boar; 3. dragon; 4. eagle; 5. lion;
-6. wolf.
+1. A tattoo of a great beast (d6):1. bear; 2. boar; 3. dragon; 4. eagle; 5. lion; 6. wolf.
 2. A tattoo of a skull and some bones.
-3. A tattoo of a weapon (d6): 1-2. arrow;
-3. axe; 4-5. spear; 6. sword.
+3. A tattoo of a weapon (d6): 1-2. arrow; 3. axe; 4-5. spear; 6. sword.
 4. A festering wound.
 5. A noticeable battle scar.
 6. A large burn scar.
@@ -9761,11 +9712,8 @@ d10 Body: On the warrior’s body is...
 8. An intimidating amount of muscle.
 9. An awful lot of war paint.
 10. A whole lot of hair.
+$RANDOM SERIAL KILLERS: “I WAS BORN WITH THE DEVIL IN ME...”
 
-Page 49
-
-
-RANDOM SERIAL KILLERS: “I WAS BORN WITH THE DEVIL IN ME...”
 d12 Background: The killer is...
 1. A quiet artisan.
 2. An eccentric scholar.
@@ -9779,8 +9727,8 @@ d12 Background: The killer is...
 10. A brutish thug.
 11. A religious fanatic.
 12. A veteran soldier.
-d20 Methods: The killer’s modus operandi
-is...
+
+d20 Methods: The killer’s modus operandi is...
 1. Ingested poison or allergic reaction.
 2. Contact poison applied to a weapon.
 3. Arrow/bolt from range.
@@ -9801,8 +9749,8 @@ is...
 18. Dismemberment.
 19. Burning alive.
 20. Feeding to animals.
-d12 Weapons: The killer is often armed
-with...
+
+d12 Weapons: The killer is often armed with...
 1. Poisoned daggers.
 2. Throwing knives.
 3. An over-sized dagger.
@@ -9815,13 +9763,13 @@ with...
 10. A garrote and dagger.
 11. Poisoned projectiles.
 12. Bare fists.
+
 d6 Goals: The killer’s purposes include...
 1. Sowing fear.
 2. Sowing destruction.
 3. Sowing chaos.
 4. Satisfying personal bloodlust.
-5. Gaining vengeance by hunting down a set
-of specific individuals.
+5. Gaining vengeance by hunting down a set of specific individuals.
 6. Vigilante justice.
 
 d6 Crime scene: The killer leaves a victim...
@@ -9829,19 +9777,18 @@ d6 Crime scene: The killer leaves a victim...
 2. In a signature location.
 3. With a note on the corpse.
 4. With a piece of the corpse missing.
-5. With an unusual object planted on the
-corpse.
+5. With an unusual object planted on the corpse.
 6. Where the corpse will never be found.
-d6 Timing: The killer typically plans
-murders for...
+
+d6 Timing: The killer typically plans murders for...
 1. Just after sunrise.
 2. Just after sunset.
 3. Well into the night.
 4. The toll of midnight.
 5. After midnight.
 6. Just before sunrise.
-d12 Home base: The killer’s base of
-operations is hidden in or near...
+
+d12 Home base: The killer’s base of operations is hidden in or near...
 1. The killer’s own residence.
 2. An artisan's shop or guildhall.
 3. A merchant's office.
@@ -9852,11 +9799,10 @@ operations is hidden in or near...
 8. The city's sewers.
 9. An abandoned guildhall or warehouse.
 10. An armory or barracks.
-11. The residence of a wealthy individual or
-prominent citizen.
+11. The residence of a wealthy individual or prominent citizen.
 12. The killer is a transient.
-d20 Victims: The killer’s favorite victims
-are...
+
+d20 Victims: The killer’s favorite victims are...
 1. Fishermen and sailors.
 2. Beggars and thieves.
 3. Merchants and moneychangers.
@@ -9889,6 +9835,7 @@ d10 Limits: The killer refuses to kill...
 8. Anyone with blonde hair.
 9. Anyone with red hair.
 10. Anyone who is blind, deaf, or lame.
+
 d8 Apparel: The killer often wears...
 1. Old worn boots.
 2. Shiny leather boots.
@@ -9898,28 +9845,22 @@ d8 Apparel: The killer often wears...
 6. A low-cut shirt.
 7. Tight-fitting clothes.
 8. A fake mustache.
+
 d12 Possession: The killer carries...
 1. The weapon used in his or her first kill.
 2. A trophy from his/her first kill.
 3. A trophy from every one of his or her kills.
-4. A ledger listing each and every one of his
-or her kills.
-5. A journal describing in gory detail each and
-every one of his or her kills
+4. A ledger listing each and every one of his or her kills.
+5. A journal describing in gory detail each and every one of his or her kills
 6. A token stolen from his or her next mark.
 7. An exotic weapon.
 8. A highly polished weapon.
 9. A weapon with runes carved into it.
-10. A weapon with a gem embedded in the
-pommel.
-11. A weapon with soft leather tassels
-dangling from the pommel.
-12. A weapon made of an unusual material
-(d6): 1. blackened steel;
-2. bone; 3. coral; 4. crude iron;
-5. obsidian; 6. stone.
-d12 Quirk: The killer is unusually fond of or
-particular regarding...
+10. A weapon with a gem embedded in the pommel.
+11. A weapon with soft leather tassels dangling from the pommel.
+12. A weapon made of an unusual material (d6): 1. blackened steel; 2. bone; 3. coral; 4. crude iron; 5. obsidian; 6. stone.
+
+d12 Quirk: The killer is unusually fond of or particular regarding...
 1. Horticulture and floral arrangements.
 2. Fashion trends.
 3. Gourmet cooking.
@@ -9932,46 +9873,82 @@ particular regarding...
 10. Fine wines.
 11. Social status.
 12. Facial hair.
+$RANDOM DOCKSIDE TAVERNS: WHAT DO YOU DO WITH A DRUNKEN SAILOR?
+$NAME
 
-Page 50
+d10 This place is called the... (First)
+1. Blue 
+2. Dark 
+3. Drunken
+4. Green
+5. Lonely 
+6. Red
+7. Salty 
+8. Singing 
+9. White
+10. Winged
 
+d10 This place is called the... (Last)
+1. Crab
+2. Dolphin
+3. Mermaid
+4. Seal
+5. Shark
+6. Snail
+7. Squid
+8. Tuna
+9. Turtle
+10. Whale
 
-RANDOM DOCKSIDE TAVERNS: WHAT DO YOU DO WITH A DRUNKEN SAILOR?
-NAME
-d10 This place is called the... (roll 2x)
-1. Blue 1. Crab
-2. Dark 2. Dolphin
-3. Drunken 3. Mermaid
-4. Green 4. Seal
-5. Lonely 5. Shark
-6. Red 6. Snail
-7. Salty 7. Squid
-8. Singing 8. Tuna
-9. White 9. Turtle
-10. Winged 10. Whale
-d10 Or perhaps, the... (roll 2x)
-1. Captain's 1. Alehouse
-2. Fisherman's 2. Anchor
-3. Harpooner's 3. Cabin
-4. Kraken's 4. Cove
-5. Maiden's 5. Hideaway
-6. Merchant's 6. House
-7. Pirate's 7. Inn
-8. Sailor's 8. Quarters
-9. Siren's 9. Resort
-10. Smuggler's 10. Tavern
-d10 Or maybe, the... (roll 2x)
-1. Drifting 1. Albatross
-2. Drowned 2. Dragon
-3. Flying 3. Ghost
-4. Grey 4. Hurricane
-5. Pale 5. Moon
-6. Rising 6. Pelican
-7. Shivering 7. Seagull
-8. Sunken 8. Star
-9. Wandering 9. Storm
-10. Wayward 10. Tide.
-PROPRIETOR
+d10 Or perhaps, the... (First)
+1. Captain's 
+2. Fisherman's 
+3. Harpooner's 
+4. Kraken's 4. 
+5. Maiden's 5. 
+6. Merchant's 
+7. Pirate's 
+8. Sailor's 
+9. Siren's 
+10. Smuggler's 
+
+d10 Or perhaps, the... (Last)
+1. Alehouse
+2. Anchor
+3. Cabin
+4. Cove
+5. Hideaway
+6. House
+7. Inn
+8. Quarters
+9. Resort
+10. Tavern
+
+d10 Or maybe, the... (first)
+1. Drifting
+2. Drowned
+3. Flying 
+4. Grey 
+5. Pale 
+6. Rising 
+7. Shivering 
+8. Sunken 
+9. Wandering 
+10. Wayward
+
+d10 Or maybe, the... (last)
+1. Albatross
+2. Dragon
+3. Ghost
+4. Hurricane
+5. Moon
+6. Pelican
+7. Seagull
+8. Star
+9. Storm
+10. Tide.
+$PROPRIETOR
+
 d10 Background: The place is owned by...
 1. An old sea captain.
 2. A suspicious fisherman's wife.
@@ -9983,6 +9960,7 @@ d10 Background: The place is owned by...
 8. A talented singer.
 9. A crippled smuggler.
 10. A flirtatious tart.
+
 d10 Work: The proprietor...
 1. Buses tables.
 2. Minds the door.
@@ -9994,6 +9972,7 @@ d10 Work: The proprietor...
 8. Only visits the place when there is trouble.
 9. Greets only wealthy and important patrons.
 10. Hasn't set foot in the place in years.
+
 d10 Concern: Recently, trouble with...
 1. Some rowdy patrons.
 2. Some local thugs offering "protection."
@@ -10005,24 +9984,36 @@ d10 Concern: Recently, trouble with...
 8. Rum-runners not making good on deliveries.
 9. A dangerous thug refusing to pay his tab.
 10. Rats—or worse—in the cellar or storeroom.
+$LOCATION AND STRUCTURE
 
-LOCATION AND STRUCTURE
 d20 Location: The place is right next to...
-1. A customs house. 11. A stone bridge.
-2. A prison. 12. An old fortification.
-3. A ferry port. 13. A fishing pier.
-4. A lumber yard. 14. A dry-docked ship.
-5. A merchant's office. 15. An upscale inn.
-6. A sailmender's. 16. A rival tavern.
-7. A shipyard. 17. A classy bordello.
-8. A smokehouse. 18. A low brothel.
-9. A warehouse. 19. A gambling den.
-10. A rocky beach. 20. An antiquities shop.
+1. A customs house. 
+2. A stone bridge.
+3. A prison. 
+4. An old fortification.
+5. A ferry port. 
+6. A fishing pier.
+7. A lumber yard. 
+8. A dry-docked ship.
+9. A merchant's office. 
+10. An upscale inn.
+11. A sailmender's. 
+12. A rival tavern.
+13. A shipyard. 
+14. A classy bordello.
+15. A smokehouse. 
+16. A low brothel.
+17. A warehouse. 
+18. A gambling den.
+19. A rocky beach. 
+20. An antiquities shop.
+
 d6 Size: The tavern is...
 1. Tiny; 10 or fewer patrons at a time.
 2-3. Small; 11-20 patrons at a time.
 4-5. Decent-sized; 21-50 patrons at a time.
 6. Large; 50 or more patrons at a time.
+
 d10 Structure: The tavern is...
 1. A sturdy stone structure.
 2. A rickety two-story structure.
@@ -10034,15 +10025,22 @@ d10 Structure: The tavern is...
 8. Located in or atop an old dry-docked ship.
 9. Located at the end of a wooden pier.
 10. Located down a dark, twisting alley.
-DECOR
+$DECOR
+
 d12 Wallhangings: On the walls hang...
-1. Carved mermaids. 7. Paintings of dragons.
-2. Fishing tackle. 8. Paintings of krakens.
-3. Naval banners. 9. Ship's rigging.
-4. Oars and wheels. 10. Maps and charts.
-5. Sabres and knives. 11. Trophy fish.
-6. Coconuts and 12. Sealskins and
-tropical flowers. harpoons.
+1. Carved mermaids. 
+2. Paintings of dragons.
+3. Fishing tackle. 
+4. Paintings of krakens.
+5. Naval banners. 
+6. Ship's rigging.
+7. Oars and wheels. 
+8. Maps and charts.
+9. Sabres and knives. 
+10. Trophy fish.
+11. Coconuts and 
+12. Sealskins and tropical flowers. harpoons.
+
 d8 Bar: The bar is made of...
 1. A couple of overturned barrels.
 2. A long wooden table.
@@ -10052,15 +10050,24 @@ d8 Bar: The bar is made of...
 6. Some old shipping crates.
 7. Sturdy teak.
 8. Wood carved to depict figures or shapes.
-ROOMS AND SERVICES
+$ROOMS AND SERVICES
+
 d6 Availability: The place has...
-1. A single room. 4. Plenty of rooms.
-2. Two rooms. 5. A large dormitory.
-3. Several rooms. 6. No lodging.
+1. A single room. 
+2. Plenty of rooms.
+3. Two rooms. 
+4. A large dormitory.
+5. Several rooms. 
+6. No lodging.
+
 d6 Room quality: The rooms are...
-1. A little dusty. 4. Recently refurbished.
-2. A little smelly. 5. Well-used but clean.
-3. Absolutely filthy. 6. Simply furnished.
+1. A little dusty. 
+2. Recently refurbished.
+3. A little smelly. 
+4. Well-used but clean.
+5. Absolutely filthy. 
+6. Simply furnished.
+
 d6 Sleeping: The beds are...
 1. Wood pallets. 4-5. Hammocks.
 2-3. Straw mats. 6. Pretty comfortable.
