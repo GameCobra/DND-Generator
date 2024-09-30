@@ -10069,55 +10069,109 @@ d6 Room quality: The rooms are...
 6. Simply furnished.
 
 d6 Sleeping: The beds are...
-1. Wood pallets. 4-5. Hammocks.
-2-3. Straw mats. 6. Pretty comfortable.
+1. Wood pallets. 
+2-3. Hammocks.
+4. Straw mats. 
+5-6. Pretty comfortable.
+
 d12 Special: The barkeep will help you find...
-1. A boat to rent. 7. Work aboard a ship.
-2. Ship's passage. 8. Soup in your room.
-3. Wood for a fire. 9. Rations of dried fish.
-4. Extra blankets. 10. A length of rope.
-5. Linen sheets. 11. Fishing bait.
-6. Stronger drinks. 12. A harlot's company.
-MENU
-d10 Tonight, we dine on...
-1. Stewed. 6. Brined.
-2. Breaded. 7. Seared.
-3. Fried. 8. Peppered.
-4. Battered. 9. Salted.
-5. Baked. 10. Pickled.
-d20 ...
-1. Clams. 8. Smelt. 15. Halibut.
-2. Crab. 9. Haddock. 16. Cod.
-3. Herring. 10. Mackerel. 17. Sea bass.
-4. Lobster. 11. Squid. 18. Goose.
-5. Mussels. 12. Shrimp. 19. Chicken.
-6. Oysters. 13. Prawns. 20. Mutton.
-7. Salmon. 14. Tuna.
+1. A boat to rent. 
+2. Work aboard a ship.
+3. Ship's passage. 
+4. Soup in your room.
+5. Wood for a fire. 
+6. Rations of dried fish.
+7. Extra blankets. 
+8. A length of rope.
+9. Linen sheets. 
+10. Fishing bait.
+11. Stronger drinks. 
+12. A harlot's company.
+$MENU
+
+d10 Tonight, we dine on... (First)
+1. Stewed. 
+2. Brined.
+3. Breaded. 
+4. Seared.
+5. Fried. 
+6. Peppered.
+7. Battered. 
+8. Salted.
+9. Baked. 
+10. Pickled.
+
+d20 Tonight, we dine on... (Second)
+1. Clams. 
+2. Smelt. 
+3. Halibut.
+4. Crab. 
+5. Haddock. 
+6. Cod.
+7. Herring. 
+8. Mackerel. 
+9. Sea bass.
+10. Lobster. 
+11. Squid. 
+12. Goose.
+13. Mussels. 
+14. Shrimp. 
+15. Chicken.
+16. Oysters. 
+17. Prawns. 
+18. Mutton.
+19. Salmon. 
+20. Tuna.
+
 d10 ...with...
-1. Golden potatoes. 6. Red beans.
-2. Red potatoes. 7. Black beans.
-3. Beets. 8. Turnip mash.
-4. Leeks. 9. Diced turnips.
-5. Lentils. 10. Wild rice.
+1. Golden potatoes. 
+2. Red beans.
+3. Red potatoes. 
+4. Black beans.
+5. Beets. 
+6. Turnip mash.
+7. Leeks. 
+8. Diced turnips.
+9. Lentils. 
+10. Wild rice.
+
 d12 ...and...
-1. Carrots. 7. Lemon wedges.
-2. Red cabbage. 8. Parsley.
-3. Green cabbage. 9. Radishes.
-4. Purple cabbage. 10. Peas.
-5. Dill weed. 11. Green onions.
-6. Lemongrass. 12. Yellow onions.
+1. Carrots. 
+2. Lemon wedges.
+3. Red cabbage. 
+4. Parsley.
+5. Green cabbage. 
+6. Radishes.
+7. Purple cabbage. 
+8. Peas.
+9. Dill weed. 
+10. Green onions.
+11. Lemongrass. 
+12. Yellow onions.
+
 d8 On the side, there is some...
-1. Sourdough bread. 5. Sesame bread.
-2. Fresh bread. 6. Oat bread.
-3. Crusty bread. 7. Pumpernickel bread.
-4. Sweet bread. 8. Beer bread.
+1. Sourdough bread. 
+2. Sesame bread.
+3. Fresh bread. 
+4. Oat bread.
+5. Crusty bread. 
+6. Pumpernickel bread.
+7. Sweet bread. 
+8. Beer bread.
+
 d10 To wash it down, we have some...
-1. Bitter ale. 6. Sour wine.
-2. Wheat ale. 7. Red wine.
-3. Steam beer. 8. Tea.
-4. Porter. 9. Spiced rum.
-5. Mead. 10. Dry rum.
-ENTERTAINMENT
+1. Bitter ale. 
+2. Sour wine.
+3. Wheat ale. 
+4. Red wine.
+5. Steam beer. 
+6. Tea.
+7. Porter. 
+8. Spiced rum.
+9. Mead. 
+10. Dry rum.
+$ENTERTAINMENT
+
 d12 For entertainment tonight, there is/are...
 1. A charming singer performing bawdy songs.
 2. A sailor leading a chorus of sea chanteys.
@@ -10131,35 +10185,39 @@ d12 For entertainment tonight, there is/are...
 10. Pit-fighting, featuring exotic martial artists.
 11. Fighting crabs.
 12. Snail races.
-PATRONS
+$PATRONS
+
 d20 Among the crowd, you meet...
-1. A grim captain. 11. A foreign sailor.
-2. An apprentice clerk. 12. A novice sailor.
-3. A local fisherman. 13. A rowdy sellsword.
-4. A drunken guard. 14. A witty singer.
-5. A precocious harlot. 15. A cautious smuggler.
-6. A snooty merchant. 16. A wild swashbuckler.
-7. A jolly old monk. 17. A foreign trader.
-8. A customs official. 18. An exotic warrior.
-9. An amiable pirate. 19. A mysterious woman.
-10. A young priest. 20. An angry dwarf.
+1. A grim captain. 
+2. A foreign sailor.
+3. An apprentice clerk. 
+4. A novice sailor.
+5. A local fisherman. 
+6. A rowdy sellsword.
+7. A drunken guard. 
+8. A witty singer.
+9. A precocious harlot. 
+10. A cautious smuggler.
+11. A snooty merchant. 
+12. A wild swashbuckler.
+13. A jolly old monk. 
+14. A foreign trader.
+15. A customs official. 
+16. An exotic warrior.
+17. An amiable pirate. 
+18. A mysterious woman.
+19. A young priest. 
+20. An angry dwarf.
+$RANDOM TEMPLES: KNEEL BEFORE THE GODS...
 
-Page 51
-
-
-RANDOM TEMPLES: KNEEL BEFORE THE GODS...
 d6 Dedicatee: Worshipers here pray to...
 1. One god and only one god.
-2. One god primarily, but other gods
-occasionally or for specific petitions.
-3. Several gods within a pantheon, but two
-gods above the rest.
-4. An entire pantheon, petitioning each god
-for specific needs.
-5. One god to whom the temple was not
-originally dedicated.
-6. Several gods within a pantheon to whom
-the temple was not originally dedicated.
+2. One god primarily, but other gods occasionally or for specific petitions.
+3. Several gods within a pantheon, but two gods above the rest.
+4. An entire pantheon, petitioning each god for specific needs.
+5. One god to whom the temple was not originally dedicated.
+6. Several gods within a pantheon to whom the temple was not originally dedicated.
+
 d12 Reputation: The temple is known for...
 1. Miraculous healers.
 2. Compassionate healers.
@@ -10173,14 +10231,15 @@ d12 Reputation: The temple is known for...
 10. A famous sculpture or painting.
 11. Lengthy prayer services and vigils.
 12. Lively prayer services and debates.
+
 d6 Entrance: The entrance is guarded by...
 1. A sworn order of devout warriors.
 2. Sellswords.
 3. Frightening statues of monstrous beings.
 4. Impressive, colossal statues of warriors.
-5. Statues of beautiful maidens, beckoning
-visitors into a trap.
+5. Statues of beautiful maidens, beckonin visitors into a trap.
 6. Nothing; the temple welcomes all.
+
 d8 Layout: The temple’s main floorplan is...
 1. Circular.
 2. Ellipsoidal.
@@ -10188,36 +10247,26 @@ d8 Layout: The temple’s main floorplan is...
 4. Square.
 5. Rectangular.
 6. Pentagonal.
-7. Polygonal with many sides (d8): 1. six;
-2. seven; 3. eight; 4. nine; 5. ten; 6. twelve;
-7. thirteen; 8. twenty.
+7. Polygonal with many sides (d8): 1. six; 2. seven; 3. eight; 4. nine; 5. ten; 6. twelve; 7. thirteen; 8. twenty.
 8. Cruciform.
+
 d8 Complex: The temple complex is...
-1. Simple; a large main worship chamber with
-a handful of functional rooms adjoining.
-2. Simple with a large annex; the annex
-contains many chambers.
+1. Simple; a large main worship chamber with a handful of functional rooms adjoining.
+2. Simple with a large annex; the annex contains many chambers.
 3. Simple with fortifications.
-4. Multi-layered; upper or lower layers are
-inaccessible to most visitors.
-5. Multi-winged; some wings are inaccessible
-to most visitors.
-6. Arranged in a concentric fashion; inner
-areas are inaccessible to most visitors.
-7. Labyrinthine; designed to deliberately
-confuse outsiders.
-8. Simple with an intricate complex hidden
-beneath the main worship chamber.
+4. Multi-layered; upper or lower layers are inaccessible to most visitors.
+5. Multi-winged; some wings are inaccessible to most visitors.
+6. Arranged in a concentric fashion; inner areas are inaccessible to most visitors.
+7. Labyrinthine; designed to deliberately confuse outsiders.
+8. Simple with an intricate complex hidden beneath the main worship chamber.
+
 d6 Structure: The structure includes...
 1. Impenetrable stone walls.
-2. An intricate structure of stone arches and
-columns.
+2. An intricate structure of stone arches and columns.
 3. A colorful painted wood and plaster.
 4. A sturdy structure of finished wood.
 5. A solid structure of oven-fired clay bricks.
-6. A large structure with immense metal
-doors (d6): 1. brass; 2. bronze; 3. gold;
-4. iron; 5. steel; 6. tin.
+6. A large structure with immense metal doors (d6): 1. brass; 2. bronze; 3. gold; 4. iron; 5. steel; 6. tin.
 
 d8 Walls: Many of the interior walls are...
 1. Rough hewn stone.
@@ -10228,6 +10277,7 @@ d8 Walls: Many of the interior walls are...
 6. Decorated with elaborate murals.
 7. Decorated with relief carvings.
 8. Decorated with sacred texts and runes.
+
 d6 Ceilings: Many of the ceilings are...
 1. Uncomfortably close to your head.
 2. Connected to the floor by columns.
@@ -10235,6 +10285,7 @@ d6 Ceilings: Many of the ceilings are...
 4. So high its difficult to make out details.
 5. Vaulted.
 6. Domes or cupolas.
+
 d20 Rooms: The purpose of this room is...
 1. An armory or barracks.
 2. A guardroom or sentry post.
@@ -10245,12 +10296,8 @@ d20 Rooms: The purpose of this room is...
 7. A sanitarium or infirmary.
 8. A ceremonial pool, bath, or fountain.
 9. A morgue or mortuary.
-10. A crypt for a person of importance (d6):
-1. well-known hero; 2. powerful high priest;
-3-4. obscure priest; 5-6. wealthy noble.
-11. A room dedicated for specific rituals (d6):
-1. conjurations; 2-3. divinations;
-4-5. funerals; 6. healing miracles.
+10. A crypt for a person of importance (d6): 1. well-known hero; 2. powerful high priest; 3-4. obscure priest; 5-6. wealthy noble.
+11. A room dedicated for specific rituals (d6): 1. conjurations; 2-3. divinations; 4-5. funerals; 6. healing miracles.
 12. A chapel for a lesser deity, saint, or martyr.
 13. A classroom or dormitory.
 14. A library.
@@ -10260,6 +10307,7 @@ d20 Rooms: The purpose of this room is...
 18. A trophy room or art gallery.
 19. A stable or kennel.
 20. A workshop for temple craftsmen.
+
 d20 Features: You notice...
 1. A small altar set in an alcove in the wall.
 2. The sound of bells ringing in a tower.
@@ -10275,14 +10323,13 @@ d20 Features: You notice...
 12. A kneeler beneath a small statue or icon.
 13. An oil lamp with colored glass panels.
 14. A mosaic set into the floor of the room.
-15. A wide fresco or mural depicting a
-mythological scene.
-16. The pipes of an immense organ running
-along the walls.
+15. A wide fresco or mural depicting a mythological scene.
+16. The pipes of an immense organ running along the walls.
 17. Robes and cassocks hanging on hooks.
 18. An ornamental rug.
 19. A screen to hide priests from view.
 20. A statue of a recognizable figure.
+
 d6 Encounters: You come upon...
 1. A young priest or priestess.
 2. An old priest or priestess.
@@ -10290,8 +10337,8 @@ d6 Encounters: You come upon...
 4. A regular, local worshiper.
 5. A member of the temple’s serving staff.
 6. A member of the temple’s guard.
+$INDIVIDUAL PRIESTS
 
-INDIVIDUAL PRIESTS
 d12 Vocation: The priest is...
 1. A devoted acolyte.
 2. A dogmatic chaplain.
@@ -10305,6 +10352,7 @@ d12 Vocation: The priest is...
 10. A battle-tested warpriest.
 11. A sharp-witted witch-hunter.
 12. An outspoken zealot.
+
 d12 Mannerisms: The priest has...
 1. A likable grin.
 2. A hearty laugh.
@@ -10317,38 +10365,34 @@ d12 Mannerisms: The priest has...
 9. A habit of pacing.
 10. A habit of scratching his or her chin.
 11. A habit of licking his or her lips.
-12. A habit of muttering under his or her
-breath.
+12. A habit of muttering under his or her breath.
+
 d10 Apparel: The priest wears...
 1. A threadbare robe.
 2. A sturdy wool cloak.
 3. A comfortable linen robe.
-4. A cotton robe with the symbol of a god
-embroidered on the lapel.
+4. A cotton robe with the symbol of a god embroidered on the lapel.
 5. A clean silk robe with simple embroidery.
-6. An expensive silk robe with elaborate gold
-embroidery.
+6. An expensive silk robe with elaborate gold embroidery.
 7. Boiled leather armor.
 8. Patchwork armor of leather and steel.
 9. Chainmail armor with a priest’s hood.
-10. Chainmail emblazoned with the symbol of
-a god.
+10. Chainmail emblazoned with the symbol of a god.
+
 d12 Possessions: The priest carries...
 1. A well-used cudgel.
 2. A shiny new mace.
 3. A walking staff.
 4. A staff with a crook.
 5. A ceremonial dagger.
-6. A prominently displayed holy symbol (d6):
-1. bejeweled; 2. gilded; 3. iron; 4. silver; 5.
-steel; 6. wooden.
+6. A prominently displayed holy symbol (d6): 1. bejeweled; 2. gilded; 3. iron; 4. silver; 5. steel; 6. wooden.
 7. A pocketbook of sacred texts.
-8. A notebook of hand-written prayers and
-devotions.
+8. A notebook of hand-written prayers and devotions.
 9. A variety of healing potions and salves.
 10. A set of prayer beads.
 11. A heavy ring of keys.
 12. A wineskin.
+
 d10 Goal: The priest is looking for...
 1. New converts.
 2. The translation of an ancient manuscript.
@@ -10360,11 +10404,8 @@ d10 Goal: The priest is looking for...
 8. The location of a ruined temple.
 9. An opportunity to tell a fable.
 10. The bottom of a goblet.
+$RANDOM THIEVES: HOLD ON TO YOUR PURSE...
 
-Page 52
-
-
-RANDOM THIEVES: HOLD ON TO YOUR PURSE...
 d12 Background: The thief is...
 1. A veteran dungeon delver.
 2. A desperate footpad.
@@ -10378,6 +10419,7 @@ d12 Background: The thief is...
 10. A charming rogue.
 11. A dashing swashbuckler.
 12. A brutish thug.
+
 d12 Trait: The thief has...
 1. A long, hooked nose.
 2. A bent, broken nose.
@@ -10386,14 +10428,12 @@ d12 Trait: The thief has...
 5. Pockmarked cheeks.
 6. High cheek bones.
 7. A pointy chin.
-8. A thug's tattoo on the arm (d8): 1. crossed
-bones; 2. dagger; 3. dragon; 4. eagle;
-5. skull; 6. snake; 7. spider web; 8. thorns.
-9. A sailor's tattoo on the arm (d6): 1. anchor;
-2-3. mermaid; 4. octopus; 5-6. whale.
+8. A thug's tattoo on the arm (d8): 1. crossed bones; 2. dagger; 3. dragon; 4. eagle; 5. skull; 6. snake; 7. spider web; 8. thorns.
+9. A sailor's tattoo on the arm (d6): 1. anchor; 2-3. mermaid; 4. octopus; 5-6. whale.
 10. An open shirt and a very hairy chest.
 11. A five o'clock shadow.
 12. An extravagant mustache.
+
 d12 Apparel or accessory: The thief wears...
 1. A flashy earring.
 2. A dark red cape.
@@ -10407,6 +10447,7 @@ d12 Apparel or accessory: The thief wears...
 10. A ruffled shirt.
 11. A stylish coat.
 12. A handkerchief in his breast pocket.
+
 d20 Possession: The thief carries...
 1. Some hemp rope and a silk handkerchief.
 2. Several over-sized sacks.
@@ -10422,13 +10463,13 @@ d20 Possession: The thief carries...
 12. A mask.
 13. The token of a love.
 14. Letters for blackmail.
-15. A lucky charm (d6): 1. four-leafed clover;
-2-3. rabbit's foot; 4-5. coin; 6. horseshoe.
+15. A lucky charm (d6): 1. four-leafed clover; 2-3. rabbit's foot; 4-5. coin; 6. horseshoe.
 16. A flask of oil.
 17. A treasure map.
 18. A flask filled with spirits.
 19. A wineskin.
 20. A little jar of mustache wax.
+
 d6 Mannerisms: The thief...
 1. Hums or sings while walking.
 2. Constantly brushes hair from his/her face.
@@ -10448,16 +10489,17 @@ d10 Weapons: The thief is armed with...
 8. A rapier.
 9. A hand crossbow.
 10. A garrote and a dagger.
+
 d8 Work: The thief's modus operandi is...
 1. Petty theft.
 2. Burglary.
 3. Shoplifting.
 4. Mugging.
 5. Pickpocketing.
-6. Running heists of gems and precious
-metals.
+6. Running heists of gems and precious metals.
 7. Running heists of warehouses.
 8. Holding up outgoing boats or wagons.
+
 d10 Goal: The thief is looking for...
 1. Accomplices to carry out a job.
 2. Revenge against a rival thief.
@@ -10469,8 +10511,8 @@ d10 Goal: The thief is looking for...
 8. The location of storied item of value.
 9. Someone more wealthy than you.
 10. A rowdy evening of carousing.
-d20 Recent jobs: Recently, the thief has
-been operating in or near...
+
+d20 Recent jobs: Recently, the thief has been operating in or near...
 1. A residential district.
 2. An artisan's shop or guildhall.
 3. A merchant's office.
@@ -10491,22 +10533,16 @@ been operating in or near...
 18. A tavern.
 19. The docks.
 20. The bridge.
-d8 Odd jobs: Aside from theft, the thief has
-been known to be involved in...
-1. Distributing drugs (d6): 1-2. smokeleaf;
-3. hallucinogenic mushrooms; 4. sleepysalt
-(a downer); 5-6. sharpsugar (an upper).
+
+d8 Odd jobs: Aside from theft, the thief has been known to be involved in...
+1. Distributing drugs (d6): 1-2. smokeleaf; 3. hallucinogenic mushrooms; 4. sleepysalt (a downer); 5-6. sharpsugar (an upper).
 2. Fencing stolen gems and precious metals.
 3. Assassinations that look like accidents.
 4. Assassinations that frame someone else.
-5. Running brothels (d6): 1-2. exotic; 3-4. low;
-5-6. high-class.
-6. Shaking down legitimate local businesses
-for "protection."
-7. Shaking down scandal-plagued city
-officials.
-8. Serving as muscle for shady merchants
-and/or brothel-keepers.
+5. Running brothels (d6): 1-2. exotic; 3-4. low; 5-6. high-class.
+6. Shaking down legitimate local businesses for "protection."
+7. Shaking down scandal-plagued city officials.
+8. Serving as muscle for shady merchants and/or brothel-keepers.
 
 d6 Style: The thief prefers to operate...
 1. Alone.
@@ -10515,8 +10551,8 @@ d6 Style: The thief prefers to operate...
 4. With a partner to create a diversion.
 5. With a gang.
 6. Wearing a mask.
-d20 Victims: The thief's favorite marks
-include...
+
+d20 Victims: The thief's favorite marks include...
 1. Fishermen and sailors.
 2. Beggars and hobos.
 3. Merchants and moneychangers.
@@ -10537,12 +10573,11 @@ include...
 18. Barkeeps and barmaids
 19. Peddlers and shopkeepers.
 20. Other thieves.
-PICKPOCKET LOOT
+$PICKPOCKET LOOT
+
 d10 In the mark’s pocket, the thief finds...
-1. A scrap of paper or parchment with an
-unintelligible note scribbled on it.
-2. A scrap of paper or parchment with a list of
-mundane items or tasks written on it.
+1. A scrap of paper or parchment with an unintelligible note scribbled on it.
+2. A scrap of paper or parchment with a list of mundane items or tasks written on it.
 3. Some lint or a bit of thread.
 4. A lost button or broken piece of something.
 5. An old or well-worn key (key table).
@@ -10550,8 +10585,8 @@ mundane items or tasks written on it.
 7. A clean handkerchief (handkerchief table).
 8. A soiled handkerchief (handkerchief table).
 9. A score (score table).
-10. A score (score table) and roll again on this
-table using a d8.
+10. A score (score table) and roll again on this table using a d8.
+
 d6 Key: The key is...
 1. A small brass key.
 2. A large brass key.
@@ -10559,6 +10594,7 @@ d6 Key: The key is...
 4. A heavy iron key.
 5. A spindly iron key.
 6. Made of an unusual material.
+
 d6 Handkerchief: The handkerchief is...
 1. A fine silk handkerchief.
 2. A simple cotton handkerchief.
@@ -10566,20 +10602,22 @@ d6 Handkerchief: The handkerchief is...
 4. A threadbare handkerchief.
 5. A striped handkerchief.
 6. A spotted handkerchief.
+
 d12 Score: The thief scores...
-1. 2d4 cp. 6. 1d6 sp plus 1d10 cp.
-2. 3d6 cp. 7. 2d6 sp plus 1d10 cp.
-3. 1d6 sp. 8. 1d4 gp plus 1d10 sp.
-4. 2d6 sp. 9. 2d4 gp plus 1d10 sp.
-5. 1d4 gp.
+1. 2d4 cp. 
+2. 1d6 sp plus 1d10 cp.
+3. 3d6 cp. 
+4. 2d6 sp plus 1d10 cp.
+5. 1d6 sp. 
+6. 1d4 gp plus 1d10 sp.
+7. 2d6 sp. 
+8. 2d4 gp plus 1d10 sp.
+9. 1d4 gp.
 10. A gem or small piece of jewelry (5d10 gp).
 11. A gem (5d10 gp) and roll this table again.
 12. 1d6 gp and roll this table again.
+$RANDOM TOMBS: WHO GOES THERE?...
 
-Page 53
-
-
-RANDOM TOMBS: WHO GOES THERE?...
 d20 Dedicatee: This tomb was built for...
 1. An ancient king.
 2. An ancient queen.
@@ -10601,9 +10639,9 @@ d20 Dedicatee: This tomb was built for...
 18. The wife of a wealthy person or ruler.
 19. The mother of a wealthy person or ruler.
 20. The child of a wealthy person or ruler.
+
 d12 Entrance: The tomb’s entrance is...
-1. Yawning open, letting much daylight into
-the entry chamber.
+1. Yawning open, letting much daylight into the entry chamber.
 2. Behind a huge pair of metal doors (d6):
 1. brass; 2-3. bronze; 4. gold; 5-6. iron.
 3. Beneath a stone slab.
@@ -10613,64 +10651,40 @@ the entry chamber.
 7. Beneath a gnarled, old tree.
 8. Beneath an obelisk or similar monument.
 9. Beneath a large statue.
-10. Hidden by the terrain (d6): 1-2. waterfall;
-3. boulders; 4-5. rocky overhang; 6. hillock.
-11. Hidden by vegetation (d6): 1. a briar patch;
-2-3. a curtain of moss; 4. enormous tree
-roots; 5-6. overgrown vines.
-12. Difficult to access (d6): 1-2. up or down a
-cliff face; 3-4. down a deep hole. 5. in an
-underwater tunnel; 6. through an illusory
-rock or wall.
-d10 Guardians: The tomb’s entrance is
-guarded by...
+10. Hidden by the terrain (d6): 1-2. waterfall; 3. boulders; 4-5. rocky overhang; 6. hillock.
+11. Hidden by vegetation (d6): 1. a briar patch; 2-3. a curtain of moss; 4. enormous tree roots; 5-6. overgrown vines.
+12. Difficult to access (d6): 1-2. up or down a cliff face; 3-4. down a deep hole. 5. in an underwater tunnel; 6. through an illusory rock or wall.
+
+d10 Guardians: The tomb’s entrance is guarded by...
 1. A sworn order of devout warriors.
 2. Sellswords.
-3. Large, frightening statues of beasts (d8):
-1. bats; 2. bears; 3. dragons; 4. eagles;
-5. lions; 6. ravens; 7. snakes; 8. wolves.
+3. Large, frightening statues of beasts (d8): 1. bats; 2. bears; 3. dragons; 4. eagles; 5. lions; 6. ravens; 7. snakes; 8. wolves.
 4. Impressive, colossal statues of warriors.
-5. Statues of beautiful maidens, beckoning
-visitors into a trap.
+5. Statues of beautiful maidens, beckoning visitors into a trap.
 6. Several crumbling statues.
 7. Skeletal warriors.
 8. An unsettling arrangement of bones.
-9. A band of outlaws who are carefully
-delving its secrets.
-10. Nothing; the tomb is rather homey and
-welcoming.
-d6 Grand crypt: The tomb’s grand crypt is
-located...
+9. A band of outlaws who are carefully delving its secrets.
+10. Nothing; the tomb is rather homey and welcoming.
+
+d6 Grand crypt: The tomb’s grand crypt is located...
 1. Just beyond a heavy door in the entryway.
-2. Down a steep set of spiraling stairs from
-the entry chamber.
-3. At the end of a long passageway lined with
-lesser crypts.
-4. At the end of a long passage lined with
-statues.
-5. At the end of a long passageway lined with
-passageways leading to lesser crypts.
+2. Down a steep set of spiraling stairs from the entry chamber.
+3. At the end of a long passageway lined with lesser crypts.
+4. At the end of a long passage lined with statues.
+5. At the end of a long passageway lined with passageways leading to lesser crypts.
 6. Several levels below the entry chamber.
 
 d8 Layout: The tomb’s layout is...
-1. Simple; a large grand crypt with a handful
-of smaller crypts and rooms adjoining.
-2. Simple with a large entry chamber; the
-entry chamber leads off to smaller crypts
-and other rooms.
-3. Multi-layered; access to the lower layers is
-easy to find.
-4. Multi-layered; access to the lower layers is
-difficult to find.
-5. Multi-winged; access to some wings is
-difficult to find.
-6. A series of rooms arranged in a concentric
-fashion; the grand crypt is located among
-the inner rooms.
-7. Labyrinthine; designed to deliberately
-confuse intruders.
-8. Simple with an intricate complex hidden
-beneath the grand crypt.
+1. Simple; a large grand crypt with a handful of smaller crypts and rooms adjoining.
+2. Simple with a large entry chamber; the entry chamber leads off to smaller crypts and other rooms.
+3. Multi-layered; access to the lower layers is easy to find.
+4. Multi-layered; access to the lower layers is difficult to find.
+5. Multi-winged; access to some wings is difficult to find.
+6. A series of rooms arranged in a concentric fashion; the grand crypt is located among the inner rooms.
+7. Labyrinthine; designed to deliberately confuse intruders.
+8. Simple with an intricate complex hidden beneath the grand crypt.
+
 d8 Walls: Many of the interior walls are...
 1. Rough hewn stone.
 2. Smooth cut stone.
@@ -10680,6 +10694,7 @@ d8 Walls: Many of the interior walls are...
 6. Decorated with elaborate murals.
 7. Decorated with bones and icons of death.
 8. Decorated with sacred texts and runes.
+
 d6 Ceilings: Many of the ceilings are...
 1. Uncomfortably close to your head.
 2. Stone, smooth as glass.
@@ -10687,39 +10702,27 @@ d6 Ceilings: Many of the ceilings are...
 4. Connected to the floor by columns.
 5. Painted or carved with iconic scenes.
 6. Crossed by wooden beams.
+
 d20 Rooms: The purpose of this room is...
 1. An antechamber to a crypt or chapel.
-2. A chapel dedicated to protecting the souls
-of the deceased.
-3. A chapel dedicated to aiding the journey of
-the souls of the deceased.
-4. A grand crypt for a person of importance
-(d6): 1. well-known hero; 2-3. high priest;
-4-5. powerful noble; 6. wealthy merchant.
-5. A false crypt to attract and to trap
-graverobbers and treasure hunters.
+2. A chapel dedicated to protecting the souls of the deceased.
+3. A chapel dedicated to aiding the journey of the souls of the deceased.
+4. A grand crypt for a person of importance (d6): 1. well-known hero; 2-3. high priest; 4-5. powerful noble; 6. wealthy merchant.
+5. A false crypt to attract and to trap graverobbers and treasure hunters.
 6. A crypt for immediate family members.
-7. A crypt for previous generations of the
-family.
+7. A crypt for previous generations of the family.
 8. A crypt for the spouse of the deceased.
 9. A crypt of unmarked graves.
 10. A reflecting pool or fountain.
 11. A crypt for devoted servants or slaves.
-12. A room dedicated for specific rituals (d6):
-1-2. divinations; 3-4. funerals;
-5-6. necromancy.
-13. Gallery dedicated to the deceased (d6):
-1-2. trophies; 3-4. statues; 5-6. paintings.
-14. A guardroom with guards (d6): 1. ghosts;
-2. golems; 3. knights; 4. sellswords; 5.
-cultists; 6. skeletons; 5. wights; 6. zombies.
+12. A room dedicated for specific rituals (d6): 1-2. divinations; 3-4. funerals; 5-6. necromancy.
+13. Gallery dedicated to the deceased (d6): 1-2. trophies; 3-4. statues; 5-6. paintings.
+14. A guardroom with guards (d6): 1. ghosts; 2. golems; 3. knights; 4. sellswords; 5. cultists; 6. skeletons; 5. wights; 6. zombies.
 15. A priest’s robing room.
 16. Storage room for embalming tools.
-17. Storage room for tools and materials to
-maintain the tomb.
+17. Storage room for tools and materials to maintain the tomb.
 18. Workshop for embalming the dead.
-19. A crypt hidden by a secret door where the
-most important person in the tomb rests.
+19. A crypt hidden by a secret door where the most important person in the tomb rests.
 20. A priest’s quarters or robing room.
 
 d20 Features: You notice...
@@ -10736,24 +10739,23 @@ d20 Features: You notice...
 11. A huge book of sacred texts or prayers.
 12. An ornate oil lamp.
 13. A mosaic set into the floor of the room.
-14. A wide fresco or mural depicting a
-mythological or historical scene.
+14. A wide fresco or mural depicting a mythological or historical scene.
 15. A gilded sarcophagus.
 16. A simple stone sarcophagus.
 17. A finely-crafted, heavy wooden coffin.
 18. A simple, sturdy wooden coffin.
 19. A stone coffin marked with dates.
 20. An empty coffin.
+
 d6 Secret: The tomb is rumored to...
 1. Hold tremendous treasure.
 2. Be trapped to guard against intruders.
 3. Hold a legendary weapon or artifact.
 4. Bestow a powerful curse on intruders.
-5. House the remains of someone whose
-body is widely believed to have been lost.
-6. Have already been cleared of monsters
-and gold by treasure hunters.
-UNDEAD DENIZENS
+5. House the remains of someone whose body is widely believed to have been lost.
+6. Have already been cleared of monsters and gold by treasure hunters.
+$UNDEAD DENIZENS
+
 d20 What haunts this tomb?
 1. A swarm of crawling claws.
 2. A covetous wight.
@@ -10775,14 +10777,22 @@ d20 What haunts this tomb?
 18. A playful ghost.
 19. A treacherous spellcaster-turned-lich.
 20. A vengeful death knight.
-LIVING DENIZENS
+$LIVING DENIZENS
+
 d12 Critters: What lives in the tomb now?
-1. Carrion crawler. 7. Ooze.
-2. Cloaker. 8. Otyugh.
-3. Darkmantle. 9. Piercer.
-4. Fungi. 10. Roper.
-5. Mimics. 11. Stirges.
-6. Myconids. 12. Umber hulk.
+1. Carrion crawler. 
+2. Ooze.
+3. Cloaker. 
+4. Otyugh.
+5. Darkmantle. 
+6. Piercer.
+7. Fungi. 
+8. Roper.
+9. Mimics. 
+10. Stirges.
+11. Myconids. 
+12. Umber hulk.
+
 d6 Visitors: Who has entered the tomb?
 1. A devoted priest or priestess.
 2. A traveler or scholar from afar.
@@ -10790,10 +10800,6 @@ d6 Visitors: Who has entered the tomb?
 4. A greedy treasure hunter.
 5. A student of necromancy.
 6. A fugitive serial killer.
-
-Page 54
-
-
 RANDOM TOWNSFOLK: WHO ARE THE PEOPLE IN YOUR NEIGHBORHOOD?
 ALCHEMIST
 d6 The alchemist is...
