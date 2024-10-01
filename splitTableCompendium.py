@@ -7,18 +7,20 @@ Lines = file.readlines()
 #Lines = Lines[:6000]
 textLines : list = []
 for i in range(len(Lines)):
+    if Lines[i].startswith("%") == True:
+        textLines.append({"Header" : Lines[i][:-2], "Sub Pages" : []})
     if Lines[i].startswith("$") == True:
-        textLines.append({"Page Title": Lines[i][:-2], "Table" : []})
+        textLines[-1]["Sub Pages"].append({"Sub Title": Lines[i][:-2], "Table" : []})
     if Lines[i] == "\n":
         dice = Lines[i + 1].split(" ")[0]
         #print(dice)
-        textLines[len(textLines) - 1]["Table"].append({"Table Title" : Lines[i + 1][len(dice):][:-2], "Amount" : int(dice[1:]), "Entries" : []})
+        textLines[-1]["Sub Pages"][-1]["Table"].append({"Table Title" : Lines[i + 1][len(dice):][:-2], "Amount" : int(dice[1:]), "Entries" : []})
         for j in range(int(dice[1:])):
             entry = Lines[i + j + 2].split(" ")[0]                
-            textLines[len(textLines) - 1]["Table"][len(textLines[len(textLines) - 1]["Table"]) - 1]["Entries"].append(Lines[i + j + 2][:-2][len(entry) + 1:])
+            textLines[-1]["Sub Pages"][-1]["Table"][-1]["Entries"].append(Lines[i + j + 2][:-2][len(entry) + 1:])
         i += 1 + int(dice[1:])
-print(textLines)
-
+#print(textLines)
+#print(textLines[-1])
 
 
 '''
