@@ -312,8 +312,8 @@ d12 Reputation: The guild is feared or respected by...
 10. Priests and sages.
 11. Women and children.
 12. Other assassins.
+$GUILD ASSASSIN
 
-%GUILD ASSASSIN
 d6 Trait: The assassin has...
 1. A flashy earring.
 2. A scar on the face.
@@ -1322,8 +1322,8 @@ d6 Possession: The archer carries...
 4. A deck of playing cards.
 5. A flask containing a strong drink.
 6. A flute or harp.
-
 $ARMORER / SMITH
+
 d6 Background: The smith is...
 1. A meticulous armorsmith.
 2. A blacksmith who makes decent swords.
@@ -7188,8 +7188,8 @@ d6 Goal: The armorer is looking for...
 3-4. Rare metals.
 5. Dull blades to sharpen.
 6. A mug of strong ale.
-d6 Possession: The armorsmith carries...
 
+d6 Possession: The armorsmith carries...
 1-2. A hammer.
 3. A metal trinket made by the armorer.
 4-5. A contract for a set of special plate armor.
@@ -9447,7 +9447,7 @@ d12 Cursed purpose: The person's spirit lingers...
 11. To torment members of a specific group.
 12. To torment anyone who crosses its path.
 
-$d12 Breaking the curse: The person's spirit can move on if...
+d12 Breaking the curse: The person's spirit can move on if...
 1. Someone helps it achieve it's goal.
 2. It saves the life of at least one other person.
 3. It achieves its goal on its own.
@@ -11822,4 +11822,4 @@ d12 Personality: The witch’s familiar’s manner is...
 9. Skittish.
 10. Surly.
 11. Suspicious.
-12. Talkative.
+12. Talkative..
