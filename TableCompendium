@@ -35,7 +35,7 @@ d8 The main event is...
 3. A duel between two arena champions.
 4. A duel between a champion and a severe underdog.
 5. Feeding prisoners to beasts.
-6. A battle of man versus beast (d8): 1. bears; 2. chimeras; 3. dragons; 4. giant spiders; 5. lions; 6. owlbears; 7. tigers; 8. wolves.
+6. A battle of man versus beast @d8): 1. bears; 2. chimeras; 3. dragons; 4. giant spiders; 5. lions; 6. owlbears; 7. tigers; 8. wolves.
 7. A chariot race or foot race.
 8. Feats of strength.
 
@@ -90,7 +90,7 @@ d6 Armor: The gladiator is clad in...
 1. Nothing.
 2. Leather scraps or exotic beast hides.
 3. A leather baldric or jerkin.
-4. A bronze or iron helm (and no more).
+4. A bronze or iron helm @and no more).
 5. A breastplate and a helm.
 6. Chainmail.
 
@@ -166,10 +166,10 @@ d6 Facial feature: The gladiator has...
 6. Wild sideburns or a long mustache.
 
 d6 Body feature: On the gladiator's body is...
-1. A maritime tattoo (d6): 1. fish; 2. ship; 3. kraken; 4. mermaid; 5. octopus; 6. skull.
-2. A slave tattoo (d6): 1. date; 2. place; 3. slave name; 4. master’s name; 5. job; 6. number.
-3. A beast tattoo (d6): 1. bear; 2. boar; 3. dragon; 4. eagle; 5. lion; 6. wolf.
-4. A brand (d6): 1-2. brand of a slave; 3-4. brand of a soldier; 5-6. brand of a sailor.
+1. A maritime tattoo @d6): 1. fish; 2. ship; 3. kraken; 4. mermaid; 5. octopus; 6. skull.
+2. A slave tattoo @d6): 1. date; 2. place; 3. slave name; 4. master’s name; 5. job; 6. number.
+3. A beast tattoo @d6): 1. bear; 2. boar; 3. dragon; 4. eagle; 5. lion; 6. wolf.
+4. A brand @d6): 1-2. brand of a slave; 3-4. brand of a soldier; 5-6. brand of a sailor.
 5. A festering wound or frightening scar.
 6. An obscene amount of oil or an intimidating amount of hair.
 %ASSASSINS’ GUILDS: KILLERS-FOR-HIRE  
@@ -341,9 +341,9 @@ d6 Apparel: The assassin is wearing...
 d12 Weapon: The assassin carries...
 1. A blade with a gem embedded in the pommel.
 2. A blade with soft leather tassels dangling from the pommel.
-3. A blade with a carved hilt (d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+3. A blade with a carved hilt @d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
 4. A blade with a gently curved hilt.
-5. A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders; 6. wolves.
+5. A blade with beasts sculpted into the steel of the guard @d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders; 6. wolves.
 6. A blade made of blackened steel.
 7. A highly polished blade.
 8. A blade with runes carved into it.
@@ -398,8 +398,8 @@ d20 Trait: The assassin has...
 13. Pockmarked cheeks.
 14. High cheek bones.
 15. A pointy chin.
-16. A thug's tattoo (d8): 1. crossed bones; 2. dagger; 3. dragon; 4. eagle; 5. skull; 6. snake; 7. spider web; 8. thorns.
-17. A sailor's tattoo (d6): 1. anchor; 2. fish; 3. mermaid; 4. octopus; 5. shark; 6. whale.
+16. A thug's tattoo @d8): 1. crossed bones; 2. dagger; 3. dragon; 4. eagle; 5. skull; 6. snake; 7. spider web; 8. thorns.
+17. A sailor's tattoo @d6): 1. anchor; 2. fish; 3. mermaid; 4. octopus; 5. shark; 6. whale.
 18. An open shirt and a very hairy chest.
 19. A five o'clock shadow.
 20. A neatly trimmed mustache.
@@ -441,9 +441,9 @@ d10 Goal: The assassin is looking for...
 d10 Weapon: The assassin wields...
 1. A blade with a gem embedded in the pommel.
 2. A blade with soft leather tassels dangling from the pommel.
-3. A blade with a carved hilt (d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+3. A blade with a carved hilt @d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
 4. A blade with a gently curved hilt.
-5. A blade with beasts engraved in the guard (d6): 1. dragons; 2. lions; 3. scorpions;. 4. snakes; 5. spiders; 6. wolves.
+5. A blade with beasts engraved in the guard @d6): 1. dragons; 2. lions; 3. scorpions;. 4. snakes; 5. spiders; 6. wolves.
 6. A blade made of blackened steel.
 7. A highly polished blade.
 8. A blade with strange runes carved into it.
@@ -467,7 +467,7 @@ d20 Possession: The assassin also carries...
 14. A mask.
 15. The token of a love.
 16. Letters for blackmail.
-17. A lucky charm (d6): 1-2. rabbit's foot; 3-4. lucky coin; 5. horseshoe; 6. four-leafed clover.
+17. A lucky charm @d6): 1-2. rabbit's foot; 3-4. lucky coin; 5. horseshoe; 6. four-leafed clover.
 18. A flask filled with spirits.
 19. A wineskin.
 20. A little jar of mustache wax.
@@ -661,9 +661,9 @@ d12 Apparel: The bard is wearing...
 3. A revealing set of breeches.
 4. A traveler’s cloak.
 5. A heavy peddler’s pack.
-6. A wide-brimmed hat with a large exotic feather (d10): 1. cockatrice; 2. giant eagle; 3. giant owl; 4. griffon; 5. hippogriff; 6. ostrich 7. peacock; 8. phoenix; 9. roc; 10. shadowraven.
-7. Shiny boots made from an exotic hide (d8): 1. basilisk; 2. crocodile; 3. demonskin; 4. dragonscale; 5. drake; 6. flamesnake; 7. lightning lizard; 8. wyvern.
-8. A coat made from an exotic hide (d6): 1. dragonscale; 2. leopard; 3. owlbear; 4. sharkskin; 5. tiger; 6. zebra.
+6. A wide-brimmed hat with a large exotic feather @d10): 1. cockatrice; 2. giant eagle; 3. giant owl; 4. griffon; 5. hippogriff; 6. ostrich 7. peacock; 8. phoenix; 9. roc; 10. shadowraven.
+7. Shiny boots made from an exotic hide @d8): 1. basilisk; 2. crocodile; 3. demonskin; 4. dragonscale; 5. drake; 6. flamesnake; 7. lightning lizard; 8. wyvern.
+8. A coat made from an exotic hide @d6): 1. dragonscale; 2. leopard; 3. owlbear; 4. sharkskin; 5. tiger; 6. zebra.
 9. A large golden necklace.
 10. Flashy earrings.
 11. Dancing shoes.
@@ -718,26 +718,26 @@ d12 Tale: The bard tells of a recent visit to...
 $SONGS
 
 d20 The song is about (roll twice)...
-1. A young common woman (d6): 1. smith's daughter; 2. farmer's daughter; 3. miner's daughter; 4. Innkeeper's daughter; 5. harlot; 6. lady's maid.
-2. A common woman (d6): 1. barmaid; 2. farmwife; 3. housemaid; 4. fisherman's wife; 5. merchant's wife; 6. seamstress.
-3. A noblewoman (d6): 1. beautiful maiden; 2. young princess; 3. ugly princess; 4. old queen; 5. wicked queen; 6. old widow.
-4. A priestess (d6): 1. young novice; 2. high priestess; 3. sister of mercy; 4. old prude; 5. oracle; 6. zealot.
-5. A witch (d6): 1. crone; 2. enchantress; 3. gypsy woman; 4. fortune teller; 5. potion-maker; 6. dark sorceress.
-6. A wizard (d6): 1. alchemist; 2. conjurer; 3. necromancer; 4. pyromancer; 5. old wizard; 6. apprentice mage.
-7. A warrior (d6): 1. barbarian; 2. gladiator; 3. guard captain; 4. young knight; 5. old knight; 6. sellsword.
-8. A rogue (d6): 1. gambler; 2. jester; 3. outlaw; 4. pirate; 5. singer; 6. thief.
-9. A priest (d6): 1. acolyte; 2. exorcist; 3. old priest; 4. healer; 5. monk; 6. preacher.
-10. A common man (d6): 1. farmer; 2. herder; 3. blacksmith; 4. miner; 5. sailor; 6. tailor.
-11. A nobleman (d6): 1. wise king; 2. tyrant king; 3. old lord; 4. young lord; 5. handsome prince; 6. wealthy merchant
-12. A great beast (d6): 1. bear; 2. boar; 3. dragon; 4. lion; 5. stag; 6. wolf.
-13. A diminutive beast (d6): 1. cat; 2. dog; 3. fox; 4. rat; 5. snake; 6. spider.
-14. An aquatic creature (d6): 1. frog; 2. fish; 3. mermaid; 4. octopus; 5. swan; 6. whale.
-15. A bird (d6): 1. dove; 2. eagle; 3. mockingbird; 4. owl; 5. raven; 6. rooster.
-16. A monster (d6): 1. devil; 2. demon; 3. giant; 4. ghost; 5. goblin; 6. ogre.
-17. An event (d6): 1. battle; 2. captivity; 3. feast; 4. fair; 5. tournament; 6. wedding.
-18. A wild location (d6): 1. cave; 2. desert; 3. forest; 4. lake/river; 5. mountain; 6. sea.
-19. A settled place (d6): 1. castle; 2. garden; 3. inn/tavern; 4. market; 5. temple; 6. tomb.
-20. An item or object (d6): 1. coin; 2. book; 3. goblet; 4. shield; 5. ship; 6. sword.
+1. A young common woman @d6): 1. smith's daughter; 2. farmer's daughter; 3. miner's daughter; 4. Innkeeper's daughter; 5. harlot; 6. lady's maid.
+2. A common woman @d6): 1. barmaid; 2. farmwife; 3. housemaid; 4. fisherman's wife; 5. merchant's wife; 6. seamstress.
+3. A noblewoman @d6): 1. beautiful maiden; 2. young princess; 3. ugly princess; 4. old queen; 5. wicked queen; 6. old widow.
+4. A priestess @d6): 1. young novice; 2. high priestess; 3. sister of mercy; 4. old prude; 5. oracle; 6. zealot.
+5. A witch @d6): 1. crone; 2. enchantress; 3. gypsy woman; 4. fortune teller; 5. potion-maker; 6. dark sorceress.
+6. A wizard @d6): 1. alchemist; 2. conjurer; 3. necromancer; 4. pyromancer; 5. old wizard; 6. apprentice mage.
+7. A warrior @d6): 1. barbarian; 2. gladiator; 3. guard captain; 4. young knight; 5. old knight; 6. sellsword.
+8. A rogue @d6): 1. gambler; 2. jester; 3. outlaw; 4. pirate; 5. singer; 6. thief.
+9. A priest @d6): 1. acolyte; 2. exorcist; 3. old priest; 4. healer; 5. monk; 6. preacher.
+10. A common man @d6): 1. farmer; 2. herder; 3. blacksmith; 4. miner; 5. sailor; 6. tailor.
+11. A nobleman @d6): 1. wise king; 2. tyrant king; 3. old lord; 4. young lord; 5. handsome prince; 6. wealthy merchant
+12. A great beast @d6): 1. bear; 2. boar; 3. dragon; 4. lion; 5. stag; 6. wolf.
+13. A diminutive beast @d6): 1. cat; 2. dog; 3. fox; 4. rat; 5. snake; 6. spider.
+14. An aquatic creature @d6): 1. frog; 2. fish; 3. mermaid; 4. octopus; 5. swan; 6. whale.
+15. A bird @d6): 1. dove; 2. eagle; 3. mockingbird; 4. owl; 5. raven; 6. rooster.
+16. A monster @d6): 1. devil; 2. demon; 3. giant; 4. ghost; 5. goblin; 6. ogre.
+17. An event @d6): 1. battle; 2. captivity; 3. feast; 4. fair; 5. tournament; 6. wedding.
+18. A wild location @d6): 1. cave; 2. desert; 3. forest; 4. lake/river; 5. mountain; 6. sea.
+19. A settled place @d6): 1. castle; 2. garden; 3. inn/tavern; 4. market; 5. temple; 6. tomb.
+20. An item or object @d6): 1. coin; 2. book; 3. goblet; 4. shield; 5. ship; 6. sword.
 
 d8 The song is popular because...
 1. It was written by a legendary bard.
@@ -883,7 +883,7 @@ d10 Reputation: People talk; they say...
 7. It is secretly the home to a dark cult.
 8. All the inmates there are related.
 9. Nothing much, a popular girl is with child.
-10. You can pay for services with things other than coin (d6): 1. contract work; 2. criminal favors; 3. goods; 4. religious services; 5. secrets; 6. stock.
+10. You can pay for services with things other than coin @d6): 1. contract work; 2. criminal favors; 3. goods; 4. religious services; 5. secrets; 6. stock.
 
 d10 Rumors: People talk about this place; rumors suggest that recently...
 1. A nobleman got one of the girls with child but refuses to acknowledge her or the baby.
@@ -1125,13 +1125,13 @@ d20 Rooms: This chamber is...
 4. A banquet hall.
 5. The barracks.
 6. A bath or privy.
-7. A bedroom (d6): 1-2. simple;
+7. A bedroom @d6): 1-2. simple;
 3-4. comfortable; 5-6. luxurious.
 8. A chapel or shrine.
 9. A crypt.
 10. An intimate or informal dining room.
 11. A dressing room.
-12. A gallery (d6): 1. armor and weaponry; 2. paintings; 3. sculptures; 4. tapestries; 5. hunting trophies; 6. trophies of war.
+12. A gallery @d6): 1. armor and weaponry; 2. paintings; 3. sculptures; 4. tapestries; 5. hunting trophies; 6. trophies of war.
 13. A guardroom.
 14. A kennel, menagerie, or stable.
 15. The kitchen.
@@ -1843,9 +1843,9 @@ d10 Entrance: The cave mouth is...
 5. A man-made tunnel.
 6. A collapsed tunnel, impassable without excavation.
 7. Marked with several warning signs.
-8. Hidden by the terrain (d6): 1-2. boulders; 3-4. waterfall; 5. rocky overhang; 6. hillock.
-9. Hidden by vegetation (d6): 1. a briar patch; 2. a curtain of moss; 3-4. enormous tree roots; 5-6. overgrown vines.
-10. Difficult to access (d6): 1-2. up or down a cliff face; 3. down a deep hole; 4-5. in an underwater tunnel; 6. through an illusory rock or wall.
+8. Hidden by the terrain @d6): 1-2. boulders; 3-4. waterfall; 5. rocky overhang; 6. hillock.
+9. Hidden by vegetation @d6): 1. a briar patch; 2. a curtain of moss; 3-4. enormous tree roots; 5-6. overgrown vines.
+10. Difficult to access @d6): 1-2. up or down a cliff face; 3. down a deep hole; 4-5. in an underwater tunnel; 6. through an illusory rock or wall.
 
 d20 Distinguishing Landmark: You see...
 1. A trickle of water flowing down the walls and across the floor.
@@ -1879,7 +1879,7 @@ d12 Features: You notice...
 7. The clatter of rocks falling.
 8. Loose stones underfoot.
 9. An unstable ceiling.
-10. A distant sound (d6): 1. a scream; 2-3. hammers at work; 4-5. footsteps; 6. drums.
+10. A distant sound @d6): 1. a scream; 2-3. hammers at work; 4-5. footsteps; 6. drums.
 11. The name of a previous traveler carved into or written on a wall.
 12. Several ancient runes carved into the wall.
 
@@ -1978,19 +1978,19 @@ d6 Ceiling: The cave ceiling is...
 6. So high it is difficult to see.
 
 d12 Travelers/Visitors: You come upon...
-1. An explorer (d6): 1. duergar; 2. goblin;
+1. An explorer @d6): 1. duergar; 2. goblin;
 3-5. human; 6. kobold.
-2. An escaped slave (d6): 1. dwarf; 2. goblin; 3. gnome; 4. halfling; 5. human; 6. kobold.
-3. A forager (d6): 1. duergar; 2-3. goblin; 4-5. kobold; 6. orc.
-4. A fugitive criminal (d6): 1. heretic; 2-3. killer; 4. smuggler; 5-6. thief.
-5. A lost treasure hunter (d6): 1-2. dwarf; 3. half-elf; 4. high elf; 5-6. human.
-6. A mapmaker (d6): 1-2. dwarf; 3. goblin; 4-5. gnome; 6. svirfneblin.
-7. A messenger (d6): 1. dark elf; 2-3. goblin; 4-5. gnome; 6. svirfneblin.
-8. A miner (d6): 1. dwarf; 2. svirfneblin; 3. gnome; 4. goblin; 5. human; 6. kobold.
-9. A prospector (d6): 1-2. dwarf; 3. gnome; 4-5. human; 6. svirfneblin.
-10. A scout (d6): 1-2. dark elf; 3-4. goblin; 5. kobold; 6. orc.
-11. A soldier (d6): 1. dark elf; 2. duergar; 3. dwarf; 4. goblin; 5. kobold; 6. orc.
-12. A spy (d6): 1-2. dark elf; 3. duergar; 4-5. goblin; 6. kobold.
+2. An escaped slave @d6): 1. dwarf; 2. goblin; 3. gnome; 4. halfling; 5. human; 6. kobold.
+3. A forager @d6): 1. duergar; 2-3. goblin; 4-5. kobold; 6. orc.
+4. A fugitive criminal @d6): 1. heretic; 2-3. killer; 4. smuggler; 5-6. thief.
+5. A lost treasure hunter @d6): 1-2. dwarf; 3. half-elf; 4. high elf; 5-6. human.
+6. A mapmaker @d6): 1-2. dwarf; 3. goblin; 4-5. gnome; 6. svirfneblin.
+7. A messenger @d6): 1. dark elf; 2-3. goblin; 4-5. gnome; 6. svirfneblin.
+8. A miner @d6): 1. dwarf; 2. svirfneblin; 3. gnome; 4. goblin; 5. human; 6. kobold.
+9. A prospector @d6): 1-2. dwarf; 3. gnome; 4-5. human; 6. svirfneblin.
+10. A scout @d6): 1-2. dark elf; 3-4. goblin; 5. kobold; 6. orc.
+11. A soldier @d6): 1. dark elf; 2. duergar; 3. dwarf; 4. goblin; 5. kobold; 6. orc.
+12. A spy @d6): 1-2. dark elf; 3. duergar; 4-5. goblin; 6. kobold.
 $DARK ELF
 
 d8 Background: The dark elf is...
@@ -2161,8 +2161,8 @@ d20 Landmark: You see a/an..
 9. Library.
 10. Lighthouse or watchtower.
 11. Marketplace.
-12. Memorial (d4): 1. mausoleum; 2. reflecting pool; 3. large statue; 4. botanical garden.
-13. Monument (d6): 1. colossus; 2. column; 3. obelisk; 4. plaque; 5. rotunda; 6. wall.
+12. Memorial @d4): 1. mausoleum; 2. reflecting pool; 3. large statue; 4. botanical garden.
+13. Monument @d6): 1. colossus; 2. column; 3. obelisk; 4. plaque; 5. rotunda; 6. wall.
 14. Palace.
 15. Parade grounds or drilling yard
 16. Pier, marina, or traveler's bazaar.
@@ -2184,32 +2184,32 @@ d20 District: This part of the city is the..
 10. Harbor district. 20. Foreign enclave.
 
 d20 Streets: The locals call this street...
-1. (d6): 1. Armory Street; 2. Barricade Street;
+1. @d6): 1. Armory Street; 2. Barricade Street;
 3. Knight Street; 4. Pike Street; 5. Shield Street; 6. Spear Street.
-2. (d6): 1. Arch Street; 2. Bridge Street.;
+2. @d6): 1. Arch Street; 2. Bridge Street.;
 3. Canal Street; 4. Cross Street; 5. Falls Road; 6. River Street.
-3. (d6): 1. Castle Street; 2. Inn Street;
+3. @d6): 1. Castle Street; 2. Inn Street;
 3. Keep Street; 3. Rock Way; 4. House Street; 5. Hovel St.; 6. Tower Street.
-4. (d6): 1. Cattle Road; 2. Common Street;
+4. @d6): 1. Cattle Road; 2. Common Street;
 3. Green Street; 4. Greenway Street;
 5. Meadow Lane; 6. Orchard Street.
-5. (d6): 1. Cooper Street; 2. Mason Street; 3. Smith Street; 4. Tailor Street; 5. Stone Street; 6. Weaver Street.
-6. (d6): 1. Bluff Street; 2. Crestline Way; 3. High Street; 4. Highland Way; 5. Hilltop Lane; 6. Ridge Street.
-7. (d6): 1. Devil's Alley; 2. Magpie Lane; 3. Paupers Street; 4. Penny Lane; 5. Rat's Alley; 6. Serpent's Alley.
+5. @d6): 1. Cooper Street; 2. Mason Street; 3. Smith Street; 4. Tailor Street; 5. Stone Street; 6. Weaver Street.
+6. @d6): 1. Bluff Street; 2. Crestline Way; 3. High Street; 4. Highland Way; 5. Hilltop Lane; 6. Ridge Street.
+7. @d6): 1. Devil's Alley; 2. Magpie Lane; 3. Paupers Street; 4. Penny Lane; 5. Rat's Alley; 6. Serpent's Alley.
 8. Market Street.
-9. (d6): 1. Baker Street; 2. Hook Street; 3. Farm Road; 4. Feather Street; 5. Mill Street; 6. Ranchers Road.
-10. (d6): 1. Banner Road; 2. Drum Street; 3. March Street; 4. Parade Street; 5. Trumpet Street; 6. Victory Lane.
-11. (d6): 1. Crown Street; 2. King Street; 3. Lords Lane; 4. Palace Way; 5. Queens Street; 6. Royal Street.
-12. (d6): 1. Circle Street; 2. Brick Road; 3. Perimeter Street; 4. Townline Road; 5. Watch Street; 6. Wall Street.
-13. (d6): 1. Bay Street; 2. Commerce Street; 3. Harbor Street; 4. Lake Street; 5. Pier
+9. @d6): 1. Baker Street; 2. Hook Street; 3. Farm Road; 4. Feather Street; 5. Mill Street; 6. Ranchers Road.
+10. @d6): 1. Banner Road; 2. Drum Street; 3. March Street; 4. Parade Street; 5. Trumpet Street; 6. Victory Lane.
+11. @d6): 1. Crown Street; 2. King Street; 3. Lords Lane; 4. Palace Way; 5. Queens Street; 6. Royal Street.
+12. @d6): 1. Circle Street; 2. Brick Road; 3. Perimeter Street; 4. Townline Road; 5. Watch Street; 6. Wall Street.
+13. @d6): 1. Bay Street; 2. Commerce Street; 3. Harbor Street; 4. Lake Street; 5. Pier
 Street; 6. Water Street.
-14. (d6): 1. Bayview Street; 2. Castleview Street; 3. Gardenview Street; 4. Greenview Street; 5. Harborview Street; 6. Riverview Street.
-15. (d6): 1. North Road; 2. North Street; 3. South Road; 4. South Street; 5. East Road; 6. West Road.
-16. (d6): 1. Cedar Street; 2. Cherry Street; 3. Maple Street; 4. Oak Street; 5. Pine Street; 6. Willow Street.
-17. (d6): 1. Northgate Street; 2. Southgate Street; 3. Eastgate Street; 4. Westgate Street; 5. Old Gate Road; 6. Watchtower Street.
-18. (d6): 1. Briar Street; 2. Garden Street; 3. Lilac Street; 4. Lily Way; 5. Rose Street; 6. Violet Street.
-19. (d6): 1. Emerald Way; 2. Jewelers Lane; 3. Golden Lane; 4. Rich Way; 5. Ruby Road; 6. Silver Lane.
-20. (d6): 1. Ancient Way; 2. Bath Street; 3. Fountain Street; 4. Old Brick Road; 5. Stone Ruin Road; 6. Tumblestone Way.
+14. @d6): 1. Bayview Street; 2. Castleview Street; 3. Gardenview Street; 4. Greenview Street; 5. Harborview Street; 6. Riverview Street.
+15. @d6): 1. North Road; 2. North Street; 3. South Road; 4. South Street; 5. East Road; 6. West Road.
+16. @d6): 1. Cedar Street; 2. Cherry Street; 3. Maple Street; 4. Oak Street; 5. Pine Street; 6. Willow Street.
+17. @d6): 1. Northgate Street; 2. Southgate Street; 3. Eastgate Street; 4. Westgate Street; 5. Old Gate Road; 6. Watchtower Street.
+18. @d6): 1. Briar Street; 2. Garden Street; 3. Lilac Street; 4. Lily Way; 5. Rose Street; 6. Violet Street.
+19. @d6): 1. Emerald Way; 2. Jewelers Lane; 3. Golden Lane; 4. Rich Way; 5. Ruby Road; 6. Silver Lane.
+20. @d6): 1. Ancient Way; 2. Bath Street; 3. Fountain Street; 4. Old Brick Road; 5. Stone Ruin Road; 6. Tumblestone Way.
 %CRAFTING GUILDS: HIRE A PROFESSIONAL
 $Main
 
@@ -2403,10 +2403,10 @@ d12 Reverence: The cultists revere...
 1. A dragon.
 2. A demon lord.
 3. An archdevil.
-4. A long-dead ancient hero (d6): 1. bard; 2. beastmaster; 3. elf-maid or prince; 4. knight or crusader; 5. hunter; 6. prophet.
-5. A long-dead ancient villain (d6): 1. giant; 2. necromancer; 3. vampire or lich; 4. warlord; 5. werewolf or wererat; 6. witch.
+4. A long-dead ancient hero @d6): 1. bard; 2. beastmaster; 3. elf-maid or prince; 4. knight or crusader; 5. hunter; 6. prophet.
+5. A long-dead ancient villain @d6): 1. giant; 2. necromancer; 3. vampire or lich; 4. warlord; 5. werewolf or wererat; 6. witch.
 6. A dead god or undead being.
-7. An aberrant creature (d6): 1. brain eater; 2. cosmic horror; 3. eye beast; 4. eyeless fish thing; 5. gibbering maw; 6. star spawn.
+7. An aberrant creature @d6): 1. brain eater; 2. cosmic horror; 3. eye beast; 4. eyeless fish thing; 5. gibbering maw; 6. star spawn.
 8. An elemental creature.
 9. A primordial or titan.
 10. Primal spirits or an archfey.
@@ -2448,22 +2448,22 @@ d20 Leader: The cult’s leader is...
 20. The second coming of a god.
 
 d6 Members: The cult's membership is primarily made up of...
-1. The poor and downtrodden (d6): 1. slaves; 2. beggars; 3-4. laborers; 5-6. servants.
-2. The wealthy elite (d6): 1. guildmasters; 2-3. merchants; 4-5. nobles; 6. royalty.
-3. A segment of another religion's flock (d8): 1. sun god; 2. earth mother; 3. death god; 4. moon goddess; 5. goddess of love; 6. storm god; 7. trickster god; 8. war god.
-4. Members of a particular trade (d8): 1. blacksmiths; 2. carpenters; 3. farmers; 4. fishermen; 5. miners; 6. soldiers; 7. stonemasons; 8. weavers.
-5. Members of a particular race (d8): 1. dwarves; 2. elves; 3. gnomes; 4. goblins; 5. halflings; 6. humans; 7. orcs; 8. lizardfolk or kobolds.
+1. The poor and downtrodden @d6): 1. slaves; 2. beggars; 3-4. laborers; 5-6. servants.
+2. The wealthy elite @d6): 1. guildmasters; 2-3. merchants; 4-5. nobles; 6. royalty.
+3. A segment of another religion's flock @d8): 1. sun god; 2. earth mother; 3. death god; 4. moon goddess; 5. goddess of love; 6. storm god; 7. trickster god; 8. war god.
+4. Members of a particular trade @d8): 1. blacksmiths; 2. carpenters; 3. farmers; 4. fishermen; 5. miners; 6. soldiers; 7. stonemasons; 8. weavers.
+5. Members of a particular race @d8): 1. dwarves; 2. elves; 3. gnomes; 4. goblins; 5. halflings; 6. humans; 7. orcs; 8. lizardfolk or kobolds.
 6. Members of all social strata.
 
 d8 Rituals: The cult's practices involve (leadership and believers could adhere to different practices)...
-1. Animal sacrifice (d10): 1. bulls; 2. calves; 3. cats; 4. chickens; 5. dogs; 6. goats; 7. pigeons; 8. rabbits or rats; 9. sheep; 10. songbirds or waterfowl.
-2. Human sacrifice (d6): 1. children; 2. the elderly; 3. harlots; 4. priests and priestesses; 5. virgins; 6. volunteers.
-3. Self-mutilation (d10): 1. arm; 2. back; 3. cheek; 4. chest; 5. ear; 6. eye; 7. feet; 8. finger; 9. genitalia; 10. nose.
-4. Burnt offerings (d6): 1. corpses; 2. rare herbs; 3. sacred incense; 4. high-quality meat; 5. nonbelievers; 6. prisoners.
+1. Animal sacrifice @d10): 1. bulls; 2. calves; 3. cats; 4. chickens; 5. dogs; 6. goats; 7. pigeons; 8. rabbits or rats; 9. sheep; 10. songbirds or waterfowl.
+2. Human sacrifice @d6): 1. children; 2. the elderly; 3. harlots; 4. priests and priestesses; 5. virgins; 6. volunteers.
+3. Self-mutilation @d10): 1. arm; 2. back; 3. cheek; 4. chest; 5. ear; 6. eye; 7. feet; 8. finger; 9. genitalia; 10. nose.
+4. Burnt offerings @d6): 1. corpses; 2. rare herbs; 3. sacred incense; 4. high-quality meat; 5. nonbelievers; 6. prisoners.
 5. Offerings of gold, gems, and valuables.
 6. Strange incantations.
-7. Public acts of violence (d6): 1. arson; 2. beatings; 3. looting; 4. murders; 5. riots; 6. vandalism.
-8. Ritualistic sexual acts (d6): 1. bestiality; 2. breedings; 3. deflowerings; 4. weddings with beddings; 5-6. orgies.
+7. Public acts of violence @d6): 1. arson; 2. beatings; 3. looting; 4. murders; 5. riots; 6. vandalism.
+8. Ritualistic sexual acts @d6): 1. bestiality; 2. breedings; 3. deflowerings; 4. weddings with beddings; 5-6. orgies.
 
 d8 Goals: The cult's goals (leadership and believers could have different goals)...
 1. Domination of the city.
@@ -2476,9 +2476,9 @@ d8 Goals: The cult's goals (leadership and believers could have different goals)
 8. Release of a powerful captive entity.
 
 d12 Rules: The cult’s members must follow a strict rule regarding...
-1. Wearing a flower in the hair or on the lapel (d6): 1. lily; 2. orchid; 3. rose; 4. petunia; 5. poppy; 6. tulip.
+1. Wearing a flower in the hair or on the lapel @d6): 1. lily; 2. orchid; 3. rose; 4. petunia; 5. poppy; 6. tulip.
 2. Fashion trends.
-3. Maintaining their personal weapon (d6): 1-2. club; 2-3. dagger; 4. handaxe; 6. staff.
+3. Maintaining their personal weapon @d6): 1-2. club; 2-3. dagger; 4. handaxe; 6. staff.
 4. Treatment of pets.
 5. Mounting a horse.
 6. Dressing one’s self for worship.
@@ -3401,21 +3401,21 @@ d10 Geography: This disease is frequently encountered in regions with...
 10. High altitude.
 
 d10 Common Symptoms: Affect the...
-1. Eyes (d8): 1. blurred vision; 2. light sensitivity; 3. puffiness; 4. poor night vision; 5. watery eyes; 6. yellow discharge; 7. double vision; 8. difficulty focusing.
-2. Brain (d8): 1. changes in mood; 2. dissociative fugues; 3. dizziness; 4. drowsiness; 5. headaches; 6. insomnia; 7. nightmares; 8. shortened attention span.
-3. Chest (d8): 1. chest pain; 2. congestion; 3. coughing fits; 4. hives; 5. wheezing; 6. shortness of breath; 7. coughing up blood; 8. tightness in chest.
-4. Ears and throat (d8): 1. excessive ear wax; 2. difficulty swallowing; 3. swollen glands; 4. sore throat; 5. hearing loss; 6. vertigo; 7. bleeding from the ears; 8. loss of voice.
-5. Head and nose (d8): 1. dry scalp; 2. hair loss; 3. pimples; 4. sinus pressure; 5. sneezing; 6. swollen cheeks; 7. runny nose; 8. bleeding from the nose.
-6. Limbs (d8): 1. achiness; 2. joint pain; 3. muscle spasms; 4. restlessness; 5. stiff joints; 6. weakness; 7. discoloration of the fingernails or toenails; 8. bruising.
-7. Mouth (d8): 1. bleeding gums; 2. canker sores; 3. cracked lips; 4. dry mouth; 5. foamy, excessive salivation; 6. tooth pain; 7. tooth discoloration; 8. tooth decay.
-8. Sex organs (d8): 1. loss of desire; 2. pale discharge; 3. inability to climax; 4. open sores; 5. pain during urination; 6. warts; 7. itchy bumps; 8. bloody discharge.
-9. Skin (d8): 1. black or purple spots; 2. boils; 3. itchiness; 4. pale or yellow hue; 5. peeling; 6. rash; 7. red spots; 8. scales.
-10. Stomach and gut (d8): 1. loss of appetite; 2. constipation; 3. excessive flatulence; 4. loose stool; 5. bloody stool; 6. nausea and vomiting; 7. ulcers, 8. vomiting blood.
+1. Eyes @d8): 1. blurred vision; 2. light sensitivity; 3. puffiness; 4. poor night vision; 5. watery eyes; 6. yellow discharge; 7. double vision; 8. difficulty focusing.
+2. Brain @d8): 1. changes in mood; 2. dissociative fugues; 3. dizziness; 4. drowsiness; 5. headaches; 6. insomnia; 7. nightmares; 8. shortened attention span.
+3. Chest @d8): 1. chest pain; 2. congestion; 3. coughing fits; 4. hives; 5. wheezing; 6. shortness of breath; 7. coughing up blood; 8. tightness in chest.
+4. Ears and throat @d8): 1. excessive ear wax; 2. difficulty swallowing; 3. swollen glands; 4. sore throat; 5. hearing loss; 6. vertigo; 7. bleeding from the ears; 8. loss of voice.
+5. Head and nose @d8): 1. dry scalp; 2. hair loss; 3. pimples; 4. sinus pressure; 5. sneezing; 6. swollen cheeks; 7. runny nose; 8. bleeding from the nose.
+6. Limbs @d8): 1. achiness; 2. joint pain; 3. muscle spasms; 4. restlessness; 5. stiff joints; 6. weakness; 7. discoloration of the fingernails or toenails; 8. bruising.
+7. Mouth @d8): 1. bleeding gums; 2. canker sores; 3. cracked lips; 4. dry mouth; 5. foamy, excessive salivation; 6. tooth pain; 7. tooth discoloration; 8. tooth decay.
+8. Sex organs @d8): 1. loss of desire; 2. pale discharge; 3. inability to climax; 4. open sores; 5. pain during urination; 6. warts; 7. itchy bumps; 8. bloody discharge.
+9. Skin @d8): 1. black or purple spots; 2. boils; 3. itchiness; 4. pale or yellow hue; 5. peeling; 6. rash; 7. red spots; 8. scales.
+10. Stomach and gut @d8): 1. loss of appetite; 2. constipation; 3. excessive flatulence; 4. loose stool; 5. bloody stool; 6. nausea and vomiting; 7. ulcers, 8. vomiting blood.
 
 d20 Rare Symptoms: May include...
 1. Amnesia; partial or complete.
 2. Blindness or deafness.
-3. Coma (d6): 1-2. short-term; 3-4. long-term; 5-6. indefinite.
+3. Coma @d6): 1-2. short-term; 3-4. long-term; 5-6. indefinite.
 4. Complete changes in personality.
 5. Concurrent vomiting and diarrhea.
 6. Coughing up blood.
@@ -3653,11 +3653,11 @@ d8 Druidic Focus: The druid carries...
 2. A sprig of mistletoe.
 3. A yew wand.
 4. A cutting from a rare plant.
-5. A totem necklace, strung with pieces of beasts (d6): 1. beaks; 2. bones; 3. claws; 4. shells; 5. tiny skulls; 6. teeth.
-6. A totem rod, adorned with pieces of beasts (d6): 1. bones; 2. feathers; 3. fur; 4. scales; 5. a skull; 6. teeth.
-7. A totem necklace, strung with plant material (d6): 1. seed pods; 2. dried fruit;
+5. A totem necklace, strung with pieces of beasts @d6): 1. beaks; 2. bones; 3. claws; 4. shells; 5. tiny skulls; 6. teeth.
+6. A totem rod, adorned with pieces of beasts @d6): 1. bones; 2. feathers; 3. fur; 4. scales; 5. a skull; 6. teeth.
+7. A totem necklace, strung with plant material @d6): 1. seed pods; 2. dried fruit;
 3. root clippings; 4. fresh flowers; 5. fresh leaves; 6. woven reeds.
-8. A totem rod, adorned with plant material (d6): 1. berries; 2. tree bark; 3. fragrant
+8. A totem rod, adorned with plant material @d6): 1. berries; 2. tree bark; 3. fragrant
 herbs; 4. fresh leaves; 5. runes carved into the wood; 6. seeds and tree sap.
 
 d12 Possession: The druid also carries...
@@ -3891,7 +3891,7 @@ d12 Possessions: The high elf carries...
 5. The journal of an ancient scholar.
 6. A sword etched with ancient runes.
 7. A staff with a moon-white crystal set at the end.
-8. Arrows fletched with the feathers of a fey bird (d6): 1. eagle; 2. hawk; 3. owl; 4. phoenix; 5. raven; 6. swan.
+8. Arrows fletched with the feathers of a fey bird @d6): 1. eagle; 2. hawk; 3. owl; 4. phoenix; 5. raven; 6. swan.
 9. Several vials of healing potions.
 10. A cache of useful herbs.
 11. A silver flute.
@@ -3958,7 +3958,7 @@ d12 Possessions: The wood elf carries...
 5. A heavy steel sword.
 6. A simple spear and a simple bow.
 7. A curved blade and a small wooden shield.
-8. Arrows fletched with the feathers of a wild bird (d8): 1. eagle; 2. goose; 3. hawk; 4. owl; 5. pheasant; 6. quail; 7. raven; 8. swan.
+8. Arrows fletched with the feathers of a wild bird @d8): 1. eagle; 2. goose; 3. hawk; 4. owl; 5. pheasant; 6. quail; 7. raven; 8. swan.
 9. Several vials of healing potions.
 10. A cache of useful herbs.
 11. A silver flute.
@@ -4557,7 +4557,7 @@ d12 Appendages: The fiend has...
 9. Hooves in place of feet.
 10. Exceptionally long fingernails.
 11. Talons in place of feet.
-12. The body and legs of a beast (d6): 1. crocodile; 2. goat; 3. lion; 4. serpent; 5. spider; 6. walrus.
+12. The body and legs of a beast @d6): 1. crocodile; 2. goat; 3. lion; 4. serpent; 5. spider; 6. walrus.
 
 d12 Knowledge and Magic: The fiend possesses...
 1. A missing line from a dark prophecy.
@@ -4689,7 +4689,7 @@ d8 Fishing gear: The fisher uses...
 5. Nets.
 6. Baited lines and nets.
 7. Baited lines and baited traps.
-8. An unusual technique (d6): 1-2. harpoon; 3-4. spear; 5. bare hands; 6. trained beast.
+8. An unusual technique @d6): 1-2. harpoon; 3-4. spear; 5. bare hands; 6. trained beast.
 
 d6 Work style: The fisher prefers to fish...
 1. Alone, in silence.
@@ -4792,7 +4792,7 @@ d10 Deep-sea catch: You haul in...
 10. A rare catch (see below).
 
 d6 Rare catch: You haul in...
-1. A piece of junk (d6): 1-2. seaweed tangle; 3. torn net; 4-5. rotten wood; 6. old boot.
+1. A piece of junk @d6): 1-2. seaweed tangle; 3. torn net; 4-5. rotten wood; 6. old boot.
 2. An abalone.
 3. A monkfish.
 4. An octopus (fights, attacks).
@@ -4825,7 +4825,7 @@ d10 Deep-sea catch: You haul in...
 10. A rare catch (see below).
 
 d8 Rare catch: You haul in...
-1. A piece of junk (d6): 1-2. seaweed tangle;
+1. A piece of junk @d6): 1-2. seaweed tangle;
 3-4. torn net; 5. rotten wood; 6. old boot.
 2. An abalone.
 3. A barracuda (fights, attacks).
@@ -5259,7 +5259,7 @@ d8 The faerie carries...
 4. A vial containing a potent potion.
 5. Several magical mushrooms.
 6. A message from a faerie king or queen.
-7. A musical instrument (d6): 1-2. flute; 3-4. harp; 5. horn; 6. pipes.
+7. A musical instrument @d6): 1-2. flute; 3-4. harp; 5. horn; 6. pipes.
 8. A jug of wine.
 $HIGH ELF
 
@@ -5527,7 +5527,7 @@ d10 Business: The goblins’ primary “business” involves...
 3. Harassing anyone who passes through their territory.
 4. Robbing caravans carrying gems, precious metals, and exotic goods.
 5. Holding up traders’ ships or wagons.
-6. Smuggling drugs (d6): 1-2. smokeleaf; 3-4. a hallucinogenic mushroom; 5. sleepysalt (a downer). 6 sharpsugar (an upper).
+6. Smuggling drugs @d6): 1-2. smokeleaf; 3-4. a hallucinogenic mushroom; 5. sleepysalt (a downer). 6 sharpsugar (an upper).
 7. Smuggling living things (exotic beasts, foreign harlots, fugitives, slaves).
 8. Serving as muscle for evildoers.
 9. Mining and crafting.
@@ -5734,7 +5734,7 @@ d10 Weapons: The hunter makes kills with...
 7. A thrown spear.
 8. Baited steel traps.
 9. Snares.
-10. An unusual hunting weapon (d10): 1. bare hands; 2. battleaxe; 3. blowgun with darts; 4. blowgun with poisoned darts; 5. bolas and knife; 6. bolas and spear; 7. spiked club; 8. scimitar; 9. sling; 10. thrown darts.
+10. An unusual hunting weapon @d10): 1. bare hands; 2. battleaxe; 3. blowgun with darts; 4. blowgun with poisoned darts; 5. bolas and knife; 6. bolas and spear; 7. spiked club; 8. scimitar; 9. sling; 10. thrown darts.
 
 d10 Training: The hunter learned to hunt from...
 1. A parent. 
@@ -6172,14 +6172,14 @@ d20 House colors: The knight’s house’s colors are...
 20. Olive green.
 
 d8 House symbol: The knight’s house's symbol is...
-1. A weapon (d8): 1. arrow. 2. mace. 3. axe. 4. spear. 5. dagger. 6. staff. 7. hammer. 8. sword.
-2. A piece of armor (d4): 1. breastplate. 2. helm. 3. gauntlet. 4. shield.
-3. A celestial body (d4): 1. sun. 2. star. 3. moon. 4. comet.
-4. A plant or part of a plant (d12): 1. apple. 2. maple. 3. barley. 4. oak. 5. briar. 6. olive. 7. fig. 8. pine. 9. grapes. 10. rose. 11. lily. 12. wheat.
-5. An aquatic beast (d6): 1. crab. 2. fish. 3. crocodile. 4. octopus. 5. frog. 6. whale.
-6. A small beast (d10): 1. badger. 2. hedgehog. 3. bat. 4. lizard. 5. beaver. 6. rat. 7. dog. 8. scorpion. 9. ferret. 10. snake. 11. fox. 12. spider.
-7. A great beast (d8): 1. bear. 2. lion. 3. boar. 4. ox. 5. bull. 6. stag. 7. dragon. 8. wolf.
-8. A bird (d12): 1. cardinal. 2. pelican. 3. dove. 4. raven. 5. eagle. 6. rooster. 7. hawk. 8. sparrow. 9. mockingbird. 10. swan. 11. owl. 12. vulture.
+1. A weapon @d8): 1. arrow. 2. mace. 3. axe. 4. spear. 5. dagger. 6. staff. 7. hammer. 8. sword.
+2. A piece of armor @d4): 1. breastplate. 2. helm. 3. gauntlet. 4. shield.
+3. A celestial body @d4): 1. sun. 2. star. 3. moon. 4. comet.
+4. A plant or part of a plant @d12): 1. apple. 2. maple. 3. barley. 4. oak. 5. briar. 6. olive. 7. fig. 8. pine. 9. grapes. 10. rose. 11. lily. 12. wheat.
+5. An aquatic beast @d6): 1. crab. 2. fish. 3. crocodile. 4. octopus. 5. frog. 6. whale.
+6. A small beast @d10): 1. badger. 2. hedgehog. 3. bat. 4. lizard. 5. beaver. 6. rat. 7. dog. 8. scorpion. 9. ferret. 10. snake. 11. fox. 12. spider.
+7. A great beast @d8): 1. bear. 2. lion. 3. boar. 4. ox. 5. bull. 6. stag. 7. dragon. 8. wolf.
+8. A bird @d12): 1. cardinal. 2. pelican. 3. dove. 4. raven. 5. eagle. 6. rooster. 7. hawk. 8. sparrow. 9. mockingbird. 10. swan. 11. owl. 12. vulture.
 
 d12 Background: The knight is...
 1. A pompous windbag.
@@ -6263,8 +6263,8 @@ d12 Trait: On the knight’s face is...
 
 d10 Possession: The knight carries...
 1. A blade with soft leather tassels dangling from the pommel.
-2. A blade with a carved hilt (d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
-3. A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders; 6. wolves.
+2. A blade with a carved hilt @d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+3. A blade with beasts sculpted into the steel of the guard @d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders; 6. wolves.
 4. A blade made of blackened steel.
 5. A highly polished blade.
 6. A token from a sweetheart.
@@ -6669,9 +6669,9 @@ d12 Trait: On the sellsword’s face is...
 d12 Possession: The sellsword carries...
 1. A blade with a gem embedded in the pommel.
 2. A blade with soft leather tassels dangling from the pommel.
-3. A blade with a carved hilt (d6): 1. ivory, 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+3. A blade with a carved hilt @d6): 1. ivory, 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
 4. A blade with a gently curved hilt.
-5. A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders; 6. wolves.
+5. A blade with beasts sculpted into the steel of the guard @d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders; 6. wolves.
 6. A blade made of blackened steel.
 7. A highly polished blade.
 8. A blade with runes carved into it.
@@ -6698,14 +6698,14 @@ d8 Pack Animals: The caravan’s pack animals are...
 5. Sure-footed ponies.
 6. Mules.
 7. Oxen.
-8. Exotic beasts (d6): 1. bison; 2. drakes; 3. elephants; 4. elk; 5. giant lizards; 6. zebras.
+8. Exotic beasts @d6): 1. bison; 2. drakes; 3. elephants; 4. elk; 5. giant lizards; 6. zebras.
 
 d6 Commodities: The caravan is transporting...
-1. Cloth (d4): 1. cotton; 2. linen; 3. silk; 4. wool.
+1. Cloth @d4): 1. cotton; 2. linen; 3. silk; 4. wool.
 2. Drugs or contraband.
-3. Gems (d10): 1. diamond; 3. jade; 2. ruby; 3. emerald; 4. obsidian; 5. opal; 6. pearl;
+3. Gems @d10): 1. diamond; 3. jade; 2. ruby; 3. emerald; 4. obsidian; 5. opal; 6. pearl;
 8. sapphire; 9. topaz; 10. turquoise.
-4. Metals (d6): 1. arsenic; 2. copper; 3. gold; 4. lead; 5. silver; 6. tin.
+4. Metals @d6): 1. arsenic; 2. copper; 3. gold; 4. lead; 5. silver; 6. tin.
 5. Spices and teas.
 6. Wine and spirits.
 
@@ -7050,14 +7050,14 @@ $Main
 d10 Tent: This tent is functions as...
 1. Barracks.
 2. A chapel or shrine.
-3. A forge (d6): 1-2. armorer; 3-4. farrier; 5-6. weaponsmith.
+3. A forge @d6): 1-2. armorer; 3-4. farrier; 5-6. weaponsmith.
 4. An infirmary or surgeons’ office.
 5. A mess hall.
 6. Officers’ quarters.
 7. Officers’ mess.
-8. A supply tent (d6): 1. armory; 2-3. building materials; 4-5. food; 6. water.
+8. A supply tent @d6): 1. armory; 2-3. building materials; 4-5. food; 6. water.
 9. A stable or kennel.
-10. A workshop (d6): 1-2. cartwright; 3. siege engineer; 4-5. fletcher; 6. leatherworker.
+10. A workshop @d6): 1-2. cartwright; 3. siege engineer; 4-5. fletcher; 6. leatherworker.
 
 d12 Other Landmarks: You see...
 1. A corral or wagon yard.
@@ -7079,7 +7079,7 @@ d6 Mounts: The camp’s mounts include...
 3. Reliable garrons.
 4. Quick-footed palfreys.
 5. Huge destriers.
-6. Exotic mounts (d6): 1. bears; 2. bison; 3. elephants; 4. elk; 5. giant lizards; 6. zebras.
+6. Exotic mounts @d6): 1. bears; 2. bison; 3. elephants; 4. elk; 5. giant lizards; 6. zebras.
 
 d6 Hunting or War Beasts: The camp has...
 1. Falcons.
@@ -7087,7 +7087,7 @@ d6 Hunting or War Beasts: The camp has...
 3. Hounds.
 4. Terriers.
 5. Wolves.
-6. Exotic beasts (d10): 1. boars; 2. dire rats; 3. dire wolves; 4. drakes; 5. eagles; 6. lions; 7. owlbears; 8. ravens; 9. tigers; 10. wargs.
+6. Exotic beasts @d10): 1. boars; 2. dire rats; 3. dire wolves; 4. drakes; 5. eagles; 6. lions; 7. owlbears; 8. ravens; 9. tigers; 10. wargs.
 
 d6 Morale: The camp’s general mood is...
 1. Desperate; a calamity has befallen them.
@@ -7455,8 +7455,8 @@ d20 The miners are hauling out...
 16. Sapphires.
 17. Platinum. 
 18. Turquoise.
-19. Other gems (d8): 1. amethyst; 2. aquamarine; 3. garnet; 4. opal; 5. peridot; 6. tanzanite; 7. topaz, 8. zirconium.
-20. An especially rare metal (d6): 1-2. adamantine; 3-4. mithral; 5-6. orium.
+19. Other gems @d8): 1. amethyst; 2. aquamarine; 3. garnet; 4. opal; 5. peridot; 6. tanzanite; 7. topaz, 8. zirconium.
+20. An especially rare metal @d6): 1-2. adamantine; 3-4. mithral; 5-6. orium.
 
 d12 Entrance: The mine’s entrance is...
 1. Up a winding trail from a camp or village.
@@ -7468,9 +7468,9 @@ d12 Entrance: The mine’s entrance is...
 7. A tunnel reinforced with wood beams.
 8. A partially collapsed tunnel, impassable without excavation.
 9. Marked with several signs.
-10. Hidden by the terrain (d6): 1-2. boulders; 3. waterfall; 4-5. rocky overhang; 6. hillock.
-11. Hidden by vegetation (d6): 1-2. a briar patch; 3. a curtain of moss; 4. enormous tree roots; 5-6. overgrown vines.
-12. Difficult to access (d6): 1-2. up or down a cliff face; 3-4. down a deep hole; 5. in an underwater tunnel; 6. through an illusory rock or wall.
+10. Hidden by the terrain @d6): 1-2. boulders; 3. waterfall; 4-5. rocky overhang; 6. hillock.
+11. Hidden by vegetation @d6): 1-2. a briar patch; 3. a curtain of moss; 4. enormous tree roots; 5-6. overgrown vines.
+12. Difficult to access @d6): 1-2. up or down a cliff face; 3-4. down a deep hole; 5. in an underwater tunnel; 6. through an illusory rock or wall.
 
 d6 Layout: Most of the mine is...
 1. A sprawling maze of twisting tunnels.
@@ -7486,7 +7486,7 @@ d8 Methods: Material excavated from the mine is...
 3. Hauled out on mule-drawn carts.
 4. Hauled out on sure-footed ponies.
 5. Hauled out on ox-drawn carts.
-6. Hauled out on the backs of uncommon beasts of burden (d6): 1. bears; 2-3. giant lizards; 4-5. goats; 6. undead horses.
+6. Hauled out on the backs of uncommon beasts of burden @d6): 1. bears; 2-3. giant lizards; 4-5. goats; 6. undead horses.
 7. Rolled out in single mine carts.
 8. Rolled out in long trains of mine carts.
 
@@ -7499,7 +7499,7 @@ d10 Hazards/Obstacles: You find...
 6. You nearly step into a pit or chasm.
 7. A heap of unstable explosives.
 8. A sudden explosion in another part of the mine shakes the floor.
-9. The floor is writhing with vermin (d6): 1-2. beetles; 3. centipedes; 4. rats; 5-6. spiders.
+9. The floor is writhing with vermin @d6): 1-2. beetles; 3. centipedes; 4. rats; 5-6. spiders.
 10. The tunnel or trench is steadily flooding.
 
 d20 Denizens: If you dig deep, you’ll find...
@@ -7748,7 +7748,7 @@ d6 Decor: The buildings/chambers are...
 3. Adorned with painted wood and plaster.
 4. Sturdy structures of finished wood.
 5. Solid structures of oven-fired clay bricks.
-6. Behind large metal doors (d6): 1. brass; 2. bronze; 3. gold; 4. iron; 5. steel; 6. tin.
+6. Behind large metal doors @d6): 1. brass; 2. bronze; 3. gold; 4. iron; 5. steel; 6. tin.
 
 d8 Walls: Many of the interior walls are...
 1. Rough hewn stone.
@@ -7865,7 +7865,7 @@ d8 Martial Arts: The monk's martial arts style includes...
 d8 Possession: The monk carries...
 1. A wooden staff.
 2. Several razor-sharp daggers.
-3. An uncommon weapon (d6): 1. kukri; 2. kusari-gama; 3. nunchaku; 4. scythe; 5. shuriken; 6. sickle.
+3. An uncommon weapon @d6): 1. kukri; 2. kusari-gama; 3. nunchaku; 4. scythe; 5. shuriken; 6. sickle.
 4. A purse of silver to distribute to the poor.
 5. A variety of healing potions and salves.
 6. A set of prayer beads or a prayer book.
@@ -7874,7 +7874,7 @@ d8 Possession: The monk carries...
 
 d6 Drink: The monk prefers to drink...
 1-2. Ale.
-3-4. Tea (d6): 1-2. black; 3-4. green; 5-6. white.
+3-4. Tea @d6): 1-2. black; 3-4. green; 5-6. white.
 5-6. Wine.
 
 d6 Goal: The monk is looking for...
@@ -7941,11 +7941,11 @@ d20 Feature: You notice...
 7. The clatter of rocks falling.
 8. Loose stones underfoot.
 9. An unstable rock wall.
-10. A distant sound (d6): 1. scream; 2. drums; 3. hammers at work; 4. footsteps; 5-6. rocks crashing.
+10. A distant sound @d6): 1. scream; 2. drums; 3. hammers at work; 4. footsteps; 5-6. rocks crashing.
 11. The name of a previous traveler carved into a boulder.
 12. An ancient rune carved in a rock wall.
 13. A scrawny tree growing with its roots spread over a small boulder.
-14. The distant cry of a beast (d6): 1-2. eagle; 3. goat; 4. mountain lion; 5-6. wolf.
+14. The distant cry of a beast @d6): 1-2. eagle; 3. goat; 4. mountain lion; 5-6. wolf.
 15. The wind whips up to a treacherous speed.
 16. Snow flurries begin to fall.
 17. The sound of birds chirping.
@@ -8013,7 +8013,7 @@ d6 What were the miners digging for?
 3. Gold.
 4. Iron.
 5. Silver.
-6. A rare metal (d6): 1. adamantine; 2. electrum; 3-4. mithral; 5-6. platinum.
+6. A rare metal @d6): 1. adamantine; 2. electrum; 3-4. mithral; 5-6. platinum.
 
 d20 What lives in the abandoned mine/ancient ruin now?
 1. Carrion crawler. 
@@ -8136,14 +8136,14 @@ d20 Colors: The house's colors are...
 20. Olive green.
 
 d8 Symbol: The house's symbol is...
-1. A weapon (d8): 1. arrow; 2. axe; 3. dagger; 4. hammer; 5. mace; 6. spear; 7. staff; 8. sword.
-2. A piece of armor (d4): 1. breastplate; 2. gauntlet; 3. helm; 4. shield.
-3. A celestial body (d4): 1. sun; 2. moon; 3. star; 4. comet.
-4. A plant or part of a plant (d12): 1. apple; 2. barley; 3. briar; 4. fig; 5. grapes; 6. lily; 7. maple; 8. oak; 9. olive; 10. pine; 11. rose; 12. wheat.
-5. An aquatic beast (d6): 1. crab; 2. crocodile; 3. frog; 4. fish; 5. octopus; 6. whale.
-6. A small beast (d12): 1. badger; 2. bat; 3. beaver; 4. dog; 5. ferret; 6. fox; 7. hedgehog; 8. lizard; 9. rat; 10. scorpion; 11. snake; 12. spider.
-7. A great beast (d8): 1. bear; 2. boar; 3. bull; 4. dragon; 5. lion; 6. ox; 7. stag; 8. wolf.
-8. A bird (d12): 1. cardinal; 2. dove; 3. eagle; 4. hawk; 5. mockingbird; 6. owl; 7. pelican; 8. raven; 9. rooster; 10. sparrow; 11. swan; 12. vulture.
+1. A weapon @d8): 1. arrow; 2. axe; 3. dagger; 4. hammer; 5. mace; 6. spear; 7. staff; 8. sword.
+2. A piece of armor @d4): 1. breastplate; 2. gauntlet; 3. helm; 4. shield.
+3. A celestial body @d4): 1. sun; 2. moon; 3. star; 4. comet.
+4. A plant or part of a plant @d12): 1. apple; 2. barley; 3. briar; 4. fig; 5. grapes; 6. lily; 7. maple; 8. oak; 9. olive; 10. pine; 11. rose; 12. wheat.
+5. An aquatic beast @d6): 1. crab; 2. crocodile; 3. frog; 4. fish; 5. octopus; 6. whale.
+6. A small beast @d12): 1. badger; 2. bat; 3. beaver; 4. dog; 5. ferret; 6. fox; 7. hedgehog; 8. lizard; 9. rat; 10. scorpion; 11. snake; 12. spider.
+7. A great beast @d8): 1. bear; 2. boar; 3. bull; 4. dragon; 5. lion; 6. ox; 7. stag; 8. wolf.
+8. A bird @d12): 1. cardinal; 2. dove; 3. eagle; 4. hawk; 5. mockingbird; 6. owl; 7. pelican; 8. raven; 9. rooster; 10. sparrow; 11. swan; 12. vulture.
 
 d6 Reputation: The house is...
 1. Ancient and well-respected by all houses, great and small.
@@ -8560,11 +8560,11 @@ d8 The person is a...
 
 d6 The person is prejudiced against...
 1. Other genders.
-2. An age group (d6): 1-2. children; 3-4. teenagers; 5-6. elderly.
-3. A social class (d6): 1-2. rulers; 3-4. powerful rich; 5-6. destitute poor.
-4. Social deviants (d6): 1-2. beggars; 3-4. drunks; 5-6. junkies.
-5. A profession (d12): 1. farmers; 2. artists; 3. clergy; 4. soldiers; 5. fishers; 6. harlots; 7. miners; 8. merchants; 9. scholars; 10. herders; 11. sailors; 12. mages.
-6. A race (d8): 1. dwarves; 2. elves; 3. gnomes; 4. goblins; 5. half-breeds; 5. halflings; 6. humans; 7. orcs; 8. reptilians.
+2. An age group @d6): 1-2. children; 3-4. teenagers; 5-6. elderly.
+3. A social class @d6): 1-2. rulers; 3-4. powerful rich; 5-6. destitute poor.
+4. Social deviants @d6): 1-2. beggars; 3-4. drunks; 5-6. junkies.
+5. A profession @d12): 1. farmers; 2. artists; 3. clergy; 4. soldiers; 5. fishers; 6. harlots; 7. miners; 8. merchants; 9. scholars; 10. herders; 11. sailors; 12. mages.
+6. A race @d8): 1. dwarves; 2. elves; 3. gnomes; 4. goblins; 5. half-breeds; 5. halflings; 6. humans; 7. orcs; 8. reptilians.
 $FLAWS
 
 d20 The person...
@@ -8618,10 +8618,10 @@ d10 Values: The orcs value...
 10. Meat.
 
 d6 Symbols: The orcs’ iconography features...
-1-2. Symbols of death and destruction (d8): 1. bats; 2. bones; 3. crows; 4. flames; 5. ghosts; 6. scorpions; 7. skulls; 8. vultures.
-3. Symbols of the heavens (d6): 1. clouds; 2-3. lightning; 4-5. moon; 6. stars.
-4-5. Symbols of strength and weaponry (d6): 1. arrows; 2. axes; 3. fists; 4. spears; 5. stones; 6. swords.
-6. A great beast (d6): 1. bears; 2. boars; 3. eagles; 4. lions; 5. snakes; 6. wolves.
+1-2. Symbols of death and destruction @d8): 1. bats; 2. bones; 3. crows; 4. flames; 5. ghosts; 6. scorpions; 7. skulls; 8. vultures.
+3. Symbols of the heavens @d6): 1. clouds; 2-3. lightning; 4-5. moon; 6. stars.
+4-5. Symbols of strength and weaponry @d6): 1. arrows; 2. axes; 3. fists; 4. spears; 5. stones; 6. swords.
+6. A great beast @d6): 1. bears; 2. boars; 3. eagles; 4. lions; 5. snakes; 6. wolves.
 
 d10 Chief: The orcs’ chief is...
 1. A well-respected chief.
@@ -8660,7 +8660,7 @@ d6 Morale: The orcs’ current attitude is...
 d6 Fears: The orcs fear...
 1. Men armored in steel.
 2. Spellcasters.
-3. Members of a particular race (d6): 1-2. elves; 3-4. dwarves; 5. goblinoids; 6. reptilians.
+3. Members of a particular race @d6): 1-2. elves; 3-4. dwarves; 5. goblinoids; 6. reptilians.
 4. The gods.
 5. Aberrant evils.
 6. Dragons.
@@ -8707,7 +8707,7 @@ d8 Tactics: The orcs typically fight with...
 5. Kicking and stomping.
 6. Lots of head-butting.
 7. Lots of biting and scratching.
-8. Frequent breaks for (d6): 1-2. arguments; 3. looting; 4-5. forming ranks; 6. eating.
+8. Frequent breaks for @d6): 1-2. arguments; 3. looting; 4-5. forming ranks; 6. eating.
 
 d10 Slaves: As slaves, the orcs keep...
 1. Dwarves.
@@ -8910,13 +8910,13 @@ d10 Victims or Foils: The outlaw band is feared or respected by...
 $POACHERS
 
 d6 Prey: The poachers’ favorite prey includes...
-1. Great beasts (d8): 1-2. bears; 3-5. wolves; 6-8. boars.
-2. Exotic birds (d8): 1. eagle; 2. falcon; 3. hawk; 4. owl; 5. peafowl; 6. roc; 7. phoenix; 8. flamingo.
-3. Deer (d8): 1-2. elk; 3-4. harts; 5-6. moose; 7-8. stags.
-4. Exotic beasts (d8): 1. lions; 2. tigers; 3. griffons; 4. hippogriffs; 5. elephants; 6. owlbears; 7. wyvern; 8. behemoths.
-5. Game birds (d8): 1. quail; 2. grouse; 3. pheasant; 4. snipe; 5. duck; 6. partridge;
+1. Great beasts @d8): 1-2. bears; 3-5. wolves; 6-8. boars.
+2. Exotic birds @d8): 1. eagle; 2. falcon; 3. hawk; 4. owl; 5. peafowl; 6. roc; 7. phoenix; 8. flamingo.
+3. Deer @d8): 1-2. elk; 3-4. harts; 5-6. moose; 7-8. stags.
+4. Exotic beasts @d8): 1. lions; 2. tigers; 3. griffons; 4. hippogriffs; 5. elephants; 6. owlbears; 7. wyvern; 8. behemoths.
+5. Game birds @d8): 1. quail; 2. grouse; 3. pheasant; 4. snipe; 5. duck; 6. partridge;
 7. turkey; 8. swan.
-6. Small beasts (d8): 1. fox; 2. otter; 3. raccoon; 4. badger; 5. beaver; 6. ermine; 7. sable; 8. skunk.
+6. Small beasts @d8): 1. fox; 2. otter; 3. raccoon; 4. badger; 5. beaver; 6. ermine; 7. sable; 8. skunk.
 
 d6 Purpose: The poachers’ hunt...
 1. For sport.
@@ -9235,10 +9235,10 @@ d12 Location: The prison is located...
 6. Beneath a town hall.
 7. In an annex on a town hall.
 8. Underneath a city, deep below ground.
-9. Behind walls in a fortified rural location (d6): 1-2. coast; 3-4. hills; 5-6. plains.
-10. Below ground, in a hidden rural location (d6): 1-2. coast; 3-4. hills; 5-6. plains.
-11. Behind walls in a fortified wilderness location (d6): 1. desert, 2. forest, 3. hills; 4. mountains, 5. swamp; 6. tundra.
-12. Below ground, in a hidden wilderness location (d6): 1. desert, 2. forest, 3. hills; 4. mountains, 5. swamp; 6. tundra.
+9. Behind walls in a fortified rural location @d6): 1-2. coast; 3-4. hills; 5-6. plains.
+10. Below ground, in a hidden rural location @d6): 1-2. coast; 3-4. hills; 5-6. plains.
+11. Behind walls in a fortified wilderness location @d6): 1. desert, 2. forest, 3. hills; 4. mountains, 5. swamp; 6. tundra.
+12. Below ground, in a hidden wilderness location @d6): 1. desert, 2. forest, 3. hills; 4. mountains, 5. swamp; 6. tundra.
 
 d12 Builder: The prison was built by...
 1. A wise king or queen.
@@ -9554,13 +9554,13 @@ d10 Form: The spirit is...
 1. Incorporeal, invisible, and incapable of affecting its material surroundings.
 2. Incorporeal, invisible, and capable of moving small objects.
 3. Incorporeal, invisible, but capable of making itself seen.
-4. Incorporeal, invisible, and hidden within an inanimate object (d6): 1. book; 2. chest; 3. writing desk; 4. kettle; 5. sword; 6. wardrobe.
+4. Incorporeal, invisible, and hidden within an inanimate object @d6): 1. book; 2. chest; 3. writing desk; 4. kettle; 5. sword; 6. wardrobe.
 5. Incorporeal, visible, but incapable of affecting it's material surroundings.
 6. Incorporeal, visible, and capable of significant mischief and harm.
 7. Incorporeal, extraordinarily beautiful, and capable of mischief and harm.
 8. Incorporeal, wretched and slimy, and capable of mischief and harm.
 9. Incorporeal, glowing blue or green, and capable of mischief and harm.
-10. Incorporeal, visible, but in an unrecognizable form (d6): 1. mist or fog; 2. animal shape; 3. floating skull; 4. faint glow; 5. pool of shadows; 6. spectral hand.
+10. Incorporeal, visible, but in an unrecognizable form @d6): 1. mist or fog; 2. animal shape; 3. floating skull; 4. faint glow; 5. pool of shadows; 6. spectral hand.
 
 d6 Movement: The spirit moves...
 1. By creeping, oozelike, across the ground.
@@ -9611,10 +9611,10 @@ d8 Values: The barbarians value...
 8. Kill counts.
 
 d6 Symbol: The barbarians’ iconography features...
-1-2. Symbols of death and destruction (d8): 1. bats; 2. bones; 3. crows; 4. flames; 5. ghosts; 6. scorpions; 7. skulls; 8. vultures.
-3. Symbols of the heavens (d6): 1. clouds; 2. lightning; 3. moon; 4. snow; 5. stars; 6. sun.
-4. Symbols of strength and weaponry (d6): 1. arrows; 2. axes’; 3. fists; 4. spears; 5. stones; 6. sword.
-5-6. Totem beasts (d8): 1. bears; 2. boars; 3. eagles; 4. horses; 5. lions; 6.owls; 7. snakes; 8. wolves.
+1-2. Symbols of death and destruction @d8): 1. bats; 2. bones; 3. crows; 4. flames; 5. ghosts; 6. scorpions; 7. skulls; 8. vultures.
+3. Symbols of the heavens @d6): 1. clouds; 2. lightning; 3. moon; 4. snow; 5. stars; 6. sun.
+4. Symbols of strength and weaponry @d6): 1. arrows; 2. axes’; 3. fists; 4. spears; 5. stones; 6. sword.
+5-6. Totem beasts @d8): 1. bears; 2. boars; 3. eagles; 4. horses; 5. lions; 6.owls; 7. snakes; 8. wolves.
 
 d10 Chief: The barbarians’ leader is...
 1. A well-respected chief.
@@ -9706,13 +9706,13 @@ d6 Tactics: The warrior fights with...
 6. Lots of head-butting.
 
 d10 Fears: The barbarians fear...
-1. Foreigners wearing a particular color of clothing (d8): 1. red; 2. gold; 3. green; 4. blue; 5. purple; 6. white; 7. black; 8. grey.
+1. Foreigners wearing a particular color of clothing @d8): 1. red; 2. gold; 3. green; 4. blue; 5. purple; 6. white; 7. black; 8. grey.
 2. Foreigners armored in steel.
 3. Foreigners with facial hair.
 4. Foreign women.
 5. All foreigners.
-6. Members of a particular race (d6): 1-2. dwarves; 2. elves; 3. goblinoids; 5-6. reptilian humanoids.
-7. A particular natural phenomenon (d6): 1. blizzards; 2. earthquakes; 3. floods; 4. thunderstorms; 5. volcanoes; 6. typhoons.
+6. Members of a particular race @d6): 1-2. dwarves; 2. elves; 3. goblinoids; 5-6. reptilian humanoids.
+7. A particular natural phenomenon @d6): 1. blizzards; 2. earthquakes; 3. floods; 4. thunderstorms; 5. volcanoes; 6. typhoons.
 8. Spellcasters.
 9. The gods.
 10. Dragons.
@@ -9746,9 +9746,9 @@ d12 Facial feature: On the warrior’s face is...
 12. A long, braided mustache.
 
 d10 Body: On the warrior’s body is...
-1. A tattoo of a great beast (d6):1. bear; 2. boar; 3. dragon; 4. eagle; 5. lion; 6. wolf.
+1. A tattoo of a great beast @d6):1. bear; 2. boar; 3. dragon; 4. eagle; 5. lion; 6. wolf.
 2. A tattoo of a skull and some bones.
-3. A tattoo of a weapon (d6): 1-2. arrow; 3. axe; 4-5. spear; 6. sword.
+3. A tattoo of a weapon @d6): 1-2. arrow; 3. axe; 4-5. spear; 6. sword.
 4. A festering wound.
 5. A noticeable battle scar.
 6. A large burn scar.
@@ -9903,7 +9903,7 @@ d12 Possession: The killer carries...
 9. A weapon with runes carved into it.
 10. A weapon with a gem embedded in the pommel.
 11. A weapon with soft leather tassels dangling from the pommel.
-12. A weapon made of an unusual material (d6): 1. blackened steel; 2. bone; 3. coral; 4. crude iron; 5. obsidian; 6. stone.
+12. A weapon made of an unusual material @d6): 1. blackened steel; 2. bone; 3. coral; 4. crude iron; 5. obsidian; 6. stone.
 
 d12 Quirk: The killer is unusually fond of or particular regarding...
 1. Horticulture and floral arrangements.
@@ -10293,7 +10293,7 @@ d8 Layout: The temple’s main floorplan is...
 4. Square.
 5. Rectangular.
 6. Pentagonal.
-7. Polygonal with many sides (d8): 1. six; 2. seven; 3. eight; 4. nine; 5. ten; 6. twelve; 7. thirteen; 8. twenty.
+7. Polygonal with many sides @d8): 1. six; 2. seven; 3. eight; 4. nine; 5. ten; 6. twelve; 7. thirteen; 8. twenty.
 8. Cruciform.
 
 d8 Complex: The temple complex is...
@@ -10312,7 +10312,7 @@ d6 Structure: The structure includes...
 3. A colorful painted wood and plaster.
 4. A sturdy structure of finished wood.
 5. A solid structure of oven-fired clay bricks.
-6. A large structure with immense metal doors (d6): 1. brass; 2. bronze; 3. gold; 4. iron; 5. steel; 6. tin.
+6. A large structure with immense metal doors @d6): 1. brass; 2. bronze; 3. gold; 4. iron; 5. steel; 6. tin.
 
 d8 Walls: Many of the interior walls are...
 1. Rough hewn stone.
@@ -10342,8 +10342,8 @@ d20 Rooms: The purpose of this room is...
 7. A sanitarium or infirmary.
 8. A ceremonial pool, bath, or fountain.
 9. A morgue or mortuary.
-10. A crypt for a person of importance (d6): 1. well-known hero; 2. powerful high priest; 3-4. obscure priest; 5-6. wealthy noble.
-11. A room dedicated for specific rituals (d6): 1. conjurations; 2-3. divinations; 4-5. funerals; 6. healing miracles.
+10. A crypt for a person of importance @d6): 1. well-known hero; 2. powerful high priest; 3-4. obscure priest; 5-6. wealthy noble.
+11. A room dedicated for specific rituals @d6): 1. conjurations; 2-3. divinations; 4-5. funerals; 6. healing miracles.
 12. A chapel for a lesser deity, saint, or martyr.
 13. A classroom or dormitory.
 14. A library.
@@ -10431,7 +10431,7 @@ d12 Possessions: The priest carries...
 3. A walking staff.
 4. A staff with a crook.
 5. A ceremonial dagger.
-6. A prominently displayed holy symbol (d6): 1. bejeweled; 2. gilded; 3. iron; 4. silver; 5. steel; 6. wooden.
+6. A prominently displayed holy symbol @d6): 1. bejeweled; 2. gilded; 3. iron; 4. silver; 5. steel; 6. wooden.
 7. A pocketbook of sacred texts.
 8. A notebook of hand-written prayers and devotions.
 9. A variety of healing potions and salves.
@@ -10475,8 +10475,8 @@ d12 Trait: The thief has...
 5. Pockmarked cheeks.
 6. High cheek bones.
 7. A pointy chin.
-8. A thug's tattoo on the arm (d8): 1. crossed bones; 2. dagger; 3. dragon; 4. eagle; 5. skull; 6. snake; 7. spider web; 8. thorns.
-9. A sailor's tattoo on the arm (d6): 1. anchor; 2-3. mermaid; 4. octopus; 5-6. whale.
+8. A thug's tattoo on the arm @d8): 1. crossed bones; 2. dagger; 3. dragon; 4. eagle; 5. skull; 6. snake; 7. spider web; 8. thorns.
+9. A sailor's tattoo on the arm @d6): 1. anchor; 2-3. mermaid; 4. octopus; 5-6. whale.
 10. An open shirt and a very hairy chest.
 11. A five o'clock shadow.
 12. An extravagant mustache.
@@ -10510,7 +10510,7 @@ d20 Possession: The thief carries...
 12. A mask.
 13. The token of a love.
 14. Letters for blackmail.
-15. A lucky charm (d6): 1. four-leafed clover; 2-3. rabbit's foot; 4-5. coin; 6. horseshoe.
+15. A lucky charm @d6): 1. four-leafed clover; 2-3. rabbit's foot; 4-5. coin; 6. horseshoe.
 16. A flask of oil.
 17. A treasure map.
 18. A flask filled with spirits.
@@ -10582,11 +10582,11 @@ d20 Recent jobs: Recently, the thief has been operating in or near...
 20. The bridge.
 
 d8 Odd jobs: Aside from theft, the thief has been known to be involved in...
-1. Distributing drugs (d6): 1-2. smokeleaf; 3. hallucinogenic mushrooms; 4. sleepysalt (a downer); 5-6. sharpsugar (an upper).
+1. Distributing drugs @d6): 1-2. smokeleaf; 3. hallucinogenic mushrooms; 4. sleepysalt (a downer); 5-6. sharpsugar (an upper).
 2. Fencing stolen gems and precious metals.
 3. Assassinations that look like accidents.
 4. Assassinations that frame someone else.
-5. Running brothels (d6): 1-2. exotic; 3-4. low; 5-6. high-class.
+5. Running brothels @d6): 1-2. exotic; 3-4. low; 5-6. high-class.
 6. Shaking down legitimate local businesses for "protection."
 7. Shaking down scandal-plagued city officials.
 8. Serving as muscle for shady merchants and/or brothel-keepers.
@@ -10690,7 +10690,7 @@ d20 Dedicatee: This tomb was built for...
 
 d12 Entrance: The tomb’s entrance is...
 1. Yawning open, letting much daylight into the entry chamber.
-2. Behind a huge pair of metal doors (d6):
+2. Behind a huge pair of metal doors @d6):
 1. brass; 2-3. bronze; 4. gold; 5-6. iron.
 3. Beneath a stone slab.
 4. A simple wooden door framed in stone.
@@ -10699,14 +10699,14 @@ d12 Entrance: The tomb’s entrance is...
 7. Beneath a gnarled, old tree.
 8. Beneath an obelisk or similar monument.
 9. Beneath a large statue.
-10. Hidden by the terrain (d6): 1-2. waterfall; 3. boulders; 4-5. rocky overhang; 6. hillock.
-11. Hidden by vegetation (d6): 1. a briar patch; 2-3. a curtain of moss; 4. enormous tree roots; 5-6. overgrown vines.
-12. Difficult to access (d6): 1-2. up or down a cliff face; 3-4. down a deep hole. 5. in an underwater tunnel; 6. through an illusory rock or wall.
+10. Hidden by the terrain @d6): 1-2. waterfall; 3. boulders; 4-5. rocky overhang; 6. hillock.
+11. Hidden by vegetation @d6): 1. a briar patch; 2-3. a curtain of moss; 4. enormous tree roots; 5-6. overgrown vines.
+12. Difficult to access @d6): 1-2. up or down a cliff face; 3-4. down a deep hole. 5. in an underwater tunnel; 6. through an illusory rock or wall.
 
 d10 Guardians: The tomb’s entrance is guarded by...
 1. A sworn order of devout warriors.
 2. Sellswords.
-3. Large, frightening statues of beasts (d8): 1. bats; 2. bears; 3. dragons; 4. eagles; 5. lions; 6. ravens; 7. snakes; 8. wolves.
+3. Large, frightening statues of beasts @d8): 1. bats; 2. bears; 3. dragons; 4. eagles; 5. lions; 6. ravens; 7. snakes; 8. wolves.
 4. Impressive, colossal statues of warriors.
 5. Statues of beautiful maidens, beckoning visitors into a trap.
 6. Several crumbling statues.
@@ -10755,7 +10755,7 @@ d20 Rooms: The purpose of this room is...
 1. An antechamber to a crypt or chapel.
 2. A chapel dedicated to protecting the souls of the deceased.
 3. A chapel dedicated to aiding the journey of the souls of the deceased.
-4. A grand crypt for a person of importance (d6): 1. well-known hero; 2-3. high priest; 4-5. powerful noble; 6. wealthy merchant.
+4. A grand crypt for a person of importance @d6): 1. well-known hero; 2-3. high priest; 4-5. powerful noble; 6. wealthy merchant.
 5. A false crypt to attract and to trap graverobbers and treasure hunters.
 6. A crypt for immediate family members.
 7. A crypt for previous generations of the family.
@@ -10763,9 +10763,9 @@ d20 Rooms: The purpose of this room is...
 9. A crypt of unmarked graves.
 10. A reflecting pool or fountain.
 11. A crypt for devoted servants or slaves.
-12. A room dedicated for specific rituals (d6): 1-2. divinations; 3-4. funerals; 5-6. necromancy.
-13. Gallery dedicated to the deceased (d6): 1-2. trophies; 3-4. statues; 5-6. paintings.
-14. A guardroom with guards (d6): 1. ghosts; 2. golems; 3. knights; 4. sellswords; 5. cultists; 6. skeletons; 5. wights; 6. zombies.
+12. A room dedicated for specific rituals @d6): 1-2. divinations; 3-4. funerals; 5-6. necromancy.
+13. Gallery dedicated to the deceased @d6): 1-2. trophies; 3-4. statues; 5-6. paintings.
+14. A guardroom with guards @d6): 1. ghosts; 2. golems; 3. knights; 4. sellswords; 5. cultists; 6. skeletons; 5. wights; 6. zombies.
 15. A priest’s robing room.
 16. Storage room for embalming tools.
 17. Storage room for tools and materials to maintain the tomb.
@@ -11056,11 +11056,11 @@ d6 The server carries...
 $Main
 
 d8 Business: The gang's money-making schemes include...
-1. Distributing drugs (d6): 1-2. smokeleaf; 3-4. a hallucinogenic mushroom; 5. sleepysalt (a downer); 6. sharpsugar (an upper).
+1. Distributing drugs @d6): 1-2. smokeleaf; 3-4. a hallucinogenic mushroom; 5. sleepysalt (a downer); 6. sharpsugar (an upper).
 2. Running heists of and/or fencing stolen gems and precious metals.
 3. Petty theft, burglary, and/or pickpocketing.
 4. Assassinations that look like accidents or that frame someone else.
-5. Running brothels (d6): 1-2. exotic; 3-4. low; 5-6. high-class.
+5. Running brothels @d6): 1-2. exotic; 3-4. low; 5-6. high-class.
 6. Shaking down legitimate local businesses and/or city officials.
 7. Serving as muscle for shady merchants and/or brothel-keepers.
 8. Holding up incoming or outgoing ships or wagons.
@@ -11452,7 +11452,7 @@ d6 Motivation: The constable works for...
 1. The steady pay.
 2. A chance to bring evil-doers to justice.
 3. Gold to repay debts.
-4. Gold to support his addiction (d6): 1-2. drinking; 3-4. gambling; 5. harlots; 6. smoking.
+4. Gold to support his addiction @d6): 1-2. drinking; 3-4. gambling; 5. harlots; 6. smoking.
 5. The joy of solving mysteries.
 6. A chance for vengeance.
 
@@ -11472,8 +11472,8 @@ d12 Trait: On the constable’s face is...
 
 d10 Possession: The constable carries...
 1. A magnifying lens.
-2. A blade with a carved hilt (d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
-3. A blade with beasts sculpted into the steel of the guard (d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders; 6. wolves.
+2. A blade with a carved hilt @d6): 1. ivory; 2. jade; 3. soapstone; 4. ebony; 5. mahogany; 6. oak.
+3. A blade with beasts sculpted into the steel of the guard @d6): 1. dragons; 2. lions; 3. scorpions; 4. snakes; 5. spiders; 6. wolves.
 4. A blade made of blackened steel.
 5. An unusual hat.
 6. A clue from an unsolved crime.
@@ -11843,15 +11843,15 @@ d6 Travel: The witch prefers to travel by...
 2. Flying mount (giant owl or hippogriff).
 3. Horseback.
 4. Walking.
-5. Transforming into a beast (d8): 1. bat; 2. cat; 3. fox; 4. horse; 5. owl; 6. rat; 7. raven; 8. wolf.
+5. Transforming into a beast @d8): 1. bat; 2. cat; 3. fox; 4. horse; 5. owl; 6. rat; 7. raven; 8. wolf.
 6. Teleportation.
 $FAMILIARS
 
 d12 Creature: The witch’s familiar is...
-1. An elemental spirit (d8): 1. air; 2. earth; 3. fire; 4. ice; 5. mud; 6. storm; 7. stone; 8. water.
-2. A fey spirit (d6): 1. an animated toadstool; 2-3. a pixie; 4. a sprite; 6. a talking songbird.
-3. A fiendish spirit (d6): 1. a demon trapped in a book; 2. a devil trapped in a gem; 3-4. an imp; 5-6. a quasit.
-4. An undead creature (d6): 1-2. a crawling claw; 3. a disembodied voice; 4. an eerie spectral skull;
+1. An elemental spirit @d8): 1. air; 2. earth; 3. fire; 4. ice; 5. mud; 6. storm; 7. stone; 8. water.
+2. A fey spirit @d6): 1. an animated toadstool; 2-3. a pixie; 4. a sprite; 6. a talking songbird.
+3. A fiendish spirit @d6): 1. a demon trapped in a book; 2. a devil trapped in a gem; 3-4. an imp; 5-6. a quasit.
+4. An undead creature @d6): 1-2. a crawling claw; 3. a disembodied voice; 4. an eerie spectral skull;
 5. a flaming skull; 6. a formless ghost.
 5. A bat.
 6. A cat.
