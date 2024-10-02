@@ -1,4 +1,4 @@
-%RANDOM ARENA GAMES: SPECTACLES OF COMBAT AND BLOOD
+%ARENA GAMES: SPECTACLES OF COMBAT AND BLOOD
 $Main
 
 d8 The arena is...
@@ -70,7 +70,7 @@ d6 The crowd’s attitude is...
 4. Hostile and tense.
 5. Disappointed and angry.
 6. Rowdy and rebellious.
-%INDIVIDUAL GLADIATORS
+$INDIVIDUAL GLADIATORS
 
 d12 Background: The gladiator is...
 1. A well-trained slave.
@@ -172,16 +172,22 @@ d6 Body feature: On the gladiator's body is...
 4. A brand (d6): 1-2. brand of a slave; 3-4. brand of a soldier; 5-6. brand of a sailor.
 5. A festering wound or frightening scar.
 6. An obscene amount of oil or an intimidating amount of hair.
-%RANDOM ASSASSINS’ GUILDS: KILLERS-FOR-HIRE  
+%ASSASSINS’ GUILDS: KILLERS-FOR-HIRE  
 $Main
 
 d12 Symbol: The guild’s symbol is...
-1. A skull. 7. A bat.
-2. An eye. 8. A crow.
-3. A flame. 9. A fish.
-4. A dagger. 10. A scorpion.
-5. A scythe. 11. A spider.
-6. An arrow. 12. A snake.
+1. A skull. 
+2 A bat.
+3. An eye. 
+4. A crow.
+5. A flame. 
+6. A fish.
+7. A dagger. 
+8. A scorpion.
+9. A scythe. 
+10. A spider.
+11. An arrow. 
+12. A snake.
 
 d20 Methods: The guild’s preferred method of execution is...
 1. Ingested poison or allergic reaction.
@@ -359,8 +365,8 @@ d12 Goal: The assassin is looking for...
 10. A rowdy evening of carousing
 11. Murderers with guildmember potential.
 12. Help finding a killer who is undercutting the guild.
-$RANDOM ASSASSINS’ GUILDS: AGENTS OF DEATH AND POISON  
-%INDIVIDUAL ASSASSIN
+$ASSASSINS’ GUILDS: AGENTS OF DEATH AND POISON  
+$INDIVIDUAL ASSASSIN
 
 d12 Background: The assassin is...
 1. A veteran hitman.
@@ -567,7 +573,7 @@ d6 The antidote to the poison is...
 4. An intricate alchemical concoction.
 5. No known earthly substances.
 6. Rare and powerful magic.
-%RANDOM BARDS: SONGS AND SHENANIGANS
+%BARDS: SONGS AND SHENANIGANS
 $Main
 
 d20 Background: The bard is...
@@ -747,7 +753,7 @@ d8 The song is commonly sung at...
 6. Taverns and brothels.
 7. Taverns and mining camps.
 8. Tournaments.
-%RANDOM BROTHELS: WHAT’LL IT BE, SAILOR?
+%BROTHELS: WHAT’LL IT BE, SAILOR?
 $Main
 
 d20 Name: The locals call this place the... (first word)
@@ -970,7 +976,7 @@ d6 Goal: The harlot is looking to...
 3. Bring to light a scandal involving a rival.
 4-5. Secure a marriage to get out of this place.
 6. Hear word of a child given away.
-%RANDOM CASTLES: TO THE KEEP!  
+%CASTLES: TO THE KEEP!  
 $Main
 
 d10 Location: The castle sits...
@@ -1176,7 +1182,7 @@ d10 In peace: You come upon...?
 8. A maid polishing an ornamental shield.
 9. A servant carrying a tray of food.
 10. Several archers practicing in the yard.
-$RANDOM CASTLES: INHABITANTS  
+$CASTLES: INHABITANTS  
 $NOBLEMAN
 
 d6 Background: The lord is...
@@ -1404,7 +1410,7 @@ d6 Goal: The cook is looking for...
 2. Some better cabbage.
 3-4. A good joke or story.
 5-6. The bottom of a bottle.
-$RANDOM CASTLES: MORE INHABITANTS  
+$CASTLES: MORE INHABITANTS  
 $FOOL / JESTER
 
 d6 Background: The fool is...
@@ -1619,7 +1625,7 @@ d6 Possession: The bowyer carries...
 2-3. A quiver of arrows to be mended.
 4-5. A quiver of newly made arrows.
 6. A bundle of fresh wood cuttings.
-$RANDOM CASTLES: DUNGEONS  
+$CASTLES: DUNGEONS  
 
 d6 Location: The dungeon is located...
 1. In a tower set apart from the main castle.
@@ -1821,7 +1827,7 @@ d6 Possession: The torturer carries...
 4. A trophy taken from a tortured prisoner.
 5. A pocket-sized prayer book.
 6. A flask of spirits.
-%RANDOM CAVERNS: INTO THE DARK...
+%CAVERNS: INTO THE DARK...
 $Main
 
 d10 Entrance: The cave mouth is...
@@ -2003,7 +2009,8 @@ d6 Possession: The dark elf carries...
 2-3. A unique gem or piece of jewelry.
 4. A finely-crafted short sword or crossbow.
 5-6. A tome of dark lore.
-$QUICK CITY-BUILDING: MINIMAL URBAN PLANNING
+%QUICK CITY-BUILDING: MINIMAL URBAN PLANNING
+$Main
 
 d10 Geography: The city grew up around...
 1. A coastal harbor.
@@ -2198,7 +2205,8 @@ Street; 6. Water Street.
 18. (d6): 1. Briar Street; 2. Garden Street; 3. Lilac Street; 4. Lily Way; 5. Rose Street; 6. Violet Street.
 19. (d6): 1. Emerald Way; 2. Jewelers Lane; 3. Golden Lane; 4. Rich Way; 5. Ruby Road; 6. Silver Lane.
 20. (d6): 1. Ancient Way; 2. Bath Street; 3. Fountain Street; 4. Old Brick Road; 5. Stone Ruin Road; 6. Tumblestone Way.
-$RANDOM CRAFTING GUILDS: HIRE A PROFESSIONAL
+%CRAFTING GUILDS: HIRE A PROFESSIONAL
+$Main
 
 d20 Common Trades: This is a guild for...
 1. Blacksmiths or farriers.
@@ -2383,7 +2391,8 @@ d6 Aspiration: The artisan dreams of...
 4. Retiring rich.
 5. Running away from it all.
 6. A life of adventure.
-$RANDOM CULTS: BOW DOWN TO THE LORD OF WHAT?
+%CULTS: BOW DOWN TO THE LORD OF WHAT?
+$Main
 
 d12 Reverence: The cultists revere...
 1. A dragon.
@@ -2567,7 +2576,8 @@ d6 Connections: The cultist’s family and close friends know...
 4. Very little about the cult, but they dislike what they do know.
 5. Very little about the cult, but they don’t think it sounds too bad.
 6. Absolutely nothing about the cult.
-$RANDOM DESERTS: ACROSS THE WASTELAND...
+%DESERTS: ACROSS THE WASTELAND...
+$Main
 
 d20 Interesting Location: You find...
 1. A cavern in a canyon wall.
@@ -2820,7 +2830,7 @@ d6 Whose soul or remains haunt the tomb?
 3. A dark queen.
 4-5. A vengeful king. 
 6. A tricky thief.
-$RANDOM FLAME-SCORCHED DESERTS: DESERT VARIANT  
+$FLAME-SCORCHED DESERTS: DESERT VARIANT  
 
 d20 Interesting Location: You find...
 1. A cavern in a canyon wall.
@@ -3075,7 +3085,7 @@ d6 Whose soul or remains haunt the tomb?
 4. A tricky thief.
 5. A legendary hero. 
 6. A dark queen.
-$RANDOM SHADOW-TOUCHED DESERTS: DESERT VARIANT  
+$SHADOW-TOUCHED DESERTS: DESERT VARIANT  
 
 d20 Interesting Location: You find...
 1. A cavern in a canyon wall.
@@ -3346,7 +3356,8 @@ d10 Whose soul or remains haunt the tomb?
 8. Foul ghosts.
 9. Zombie warriors. 
 10. Piles of bones.
-$RANDOM DISEASES: BRING OUT YOUR DEAD...
+%DISEASES: BRING OUT YOUR DEAD...
+$Main
 
 d12 Exposure: This disease is spread by...
 1. Inhaling contaminated air.
@@ -3523,7 +3534,8 @@ d10 Goal: The healer is looking for...
 8. A chance to earn a little coin.
 9. A chance to tell a tale of woe.
 10. The bottom of a goblet.
-$RANDOM DRUIDS: WILD BEASTS AND SPICY HERBS...
+%DRUIDS: WILD BEASTS AND SPICY HERBS...
+$Main
 
 d20 Background: The druid is...
 1. A wildling orphan.
@@ -3744,7 +3756,7 @@ d8 Use: The herbal remedy must be...
 6. Taken with water.
 7. Taken before going to bed.
 8. Taken with caution; side effects are likely.
-$RANDOM ELVES: IMMORTAL, GRACEFUL, AND MAGICAL
+%ELVES: IMMORTAL, GRACEFUL, AND MAGICAL
 $DARK ELF
 
 d6 Hair: The dark elf has...
@@ -3946,7 +3958,7 @@ d12 Possessions: The wood elf carries...
 10. A cache of useful herbs.
 11. A silver flute.
 12. A carved wooden harp.
-$RANDOM FANTASTIC BEASTS: BEASTS OF OTHER REALMS
+%FANTASTIC BEASTS: BEASTS OF OTHER REALMS
 $ABERRANT BEAST
 
 d12 Form: The beast looks a good bit like...
@@ -4193,7 +4205,6 @@ d8 Goal: The beast is looking for...
 6. A dark hole in which to wait for prey.
 7. Share a tale of terror and death.
 8. The loathsome mage who summoned it.
-$RANDOM FANTASTIC BEASTS: BEASTS OF LEGEND AND MAGIC  
 $FIRE BEAST
 
 d12 Form: The beast is...
@@ -4456,7 +4467,8 @@ d6 Goal: The beast is looking for...
 4. An opportunity to impress its master.
 5. The frozen corpse of a long-dead frost titan.
 6. An item that can call blizzards.
-$RANDOM FIENDS: YOUR SOUL OR YOUR LIFE?
+%FIENDS: YOUR SOUL OR YOUR LIFE?
+$Main
 
 d12 Status/Rank: The fiend is...
 1. In the service of a more powerful fiend.
@@ -4641,7 +4653,7 @@ d12 Vulnerability: To bind, to summon, or to control the fiend, or to drive it b
 10. Locate the place of the fiend’s birth.
 11. Pay tribute to the fiend’s far more dangerous and powerful liege lord.
 12. Give up; no one’s ever bound this fiend.
-$RANDOM FISHING: THE DAILY CATCH
+%FISHING: THE DAILY CATCH
 $FISHERFOLK
 
 d10 Home waters: The fisher fishes in...
@@ -4850,7 +4862,8 @@ d6 Swamp-water catch: You haul in...
 4. A crocodile (fights, attacks).
 5. An eel (fights).
 6. A prawn.
-$RANDOM FORESTS: INTO THE WOODS...
+%FORESTS: INTO THE WOODS...
+$Main
 
 d12 Interesting Location: You find...
 1. A cavern behind a waterfall.
@@ -5067,7 +5080,7 @@ d6 The wood elf carries...
 2. A unique gem or piece of jewelry.
 3-4. A finely-crafted spear or longsword.
 5-6. An ornate longbow.
-RANDOM ENCHANTED FORESTS: FOREST VARIANT  
+$ENCHANTED FORESTS: FOREST VARIANT  
 
 d12 Interesting Location: You find...
 1. A cavern behind a waterfall.
@@ -5283,7 +5296,7 @@ d6 The treeperson carries...
 3-4. A clipping of ancient wood.
 5. A rare moss with healing properties.
 6. A deathly poison mushroom.
-$RANDOM HAUNTED FORESTS: FOREST VARIANT  
+$HAUNTED FORESTS: FOREST VARIANT  
 
 d10 Interesting Location: You find...
 1. Ancient burial mounds.
@@ -5500,7 +5513,8 @@ d6 The necromancer carries...
 2-3. A tome of necromantic lore.
 4. A rare alchemical substance.
 5-6. A razor-sharp ceremonial dagger.
-$RANDOM GOBLIN GANGS: WE’RE THE BAD GUYS!
+%GOBLIN GANGS: WE’RE THE BAD GUYS!
+$Main
 
 d10 Business: The goblins’ primary “business” involves...
 1. Raiding villages and farms.
@@ -5692,7 +5706,7 @@ d8 Manner: The goblin has...
 6. A tendency to snicker at everything.
 7. A nervous twitch.
 8. A difficult time standing still.
-$RANDOM HUNTING: GONE A-HUNTING...
+%HUNTING: GONE A-HUNTING...
 $HUNTERS
 
 d8 Territory: The hunter prefers to hunt...
@@ -5903,7 +5917,8 @@ d20 After a day in the swamp, you catch...
 18. A giant frog (10 + 1d10 lbs. of meat).
 19. A panther (30 + [1d8 x 10] lbs. of meat).
 20. A crocodile (20 + 1d20 lb. of meat).
-$RANDOM JUNGLES: WELCOME TO THE JUNGLE...
+%JUNGLES: WELCOME TO THE JUNGLE...
+$Main
 
 d12 Interesting Location: You find...
 1. A cavern behind a waterfall.
@@ -6126,7 +6141,8 @@ d6 The lizardfolk carries...
 3-4. A spear and a blowgun.
 5. A curved dagger with feathers on the hilt.
 6. An oversized club.
-$RANDOM KNIGHTS: SWORN SWORDS
+%KNIGHTS: SWORN SWORDS
+$Main
 
 d20 House colors: The knight’s house’s colors are...
 1. Black.
@@ -6284,7 +6300,8 @@ d8 Trait: On the servant’s face is...
 6. A look of confusion.
 7. A long, hooked nose.
 8. Pronounced ears.
-$RANDOM LYCANTHROPES: BEWARE THE FULL MOON...
+%LYCANTHROPES: BEWARE THE FULL MOON...
+$Main
 
 d12 Background: In humanoid form, the beastshifter presents himself/herself as...
 1. A farmer or herder.
@@ -6474,7 +6491,8 @@ d6 Goals: The pack’s goals include (the pack leader and rank-and-file members 
 4. Rebellion against the region’s elite.
 5. A quiet and peaceful existence.
 6. Violence to slake their bloodlust.
-$RANDOM MERCENARY TROOPS: GOLD FOR BLOOD...
+%MERCENARY TROOPS: GOLD FOR BLOOD...
+$Main
 
 d12 Colors: The mercenary troop’s colors are...
 1. Black.
@@ -6656,7 +6674,8 @@ d12 Possession: The sellsword carries...
 10. Arrows/bolts with bronzed tips.
 11. Arrows/bolts fletched with crow feathers.
 12. Arrows/bolts fletched with peacock feathers.
-$RANDOM MERCHANT CARAVANS: OVERLAND SHIPPING...
+%MERCHANT CARAVANS: OVERLAND SHIPPING...
+$Main
 
 d6 Transport Method: The caravan is...
 1. A wagon train.
@@ -6873,7 +6892,8 @@ d6 Immediate Goal: Tonight, the traveler is looking for...
 3. An audience to entertain.
 4. Someone to hear a sad tale.
 5-6. Drinking companions.
-$RANDOM MERCHANT GUILDS: WE HAVE WHAT YOU NEED...
+%MERCHANT GUILDS: WE HAVE WHAT YOU NEED...
+$Main
 
 d8 Leadership: The guild is controlled by...
 1. A no-nonsense kingpin who despises bureaucracy.
@@ -7019,7 +7039,8 @@ d6 Currency: Besides coin, the merchant will trade in...
 4. Shells, beads, and trinkets.
 5. Favors.
 6. Scandalous information.
-$RANDOM MILITARY CAMPS: BOOTS ON THE GROUND...
+%MILITARY CAMPS: BOOTS ON THE GROUND...
+$Main
 
 d10 Tent: This tent is functions as...
 1. Barracks.
@@ -7234,7 +7255,8 @@ d6 Goal: The cook is looking for...
 4. A good joke or story.
 5. Someone with whom to share some wine.
 6. The bottom of a bottle.
-$RANDOM MILITARY COMPANIES: WE HAVE MET THE ENEMY...
+%MILITARY COMPANIES: WE HAVE MET THE ENEMY...
+$Main
 
 d20 Colors: The company’s colors are...
 1. Black.
@@ -7406,7 +7428,8 @@ d10 Possession: The soldier carries...
 8. A letter from a fallen comrade.
 9. A trophy from a fallen enemy.
 10. A ribbon from a faraway maiden.
-$RANDOM MINES: WE DIG, DIG, DIG...
+%MINES: WE DIG, DIG, DIG...
+$Main
 
 d20 The miners are hauling out...
 1. Chalk. 
@@ -7641,7 +7664,8 @@ d6 Possession: The dwarf carries...
 4. A hammer and sack full of climbing gear.
 5. A pick-ax and an old map.
 6. A satchel of potions, tonics, and remedies.
-$RANDOM MONASTERIES: DISCIPLINE, STRENGTH, AND WISDOM...
+%MONASTERIES: DISCIPLINE, STRENGTH, AND WISDOM...
+$Main
 
 d12 Knowledge and Experience: Visitors to the monastery come seeking...
 1. Ancient knowledge.
@@ -7855,7 +7879,8 @@ d6 Goal: The monk is looking for...
 4. The location of an ancient ruin.
 5. An opportunity to tell a fable.
 6. The bottom of a goblet.
-$RANDOM MOUNTAINS: TO THE TOP OF THE PEAK!
+%MOUNTAINS: TO THE TOP OF THE PEAK!
+$Main
 
 d20 Interesting Location: You find...
 1. A cavern behind a waterfall.
@@ -8080,7 +8105,8 @@ d8 Hazards/Obstacles: You run into...
 6. A place where the path has fallen away leaving a narrow ledge on which to walk.
 7. A place where the path or road slopes steeply down toward a cliff edge.
 8. A sudden storm bringing heavy snow.
-$RANDOM NOBLE HOUSES: POWER PLAYERS IN THE GREAT GAME
+%NOBLE HOUSES: POWER PLAYERS IN THE GREAT GAME
+$Main
 
 d20 Colors: The house's colors are...
 1. Black. 
@@ -8274,7 +8300,7 @@ d6 Residence: The noble often resides...
 4. On a quiet country estate.
 5. In a lonely watchtower.
 6. In the castle belonging to another noble house.
-$NPC APPEARANCE, PERSONALITY, FAITH, AND FLAWS
+%NPC APPEARANCE, PERSONALITY, FAITH, AND FLAWS
 $FACIAL FEATURES
 
 d10 Eyes: The person has...
@@ -8557,7 +8583,8 @@ d20 The person...
 18. Is skeptical of everything.
 19. Paces.
 20. Makes poor eye contact.
-$RANDOM ORKISH CLANS: FEAR THE PIKE HORDE!
+%ORKISH CLANS: FEAR THE PIKE HORDE!
+$Main
 
 d12 Business: The orcs are...
 1. Nomadic hunters, following game.
@@ -8767,7 +8794,9 @@ d6 Motivation: The orc is looking for...
 4. A chance to prove itself in combat.
 5. A place to rest and to sharpen weapons.
 6. A strong drink.
-$RANDOM OUTLAW BANDS: CRIMINALS ON THE FRINGES
+%OUTLAW BANDS: CRIMINALS ON THE FRINGES
+$Main
+
 d10 Business: The outlaw band’s primary “business” involves...
 1. Poaching from the sovereign's preserve or  a prominent noble’s lands.
 2. Harboring fugitives.
@@ -8960,7 +8989,8 @@ d6 Possession: The outlaw carries...
 4. A polished blade.
 5. An ancient key. 
 6. A lute or pipe.
-$RANDOM PIRATE CREWS: TERROR AND PLUNDER
+%PIRATE CREWS: TERROR AND PLUNDER
+$Main
 
 d10 Ship: The pirates' ship is...
 1. A rickety raft. 
@@ -9188,7 +9218,8 @@ d10 Possession: The pirate carries a...
 8. Empty bottle.
 9. Fancy compass. 
 10. Hip flask.
-$RANDOM PRISONS: BUT, I SWEAR, I’M INNOCENT!
+%PRISONS: BUT, I SWEAR, I’M INNOCENT!
+$Main
 
 d12 Location: The prison is located...
 1. On a small island on a remote coast.
@@ -9393,7 +9424,8 @@ d6 Crime: The prisoner is here because...
 4. He advocated rebellion and unrest.
 5. He committed an act of fraud.
 6. Someone confused him with someone else.
-$RANDOM RESTLESS UNDEAD: WALKING BONES AND WANDERING SPIRITS
+%RESTLESS UNDEAD: WALKING BONES AND WANDERING SPIRITS
+$Main
 
 d20 Background: The person was...
 1. A farmer or herder.
@@ -9544,7 +9576,8 @@ d10 Trait: The spirit appears to be...
 8. Wind-blown and haggard.
 9. Fidgeting nervously.
 10. Oozing ectoplasm.
-$RANDOM SAVAGE HORDES: THE BARBARIANS ARE COMING!
+%SAVAGE HORDES: THE BARBARIANS ARE COMING!
+$Main
 
 d6 Business: The barbarians are...
 1. A tribe of nomads, following game.
@@ -9718,7 +9751,8 @@ d10 Body: On the warrior’s body is...
 8. An intimidating amount of muscle.
 9. An awful lot of war paint.
 10. A whole lot of hair.
-$RANDOM SERIAL KILLERS: “I WAS BORN WITH THE DEVIL IN ME...”
+%SERIAL KILLERS: “I WAS BORN WITH THE DEVIL IN ME...”
+$Main
 
 d12 Background: The killer is...
 1. A quiet artisan.
@@ -9879,7 +9913,7 @@ d12 Quirk: The killer is unusually fond of or particular regarding...
 10. Fine wines.
 11. Social status.
 12. Facial hair.
-$RANDOM DOCKSIDE TAVERNS: WHAT DO YOU DO WITH A DRUNKEN SAILOR?
+%DOCKSIDE TAVERNS: WHAT DO YOU DO WITH A DRUNKEN SAILOR?
 $NAME
 
 d10 This place is called the... (First)
@@ -10214,7 +10248,8 @@ d20 Among the crowd, you meet...
 18. A mysterious woman.
 19. A young priest. 
 20. An angry dwarf.
-$RANDOM TEMPLES: KNEEL BEFORE THE GODS...
+%TEMPLES: KNEEL BEFORE THE GODS...
+$Main
 
 d6 Dedicatee: Worshipers here pray to...
 1. One god and only one god.
@@ -10410,7 +10445,8 @@ d10 Goal: The priest is looking for...
 8. The location of a ruined temple.
 9. An opportunity to tell a fable.
 10. The bottom of a goblet.
-$RANDOM THIEVES: HOLD ON TO YOUR PURSE...
+%THIEVES: HOLD ON TO YOUR PURSE...
+$Main
 
 d12 Background: The thief is...
 1. A veteran dungeon delver.
@@ -10622,7 +10658,8 @@ d12 Score: The thief scores...
 10. A gem or small piece of jewelry (5d10 gp).
 11. A gem (5d10 gp) and roll this table again.
 12. 1d6 gp and roll this table again.
-$RANDOM TOMBS: WHO GOES THERE?...
+%TOMBS: WHO GOES THERE?...
+$Main
 
 d20 Dedicatee: This tomb was built for...
 1. An ancient king.
@@ -10806,7 +10843,7 @@ d6 Visitors: Who has entered the tomb?
 4. A greedy treasure hunter.
 5. A student of necromancy.
 6. A fugitive serial killer.
-$RANDOM TOWNSFOLK: WHO ARE THE PEOPLE IN YOUR NEIGHBORHOOD?
+%TOWNSFOLK: WHO ARE THE PEOPLE IN YOUR NEIGHBORHOOD?
 $ALCHEMIST
 
 d6 The alchemist is...
@@ -11010,7 +11047,8 @@ d6 The server carries...
 2. A pristine silk handkerchief.
 3-4. A piece of conspicuous jewelry.
 5-6. An unusual belt purse.
-$RANDOM URBAN GANGS: THE BLACK HEART OF THE CITY
+%URBAN GANGS: THE BLACK HEART OF THE CITY
+$Main
 
 d8 Business: The gang's money-making schemes include...
 1. Distributing drugs (d6): 1-2. smokeleaf; 3-4. a hallucinogenic mushroom; 5. sleepysalt (a downer); 6. sharpsugar (an upper).
@@ -11238,7 +11276,8 @@ d6 Motivation: The gangmember joined the gang to...
 4. Get rich quick.
 5. Impress a parent. 
 6. Stay alive.
-RANDOM WATCHMEN: TO SERVE AND PROTECT
+%WATCHMEN: TO SERVE AND PROTECT
+$Main
 
 d12 Colors: The watch’s colors are...
 1. Black. 
@@ -11451,7 +11490,8 @@ d12 Knowledge: The constable is particularly knowledgeable on...
 10. Foreign customs and exotic artwork.
 11. Tall tales and drinking songs.
 12. Fine wines and gourmet food.
-$RANDOM VAMPIRES: HUNGRY FOR BLOOD
+%VAMPIRES: HUNGRY FOR BLOOD
+$Main
 
 d12 Background: In life, the vampire was...
 1. An alchemist or pyromancer.
@@ -11648,7 +11688,8 @@ d8 Fears: The vampire is particularly afraid of or takes special care to avoid..
 6. Garlic.
 7. Silver objects.
 8. Relics of the gods.
-$RANDOM WITCHES: I’LL GET YOU, MY PRETTY!
+%WITCHES: I’LL GET YOU, MY PRETTY!
+$Main
 
 d20 Background: The witch is...
 1. A femme fatale.

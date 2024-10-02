@@ -1,4 +1,5 @@
 import json
+import pyperclip
 
 tables = []
 
@@ -8,18 +9,22 @@ Lines = file.readlines()
 textLines : list = []
 for i in range(len(Lines)):
     if Lines[i].startswith("%") == True:
-        textLines.append({"Header" : Lines[i][:-2], "Sub Pages" : []})
+        textLines.append({"Header" : Lines[i][1:].replace("\n", ""), "Sub Pages" : []})
     if Lines[i].startswith("$") == True:
-        textLines[-1]["Sub Pages"].append({"Sub Title": Lines[i][:-2], "Table" : []})
+        textLines[-1]["Sub Pages"].append({"Sub Title": Lines[i][1:].replace("\n", ""), "Table" : []})
     if Lines[i] == "\n":
         dice = Lines[i + 1].split(" ")[0]
         #print(dice)
+        #print(len(textLines[-1]["Sub Pages"]))
         textLines[-1]["Sub Pages"][-1]["Table"].append({"Table Title" : Lines[i + 1][len(dice):][:-2], "Amount" : int(dice[1:]), "Entries" : []})
         for j in range(int(dice[1:])):
+            if Lines[i + j + 2].startswith("%") or Lines[i + j + 2].startswith("%") or Lines[i + j + 2] == "\n":
+                break
             entry = Lines[i + j + 2].split(" ")[0]                
-            textLines[-1]["Sub Pages"][-1]["Table"][-1]["Entries"].append(Lines[i + j + 2][:-2][len(entry) + 1:])
+            textLines[-1]["Sub Pages"][-1]["Table"][-1]["Entries"].append({"Values" : entry[:-1], "Text" : Lines[i + j + 2][len(entry) + 1:].replace("\n", "")})
         i += 1 + int(dice[1:])
-#print(textLines)
+print(textLines)
+pyperclip.copy(textLines)
 #print(textLines[-1])
 
 
