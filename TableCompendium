@@ -493,11 +493,16 @@ d20 Rumored Hit: Recently, the assassin i rumored to have notched a kill in or n
 10. Market square. 20. Bridge.
 
 d10 Rumored Mark: The assassin is rumored to have killed a/an/the...
-1. Lord or lady. 6. Merchant.
-2. King or queen. 7. Politician.
-3. Prince or princess. 8. Crime boss.
-4. Priest or priestess. 9. Warlord.
-5. Heretic or prophet. 10. Sea captain.
+1. Lord or lady. 
+2. Merchant.
+3. King or queen. 
+4. Politician.
+5. Prince or princess. 
+6. Crime boss.
+7. Priest or priestess. 
+8. Warlord.
+9. Heretic or prophet. 
+10. Sea captain.
 $POISONS
 
 d20 Effect: The poison will cause or induce...
@@ -757,26 +762,26 @@ d8 The song is commonly sung at...
 $Main
 
 d20 Name: The locals call this place the... (first word)
-1. Cozy. 1. Candle.
-2. Dancer's. 2. Cherry.
-3. Golden. 3. Curtain.
-4. Maiden's. 4. Doll.
-5. Lacy . 5. Door.
-6. Lady's. 6. Embrace.
-7. Lighted. 7. Glove.
-8. Lover's. 8. Heart.
-9. Night's. 9. House.
-10. Pink. 10. Lamp.
-11. Porcelain. 11. Kiss.
-12. Red. 12. Peach.
-13. Satin. 13. Purse.
-14. Shining. 14. Room.
-15. Silky. 15. Slipper.
-16. Silver. 16. Shoe.
-17. Softest. 17. Skirt.
-18. Sweetest. 18. Stocking.
-19. Warmest. 19. Veil.
-20. Welcoming. 20. Window.
+1. Cozy. 
+2. Dancer's. 
+3. Golden. 
+4. Maiden's. 
+5. Lacy. 
+6. Lady's. 
+7. Lighted. 
+8. Lover's. 
+9. Night's. 
+10. Pink. 
+11. Porcelain. 
+12. Red. 
+13. Satin. 
+14. Shining. 
+15. Silky. 
+16. Silver. 
+17. Softest.
+18. Sweetest. 
+19. Warmest. 
+20. Welcoming. 
 
 d20 Name: The locals call this place the... (second word)
 1. Candle.
@@ -11869,4 +11874,4 @@ d12 Personality: The witch’s familiar’s manner is...
 9. Skittish.
 10. Surly.
 11. Suspicious.
-12. Talkative..
+12. Talkative.

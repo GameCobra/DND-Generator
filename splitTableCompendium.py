@@ -21,7 +21,7 @@ for i in range(len(Lines)):
             if Lines[i + j + 2].startswith("%") or Lines[i + j + 2].startswith("%") or Lines[i + j + 2] == "\n":
                 break
             entry = Lines[i + j + 2].split(" ")[0]                
-            textLines[-1]["Sub Pages"][-1]["Table"][-1]["Entries"].append({"Values" : entry[:-1], "Text" : Lines[i + j + 2][len(entry) + 1:].replace("\n", "")})
+            textLines[-1]["Sub Pages"][-1]["Table"][-1]["Entries"].append({"Min" : entry[:-1].split("-")[0],"Max" : entry[:-1].split("-")[-1], "Text" : Lines[i + j + 2][len(entry) + 1:].replace("\n", "")})
         i += 1 + int(dice[1:])
 print(textLines)
 pyperclip.copy(textLines)
