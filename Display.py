@@ -35,10 +35,6 @@ def displaySelectionList(itemeList: list, menuName: str):
         print(f"{i + 1} - {itemeList[i]}")
     return input("> ")
 
-def mainMenu():
-    isInputNumber(displaySelectionList(["Random thing generation", "Settings", "Help", "Credits"], "Menu"), mainMenu)
-
-mainMenu()
 
 def randomThingGenerator():
     isInputNumber(displaySelectionList(mainDictToList(), "random"), randomThingGenerator)
@@ -47,6 +43,27 @@ def randomThingGenerator():
     #    time.sleep(1)
     #    randomThingGenerator()
 
-randomThingGenerator()
+def CompiledDisplay(itemList: list, menuName: str, returnFunction):
+    value = isInputNumber(displaySelectionList(itemList, menuName), returnFunction)
+    if value <= 0:
+        print("Please enter a number greater then 0")
+        time.sleep(1)
+        returnFunction()
+    if value > len(itemList):
+        print(f"Please enter a number less then {len(itemList)}")
+        time.sleep(1)
+        returnFunction()
+    return value
+
+def mainMenu():
+    while True:
+        value = isInputNumber(displaySelectionList(["Random thing generation", "Settings", "Help", "Credits"], "Menu"), mainMenu)
+        if value == 1:
+            randomThingGenerator()
+        if value == 3:
+            print("Please check the .readme file for instructions")
+            time.sleep(1)
+
+mainMenu()
 
 #displaySelectionList(mainDictToList(), "main")
