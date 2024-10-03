@@ -23,8 +23,10 @@ for i in range(len(Lines)):
             entry = Lines[i + j + 2].split(" ")[0]                
             textLines[-1]["Sub Pages"][-1]["Table"][-1]["Entries"].append({"Min" : entry[:-1].split("-")[0],"Max" : entry[:-1].split("-")[-1], "Text" : Lines[i + j + 2][len(entry) + 1:].replace("\n", "")})
         i += 1 + int(dice[1:])
-print(textLines)
-pyperclip.copy(textLines)
+#print(textLines)
+with open('Tables.json', 'w') as f:
+    json.dump(textLines, f)
+#pyperclip.copy(textLines)
 #print(textLines[-1])
 
 
