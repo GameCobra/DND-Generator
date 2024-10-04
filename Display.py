@@ -8,11 +8,19 @@ Tables = []
 with open('Tables.json') as f:
     Tables = json.load(f)
 
-def mainDictToList():
+def GrabHeaders():
     newList = []
     for i in Tables:
         newList.append(i["Header"])
     return newList
+
+def GrabSubSections(index : int):
+    l = GrabHeaders()
+    newList = []
+    for i in Tables[index]["Sub Pages"]:
+        newList.append(i["Sub Title"])
+    return newList
+
 
 #* Wanted commands
 #* Sel, Main, Ser
@@ -36,12 +44,7 @@ def displaySelectionList(itemeList: list, menuName: str):
     return input("> ")
 
 
-def randomThingGenerator():
-    isInputNumber(displaySelectionList(mainDictToList(), "random"), randomThingGenerator)
-    #if result == None:
-    #    print("Plese enter a propper value")
-    #    time.sleep(1)
-    #    randomThingGenerator()
+
 
 def CompiledDisplay(itemList: list, menuName: str, returnFunction):
     value = isInputNumber(displaySelectionList(itemList, menuName), returnFunction)
@@ -55,9 +58,17 @@ def CompiledDisplay(itemList: list, menuName: str, returnFunction):
         returnFunction()
     return value
 
+def randomThingGenerator():
+    result = CompiledDisplay(GrabHeaders(), "random", randomThingGenerator)
+    CompiledDisplay(GrabSubSections(result), "sub", randomThingGenerator)
+    #if result == None:
+    #    print("Plese enter a propper value")
+    #    time.sleep(1)
+    #    randomThingGenerator()
+
 def mainMenu():
     while True:
-        value = isInputNumber(displaySelectionList(["Random thing generation", "Settings", "Help", "Credits"], "Menu"), mainMenu)
+        value = CompiledDisplay(["Random thing generation", "Settings", "Help", "Credits"], "Menu", mainMenu)
         if value == 1:
             randomThingGenerator()
         if value == 3:
