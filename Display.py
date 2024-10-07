@@ -100,10 +100,10 @@ def TheirdLayer(result, result2):
 
 def mainMenu():
     while True:
-        value = CompiledDisplay(["Random thing generation", "Settings", "Help", "Credits"], "Menu", mainMenu)
+        value = CompiledDisplay(["Random thing generater", "Random Name" "Settings", "Help", "Credits"], "Menu", mainMenu)
         if value == 1:
             TopLayer()
-        if value == 3:
+        if value == 4:
             print("Please check the .readme file for instructions")
             time.sleep(1)
 
