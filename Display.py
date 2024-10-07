@@ -1,8 +1,12 @@
 import json
 import time
 import random
+from RandomName import Name, race, ntype
 
 Tables = []
+
+MenuSelection = 0
+MenuSelection2 = 0
 
 #use https://names.ironarachne.com/  (for name generator)
 
@@ -44,7 +48,7 @@ def search(arg : str, layer):
     print(arg)
     exit()
 
-def isInputNumber(inputVal : str, callFunction):
+def isInputNumber(inputVal : str, callFunction, endOfLine = False):
     try:
         inputVal = int(inputVal)
     except:
@@ -53,8 +57,9 @@ def isInputNumber(inputVal : str, callFunction):
         elif inputVal.startswith("ser "):
             search(inputVal[4:], callFunction)
         else:
-            print("Plese enter a propper value")
-            time.sleep(1)
+            if endOfLine == False:
+                print("Plese enter a propper value")
+                time.sleep(1)
             callFunction()
             return None
     else:
@@ -70,8 +75,8 @@ def displaySelectionList(itemeList: list, menuName: str):
 
 
 
-def CompiledDisplay(itemList: list, menuName: str, returnFunction):
-    value = isInputNumber(displaySelectionList(itemList, menuName), returnFunction)
+def CompiledDisplay(itemList: list, menuName: str, returnFunction, endOfLine = False):
+    value = isInputNumber(displaySelectionList(itemList, menuName), returnFunction, endOfLine)
     if value <= 0:
         print("Please enter a number greater then 0")
         time.sleep(1)
@@ -83,26 +88,35 @@ def CompiledDisplay(itemList: list, menuName: str, returnFunction):
     return value
 
 def TopLayer():
-    result = CompiledDisplay(GrabHeaders(), "random", TopLayer)
-    SecondLayer(result)
+    MenuSelection = CompiledDisplay(GrabHeaders(), "random", TopLayer)
+    SecondLayer()
     #if result == None:
     #    print("Plese enter a propper value")
     #    time.sleep(1)
     #    randomThingGenerator()
 
-def SecondLayer(result):
-    result2 = CompiledDisplay(GrabSubSections(result - 1), "sub", SecondLayer)
-    TheirdLayer(result, result2)
+def SecondLayer():
+    MenuSelection2 = CompiledDisplay(GrabSubSections(MenuSelection - 1), "sub", SecondLayer)
+    TheirdLayer()
 
-def TheirdLayer(result, result2):
-    CompiledDisplay(GrabSubSubSections(result - 1, result2 - 1), "sub sub", TheirdLayer)
+def TheirdLayer():
+    CompiledDisplay(GrabSubSubSections(MenuSelection - 1, MenuSelection2 - 1), "sub sub", SecondLayer, True)
 
+def RaceSelection():
+    return CompiledDisplay(race, "Race Selection", RaceSelection)
+
+def TypeSelection():
+    return CompiledDisplay(ntype, "Type Selection", TypeSelection)
 
 def mainMenu():
     while True:
-        value = CompiledDisplay(["Random thing generater", "Random Name" "Settings", "Help", "Credits"], "Menu", mainMenu)
+        value = CompiledDisplay(["Random thing generater", "Random Name", "Settings", "Help", "Credits"], "Menu", mainMenu)
         if value == 1:
             TopLayer()
+        if value == 2:
+            r = RaceSelection()
+            t = TypeSelection()
+            CompiledDisplay(Name(r, t))
         if value == 4:
             print("Please check the .readme file for instructions")
             time.sleep(1)

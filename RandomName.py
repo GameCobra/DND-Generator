@@ -1,13 +1,22 @@
 from bs4 import BeautifulSoup
 import requests 
+import json
 
-URL = "https://names.ironarachne.com/"
+race = ["dragonborn", "dwarf", "elf", "gnome", "goblin", "halfling", "halfelf", "halforc", "human", "orc", "tiefling", "troll"]
+ntype = ["male", "female", "family", "given", "region", "town"]
 
-page = requests.get(URL, allow_redirects=True)
-#print(page.status_code)
+def Name(rIndex : int, tIndex : int):
 
-#print(page.url)
+    #CompiledDisplay(race, "Race Selection", Name)
 
-soup = BeautifulSoup(page.content, "html.parser")
+    URL = "https://names.ironarachne.com/race/" + race[rIndex] + "/" + ntype[tIndex] + "/10"
 
-print(soup)
+    page = requests.get(URL, allow_redirects=True)
+    #print(page.status_code)
+
+    #print(page.url)
+
+    soup = BeautifulSoup(page.content, "html.parser")
+    value = json.loads(str(soup))
+
+    return value["names"]
