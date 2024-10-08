@@ -51,6 +51,8 @@ def search(arg : str, layer):
 def isInputNumber(inputVal : str, callFunction, endOfLine = False):
     try:
         inputVal = int(inputVal)
+        if endOfLine == True:
+            callFunction
     except:
         if inputVal == "menu":
             mainMenu()
@@ -76,7 +78,8 @@ def displaySelectionList(itemeList: list, menuName: str):
 
 
 def CompiledDisplay(itemList: list, menuName: str, returnFunction, endOfLine = False):
-    value = isInputNumber(displaySelectionList(itemList, menuName), returnFunction, endOfLine)
+    value = int(isInputNumber(displaySelectionList(itemList, menuName), returnFunction, endOfLine))
+    print(value)
     if value <= 0:
         print("Please enter a number greater then 0")
         time.sleep(1)
@@ -102,11 +105,10 @@ def SecondLayer():
 def TheirdLayer():
     CompiledDisplay(GrabSubSubSections(MenuSelection - 1, MenuSelection2 - 1), "sub sub", SecondLayer, True)
 
-def RaceSelection():
-    return CompiledDisplay(race, "Race Selection", RaceSelection)
-
-def TypeSelection():
-    return CompiledDisplay(ntype, "Type Selection", TypeSelection)
+def TotalNameTopicSelection():
+    r = CompiledDisplay(race, "Race Selection", TotalNameTopicSelection)
+    t = CompiledDisplay(ntype, "Type Selection", TotalNameTopicSelection)
+    CompiledDisplay(Name(r, t), "Names", TotalNameTopicSelection, endOfLine= True)
 
 def mainMenu():
     while True:
@@ -114,9 +116,7 @@ def mainMenu():
         if value == 1:
             TopLayer()
         if value == 2:
-            r = RaceSelection()
-            t = TypeSelection()
-            CompiledDisplay(Name(r, t))
+            TotalNameTopicSelection()
         if value == 4:
             print("Please check the .readme file for instructions")
             time.sleep(1)
