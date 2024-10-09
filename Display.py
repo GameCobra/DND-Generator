@@ -44,9 +44,26 @@ def GrabSubSubSections(index : int, subIndex : int):
 #* Wanted commands
 #* Sel, Main, Ser
 
+
+
 def search(arg : str, layer):
-    print(arg)
-    exit()
+    content = layer(True)
+    goodConent = []
+    for item in content[0]:
+        print(item)
+        if arg.lower() in str(item).lower():
+            goodConent.append(item)
+    if len(goodConent) == 0:
+        print("Nothing was found in our search, please change you input: " + str(arg))
+        time.sleep(1)
+        layer()
+    value = CompiledDisplay(goodConent, "Search: " + str(arg) + " | " + content[1], layer)
+    if content[3] == "1":
+        MenuSelection = value
+    if content[3] == "2":
+        MenuSelection2 = value
+    content[2]()
+    #exit()
 
 def isInputNumber(inputVal : str, callFunction, endOfLine = False):
     try:
@@ -79,7 +96,6 @@ def displaySelectionList(itemeList: list, menuName: str):
 
 def CompiledDisplay(itemList: list, menuName: str, returnFunction, endOfLine = False):
     value = int(isInputNumber(displaySelectionList(itemList, menuName), returnFunction, endOfLine))
-    print(value)
     if value <= 0:
         print("Please enter a number greater then 0")
         time.sleep(1)
@@ -90,20 +106,31 @@ def CompiledDisplay(itemList: list, menuName: str, returnFunction, endOfLine = F
         returnFunction()
     return value
 
-def TopLayer():
-    MenuSelection = CompiledDisplay(GrabHeaders(), "random", TopLayer)
+def TopLayer(getValues = False):
+    name = "random"
+    if getValues == True:
+        return GrabHeaders(), name, SecondLayer, "1"
+    global MenuSelection
+    MenuSelection = CompiledDisplay(GrabHeaders(), name, TopLayer)
     SecondLayer()
     #if result == None:
     #    print("Plese enter a propper value")
     #    time.sleep(1)
     #    randomThingGenerator()
 
-def SecondLayer():
-    MenuSelection2 = CompiledDisplay(GrabSubSections(MenuSelection - 1), "sub", SecondLayer)
+def SecondLayer(getValues = False):
+    name = "sub"
+    if getValues == True:
+        return GrabSubSections(MenuSelection - 1), name, TheirdLayer, "2"
+    global MenuSelection2
+    MenuSelection2 = CompiledDisplay(GrabSubSections(MenuSelection - 1), name, SecondLayer)
     TheirdLayer()
 
-def TheirdLayer():
-    CompiledDisplay(GrabSubSubSections(MenuSelection - 1, MenuSelection2 - 1), "sub sub", SecondLayer, True)
+def TheirdLayer(getValues = False):
+    name = "sub sub"
+    if getValues == True:
+        return GrabSubSubSections(MenuSelection - 1, MenuSelection2 - 1), name, mainMenu, "3"
+    CompiledDisplay(GrabSubSubSections(MenuSelection - 1, MenuSelection2 - 1), name, SecondLayer, True)
 
 def TotalNameTopicSelection():
     r = CompiledDisplay(race, "Race Selection", TotalNameTopicSelection)
