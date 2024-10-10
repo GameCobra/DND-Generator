@@ -139,12 +139,14 @@ def TotalNameTopicSelection():
 
 def mainMenu():
     while True:
-        value = CompiledDisplay(["Random thing generater", "Random Name", "Settings", "Help", "Credits"], "Menu", mainMenu)
+        value = CompiledDisplay(["Random thing generater", "Random Name", "Saves" "Settings", "Help", "Credits"], "Menu", mainMenu)
         if value == 1:
             TopLayer()
         if value == 2:
             TotalNameTopicSelection()
-        if value == 4:
+        if value == 3:
+            pass
+        if value == 5:
             print("Please check the .readme file for instructions")
             time.sleep(1)
 
