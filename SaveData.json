@@ -1,1 +1,27 @@
-[{"T":"t"}, {"T":"t"}]
+[
+    {
+        "Type": "Char",
+        "Elements": [
+            {
+                "Element Type": "nm",
+                "Text": "5",
+                "Additional Info": "notes"
+            },
+            {
+                "Element Type": "nm",
+                "Text": "Test",
+                "Additional Info": "More notes"
+            }
+        ],
+        "Notes": [
+            {
+                "Title": "Location",
+                "Text": "nowhare"
+            },
+            {
+                "Title": "APple",
+                "Text": "Banana"
+            }
+        ]
+    }
+]

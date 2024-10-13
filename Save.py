@@ -26,11 +26,15 @@ def FormatJSON(type, elementList : list, notesList : list):
     return value
 
 def SaveJSON(value):
-    with open('SaveData.json') as f:
-        data = json.load(f)
-        print(data)
-        v = list(data).append(value)
-        with open('SaveData.json', "w") as h:
-            json.dump(v , h)
+    # Try to load existing data, if file does not exist, create an empty list
+    try:
+        with open('SaveData.json', 'r') as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        data = []
+    # Add the new value to the list of data
+    data.append(value)
+    with open('SaveData.json', 'w') as h:
+        json.dump(data, h, indent=4)
 
 SaveJSON(FormatJSON("Char", [["nm", "5", "notes"], ["nm", "Test", "More notes"]], [["Location", "nowhare"], ["APple", "Banana"]]))

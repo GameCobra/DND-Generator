@@ -1,33 +1,46 @@
 import json
-import pyperclip
 
 tables = []
 
+#Opens the text file
 file = open('TableCompendium', 'r', encoding="utf8")
 Lines = file.readlines()
-#Lines = Lines[:6000]
+
 textLines : list = []
+
+#Gose though every line in the text file
 for i in range(len(Lines)):
+
+    #If the line is a header
     if Lines[i].startswith("%") == True:
         textLines.append({"Header" : Lines[i][1:].replace("\n", ""), "Sub Pages" : []})
+    
+    #If the line is a sub heading
     if Lines[i].startswith("$") == True:
         textLines[-1]["Sub Pages"].append({"Sub Title": Lines[i][1:].replace("\n", ""), "Table" : []})
+    
+    #If the line is the start of a table
     if Lines[i] == "\n":
+        
+        #Determins what number has to be rolled to propperly use the table
         dice = Lines[i + 1].split(" ")[0]
-        #print(dice)
-        #print(len(textLines[-1]["Sub Pages"]))
+
+        #Adds the table to the JSON of tables
         textLines[-1]["Sub Pages"][-1]["Table"].append({"Table Title" : Lines[i + 1][len(dice):][:-2], "Amount" : int(dice[1:]), "Entries" : []})
+        
+        #Adds the elements to the table list
         for j in range(int(dice[1:])):
             if Lines[i + j + 2].startswith("%") or Lines[i + j + 2].startswith("%") or Lines[i + j + 2] == "\n":
                 break
             entry = Lines[i + j + 2].split(" ")[0]                
             textLines[-1]["Sub Pages"][-1]["Table"][-1]["Entries"].append({"Min" : entry[:-1].split("-")[0],"Max" : entry[:-1].split("-")[-1], "Text" : Lines[i + j + 2][len(entry) + 1:].replace("\n", "")})
+        
+        #Skipes the able elements for the main loop
         i += 1 + int(dice[1:])
-#print(textLines)
+
+#Saves the list to the JSON
 with open('Tables.json', 'w') as f:
-    json.dump(textLines, f)
-#pyperclip.copy(textLines)
-#print(textLines[-1])
+    json.dump(textLines, f, indent=4)
 
 
 '''
