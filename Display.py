@@ -76,7 +76,7 @@ def search(arg : str, layer):
 
 def save():
     ElementsList = []
-    for i in outputList[-1]:
+    for i in range(len(outputList[-1])):
         ElementsList.append(["Charecter", outputList[-1][i], "none"])
     SaveJSON(FormatJSON("Character", "Char", ElementsList, ["none", "none", "none"]))
     pass
@@ -100,8 +100,8 @@ def isInputNumber(inputVal : str, callFunction, endOfLine = False):
             if endOfLine == False:
                 print("Plese enter a propper value")
                 time.sleep(1)
-            callFunction()
-            return None
+        callFunction()
+        return None
     else:
         return inputVal
         

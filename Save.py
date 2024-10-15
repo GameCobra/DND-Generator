@@ -23,7 +23,7 @@ def FormatJSON(type, name, elementList : list, notesList : list):
     for i in range(len(notesList)):
         notes.append({"Title": notesList[i][0], "Text": notesList[i][1]})
     value = {"Type": type, "Name": name, "Elements": Elements, "Notes": notes}
-    print(value)
+    #print(value)
     return value
 
 def SaveJSON(value):
@@ -31,7 +31,7 @@ def SaveJSON(value):
     try:
         with open('SaveData.json', 'r') as f:
             data = json.load(f)
-    except FileNotFoundError:
+    except:
         data = []
     # Add the new value to the list of data
     data.append(value)
