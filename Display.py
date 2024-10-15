@@ -2,6 +2,9 @@ import json
 import time
 import random
 from RandomName import Name, race, ntype
+from Save import SaveJSON, FormatJSON
+
+outputList = []
 
 Tables = []
 
@@ -71,6 +74,13 @@ def search(arg : str, layer):
         MenuSelection2 = value
     content[2]()
 
+def save():
+    ElementsList = []
+    for i in outputList[-1]:
+        ElementsList.append(["Charecter", outputList[-1][i], "none"])
+    SaveJSON(FormatJSON("Character", "Char", ElementsList, ["none", "none", "none"]))
+    pass
+
 # A general function thats main purpose it to return if a value is a number
 # if it is not a number then if will call another function, this way it will ask you the question again
 # But now it is such a used function, command logic is also in it
@@ -84,6 +94,8 @@ def isInputNumber(inputVal : str, callFunction, endOfLine = False):
             mainMenu()
         elif inputVal.startswith("ser "):
             search(inputVal[4:], callFunction)
+        elif inputVal == "save":
+            save()
         else:
             if endOfLine == False:
                 print("Plese enter a propper value")
@@ -103,6 +115,7 @@ def displaySelectionList(itemeList: list, menuName: str):
 
 
 def CompiledDisplay(itemList: list, menuName: str, returnFunction, endOfLine = False):
+    outputList.append(itemList)
     value = int(isInputNumber(displaySelectionList(itemList, menuName), returnFunction, endOfLine))
     if value <= 0:
         print("Please enter a number greater then 0")
