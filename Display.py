@@ -10,15 +10,19 @@ MenuSelection2 = 0
 
 #use https://names.ironarachne.com/  (for name generator)
 
+#Loads the table file so it may be accses
 with open('Tables.json') as f:
     Tables = json.load(f)
 
+# Get the first layer of the tables JSON
+# This will be page titles
 def GrabHeaders():
     newList = []
     for i in Tables:
         newList.append(i["Header"])
     return newList
 
+# Takes a index for what page title it will grab the sub data for
 def GrabSubSections(index : int):
     l = GrabHeaders()
     newList = []
@@ -26,6 +30,8 @@ def GrabSubSections(index : int):
         newList.append(i["Sub Title"])
     return newList
 
+# Grabs the sub data of the sub data of a page header
+# Its like a tree
 def GrabSubSubSections(index : int, subIndex : int):
     l = GrabHeaders()
     newList = []
@@ -45,7 +51,8 @@ def GrabSubSubSections(index : int, subIndex : int):
 #* Sel, Main, Ser
 
 
-
+# Deals with the search command
+# searchs the current layer for the desired item
 def search(arg : str, layer):
     content = layer(True)
     goodConent = []
@@ -63,8 +70,10 @@ def search(arg : str, layer):
     if content[3] == "2":
         MenuSelection2 = value
     content[2]()
-    #exit()
 
+# A general function thats main purpose it to return if a value is a number
+# if it is not a number then if will call another function, this way it will ask you the question again
+# But now it is such a used function, command logic is also in it
 def isInputNumber(inputVal : str, callFunction, endOfLine = False):
     try:
         inputVal = int(inputVal)
@@ -85,13 +94,12 @@ def isInputNumber(inputVal : str, callFunction, endOfLine = False):
         return inputVal
         
 
+# Prints the given list and returns the user input
 def displaySelectionList(itemeList: list, menuName: str):
     print(f"-----{menuName}-----")
     for i in range(len(itemeList)):
         print(f"{i + 1} - {itemeList[i]}")
     return input("> ")
-
-
 
 
 def CompiledDisplay(itemList: list, menuName: str, returnFunction, endOfLine = False):
