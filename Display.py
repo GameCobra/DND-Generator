@@ -3,6 +3,7 @@ import time
 import random
 from RandomName import Name, race, ntype
 from Save import SaveJSON, FormatJSON
+import os
 
 outputList = []
 
@@ -158,15 +159,20 @@ def TotalNameTopicSelection():
     t = CompiledDisplay(ntype, "Type Selection", TotalNameTopicSelection)
     CompiledDisplay(Name(r, t), "Names", TotalNameTopicSelection, endOfLine= True)
 
+def SavesMenu():
+    value = CompiledDisplay(["Explore saves", "new save", "Clear saves"], "Saveing menu", SavesMenu)
+    if value == 3:
+        open('SaveData.json', 'w').close()
+
 def mainMenu():
     while True:
-        value = CompiledDisplay(["Random thing generater", "Random Name", "Saves" "Settings", "Help", "Credits"], "Menu", mainMenu)
+        value = CompiledDisplay(["Random thing generater", "Random Name", "Saves", "Settings", "Help", "Credits"], "Menu", mainMenu)
         if value == 1:
             TopLayer()
         if value == 2:
             TotalNameTopicSelection()
         if value == 3:
-            pass
+            SavesMenu()
         if value == 5:
             print("Please check the .readme file for instructions")
             time.sleep(1)
