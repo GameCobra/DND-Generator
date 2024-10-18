@@ -58,6 +58,8 @@ def GrabSubSubSections(index : int, subIndex : int):
 # Deals with the search command
 # searchs the current layer for the desired item
 def search(arg : str, layer):
+    global MenuSelection
+    global MenuSelection2
     content = layer(True)
     goodConent = []
     for item in content[0]:
@@ -70,16 +72,20 @@ def search(arg : str, layer):
         layer()
     value = CompiledDisplay(goodConent, "Search: " + str(arg) + " | " + content[1], layer)
     if content[3] == "1":
-        MenuSelection = value
+        for i in range(len(content[0])):
+            if goodConent[value - 1] == content[0][i]:
+                MenuSelection = i + 1
     if content[3] == "2":
-        MenuSelection2 = value
+        for i in range(len(content[0])):
+            if goodConent[value - 1] == content[0][i]:
+                MenuSelection2 = i + 1
     content[2]()
 
-def save():
+def save(arg):
     ElementsList = []
     for i in range(len(outputList[-1])):
         ElementsList.append(["Charecter", outputList[-1][i], "none"])
-    SaveJSON(FormatJSON("Character", "Char", ElementsList, ["none", "none", "none"]))
+    SaveJSON(FormatJSON("Character", arg, ElementsList, ["none", "none", "none"]))
     pass
 
 # A general function thats main purpose it to return if a value is a number
@@ -93,10 +99,10 @@ def isInputNumber(inputVal : str, callFunction, endOfLine = False):
     except:
         if inputVal == "menu":
             mainMenu()
-        elif inputVal.startswith("ser "):
-            search(inputVal[4:], callFunction)
-        elif inputVal == "save":
-            save()
+        elif inputVal.startswith("ser"):
+            search(inputVal.split(" ")[1], callFunction)
+        elif inputVal.startswith("save"):
+            save(inputVal.split(" ")[1])
         else:
             if endOfLine == False:
                 print("Plese enter a propper value")
@@ -165,6 +171,7 @@ def SavesMenu():
         open('SaveData.json', 'w').close()
 
 def mainMenu():
+    #try:
     while True:
         value = CompiledDisplay(["Random thing generater", "Random Name", "Saves", "Settings", "Help", "Credits"], "Menu", mainMenu)
         if value == 1:
@@ -176,6 +183,10 @@ def mainMenu():
         if value == 5:
             print("Please check the .readme file for instructions")
             time.sleep(1)
+    #except Exception as ex:
+    #    print("An Error has occured, please restart the restart the program")
+    #    time.sleep(1)
+    #    print(ex)
 
 mainMenu()
 
