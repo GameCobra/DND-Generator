@@ -167,6 +167,8 @@ def TotalNameTopicSelection():
 
 def SavesMenu():
     value = CompiledDisplay(["Explore saves", "new save", "Clear saves"], "Saveing menu", SavesMenu)
+    if value == 1:
+        pass
     if value == 3:
         open('SaveData.json', 'w').close()
 
