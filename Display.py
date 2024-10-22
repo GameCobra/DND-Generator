@@ -11,12 +11,14 @@ Tables = []
 
 MenuSelection = 0
 MenuSelection2 = 0
-
 #use https://names.ironarachne.com/  (for name generator)
 
+parrent = os.getcwd()
+
 #Loads the table file so it may be accses
-with open('Tables.json') as f:
+with open(os.path.join(parrent, "DND-Generator/Tables.json"), 'r') as f:
     Tables = json.load(f)
+    f.close()
 
 # Get the first layer of the tables JSON
 # This will be page titles
@@ -168,7 +170,9 @@ def TotalNameTopicSelection():
 def SavesMenu():
     value = CompiledDisplay(["Explore saves", "new save", "Clear saves"], "Saveing menu", SavesMenu)
     if value == 1:
-        pass
+        with open('SaveData.json', 'r') as SD:
+            Saves = json.load(SD)
+        print(Saves)
     if value == 3:
         open('SaveData.json', 'w').close()
 
