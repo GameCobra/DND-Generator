@@ -86,8 +86,8 @@ def search(arg : str, layer):
 def save(arg):
     ElementsList = []
     for i in range(len(outputList[-1])):
-        ElementsList.append(["Charecter", outputList[-1][i], "none"])
-    SaveJSON(FormatJSON("Character", arg, ElementsList, ["none", "none", "none"]))
+        ElementsList.append(["Element", outputList[-1][i], "none"])
+    SaveJSON(FormatJSON("Detail", arg, ElementsList, ["none", "none", "none"]))
     pass
 
 # A general function thats main purpose it to return if a value is a number
@@ -168,15 +168,15 @@ def TotalNameTopicSelection():
     CompiledDisplay(Name(r, t), "Names", TotalNameTopicSelection, endOfLine= True)
 
 def SavesMenu():
-    value = CompiledDisplay(["Explore saves", "new save", "Clear saves"], "Saveing menu", SavesMenu)
+    value = CompiledDisplay(["Charicter saves", "new Charicter save", "Notes", "New note", "Clear saves"], "Saveing menu", SavesMenu)
     if value == 1:
         with open('SaveData.json', 'r') as SD:
             Saves = json.load(SD)
         TopList = []
         for i in range(len(Saves)):
             TopList.append(Saves[i]["Name"])
-        print(TopList)
-    if value == 3:
+        result = CompiledDisplay(TopList, "Selected char", SavesMenu)
+    if value == 5:
         open('SaveData.json', 'w').close()
 
 def mainMenu():

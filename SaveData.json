@@ -1,0 +1,122 @@
+[
+    {
+        "Type": "Detail",
+        "Name": "main",
+        "Elements": [
+            {
+                "Element Type": "Element",
+                "Text": " The arena is..  A crisp stone structure, recently built.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " The games are being held..  To determine a champion for a dangerous quest or traditional ceremony.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " The games are being hosted by..  A council of wealthy merchants.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " The main event is..  A reenactment of a historical battle.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " The day\u2019s champion wins..  A week of pampering and pleasure and a purse of silver.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " The crowd is made up of mostly..  Slave, servants, and laborers.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " The crowd\u2019s attitude is..  Relaxed and easy-going.",
+                "Additional Info": "none"
+            }
+        ],
+        "Notes": [
+            {
+                "Title": "n",
+                "Text": "o"
+            },
+            {
+                "Title": "n",
+                "Text": "o"
+            },
+            {
+                "Title": "n",
+                "Text": "o"
+            }
+        ]
+    },
+    {
+        "Type": "Detail",
+        "Name": "ind",
+        "Elements": [
+            {
+                "Element Type": "Element",
+                "Text": " Background: The gladiator is..  A prisoner of war.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " Armor: The gladiator is clad in..  A breastplate and a helm.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " Weapon: The gladiator is wielding..  A scimitar and whip.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " Tactics: The gladiator fights with..  Lots of head-butting.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " Arena gimmick: The gladiator is known for..  Gifting a lady spectator with a flower.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " The greatest champion ever to fight in this arena was..  The bastard son of a noble house.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " Motivation: The gladiator fights for..  Fortune and glory.",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " Personal tragedy: The gladiator has endured the tragedy of..  No Entrie",
+                "Additional Info": "none"
+            },
+            {
+                "Element Type": "Element",
+                "Text": " Body feature: On the gladiator's body is..  A slave tattoo @d6): 1. date; 2. place; 3. slave name; 4. master\u2019s name; 5. job; 6. number.",
+                "Additional Info": "none"
+            }
+        ],
+        "Notes": [
+            {
+                "Title": "n",
+                "Text": "o"
+            },
+            {
+                "Title": "n",
+                "Text": "o"
+            },
+            {
+                "Title": "n",
+                "Text": "o"
+            }
+        ]
+    }
+]
