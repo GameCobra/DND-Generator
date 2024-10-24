@@ -16,7 +16,7 @@ MenuSelection2 = 0
 parrent = os.getcwd()
 
 #Loads the table file so it may be accses
-with open(os.path.join(parrent, "DND-Generator/Tables.json"), 'r') as f:
+with open(os.path.join(parrent, "Tables.json"), 'r') as f:
     Tables = json.load(f)
     f.close()
 
@@ -172,7 +172,10 @@ def SavesMenu():
     if value == 1:
         with open('SaveData.json', 'r') as SD:
             Saves = json.load(SD)
-        print(Saves)
+        TopList = []
+        for i in range(len(Saves)):
+            TopList.append(Saves[i]["Name"])
+        print(TopList)
     if value == 3:
         open('SaveData.json', 'w').close()
 
