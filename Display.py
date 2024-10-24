@@ -83,12 +83,14 @@ def search(arg : str, layer):
                 MenuSelection2 = i + 1
     content[2]()
 
-def save(arg):
-    ElementsList = []
-    for i in range(len(outputList[-1])):
-        ElementsList.append(["Element", outputList[-1][i], "none"])
-    SaveJSON(FormatJSON("Detail", arg, ElementsList, ["none", "none", "none"]))
-    pass
+def save(arg, arg2):
+    if arg == "T":
+        ElementsList = []
+        for i in range(len(outputList[-1])):
+            ElementsList.append(["Element", outputList[-1][i], "none"])
+        SaveJSON(FormatJSON("Detail", arg2, ElementsList, ["none", "none", "none"]))
+    else:
+        print("Incorect save type")
 
 # A general function thats main purpose it to return if a value is a number
 # if it is not a number then if will call another function, this way it will ask you the question again
@@ -104,7 +106,7 @@ def isInputNumber(inputVal : str, callFunction, endOfLine = False):
         elif inputVal.startswith("ser"):
             search(inputVal.split(" ")[1], callFunction)
         elif inputVal.startswith("save"):
-            save(inputVal.split(" ")[1])
+            save(inputVal.split(" ")[1], inputVal.split(" ")[2])
         else:
             if endOfLine == False:
                 print("Plese enter a propper value")
