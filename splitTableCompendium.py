@@ -8,15 +8,21 @@ Lines = file.readlines()
 
 textLines : list = []
 
+#Headers = 0
+#SubHeading = 0
+
 #Gose though every line in the text file
 for i in range(len(Lines)):
 
     #If the line is a header
     if Lines[i].startswith("%") == True:
+        #Headers += 1
+        #SubHeading = 0
         textLines.append({"Header" : Lines[i][1:].replace("\n", ""), "Sub Pages" : []})
     
     #If the line is a sub heading
     if Lines[i].startswith("$") == True:
+        #SubHeading += 1
         textLines[-1]["Sub Pages"].append({"Sub Title": Lines[i][1:].replace("\n", ""), "Table" : []})
     
     #If the line is the start of a table
