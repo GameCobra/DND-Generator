@@ -2,6 +2,9 @@ import json
 import os
 import random
 
+Note1 = None
+Note2 = None
+NoteList = []
 
 def GetRandomTables():
     parrent = os.getcwd()
@@ -16,7 +19,7 @@ def GenTableValues(index : int, subIndex : int):
     newList = []
     for i in Tables[index]["Sub Pages"][subIndex]["Table"]:
         #print(i)
-        dice = random.randint(0, int(i["Amount"]))
+        dice = random.randint(1, int(i["Amount"]))
         selEntry = "No Entrie"
         for j in i["Entries"]:
             if int(j["Min"]) <= dice and int(j["Max"]) >= dice:
@@ -41,6 +44,10 @@ def displayValues(valueList: list, displayHeader: str):
     for i in range(len(valueList)):
         print(f"{i} - {valueList[i]}")
 
+def Commands():
+    pass
+
+
 def Main():
     command = EnterCommand()
     if command[0].lower() == "dt":
@@ -49,7 +56,12 @@ def Main():
         if len(command) == 2:
             displayValues(SignleListConverter(Tables[int(command[1])]["Sub Pages"], "Sub Title"), f"Tables - {int(command[1])}")
         if len(command) == 3:
-            displayValues(GenTableValues(int(command[1]), int(command[2])), PutSomeThingHere)
+            displayValues(GenTableValues(int(command[1]), int(command[2])), "Generator")
+    if command[0].lower() == "n":
+        if command[1] == "1":
+            Note1 = int(command[2])
+        if command[1] == "2":
+            Note2 = int(command[2])
             
 
 Main()
