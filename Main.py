@@ -11,6 +11,12 @@ def GetRandomTables():
 
 Tables = GetRandomTables()
 
+def SignleListConverter(input : list, Value):
+    newlist = []
+    for i in range(len(input)):
+        newlist.append(input[i][Value])
+    return newlist
+
 def EnterCommand():
     userInput = input(">")
     command = userInput.split(" ")
@@ -23,8 +29,8 @@ def displayValues(valueList: list, displayHeader: str):
 
 def Main():
     command = EnterCommand()
-    if command[0] == "dis":
-        if len(command) == 2:
-            displayValues(Tables[int(command[1])]["Sub Title"])
+    if command[0].lower() == "distable":
+        if len(command) == 1:
+            displayValues(SignleListConverter(Tables, "Header"), "Tables")
 
 Main()
