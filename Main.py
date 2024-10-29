@@ -2,9 +2,7 @@ import json
 import os
 import random
 
-Note1 = None
-Note2 = None
-NoteList = []
+NoteList = [None] * 10
 
 def GetRandomTables():
     parrent = os.getcwd()
@@ -37,6 +35,12 @@ def SignleListConverter(input : list, Value):
 def EnterCommand():
     userInput = input(">")
     command = userInput.split(" ")
+    for i in range(len(command) - 1):
+        if command[i + 1].startswith("-"):
+            command[i + 1] = NoteList[int(command[i + 1][1])]
+        #    print(command[i + 1][0:])
+    #print(NoteList)
+    #print(command)
     return command
 
 def displayValues(valueList: list, displayHeader: str):
@@ -50,18 +54,17 @@ def Commands():
 
 def Main():
     command = EnterCommand()
+    #print(command)
     if command[0].lower() == "dt":
         if len(command) == 1:
-            displayValues(SignleListConverter(Tables, "Header"), "Tables")
+            displayValues(SignleListConverter(Tables, "Header"), "Table Titles")
         if len(command) == 2:
             displayValues(SignleListConverter(Tables[int(command[1])]["Sub Pages"], "Sub Title"), f"Tables - {int(command[1])}")
         if len(command) == 3:
-            displayValues(GenTableValues(int(command[1]), int(command[2])), "Generator")
+            displayValues(GenTableValues(int(command[1]), int(command[2])), f"Tables - {int(command[1])} - {command[2]}")
     if command[0].lower() == "n":
-        if command[1] == "1":
-            Note1 = int(command[2])
-        if command[1] == "2":
-            Note2 = int(command[2])
+        global NoteList
+        NoteList[int(command[1])] = int(command[2])
             
-
-Main()
+while True:
+    Main()
