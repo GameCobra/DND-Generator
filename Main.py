@@ -1,6 +1,7 @@
 import json
 import os
 import random
+from RandomName import ntype, race, NameGen
 
 NoteList = [None] * 10
 
@@ -48,13 +49,20 @@ def displayValues(valueList: list, displayHeader: str):
     for i in range(len(valueList)):
         print(f"{i} - {valueList[i]}")
 
-def Commands():
-    pass
-
+def help():
+    print("-> dt - display Tables")
+    print("header table, sub header table")
+    print("-> n - note Number")
+    print("save index (0 - 9), number")
+    print("-> rn - Random Name")
+    print("type (r [race] or t [type])  or")
+    print("Race index, Type index")
 
 def Main():
     command = EnterCommand()
     #print(command)
+    if command[0] == "?":
+        help()
     if command[0].lower() == "dt":
         if len(command) == 1:
             displayValues(SignleListConverter(Tables, "Header"), "Table Titles")
@@ -65,6 +73,14 @@ def Main():
     if command[0].lower() == "n":
         global NoteList
         NoteList[int(command[1])] = int(command[2])
+    if command[0].lower() == "rn":
+        if command[1] == "r":
+            displayValues(race, "Name Gen - Race")
+        elif command[1] == "t":
+            displayValues(ntype, "Name Gen - Type")
+        else:
+            NameList = NameGen(int(command[1]), int(command[2]))
+            displayValues(NameList, "Name Gen - Results")
             
 while True:
     Main()
