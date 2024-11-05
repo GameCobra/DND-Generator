@@ -2,8 +2,11 @@ import json
 import os
 import random
 from RandomName import ntype, race, NameGen
+from Save import *
 
 NoteList = [None] * 10
+
+outputList = []
 
 def GetRandomTables():
     parrent = os.getcwd()
@@ -48,6 +51,7 @@ def displayValues(valueList: list, displayHeader: str):
     print(f"-----{displayHeader}-----")
     for i in range(len(valueList)):
         print(f"{i} - {valueList[i]}")
+    outputList.append(valueList)
 
 def help():
     print("-> dt - display Tables")
@@ -57,6 +61,16 @@ def help():
     print("-> rn - Random Name")
     print("type (r [race] or t [type])  or")
     print("Race index, Type index")
+
+def save(arg2, arg = "T"):
+    if arg == "T":
+        ElementsList = []
+        for i in range(len(outputList[-1])):
+            ElementsList.append(["Element", outputList[-1][i], "none"])
+        SaveJSON(FormatJSON("Detail", arg2, ElementsList, ["none", "none", "none"]))
+    else:
+        print("Incorect save type")
+
 
 def Main():
     command = EnterCommand()
@@ -81,6 +95,8 @@ def Main():
         else:
             NameList = NameGen(int(command[1]), int(command[2]))
             displayValues(NameList, "Name Gen - Results")
+    if command[0] == "s":
+        save(command[1])
             
 while True:
     Main()
